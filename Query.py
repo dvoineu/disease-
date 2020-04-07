@@ -24,13 +24,13 @@ class Query:
         docs = []
         for word in query:
             if word in self.inverted_index.keys():
-                docs += self.inverted_index[word].keys()
+                docs += self.inverted_index[word]
         return self.cosine_score(list(set(docs)), query)
 
     def one_word_query(self, query):
         if query not in self.inverted_index.keys():
             return []
-        return self.cosine_score([doc_id for doc_id in self.inverted_index[query].keys()], [query])
+        return self.cosine_score([doc_id for doc_id in self.inverted_index[query]], [query])
 
     @staticmethod
     def query_term_frequency(query, target):
@@ -48,7 +48,7 @@ class Query:
                 continue
             # weight of query term is the idf
             weight_tq = self.indexer.idf[word]
-            for doc_id in self.inverted_index[word].keys():
+            for doc_id in self.inverted_index[word]:
                 weight_td = self.indexer.get_score(word, doc_id)
                 score[doc_id] += weight_tq * weight_td
 
@@ -69,7 +69,7 @@ class Query:
         heapq.heapify(item_list)
         res = []
         for i in range(20):
-            if len(scores) == 0:
+            if not item_list:
                 break
             dd = heapq.heappop(item_list)
             print(dd[0])

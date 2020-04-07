@@ -115,10 +115,10 @@ class Crawler:
 
 
 if __name__ == "__main__":
-    crawler = Crawler("https://www.cdc.gov/DiseasesConditions/")
-    crawler.start()
-    # search_engine = Query.Query("./data")
-    #
-    # results = search_engine.query("corona virus")
-    # for result in results:
-    #     print()
+    # crawler = Crawler("https://www.cdc.gov/DiseasesConditions/")
+    # crawler.start()
+    search_engine = Query.Query("./small_data")
+
+    results = search_engine.one_word_query('love')
+    for result in results:
+        print()

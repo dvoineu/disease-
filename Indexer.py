@@ -83,11 +83,21 @@ class Indexer:
         pattern = re.compile(self.match_pattern_letters_only)         #[\w]+ before
         data = open(file, 'r').read().lower()
         data = pattern.findall(data)
-        data = [word for word in data if word not in self.stop_words]
+
+        words = []
+        self.tf[doc_id] = {}
+        for word in data:
+            if word in self.stop_words:
+                continue
+            self.df[word] = self.df[word] + 1 if word in self.df.keys() else 1
+            self.tf[doc_id][word] = self.tf[doc_id][word] + 1 if word in self.tf[doc_id].keys() else 1
+            words.append(word)
+
+        # data = [word for word in data if word not in self.stop_words]
 
         # add indices for each term in the list and convert filename into dod_id
-        indices = self.add_indices(data)
-        self.file_term[doc_id] = indices
+        # indices = self.add_indices(data)
+        self.file_term[doc_id] = words
         self.file_count += 1
 
     # input = {filename:{w1:[1,2], w2:[3,4},...},...}
@@ -96,33 +106,35 @@ class Indexer:
     def generate_inverted_idx(self):
         total_idx = {}
         for doc_id in self.file_term.keys():
-            self.tf[doc_id] = {}  # add support for term frequency
+            # self.tf[doc_id] = {}  # add support for term frequency
             for word in self.file_term[doc_id]:
-                self.tf[doc_id][word] = len(self.file_term[doc_id][word])
-                if word in self.df.keys():
-                    self.df[word] += 1
-                else:
-                    self.df[word] = 1
+                # self.tf[doc_id][word] = len(self.file_term[doc_id][word])
+                # if word in self.df.keys():
+                #     self.df[word] += 1
+                # else:
+                #     self.df[word] = 1
                 if word in total_idx.keys():
-                    if doc_id in total_idx[word].keys():
-                        total_idx[word][doc_id].extend(self.file_term[doc_id][word][:])
-                    else:
-                        total_idx[word][doc_id] = self.file_term[doc_id][word]
+                    if doc_id not in total_idx[word]:
+                        total_idx[word].add(doc_id)
+                    # if doc_id in total_idx[word].keys():
+                    #     total_idx[word][doc_id].extend(self.file_term[doc_id][word][:])
+                    # else:
+                    #     total_idx[word][doc_id] = self.file_term[doc_id][word]
                 else:
-                    total_idx[word] = {doc_id: self.file_term[doc_id][word]}
+                    total_idx[word] = {doc_id}
         self.inverted_idx = total_idx
 
-    # convert a list into list with index
-    # [a, b, c, ...] -> {a:[1,2], b:[3, 4]}
-    @staticmethod
-    def add_indices(data_list):
-        indices = {}
-        for idx, word in enumerate(data_list):
-            if word in indices.keys():
-                indices[word].append(idx)
-            else:
-                indices[word] = [idx]
-        return indices
+    # # convert a list into list with index
+    # # [a, b, c, ...] -> {a:[1,2], b:[3, 4]}
+    # @staticmethod
+    # def add_indices(data_list):
+    #     indices = {}
+    #     for idx, word in enumerate(data_list):
+    #         if word in indices.keys():
+    #             indices[word].append(idx)
+    #         else:
+    #             indices[word] = [idx]
+    #     return indices
 
     # def make_vectors(self):
     #     for file_id in self.doc_id_to_file_name.keys():
