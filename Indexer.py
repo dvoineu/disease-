@@ -1,19 +1,16 @@
-import xml.etree.ElementTree as ET
+
 import re
 import os
-import argparse
 import math
+import pickle
 
 
 class Indexer:
 
     stop_words = None
-    curr_assign_doc_id = 1
     file_count = 0
-    total_docs_num = 0
 
     file_term = None
-    xml_attributes = None
     inverted_idx = None
 
     vectors = None
@@ -22,13 +19,10 @@ class Indexer:
     df = None
     idf = None
 
-    def __init__(self, directory, stop_word_path=None):
+    def __init__(self, directory, load_file=False, stop_word_path=None):
         self.stop_words = set()
         self.file_term = {}   # regular index
-        self.file_name_to_doc_id = {}
-        self.doc_id_to_file_name = {}
         self.inverted_idx = {}  # inverted index
-        self.xml_attributes = {}
         self.match_pattern = r'[\w]+[\'|-]?[\w]*'
         self.match_pattern_letters_only = r'[a-zA-z]+[\'|-]?[a-zA-z]+'
 
@@ -42,12 +36,61 @@ class Indexer:
             self.build_stop_list(stop_word_path)
         else:
             self.build_stop_list('stop_words.txt')
+
+        if load_file:
+            with open('cache/inverted_idx', 'rb') as f:
+                self.inverted_idx = pickle.load(f)
+            with open('cache/file_term', 'rb') as f:
+                self.file_term = pickle.load(f)
+            with open('cache/vectors', 'rb') as f:
+                self.vectors = pickle.load(f)
+            with open('cache/vectors_length', 'rb') as f:
+                self.vectors_length = pickle.load(f)
+            with open('cache/tf', 'rb') as f:
+                self.tf = pickle.load(f)
+            with open('cache/idf', 'rb') as f:
+                self.idf = pickle.load(f)
+            with open('cache/df', 'rb') as f:
+                self.df = pickle.load(f)
+
+            self.file_count = len(self.file_term)
+            return
+
         self.index_a_directory(directory)
 
-        # self.make_vectors()
-        # self.vector_length()
         self.make_idf()
         self.doc_vectors()
+
+        self.save_index_to_file()
+
+    def save_index_to_file(self):
+        f = open('cache/file_term', 'wb')
+        pickle.dump(self.file_term, f)
+        f.close()
+
+        f = open('cache/inverted_idx', 'wb')
+        pickle.dump(self.inverted_idx, f)
+        f.close()
+
+        f = open('cache/vectors', 'wb')
+        pickle.dump(self.vectors, f)
+        f.close()
+
+        f = open('cache/vectors_length', 'wb')
+        pickle.dump(self.vectors_length, f)
+        f.close()
+
+        f = open('cache/tf', 'wb')
+        pickle.dump(self.tf, f)
+        f.close()
+
+        f = open('cache/df', 'wb')
+        pickle.dump(self.df, f)
+        f.close()
+
+        f = open('cache/idf', 'wb')
+        pickle.dump(self.idf, f)
+        f.close()
 
     def index_a_directory(self, file_path):
         for file in os.listdir(file_path):
@@ -73,7 +116,6 @@ class Indexer:
                 else:
                     self.stop_words.add(line.strip())
 
-
     # convert all term in to file into a {filename:{w1:[1,2], w2:[3,4},...},...} pair inserted in map
     # String is the file_name. list is a list of all term.
     def file_parser(self, file):
@@ -84,6 +126,8 @@ class Indexer:
         data = open(file, 'r').read().lower()
         data = pattern.findall(data)
 
+        print(doc_id)
+
         words = []
         self.tf[doc_id] = {}
         for word in data:
@@ -93,10 +137,6 @@ class Indexer:
             self.tf[doc_id][word] = self.tf[doc_id][word] + 1 if word in self.tf[doc_id].keys() else 1
             words.append(word)
 
-        # data = [word for word in data if word not in self.stop_words]
-
-        # add indices for each term in the list and convert filename into dod_id
-        # indices = self.add_indices(data)
         self.file_term[doc_id] = words
         self.file_count += 1
 
@@ -106,46 +146,19 @@ class Indexer:
     def generate_inverted_idx(self):
         total_idx = {}
         for doc_id in self.file_term.keys():
-            # self.tf[doc_id] = {}  # add support for term frequency
             for word in self.file_term[doc_id]:
-                # self.tf[doc_id][word] = len(self.file_term[doc_id][word])
-                # if word in self.df.keys():
-                #     self.df[word] += 1
-                # else:
-                #     self.df[word] = 1
                 if word in total_idx.keys():
                     if doc_id not in total_idx[word]:
                         total_idx[word].add(doc_id)
-                    # if doc_id in total_idx[word].keys():
-                    #     total_idx[word][doc_id].extend(self.file_term[doc_id][word][:])
-                    # else:
-                    #     total_idx[word][doc_id] = self.file_term[doc_id][word]
                 else:
                     total_idx[word] = {doc_id}
         self.inverted_idx = total_idx
 
-    # # convert a list into list with index
-    # # [a, b, c, ...] -> {a:[1,2], b:[3, 4]}
-    # @staticmethod
-    # def add_indices(data_list):
-    #     indices = {}
-    #     for idx, word in enumerate(data_list):
-    #         if word in indices.keys():
-    #             indices[word].append(idx)
-    #         else:
-    #             indices[word] = [idx]
-    #     return indices
-
-    # def make_vectors(self):
-    #     for file_id in self.doc_id_to_file_name.keys():
-    #         vector = []
-    #         for word in self.file_term[file_id].keys():
-    #             vector.append(len(self.file_term[file_id][word]))
-    #         self.vectors[file_id] = vector
-
     def doc_vectors(self):
+        print("make vectors")
         vectors = {}
         for doc_id in self.file_term.keys():
+            print(doc_id)
             vector = []
             for word in self.inverted_idx.keys():
                 vector.append(self.get_score(word, doc_id))
@@ -159,19 +172,6 @@ class Indexer:
         for x in vector:
             length += x ** 2
         return math.pow(length, 0.5)
-
-    def document_frequency(self, word):
-        return len(self.inverted_idx[word].keys()) if word in self.inverted_idx.keys() else 0
-
-    # def vector_length(self):
-    #     for file_id in self.doc_id_to_file_name.keys():
-    #         length = 0
-    #         for x in self.vectors[file_id]:
-    #             length += x**2
-    #         self.vectors_length[file_id] = pow(length, 0.5)
-
-    # def term_frequency(self, word, doc_id):
-    #     return self.tf[doc_id][word] / self.vectors_length[doc_id] if word in self.tf[doc_id].keys() else 0
 
     def invert_document_frequency(self, document_freq):
         n = self.file_count

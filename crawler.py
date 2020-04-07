@@ -5,6 +5,8 @@ from urllib.parse import urlparse
 import Query
 from collections import deque
 
+import pickle
+
 
 
 class Crawler:
@@ -117,8 +119,10 @@ class Crawler:
 if __name__ == "__main__":
     # crawler = Crawler("https://www.cdc.gov/DiseasesConditions/")
     # crawler.start()
-    search_engine = Query.Query("./small_data")
+    search_engine = Query.Query("./small_data", True)
 
-    results = search_engine.one_word_query('love')
+    results = search_engine.query('cough fever')
     for result in results:
-        print()
+        print(result)
+
+
