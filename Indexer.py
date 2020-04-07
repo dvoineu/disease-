@@ -26,7 +26,6 @@ class Indexer:
         self.match_pattern = r'[\w]+[\'|-]?[\w]*'
         self.match_pattern_letters_only = r'[a-zA-z]+[\'|-]?[a-zA-z]+'
 
-        self.vectors = {}
         self.vectors_length = {}
         self.tf = {}
         self.df = {}
@@ -40,10 +39,6 @@ class Indexer:
         if load_file:
             with open('cache/inverted_idx', 'rb') as f:
                 self.inverted_idx = pickle.load(f)
-            with open('cache/file_term', 'rb') as f:
-                self.file_term = pickle.load(f)
-            with open('cache/vectors', 'rb') as f:
-                self.vectors = pickle.load(f)
             with open('cache/vectors_length', 'rb') as f:
                 self.vectors_length = pickle.load(f)
             with open('cache/tf', 'rb') as f:
@@ -64,16 +59,9 @@ class Indexer:
         self.save_index_to_file()
 
     def save_index_to_file(self):
-        f = open('cache/file_term', 'wb')
-        pickle.dump(self.file_term, f)
-        f.close()
 
         f = open('cache/inverted_idx', 'wb')
         pickle.dump(self.inverted_idx, f)
-        f.close()
-
-        f = open('cache/vectors', 'wb')
-        pickle.dump(self.vectors, f)
         f.close()
 
         f = open('cache/vectors_length', 'wb')
@@ -164,7 +152,6 @@ class Indexer:
                 vector.append(self.get_score(word, doc_id))
             vectors[doc_id] = vector
             self.vectors_length[doc_id] = self.vector_length(vector)
-        self.vectors = vectors
 
     @staticmethod
     def vector_length(vector):

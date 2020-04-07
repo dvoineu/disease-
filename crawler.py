@@ -97,7 +97,7 @@ class Crawler:
                 print(info)
                 print(curr_depth)
 
-                file_name = 'data/' + str(self.count) + '.txt'
+                file_name = 'small_data/' + str(self.count) + '.txt'
                 output = open(file_name, 'w+')
 
                 output.write(text)
@@ -119,7 +119,7 @@ class Crawler:
 if __name__ == "__main__":
     # crawler = Crawler("https://www.cdc.gov/DiseasesConditions/")
     # crawler.start()
-    search_engine = Query.Query("./small_data", True)
+    search_engine = Query.Query("./data", True)
 
     results = search_engine.query('cough fever')
     for result in results:

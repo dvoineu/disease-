@@ -8,13 +8,11 @@ import heapq
 class Query:
     indexer = None
     inverted_index = {}
-    index = {}
     stop_list = {}
 
     def __init__(self, directory, load_file=False, stop_word_path=None):
         self.indexer = Indexer.Indexer(directory, load_file, stop_word_path)
         self.inverted_index = self.indexer.inverted_idx
-        self.index = self.indexer.file_term
         self.stop_list = self.indexer.stop_words
 
     def query(self, query):

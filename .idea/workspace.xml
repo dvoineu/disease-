@@ -4,6 +4,14 @@
     <list default="true" id="7704b62d-54f2-4fd0-8fef-af97402d4e6a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Indexer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Indexer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Query.py" beforeDir="false" afterPath="$PROJECT_DIR$/Query.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/df" beforeDir="false" afterPath="$PROJECT_DIR$/cache/df" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/file_term" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/idf" beforeDir="false" afterPath="$PROJECT_DIR$/cache/idf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/inverted_idx" beforeDir="false" afterPath="$PROJECT_DIR$/cache/inverted_idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/tf" beforeDir="false" afterPath="$PROJECT_DIR$/cache/tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/vectors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/vectors_length" beforeDir="false" afterPath="$PROJECT_DIR$/cache/vectors_length" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +31,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aBs43nHltrfkgcqYFa5AMnJp0C" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -86,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586220126702</updated>
-      <workItem from="1586220127760" duration="17072000" />
+      <workItem from="1586220127760" duration="20319000" />
     </task>
     <servers />
   </component>
@@ -104,18 +115,26 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/crawler.py</url>
-          <line>41</line>
+          <line>43</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/crawler.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/crawler$crawler.coverage" NAME="crawler Coverage Results" MODIFIED="1586295894946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crawler$crawler.coverage" NAME="crawler Coverage Results" MODIFIED="1586302611238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
