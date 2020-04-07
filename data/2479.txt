@@ -1,0 +1,733 @@
+
+
+Skip directly to site content Skip directly to page options Skip directly to
+A-Z link Skip directly to A-Z link Skip directly to A-Z link
+
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People Centers for Disease Control and Prevention. CDC
+twenty four seven. Saving Lives, Protecting People
+
+Search ____
+
+Ã
+
+Submit __
+
+For a full list of topics: A-Z Index
+
+Influenza (Flu)
+
+Section Navigation
+
+CDC Home
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * LinkedIn
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Syndicate
+
+# Interim Guidance on Testing, Specimen Collection, and Processing for
+Patients with Suspected Infection with Novel Influenza A Viruses with the
+Potential to Cause Severe Disease in Humans
+
+EspaÃ±ol
+
+Minus
+
+Related Pages
+
+On This Page
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Background and Purpose
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Recommendations for Surveillance, Testing, and Investigation
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * When Specimens Should Be Collected
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Infection Control when Collecting Specimens
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Preferred Respiratory Specimens
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Swabs
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Storing Clinical Specimens
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Shipping Clinical Specimens to State Public Health Laboratories
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Diagnostic Testing
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Testing at State Health Departments
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Antiviral Treatment
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Shipping Clinical Specimens to CDC
+
+This guidance pertains to newly detected avian influenza (H5) viruses in the
+U.S. (H5N2, H5N8, and the new reassortant H5N1 virus).
+
+###  Background and Purpose
+
+This document provides interim guidance for clinicians and public health
+professionals in the United States on appropriate testing, specimen collection
+and processing for patients who may be infected with novel influenza A viruses
+with the potential to cause severe illness in people. Examples of such viruses
+include Asian-lineage avian influenza A(H5N2), (H5N8), and (H5N1)1 viruses,
+which were detected in wild and domestic birds in North America in December
+2014 and January 2015; these viruses may have some or all of their genes from
+Asian avian influenza viruses, but for simplicity will all be referred to as
+"newly detected avian influenza A H5" viruses in this guidance document. Other
+newly detected avian influenza A H5 viruses also may have the potential to
+cause severe disease in humans. For a list of avian influenza A H5 virus
+infections identified in birds in the United States, and their locations,
+please see an update on avian influenza findings Cdc-pdf[599 KB, 26
+pages]External maintained by the US Department of Agriculture. CDC will update
+this guidance as additional information becomes available.
+
+The appearance of newly detected avian influenza A H5 viruses in North America
+may increase the likelihood of human infection with these viruses in the
+United States. Because these newly identified avian influenza A H5 viruses are
+related to avian influenza A viruses associated with severe disease in humans
+(e.g., highly pathogenic Asian-lineage avian influenza A(H5N1) virus), they
+should be regarded as having the potential to cause severe disease in humans
+until shown otherwise. Other CDC guidance provides recommendations for
+influenza viruses known to be associated with severe disease in humans.
+
+1 The H5N1 virus isolated in the United States in January 2015 is a new mixed-
+origin virus (a "reassortant") that is genetically different from the H5N1
+virus found in several other countries (notably in Asia and Africa), which has
+caused human infections with high mortality. Although it is related to the
+H5N1 virus that has caused human infections with high mortality, the ability
+of this new reassortant H5N1 virus to cause severe disease is currently
+unknown.
+
+###  Recommendations for Surveillance, Testing, and Investigation
+
+Clinicians and public health personnel should consider the following
+recommendations for surveillance and testing:
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    1. Consider the possibility of infection with novel influenza A viruses with the potential to cause severe disease in humans in patients with medically-attended influenza-like illness (ILI) and acute respiratory infection (ARI) who have had recent contact1 (<10 days prior to illness onset) with **sick or dead birds** in any of the following categories2: 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      1. Domestic poultry (e.g., chickens, turkeys, ducks)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      2. Wild aquatic birds (e.g., ducks, geese, swans)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      3. Captive birds of prey (e.g., falcons) that have had contact with wild aquatic birds
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    2. If infection with a novel influenza A virus with the potential to cause severe disease in humans is possible, respiratory specimens should be collected with appropriate infection control precautions and sent to the state or local health department for immediate testing (see guidance below).
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    3. If infection with a novel influenza A virus with the potential to cause severe disease in humans is suspected, state health departments are encouraged to initiate a public health investigation with animal health partners and should notify CDC promptly.
+
+1 Contact may include: direct contact with birds (e.g., handling,
+slaughtering, defeathering, butchering, preparation for consumption); or
+direct contact with surfaces contaminated with feces or bird parts (carcasses,
+internal organs, etc.); or prolonged exposure to birds in a confined space.
+
+2 For questions or concerns about possible human infection in patients with
+exposures to birds not listed here, please contact CDC. Exposures that occur
+in geographic regions in the United States where newly detected avian
+influenza A H5 viruses have been identified Cdc-pdf[599 kb, 26 pages]External
+are of most concern.
+
+###  When Specimens Should Be Collected
+
+The duration of shedding of novel influenza A viruses in humans is largely
+unknown, and there are currently limited data describing prolonged shedding of
+people infected with these viruses. Therefore, the estimated duration of viral
+shedding is based upon seasonal influenza virus infection. Specimens should be
+obtained for novel influenza A virus testing as soon as possible after illness
+onset, ideally within 7 days of illness onset. However, as some persons who
+are infected with seasonal influenza viruses are known to shed virus for
+longer periods (e.g., children and immunocompromised persons), specimens
+should be tested for novel influenza A virus even if obtained after 7 days
+from illness onset. Note that prolonged shedding of influenza virus in the
+lower respiratory tract has been documented for critically ill patients with
+highly-pathogenic avian influenza A H5N1 virus and avian influenza A H7N9
+virus infections.
+
+__ Top of Page
+
+###  Infection Control when Collecting Specimens
+
+Standard, contact, and airborne precautions are recommended for patient
+management; this includes collection of respiratory specimens. Practitioners
+should employ infection control precautions consistent with precautions
+recommended for novel influenza A viruses known to cause severe disease in
+humans. See Interim Guidance for Infection Control Within Healthcare Settings
+When Caring for Confirmed Cases, Probable Cases, and Cases Under Investigation
+for Infection with Novel Influenza A Viruses Associated with Severe Disease
+for more information and consult CDC for specific case-by-case infection
+control recommendations if needed.
+
+###  Preferred Respiratory Specimens
+
+The following should be collected as soon as possible after illness onset: (i)
+a nasopharyngeal swab, or (ii) a nasal aspirate or wash, or (iii) two swabs
+combined into one viral transport media vial (e.g., nasal or nasopharyngeal
+swab combined with an oropharyngeal swab). If these specimens cannot be
+collected, a single nasal, or oropharyngeal swab is acceptable. For patients
+with lower respiratory tract illness, a lower respiratory tract specimen
+(e.g., an endotracheal aspirate or bronchoalveolar lavage fluid) may be
+preferred (these specimens have a higher yield for detecting avian influenza A
+H5N1 and H7N9 viruses and also may facilitate detection of other novel avian
+influenza A viruses). Specimens should be placed into sterile viral transport
+media and immediately placed on refrigerant gel-packs or at 4°C (refrigerator)
+for transport to the laboratory.
+
+If possible, in order to increase the potential for virus detection, multiple
+respiratory specimens from different sites should be obtained from the same
+patient on at least two consecutive days.
+
+###  Swabs
+
+Swab specimens should be collected using swabs with a synthetic tip (e.g.,
+polyester or Dacron®) and an aluminum or plastic shaft. Swabs with cotton tips
+and wooden shafts are not recommended. Specimens collected with swabs made of
+calcium alginate are not acceptable. The swab specimen collection vials should
+contain 1-3ml of viral transport medium (e.g., containing protein stabilizer,
+antibiotics to discourage bacterial and fungal growth, and buffer solution).
+
+###  Storing Clinical Specimens
+
+Respiratory specimens should be kept at 4°C for no longer than 3 days.
+Specimens can alternatively be frozen at ≤-70°C. Avoid freezing and thawing
+specimens if at all possible.
+
+###  Shipping Clinical Specimens to State Public Health Laboratories
+
+Clinical specimens sent to state public health laboratories should be shipped
+in the appropriate packaging and according to instructions by the laboratory.
+If clinical specimens will be examined within 72 hours after collection, keep
+the specimen at 4°C (2-8°C) and ship on refrigerant gel-packs, otherwise store
+frozen at ≤-70°C and ship on dry ice. Avoid freezing and thawing specimens.
+Viability of some pathogens from specimens that were frozen and then thawed is
+greatly diminished. All specimens should be labeled clearly and include
+information requested by your state public health laboratory.
+
+__ Top of Page
+
+###  Diagnostic Testing
+
+The performance of current Food and Drug Administration (FDA) cleared
+diagnostic tests for influenza has been demonstrated for seasonal human
+influenza viruses as described by the manufacturer package insert. Performance
+has not been demonstrated with most novel influenza A viruses. Although some
+diagnostic assays may detect the presence of some novel influenza A viruses, a
+negative result should not be used to rule out influenza when testing possible
+human cases. Testing of symptomatic human cases for novel influenza A virus
+infections should be referred to the nearest public health laboratory.
+
+Existing, commercially available FDA-cleared molecular assays (e.g., rRT-PCR)
+may fail to detect novel influenza A viruses or may detect with results that
+indicate "influenza A positive", but with subtype undetected. For these assays
+a novel influenza A virus may give an influenza A "unsubtypable" result.
+Clinicians and laboratorians using molecular assays that are capable of
+detecting all currently circulating influenza A subtypes (i.e., "seasonal
+influenza" subtypes) who identify an unsubtypable result should contact CDC
+and their state or local public health laboratory for additional testing (see
+below).
+
+Rapid influenza diagnostic tests (RIDTs) and immunofluorescence assays are
+antigen detection tests that also have unknown sensitivity and specificity to
+detect human infection with novel influenza A virus in clinical specimens.
+Some studies suggest that antigen detection tests have low sensitivity to
+detect H5N1 viruses. Therefore, negative results from either type of test do
+not exclude novel influenza virus infection, especially in patients with signs
+and symptoms suggestive of influenza. A negative test result could be a false
+negative and should not be used as a final diagnostic test for influenza,
+including novel influenza A virus infection. These tests may give a positive
+influenza A result for a specimen containing novel influenza A virus, but
+cannot identify the subtype and cannot distinguish a novel influenza A virus
+from a seasonal influenza A virus. Therefore, testing by rRT-PCR is
+recommended at state health laboratories for any patient with suspected novel
+influenza A virus infection.
+
+Clinicians should always consider diagnostic testing for other pathogens that
+can cause acute febrile respiratory illness since novel influenza A virus
+infections of humans are very rare, even in exposed persons.
+
+###  Testing at State Health Departments
+
+Clinicians should notify their state health department immediately when they
+wish to test a patient for suspected infections with novel influenza A
+viruses. Specimens to be tested for novel influenza A viruses should be sent
+first to the state or local public health laboratory.
+
+Testing can be performed by public health laboratories on a portion of the
+specimen, while a portion of the sample should be reserved in case there is a
+need to ship it to CDC. CDC should be notified immediately in the event that
+any clinical specimens from suspected cases test positive for any novel
+influenza A virus (e.g., H7N9 or H5N1 virus, other avian H5 viruses, or
+variant influenza viruses2 such as H3N2v), and clinical specimens should be
+shipped to CDC for confirmatory testing.
+
+CDC Flu rRT-PCR Dx Panel testing algorithms should be used as described in the
+package insert to rule out seasonal influenza virus infection. Public Health
+officials should contact CDC immediately if they obtain unsubtypable results
+when testing an influenza specimen.
+
+Specimens that are unsubtypable or that are presumptive positive for novel
+influenza A at the state public health laboratory should be sent to CDC,
+Influenza Division, Virology Surveillance and Diagnosis Branch Laboratory for
+confirmatory testing. Laboratories should not attempt to isolate novel
+influenza A viruses using viral culture.
+
+The following protocol may be used when testing for novel influenza A viruses
+with the potential to cause severe disease in humans:
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * All state public health laboratories should use the CDC Human Influenza Real-Time rRT-PCR Flu Diagnostic Panel to screen specimens for InfA, InfB, and RP.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * State public health laboratories should test all InfA-positive specimens with the CDC Influenza A Subtyping kit using all primer/probe sets: H1, H3, pdmInfA and pdmH1. Detailed guidance for testing can be found in the influenza surveillance diagnostic testing algorithm disseminated recently by Association of Public Health Laboratories Cdc-pdf[27 KB, 1 page].
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Where patients may be infected with influenza A/H5 viruses (see Recommendations for Testing for H5N2 and H5N8 Virus Infections above), test also with H5 primer/probe set. Specimens that are positive for H5 virus by rRT-PCR at the state health department should be sent to CDC Influenza Division for additional testing as soon as possible.
+
+2 Influenza viruses that normally circulate in pigs are termed "variant
+viruses" when found in humans.
+
+###  Antiviral Treatment
+
+Until more information is available, antiviral treatment should be given to
+all patients with possible infection with novel influenza A viruses with the
+potential to cause severe disease in humans.
+
+Antiviral treatment should not be withheld or delayed pending collection of
+specimens or laboratory testing. Empiric treatment with a neuraminidase
+inhibitor antiviral drug (oral oseltamivir, inhaled zanamivir, or IV
+peramivir) should be administered immediately according to current guidelines.
+For discussion of dosing and duration of therapy, see CDC's interim guidance
+on the use of antiviral agents for treatment of human infections with avian
+influenza A(H7N9) viruses.
+
+__ Top of Page
+
+###  Shipping Clinical Specimens to CDC
+
+Specimens to be tested for novel influenza A virus that are shipped from state
+public health laboratories to CDC should include all information required for
+seasonal influenza surveillance isolate or specimen submission. Before sending
+specimens, state and local health departments should contact the CDC Influenza
+Division Epidemiology and Prevention Branch at (404) 639-3747 (Monday -
+Friday, 8:30 AM - 5:00 PM or the on-call epidemiologist at (770) 488-7100 (all
+other times).
+
+Ship specimens to CDC at the following address:
+
+Virology, Surveillance and Diagnosis Branch  
+ATTN: Steve Lindstrom  
+Influenza Division, NCIRD  
+Centers for Disease Control and Prevention  
+1600 Clifton Road NE MS G-16  
+Atlanta, GA 30333
+
+__ Top of Page
+
+**Avian influenza A viruses with the potential to cause severe human disease
+currently include the following virusesdetected in wild and domestic birds in
+the United States beginning in December 2014:**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Highly pathogenic avian influenza A (H5N2) virus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Highly pathogenic avian influenza A (H5N8) virus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Highly pathogenic avian influenza A (H5N1) virus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Avian influenza A (H7N8) virus
+
+|
+
+**Avian influenza A viruses associated with severe human disease currently
+include the following:**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Low pathogenic avian influenza A (H7N9) virus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Highly pathogenic Asian-origin avian influenza A (H5N1) virus  
+  
+---|---  
+  
+|
+
+**Guidance Type**
+
+|
+
+**Viruses**  
+  
+---|---  
+  
+**Summary for Clinicians**
+
+|
+
+Summary of guidance for all viruses that have the potential to cause severe
+disease  
+  
+**Testing and Reporting**
+
+|
+
+Guidance for all viruses that have the potential to cause severe disease  
+  
+**Case Definitions**
+
+|
+
+HPAI H5 in the United States  
+  
+**Infection Control**
+
+|
+
+_See guidance for viruses associated with severe disease_  
+  
+**Treatment**
+
+|
+
+_See guidance for viruses associated with severe disease_  
+  
+**Chemoprophylaxis of Persons Exposed to Birds**
+
+|
+
+Guidance for all viruses that have the potential to cause severe disease  
+  
+**Chemoprophylaxis of Followup of Close Contacts**
+
+|
+
+_See guidance for viruses associated with severe disease_  
+  
+|
+
+**Guidance Type**
+
+|
+
+**Viruses**  
+  
+---|---  
+  
+**Summary for Clinicians**
+
+|
+
+Not available  
+  
+**Testing and Reporting**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+**Case Definitions**
+
+|
+
+H7N9
+
+|
+
+Asian-lineage H5N1  
+  
+**Infection Control**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+**Treatment**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+**Chemoprophylaxis of Persons Exposed to Birds**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+**Chemoprophylaxis and Followup of Close Contacts**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+**Avian influenza A viruses with the potential to cause severe human disease
+currently include the following virusesdetected in wild and domestic birds in
+the United States beginning in December 2014:**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Highly pathogenic avian influenza A (H5N2) virus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Highly pathogenic avian influenza A (H5N8) virus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Highly pathogenic avian influenza A (H5N1) virus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Avian influenza A (H7N8) virus
+
+**Guidance Type**
+
+|
+
+**Viruses**  
+  
+---|---  
+  
+**Summary for Clinicians**
+
+|
+
+Summary of guidance for all viruses that have the potential to cause severe
+disease  
+  
+**Testing and Reporting**
+
+|
+
+Guidance for all viruses that have the potential to cause severe disease  
+  
+**Case Definitions**
+
+|
+
+HPAI H5 in the United States  
+  
+**Infection Control**
+
+|
+
+_See guidance for viruses associated with severe disease_  
+  
+**Treatment**
+
+|
+
+_See guidance for viruses associated with severe disease_  
+  
+**Chemoprophylaxis of Persons Exposed to Birds**
+
+|
+
+Guidance for all viruses that have the potential to cause severe disease  
+  
+**Chemoprophylaxis of Followup of Close Contacts**
+
+|
+
+_See guidance for viruses associated with severe disease_  
+  
+**Avian influenza A viruses associated with severe human disease currently
+include the following:**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Low pathogenic avian influenza A (H7N9) virus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Highly pathogenic Asian-origin avian influenza A (H5N1) virus
+
+**Guidance Type**
+
+|
+
+**Viruses**  
+  
+---|---  
+  
+**Summary for Clinicians**
+
+|
+
+Not available  
+  
+**Testing and Reporting**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+**Case Definitions**
+
+|
+
+H7N9
+
+|
+
+Asian-lineage H5N1  
+  
+**Infection Control**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+**Treatment**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+**Chemoprophylaxis of Persons Exposed to Birds**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+**Chemoprophylaxis and Followup of Close Contacts**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+Page last reviewed: January 30, 2015
+
+Content source: Centers for Disease Control and Prevention, National Center
+for Immunization and Respiratory Diseases (NCIRD)
+
+home Avian Flu
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Bird Flu Basics expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Avian Influenza Type A Viruses
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Bird Flu in Birds
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Bird Flu in People expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Spread of Bird Flu Viruses Between Animals and People
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Examples of Human Infections with Avian Influenza A Viruses with Possible Limited, Non-Sustained Human-to-Human Transmission
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Prevention and Treatment
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Information for Specific Groups expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Information for People Exposed to Birds Infected with Avian Influenza Viruses of Public Health Concern
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Recommendations for Worker Protection and Use of Personal Protective Equipment (PPE) 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Self-Observation Instructions for Demobilizing Bird Flu Responders
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Current Situation
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Specific Avian Flu Viruses expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Avian Influenza Type A Viruses
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Asian Avian Influenza A (H5N1) expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * H5N1 in Birds and Other Animals
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * H5N1 in People
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Public Health Threat of Highly Pathogenic Asian Avian Influenza A (H5N1) Virus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * H5N1 Genetic Changes Inventory expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Inventory Preamble
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Inventory
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Questions & Answers: H5N1 Genetic Change Inventory
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HPAI A H5 Virus Background and Clinical Illness
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Asian Lineage Avian Influenza A (H7N9) Virus expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        *                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         *                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           * H7N9 Images
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Publications & Resources
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Pandemic Response Planning Tips
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * North American Lineage AI Viruses
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Past Outbreaks expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * H5 Viruses in the United States
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * U.S. H5 outbreaks in 2014-2015
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * U.S. H7N8 in 2016
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * U.S. H7N2 in cats in 2016
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Health Care & Laboratorian Guidance expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Case Definitions expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * U.S. H5 Virus Case Definitions
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Asian H5N1 Case Definitions
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Asian H7N9 Case Definitions
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Testing, Reporting & Lab Information expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Specimen Collection and Testing for Patients with Novel Influenza A Viruses with Potential to Cause Severe Disease in Humans
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Specimen Collection and Testing for Patients with Novel Influenza A Viruses Associated with Severe Disease in Humans
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Diagnostics for Detecting H7N9 Using rRT-PCR
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * CDC and USDA: Interim Risk Assessment and Biosafety Level Recommendations for Working with Influenza A (H7N9) Viruses
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Infection Control Within Healthcare Settings for Patients with Novel Influenza A Viruses
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Treatment and Prophylaxis expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * For Clinicians: Evaluating and Managing Patients
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Use of Antiviral Medications for Treatment of Human Infections with Novel Influenza A Viruses
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Antiviral Chemoprophylaxis of Persons Exposed to Birds with Avian Influenza A Viruses
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Follow-up of Close Contacts of Persons Infected with Novel Influenza A Viruses and Use of Antiviral Chemoprophylaxis
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * What CDC Does expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Monitoring
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Risk Assessment & Research expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Researching the Virus 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Dual Use Research of Concern
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Preparedness and Response expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Making a Candidate Vaccine Virus 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Avian Influenza Related Links
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * News & Spotlights
+
+Get Email Updates
+
+To receive email updates about this page, enter your email address:
+
+Email Address
+
+What's this?
+
+Submit
+
+![1918 Pandemic flu commemoration website.](/flu/images/pandemic-1918-flu.jpg)
+
+
+
+Influenza Types
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Seasonal
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Avian
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Swine/Variant
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Pandemic
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Influenza in Animals
+
+**Error processing SSI file**  
+
+**HAVE QUESTIONS?**
+
+Visit CDC-INFO
+
+Call 800-232-4636
+
+Email CDC-INFO
+
+Open 24/7
+
+**CDC INFORMATION**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * About CDC
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Jobs
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Funding
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Policies
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * File Viewers & Players
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Privacy
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * FOIA
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * No Fear Act
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * OIG
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Nondiscrimination
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Accessibility
+
+**CONNECT WITH CDC**  
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Youtube
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Instagram
+  
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Syndicate
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * CDC TV
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * RSS
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
+
+U.S. Department of Health & Human Services
+
+USA.gov
+
+CDC Website Exit Disclaimer external icon
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * LinkedIn
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
+
+![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+
+PDF file_external
+
+#### Exit Notification/Disclaimer Policy
+
+Close
+
+**Links with this icon indicate that you are leaving the CDC website.**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * You will be subject to the destination website's privacy policy when you follow the link.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+For more information on CDC's web notification policies, see Website
+Disclaimers.
+
+Cancel Continue
+
+  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
+  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
+  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
+  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
+  *[PDF]: Portable Document Format
+  *[PDF-2.96 MB]]: Portable Document Format
+  *[PDF-2.25 MB]]: Portable Document Format
+  *[PDF-6.14 MB]]: Portable Document Format
+  *[PDF-2.65MB]]: Portable Document Format
+  *[GTSS]: Global Tobacco Surveillance System
+  *[GATS]: Global Adult Tobacco Survey
+  *[CDC]: Centers for Disease Control and Prevention
+  *[NTCP]: National Tobacco Control Program
+  *[OSH]: Office on Smoking and Health
+  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
+  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
+  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
+  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
+  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
+

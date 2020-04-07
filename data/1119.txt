@@ -1,0 +1,857 @@
+
+
+Skip directly to site content Skip directly to page options Skip directly to
+A-Z link Skip directly to A-Z link Skip directly to A-Z link
+
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People Centers for Disease Control and Prevention. CDC
+twenty four seven. Saving Lives, Protecting People
+
+Search ____
+
+Ã
+
+Submit __
+
+For a full list of topics: A-Z Index
+
+Adolescent and School Health
+
+Section Navigation
+
+CDC Home
+
+                                                                                                                                                                                                                                                                                                                                  * Facebook
+                                                                                                                                                                                                                                                                                                                                  * Twitter
+                                                                                                                                                                                                                                                                                                                                  * LinkedIn
+                                                                                                                                                                                                                                                                                                                                  * Email
+                                                                                                                                                                                                                                                                                                                                  * Syndicate
+
+# SHPPS Data & Documentation
+
+Minus
+
+Related Pages
+
+Note: SHPPS documentation and data files on this page are within the following
+file size ranges: pdfs: 110K-1.4M; dat files: 2K-2.2M; sas files: 4K-42K; spss
+(sav) files: 7K-594K; zip files: 4K-371K.
+
+### 2016 Data and Documentation
+
+Health Education
+
+**2016 Health Education District Data**
+
+ASCII Data (dat) [DAT - 953 KB]
+
+Access Data (zip) Cdc-zip[ZIP - 95 KB]
+
+SAS Data (sas) Cdc-sas[SAS - 19 KB]
+
+SPSS Data (sav) Cdc-stats[350 KB]
+
+Codebook (pdf) Cdc-pdf[PDF - 740 KB]
+
+Physical Education and Activity
+
+**2016 Physical Education and Activity District Data**
+
+ASCII Data (dat) [DAT - 1 MB]
+
+Access Data (zip) Cdc-zip[ZIP - 137 KB]
+
+SAS Data (sas) Cdc-sas[SAS - 25 KB]
+
+SPSS Data (sav) Cdc-stats[516 KB]
+
+Codebook (pdf) Cdc-pdf[PDF - 973 KB]
+
+Health Services
+
+**2016 Health Services District Data**
+
+ASCII Data (dat) [DAT - 2 MB]
+
+Access Data (zip) Cdc-zip[ZIP - 162 KB]
+
+SAS Data (sas) Cdc-sas[SAS - 39 KB]
+
+SPSS Data (sav) Cdc-stats[593 KB]
+
+Codebook (pdf) Cdc-pdf[PDF - 1 MB]
+
+Nutrition Services
+
+**2016 Nutrition Services District Data**
+
+ASCII Data (dat) [DAT - 934 KB]
+
+Access Data (zip) Cdc-zip[ZIP - 104 KB]
+
+SAS Data (sas) Cdc-sas[SAS - 23 KB]
+
+SPSS Data (sav) Cdc-stats[291 KB]
+
+Codebook (pdf) Cdc-pdf[PDF - 624 KB]
+
+Healthy and Safe School Environment
+
+**2016 Healthy and Safe School Environment District Data**
+
+ASCII Data (dat) [DAT - 2 MB]
+
+Access Data (zip) Cdc-zip[ZIP - 188 KB]
+
+SAS Data (sas) Cdc-sas[SAS - 44 KB]
+
+SPSS Data (sav) Cdc-stats[523 KB]
+
+Codebook (pdf) Cdc-pdf[PDF - 1 MB]
+
+Status
+
+**2016 Status District Data**
+
+ASCII Data (dat) [DAT - 436 KB]
+
+Access Data (zip) Cdc-zip[ZIP - 50 KB]
+
+SAS Data (sas) Cdc-sas[SAS - 7 KB]
+
+SPSS Data (sav) Cdc-stats[136 KB]
+
+Codebook (pdf) Cdc-pdf[PDF - 174 KB]
+
+### 2014 Data and Documentation
+
+Health Education
+
+**2014 Health Education Data**
+
+ASCII Data (dat): School Classroom
+
+Access Data (zip): SchoolCdc-zip ClassroomCdc-zip
+
+SAS Data (sas): SchoolCdc-sas ClassroomCdc-sas
+
+SPSS Data (sav): SchoolCdc-stats ClassroomCdc-stats
+
+Codebook (pdf): SchoolCdc-pdf ClassroomCdc-pdf
+
+Physical Education and Activity
+
+**2014 Physical Education and Activity Data**
+
+ASCII Data (dat): School Classroom
+
+Access Data (zip): SchoolCdc-zip ClassroomCdc-zip
+
+SAS Data (sas): SchoolCdc-sas ClassroomCdc-sas
+
+SPSS Data (sav): SchoolCdc-stats ClassroomCdc-stats
+
+Codebook (pdf): SchoolCdc-pdf ClassroomCdc-pdf
+
+Health Services
+
+**2014 Health Services Data**
+
+ASCII Data (dat): School
+
+Access Data (zip): SchoolCdc-zip
+
+SAS Data (sas): SchoolCdc-sas
+
+SPSS Data (sav): SchoolCdc-stats
+
+Codebook (pdf): SchoolCdc-pdf
+
+Faculty and Staff Health Promotion
+
+**2014 Faculty and Staff Health Promotion Data**
+
+ASCII Data (dat): School
+
+Access Data (zip): SchoolCdc-zip
+
+SAS Data (sas): SchoolCdc-sas
+
+SPSS Data (sav): SchoolCdc-stats
+
+Codebook (pdf): SchoolCdc-pdf
+
+Nutrition Services
+
+**2014 Nutrition Services Data**
+
+ASCII Data (dat): School
+
+Access Data (zip): SchoolCdc-zip
+
+SAS Data (sas): SchoolCdc-sas
+
+SPSS Data (sav): SchoolCdc-stats
+
+Codebook (pdf): SchoolCdc-pdf
+
+Mental Health and Social Services
+
+**2014 Mental Health and Social Services Data**
+
+ASCII Data (dat): School
+
+Access Data (zip): SchoolCdc-zip
+
+SAS Data (sas): SchoolCdc-sas
+
+SPSS Data (sav): SchoolCdc-stats
+
+Codebook (pdf): SchoolCdc-pdf
+
+Healthy and Safe School Environment
+
+**2014 Healthy and Safe School Environment Data**
+
+ASCII Data (dat): School
+
+Access Data (zip): SchoolCdc-zip
+
+SAS Data (sas): SchoolCdc-sas
+
+SPSS Data (sav): SchoolCdc-stats
+
+Codebook (pdf): SchoolCdc-pdf
+
+Status
+
+**2014 Status Data**
+
+ASCII Data (dat): School Classroom
+
+Access Data (zip): SchoolCdc-zip ClassroomCdc-zip
+
+SAS Data (sas): SchoolCdc-sas ClassroomCdc-sas
+
+SPSS Data (sav): SchoolCdc-stats ClassroomCdc-stats
+
+Codebook (pdf): SchoolCdc-pdf ClassroomCdc-pdf
+
+### 2012 Data and Documentation
+
+Health Education
+
+**2012 Health Education Data**
+
+ASCII Data (dat): State District
+
+Access Data (zip): StateCdc-zip DistrictCdc-zip
+
+SAS Data (sas): StateCdc-sas DistrictCdc-sas
+
+SPSS Data (sav): StateCdc-stats DistrictCdc-stats
+
+Codebook (pdf): StateCdc-pdf DistrictCdc-pdf
+
+Physical Education and Activity
+
+**2012 Physical Education and Activity Data**
+
+ASCII Data (dat): State District
+
+Access Data (zip): StateCdc-zip DistrictCdc-zip
+
+SAS Data (sas): StateCdc-sas DistrictCdc-sas
+
+SPSS Data (sav): StateCdc-stats DistrictCdc-stats
+
+Codebook (pdf): StateCdc-pdf DistrictCdc-pdf
+
+Health Services
+
+**2012 Health Services Data**
+
+ASCII Data (dat): State District
+
+Access Data (zip): StateCdc-zip DistrictCdc-zip
+
+SAS Data (sas): StateCdc-sas DistrictCdc-sas
+
+SPSS Data (sav): StateCdc-stats DistrictCdc-stats
+
+Codebook (pdf): StateCdc-pdf DistrictCdc-pdf
+
+Faculty and Staff Health Promotion
+
+**2012 Faculty and Staff Health Promotion Data  **
+
+ASCII Data (dat): District
+
+Access Data (zip): DistrictCdc-zip
+
+SAS Data (sas): DistrictCdc-sas
+
+SPSS Data (sav): DistrictCdc-stats
+
+Codebook (pdf): DistrictCdc-pdf
+
+Nutrition Services
+
+**2012 Nutrition Services Data**
+
+ASCII Data (dat) : State District
+
+Access Data (zip): StateCdc-zip DistrictCdc-zip
+
+SAS Data (sas): StateCdc-sas DistrictCdc-sas
+
+SPSS Data (sav): StateCdc-stats DistrictCdc-stats
+
+Codebook (pdf): StateCdc-pdf DistrictCdc-pdf
+
+Mental Health and Social Services
+
+**2012 Mental Health and Social Services Data**
+
+ASCII Data (dat): State District
+
+Access Data (zip): StateCdc-zip DistrictCdc-zip
+
+SAS Data (sas): StateCdc-sas DistrictCdc-sas
+
+SPSS Data (sav): StateCdc-stats DistrictCdc-stats
+
+Codebook (pdf): StateCdc-pdf DistrictCdc-pdf
+
+Healthy and Safe School Environment
+
+**2012 Healthy and Safe School Environment Data**
+
+ASCII Data (dat): State District
+
+Access Data (zip): StateCdc-zip DistrictCdc-zip
+
+SAS Data (sas): StateCdc-sas DistrictCdc-sas
+
+SPSS Data (sav): StateCdc-stats DistrictCdc-stats
+
+Codebook (pdf): StateCdc-pdf DistrictCdc-pdf
+
+Status
+
+**2012 Status Data**
+
+ASCII Data (dat): State District
+
+Access Data (zip): StateCdc-zip DistrictCdc-zip
+
+SAS Data (sas): StateCdc-sas DistrictCdc-sas
+
+SPSS Data (sav): StateCdc-stats DistrictCdc-stats
+
+Codebook (pdf): StateCdc-pdf DistrictCdc-pdf
+
+### Using SHPPS Data
+
+2016 Data Files and Methods
+
+### SHPPS 2016 Data Files, Methods and File Naming
+
+SHPPS 2016 data include 5 questionnaires, 5 data files, and 5 codebooks. Files
+are grouped by district and by component.
+
+### Data Files and Methods
+
+School Health Policies and Practices Study (SHPPS) data are available in three
+file formats: Access®, SPSS® and ASCII. The Access, SPSS, and ASCII data can
+be downloaded and used as is. Additionally, SAS® programs are provided to
+convert the ASCII data into SAS datasets for use in those packages.
+
+## File Names
+
+File names include SHPPS_ followed by three parts. The first part identifies
+the component, the second part identifies the level, and the third part
+indicates the survey year.
+
+**Component** | **Part**  
+---|---  
+Health education | hlthed  
+Physical education and activity | physed  
+Health services | hlthser  
+Healthy and safe school environment | env  
+Nutrition services | nutr  
+Status | status  
+**Level** | **Part**  
+District | d  
+  
+The questionnaire and codebook files use the same naming convention but add
+the words "questionnaire" or "codebook" to the file name.
+
+For example, the files for health education at the district level would be:
+
+Health education file | Name  
+---|---  
+SPSS data | SHPPS_hlthed2016.sav  
+Questionnaire | SHPPS_hlthed2016questionnaire.pdf  
+Codebook | SHPPS_hlthed2016codebook.pdf  
+  
+
+
+2016 Status Files
+
+### Status Files
+
+The status files contain additional information for the datasets. There is a
+status file for the district level. The status files contain
+
+                                                                                                                                                                                                                                                                                                                                  * Enrollment information
+                                                                                                                                                                                                                                                                                                                                  * Region of country
+                                                                                                                                                                                                                                                                                                                                  * Overall weight variable to be used when the datasets are combined across components
+
+The status file contains a specific variable that needs to be used to link its
+associated dataset. For example, to link the school status file with another
+SHPPS district-level dataset, the variable DISTCMSID is used.
+
+2014 Data Files and Methods
+
+### SHPPS 2014 Data Files, Methods and File Naming
+
+SHPPS 2014 data include 9 questionnaires, 11 data files, and 11 codebooks.
+Files are grouped by administration level (school and classroom) and by
+component.
+
+### Data Files and Methods
+
+School Health Policies and Practices Study (SHPPS) data are available in three
+file formats: Access®, SPSS® and ASCII. The Access, SPSS, and ASCII data can
+be downloaded and used as is. Additionally, SAS® programs are provided to
+convert the ASCII data into SAS datasets for use in those packages.
+
+## File Names
+
+File names include SHPPS_ followed by three parts. The first part identifies
+the component, the second part identifies the level, and the third part
+indicates the survey year.
+
+**Component** | **Part**  
+---|---  
+Health education | hlthed  
+Physical education and activity | physed  
+Health services | hlthser  
+Mental health and social services | mental  
+Healthy and safe school environment | env  
+Nutrition services | nutr  
+Faculty and staff health promotion | faculty  
+Status | status  
+**Level** | **Part**  
+---|---  
+School | l  
+Classroom | c  
+  
+
+
+The questionnaire and codebook files use the same naming convention but add
+the words "questionnaire" or "codebook" to the file name.
+
+For example, the files for health education at the school level would be:
+
+Health education file | Name  
+---|---  
+SPSS data | SHPPS_hlthel2014.sav  
+Questionnaire | SHPPS_hlthel2014questionnaire.pdf  
+Codebook | SHPPS_hlthel2014codebook.pdf  
+  
+2014 Status Files
+
+### Status Files
+
+The status files contain additional information for the datasets. There is a
+status file for the district level. The status files contain
+
+                                                                                                                                                                                                                                                                                                                                  * Enrollment information
+                                                                                                                                                                                                                                                                                                                                  * Region of country
+                                                                                                                                                                                                                                                                                                                                  * Overall weight variable to be used when the datasets are combined across components
+
+The status file contains a specific variable that needs to be used to link its
+associated dataset. For example, to link the school status file with another
+SHPPS district-level dataset, the variable DISTCMSID is used.
+
+2012-2016 Codebooks
+
+### Codebooks
+
+The codebooks are available in PDF format. The codebooks contain the
+
+                                                                                                                                                                                                                                                                                                                                  * ASCII data file location
+                                                                                                                                                                                                                                                                                                                                  * Variable names*
+                                                                                                                                                                                                                                                                                                                                  * Variable labels
+                                                                                                                                                                                                                                                                                                                                  * Values
+                                                                                                                                                                                                                                                                                                                                  * Formatted values
+                                                                                                                                                                                                                                                                                                                                  * Unweighted counts
+
+*The first three letters of the variable name identify the codebook. 
+
+2012 Data Files and Methods
+
+### SHPPS 2012 Data Files, Methods and File Naming
+
+SHPPS 2012 data include 13 questionnaires, 15 data files, and 15 codebooks.
+Files are grouped by administration level (state and district) and by
+component.
+
+### Data Files and Methods
+
+School Health Policies and Practices Study (SHPPS) data are available in three
+file formats: Access®, SPSS® and ASCII. The Access, SPSS, and ASCII data can
+be downloaded and used as is. Additionally, SAS® programs are provided to
+convert the ASCII data into SAS datasets for use in those packages.
+
+## File Names
+
+File names include SHPPS_ followed by three parts. The first part identifies
+the component, the second part identifies the level, and the third part
+indicates the survey year.
+
+**Component** | **Part**  
+---|---  
+Health education | hlthed  
+Physical education and activity | physed  
+Health services | hlthser  
+Mental health and social services | mental  
+Healthy and safe school environment | env  
+Nutrition services | nutr  
+Faculty and staff health promotion | faculty  
+Status | status  
+**Level** | **Part**  
+---|---  
+State | s  
+District | d  
+  
+
+
+The questionnaire and codebook files use the same naming convention but add
+the words "questionnaire" or "codebook" to the file name.
+
+For example, the files for health education at the state level would be:
+
+Health education file | Name  
+---|---  
+SPSS data | SHPPS_hlthes2012.sav  
+Questionnaire | SHPPS_hlthes2012questionnaire.pdf  
+Codebook | SHPPS_hlthes2012codebook.pdf  
+  
+2012 Status Files
+
+### Status Files
+
+The status files contain additional information for the component-specific
+datasets. There are two status files, one for each level (state and district).
+The status files contain
+
+                                                                                                                                                                                                                                                                                                                                  * Enrollment information
+                                                                                                                                                                                                                                                                                                                                  * Region of country
+                                                                                                                                                                                                                                                                                                                                  * Overall weight variable to be used when the datasets are combined across components
+
+Each status file contains a specific variable that needs to be used to link
+its associated dataset. For example, to link the state status file with
+another SHPPS state-level dataset, the variable STCMSID is used.
+
+Using ASCII Files
+
+### **Using ASCII Files**
+
+                                                                                                                                                                                                                                                                                                                                  1. Save the ASCII data file to a folder on your computer.
+                                                                                                                                                                                                                                                                                                                                  2. Specify column locations for each variable as needed by the software you are using.
+
+**Note:** How to use the ASCII data varies from one software package to
+another. Column positions for each variable usually have to be specified.
+Column positions for each variable can be found in the documentation for each
+year's data. Consult your software documentation for more information.
+
+Using Access Files
+
+### **Using Access Files:**
+
+                                                                                                                                                                                                                                                                                                                                  1. Save the Access file to a folder on your computer.
+                                                                                                                                                                                                                                                                                                                                  2. Uncompress the Access file.
+
+**Note:** The file is stored in compressed form to improve download time; it
+will need to be uncompressed before it can be used. See File Formats Help for
+more information on uncompressing the file.
+
+Using SPSS Files
+
+### **Using SPSS Files:**
+
+                                                                                                                                                                                                                                                                                                                                  1. Save the SPSS data file to a folder on your computer.
+                                                                                                                                                                                                                                                                                                                                  2. Open the SPSS data file in SPSS.
+
+Using SAS Files
+
+### **Using SAS Files**
+
+                                                                                                                                                                                                                                                                                                                                  1. Download the appropriate SHPPS SAS Format Program for the data you are using: SHPPS 2016 SAS Format ProgramCdc-sas, SHPPS 2014 SAS Format ProgramCdc-sas, or SHPPS 2012 SAS Format ProgramCdc-sas.
+                                                                                                                                                                                                                                                                                                                                  2. Save the SAS Format Program, SAS Input Program, and the ASCII data files to a folder on your computer.
+                                                                                                                                                                                                                                                                                                                                  3. Open the SAS Format Program in SAS and edit it according to the instructions included in the comments in the program.
+                                                                                                                                                                                                                                                                                                                                  4. Run the program. This will create a permanent format library in the folder specified in the SAS program.
+                                                                                                                                                                                                                                                                                                                                  5. Open the SAS Input Program in SAS and edit it according to the instructions included in the comments in the program.
+                                                                                                                                                                                                                                                                                                                                  6. Run the program. This will read the ASCII data file and convert it into a permanent SAS dataset for the particular year in the folder specified in the SAS program.
+
+**Note:** Each year of SHPPS data should go in its own folder because each
+year has its own format library. Format libraries are not comparable across
+years. See Using the SAS Format Library for more information.
+
+Using the SAS Format Library
+
+## SAS Format Library
+
+The SAS format library contains the formats used to make SAS output more
+readable. Formats are linked to the data so results are displayed as words
+("Yes" or "No", for instance) instead of numbers (1 or 2). The SAS SHPPS data
+files are designed to use the companion format library. You should download
+both the data file and the format library if you want to use SAS to analyze
+SHPPS data. One format library is used for all the SHPPS 2016 data, and
+another is used for all the SHPPS 2012 and 2014 data.
+
+The following example SAS program shows how to use the format library. It
+assumes that both the data file and the format library have been downloaded to
+"c:data". Note that the program contains two libname statements. The first
+libname statement indicates where the data file is located; the second libname
+statement indicates where the format library is located.
+
+**General example:**
+
+libname mydata 'c:data'; /* tells SAS where the data are */  
+libname library 'c:data'; /* tells SAS where the formats are */
+
+proc freq data=mydata.<name of SAS data file>;  
+tables <variable name>;
+
+run;  
+  
+---  
+  
+**SHPPS specific example using the district level health education data and
+running a table for the variable HED1:**
+
+libname mydata 'c:data'; /* tells SAS where the data are */  
+libname library 'c:data'; /* tells SAS where the formats are */
+
+proc freq data=mydata hlthedd;  
+tables HED1;
+
+run;  
+  
+---  
+  
+Using the format library is recommended but technically is optional. If you do
+not want to use the format library, include the following statement at the
+start of your SAS program:
+
+options nofmterr; /*  tells SAS to not look for formats */  
+  
+---  
+  
+Please note that each year of SHPPS data has its own format library that can
+be downloaded from the Using SAS Files section.
+
+For further information on using format libraries, please refer to the
+documentation provided with the SAS system.
+
+Page last reviewed: November 1, 2017
+
+Content source: Division of Adolescent and School Health, National Center for
+HIV/AIDS, Viral Hepatitis, STD, and TB Prevention
+
+home DASH Home
+
+                                                                                                                                                                                                                                                                                                                                  * About DASHplus icon
+                                                                                                                                                                                                                                                                                                                                    * At A Glance
+                                                                                                                                                                                                                                                                                                                                    * Why Schools?
+                                                                                                                                                                                                                                                                                                                                    * Adolescent Health: What Works In Schoolsplus icon
+                                                                                                                                                                                                                                                                                                                                      * What Works: Overview
+                                                                                                                                                                                                                                                                                                                                      * What Works: Sexual Health Education
+                                                                                                                                                                                                                                                                                                                                      * What Works: Sexual Health Services
+                                                                                                                                                                                                                                                                                                                                      * What Works: Safe and Supportive School Environments
+                                                                                                                                                                                                                                                                                                                                    * Youth HIV, STD & Pregnancy Prevention Program Impact
+                                                                                                                                                                                                                                                                                                                                  * Calendar
+                                                                                                                                                                                                                                                                                                                                  * Contact DASH
+                                                                                                                                                                                                                                                                                                                                  * Adolescent and School Health Policyplus icon
+                                                                                                                                                                                                                                                                                                                                    * DASH Partner Updates
+                                                                                                                                                                                                                                                                                                                                    * Policy Guidance
+                                                                                                                                                                                                                                                                                                                                    * School Health Policy Resources
+                                                                                                                                                                                                                                                                                                                                    * State School-Based Health Education Law Summary Reports
+                                                                                                                                                                                                                                                                                                                                  * Data & Statisticsplus icon
+                                                                                                                                                                                                                                                                                                                                    * Data By Topicplus icon
+                                                                                                                                                                                                                                                                                                                                      * Nutrition, Physical Activity, & Obesity
+                                                                                                                                                                                                                                                                                                                                    * School Health Profilesplus icon
+                                                                                                                                                                                                                                                                                                                                      * Overview
+                                                                                                                                                                                                                                                                                                                                      * Results
+                                                                                                                                                                                                                                                                                                                                      * Participation Map & History
+                                                                                                                                                                                                                                                                                                                                      * Questionnaires
+                                                                                                                                                                                                                                                                                                                                      * Requesting Data Files
+                                                                                                                                                                                                                                                                                                                                      * Data Request Form
+                                                                                                                                                                                                                                                                                                                                    * SHPPSplus icon
+                                                                                                                                                                                                                                                                                                                                      * Results
+                                                                                                                                                                                                                                                                                                                                      * Questionnaires
+                                                                                                                                                                                                                                                                                                                                      * Data & Documentation
+                                                                                                                                                                                                                                                                                                                                      * Data Request Form
+                                                                                                                                                                                                                                                                                                                                    * YRBSSplus icon
+                                                                                                                                                                                                                                                                                                                                      * Overview
+                                                                                                                                                                                                                                                                                                                                      * Results
+                                                                                                                                                                                                                                                                                                                                      * Participation Maps & History
+                                                                                                                                                                                                                                                                                                                                      * Frequently Asked Questions
+                                                                                                                                                                                                                                                                                                                                      * Methods
+                                                                                                                                                                                                                                                                                                                                      * Questionnaires
+                                                                                                                                                                                                                                                                                                                                      * Data & Documentation
+                                                                                                                                                                                                                                                                                                                                      * Trends Report
+                                                                                                                                                                                                                                                                                                                                      * Toolkit
+                                                                                                                                                                                                                                                                                                                                      * Journal Articles
+                                                                                                                                                                                                                                                                                                                                      * NYPANS
+                                                                                                                                                                                                                                                                                                                                      * Data Request Form
+                                                                                                                                                                                                                                                                                                                                  * Health Disparitiesplus icon
+                                                                                                                                                                                                                                                                                                                                    * Addressing Health and Educational Disparities
+                                                                                                                                                                                                                                                                                                                                    * Health Considerations for LGBTQ Youthplus icon
+                                                                                                                                                                                                                                                                                                                                      * Protective Factors for LGBTQ Youth
+                                                                                                                                                                                                                                                                                                                                      * Health Disparities Among LGBTQ Youth
+                                                                                                                                                                                                                                                                                                                                      * Terminology
+                                                                                                                                                                                                                                                                                                                                    * Survey of Todayâs Adolescent Relationships and Transitions (START)
+                                                                                                                                                                                                                                                                                                                                  * Funded Areasplus icon
+                                                                                                                                                                                                                                                                                                                                    * Notice of Funding Opportunities
+                                                                                                                                                                                                                                                                                                                                    * Funded Local Agencies
+                                                                                                                                                                                                                                                                                                                                    * Funded State Agencies
+                                                                                                                                                                                                                                                                                                                                    * Funded Territorial Agency and Tribal Nation
+                                                                                                                                                                                                                                                                                                                                    * Funded NGOs
+                                                                                                                                                                                                                                                                                                                                    * Success Stories
+                                                                                                                                                                                                                                                                                                                                  * Protective Factorsplus icon
+                                                                                                                                                                                                                                                                                                                                    * Adolescent Connectedness
+                                                                                                                                                                                                                                                                                                                                    * Parent Engagement in Schools
+                                                                                                                                                                                                                                                                                                                                    * Positive Parenting Practices
+                                                                                                                                                                                                                                                                                                                                    * School Connectedness
+                                                                                                                                                                                                                                                                                                                                    * Resources
+                                                                                                                                                                                                                                                                                                                                  * Health Services for Teensplus icon
+                                                                                                                                                                                                                                                                                                                                    * Condom Availability Programs (CAPs)plus icon
+                                                                                                                                                                                                                                                                                                                                      * CAPs: In Brief
+                                                                                                                                                                                                                                                                                                                                      * CAPs: Things to Consider
+                                                                                                                                                                                                                                                                                                                                  * High-Risk Substance Use Among Youth
+                                                                                                                                                                                                                                                                                                                                  * Sexual Risk Behaviors
+                                                                                                                                                                                                                                                                                                                                  * Program Evaluationplus icon
+                                                                                                                                                                                                                                                                                                                                    * Evaluations of Innovative Programs
+                                                                                                                                                                                                                                                                                                                                    * Additional Evaluation Resources
+                                                                                                                                                                                                                                                                                                                                  * Health & Academicsplus icon
+                                                                                                                                                                                                                                                                                                                                    * Anti-Bullying Policies and Enumeration: An Infobrief for Local Education Agencies
+                                                                                                                                                                                                                                                                                                                                  * How the WSCC Model Informs HIV, STD, and Pregnancy Preventionplus icon
+                                                                                                                                                                                                                                                                                                                                    * The Whole School, Whole Community, Whole Child (WSCC) Model
+                                                                                                                                                                                                                                                                                                                                  * Toolsplus icon
+                                                                                                                                                                                                                                                                                                                                    * GYT: Get Yourself Tested for High Schools
+                                                                                                                                                                                                                                                                                                                                    * Health Education Curriculum Analysis Tool (HECAT)
+                                                                                                                                                                                                                                                                                                                                    * HECAT FAQs
+                                                                                                                                                                                                                                                                                                                                    * Health Education Teacher Training Manual
+                                                                                                                                                                                                                                                                                                                                  * Publications, Registries, and Other Resourcesplus icon
+                                                                                                                                                                                                                                                                                                                                    * Journal Articles
+                                                                                                                                                                                                                                                                                                                                    * Registries of Programs Effective in Reducing Youth Risk Behaviors
+                                                                                                                                                                                                                                                                                                                                    * Fact Sheets
+                                                                                                                                                                                                                                                                                                                                    * NYHAAD Resourcesplus icon
+                                                                                                                                                                                                                                                                                                                                      * HIV Information and Youth
+                                                                                                                                                                                                                                                                                                                                    * Portrait Series
+                                                                                                                                                                                                                                                                                                                                    * Other Resources
+                                                                                                                                                                                                                                                                                                                                  * Multimediaplus icon
+                                                                                                                                                                                                                                                                                                                                    * Buttons
+                                                                                                                                                                                                                                                                                                                                    * Infographics
+                                                                                                                                                                                                                                                                                                                                    * Palm Cards & Posters
+                                                                                                                                                                                                                                                                                                                                    * Video
+                                                                                                                                                                                                                                                                                                                                  * Specific Audiencesplus icon
+                                                                                                                                                                                                                                                                                                                                    * Education Agencies
+                                                                                                                                                                                                                                                                                                                                    * Funded Programsplus icon
+                                                                                                                                                                                                                                                                                                                                      * plus icon
+                                                                                                                                                                                                                                                                                                                                        * Communication Planning for Program Success
+                                                                                                                                                                                                                                                                                                                                        * Frequently Asked Questions
+                                                                                                                                                                                                                                                                                                                                        * Funding Information
+                                                                                                                                                                                                                                                                                                                                        * Grants Management
+                                                                                                                                                                                                                                                                                                                                      * Program Guidance
+                                                                                                                                                                                                                                                                                                                                      * Reporting Guidance
+                                                                                                                                                                                                                                                                                                                                      * Resources
+                                                                                                                                                                                                                                                                                                                                    * Health Care Providers
+                                                                                                                                                                                                                                                                                                                                    * Parents
+
+Get Email Updates
+
+To receive email updates about this page, enter your email address:
+
+Email Address
+
+What's this?
+
+Submit
+
+**HAVE QUESTIONS?**
+
+Visit CDC-INFO
+
+Call 800-232-4636
+
+Email CDC-INFO
+
+Open 24/7
+
+**CDC INFORMATION**
+
+                                                                                                                                                                                                                                                                                                                                  * About CDC
+                                                                                                                                                                                                                                                                                                                                  * Jobs
+                                                                                                                                                                                                                                                                                                                                  * Funding
+                                                                                                                                                                                                                                                                                                                                  * Policies
+                                                                                                                                                                                                                                                                                                                                  * File Viewers & Players
+
+                                                                                                                                                                                                                                                                                                                                  * Privacy
+                                                                                                                                                                                                                                                                                                                                  * FOIA
+                                                                                                                                                                                                                                                                                                                                  * No Fear Act
+                                                                                                                                                                                                                                                                                                                                  * OIG
+                                                                                                                                                                                                                                                                                                                                  * Nondiscrimination
+                                                                                                                                                                                                                                                                                                                                  * Accessibility
+
+**CONNECT WITH CDC**  
+
+                                                                                                                                                                                                                                                                                                                                  * Facebook
+                                                                                                                                                                                                                                                                                                                                  * Twitter
+                                                                                                                                                                                                                                                                                                                                  * Youtube
+                                                                                                                                                                                                                                                                                                                                  * Instagram
+  
+
+                                                                                                                                                                                                                                                                                                                                  * Syndicate
+                                                                                                                                                                                                                                                                                                                                  * CDC TV
+                                                                                                                                                                                                                                                                                                                                  * RSS
+                                                                                                                                                                                                                                                                                                                                  * Email
+
+U.S. Department of Health & Human Services
+
+USA.gov
+
+CDC Website Exit Disclaimer external icon
+
+                                                                                                                                                                                                                                                                                                                                  * Facebook
+                                                                                                                                                                                                                                                                                                                                  * Twitter
+                                                                                                                                                                                                                                                                                                                                  * LinkedIn
+                                                                                                                                                                                                                                                                                                                                  * Email
+
+![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+
+ZIP SAS stats PDF
+
+#### Exit Notification/Disclaimer Policy
+
+Close
+
+**Links with this icon indicate that you are leaving the CDC website.**
+
+                                                                                                                                                                                                                                                                                                                                  * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+                                                                                                                                                                                                                                                                                                                                  * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+                                                                                                                                                                                                                                                                                                                                  * You will be subject to the destination website's privacy policy when you follow the link.
+                                                                                                                                                                                                                                                                                                                                  * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+For more information on CDC's web notification policies, see Website
+Disclaimers.
+
+Cancel Continue
+
+  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
+  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+

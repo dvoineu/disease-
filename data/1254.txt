@@ -1,0 +1,409 @@
+
+
+Skip directly to site content Skip directly to page options Skip directly to
+A-Z link Skip directly to A-Z link Skip directly to A-Z link
+
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People Centers for Disease Control and Prevention. CDC
+twenty four seven. Saving Lives, Protecting People
+
+Search ____
+
+Ã
+
+Submit __
+
+For a full list of topics: A-Z Index
+
+Cancer Prevention and Control
+
+Section Navigation
+
+CDC Home
+
+                                                                                                                                                                                                                                                                                                                                  * Facebook
+                                                                                                                                                                                                                                                                                                                                  * Twitter
+                                                                                                                                                                                                                                                                                                                                  * LinkedIn
+                                                                                                                                                                                                                                                                                                                                  * Email
+                                                                                                                                                                                                                                                                                                                                  * Syndicate
+
+# Developing a Cost Data Collection Tool for Cancer Registry Planning
+
+EspaÃ±ol (Spanish)
+
+Minus
+
+Related Pages
+
+![Photo of Dr. Florence Tangka](/cancer/dcpc/images/tangka.jpg)
+
+Dr. Florence Tangka describes CDC's International Registry Costing Tool
+(IntRegCosting Tool) in this podcast. Read the transcript. Cdc-pdf[PDF-118KB]
+
+This monograph provides information on the costs of running cancer registries
+in five of the low- and middle-income countries in which CDC's International
+Registry Costing Tool (IntRegCosting Tool) was tested.
+
+## Glossary
+
+                                                                                                                                                                                                                                                                                                                                  * **Cost per case registered:** The registry's total expenses divided by the number of cancer cases.
+                                                                                                                                                                                                                                                                                                                                  * **Cost per inhabitant:** The registry's total expenses divided by the number of people living in the area it serves.
+                                                                                                                                                                                                                                                                                                                                  * **Fixed costs:** Costs that stay the same, even if the number of cases changes.
+                                                                                                                                                                                                                                                                                                                                  * **Variable costs:** Costs that change as the number of cases changes.
+                                                                                                                                                                                                                                                                                                                                  * **Core variable costs:** Variable costs for activities that are required for the registry to operate.
+
+## Overview
+
+This monograph provides information on the costs of running cancer registries
+in five of the low- and middle-income countries in which CDC's International
+Registry Costing Tool (IntRegCosting Tool) was tested. The monograph reported
+that centralizing fixed costs at a single registry, possibly in a larger urban
+area, may have been an efficient strategy in at least three of the countries--
+India, Barbados, and Uganda. In these settings, the registry could be
+centralized in a larger urban area, and registries in outlying areas could
+serve as satellite operations.
+
+Estimating how much it costs to register a single case for all registries was
+not possible because costs varied so much between registries in different
+countries, and even within the same country. Some of the factors affecting
+costs could be changed, such as how efficiently data were collected. Other
+costs were beyond the registries' control, such as the size of the geographic
+area served. However, looking over the information across the countries'
+experiences, some trends emerged.
+
+                                                                                                                                                                                                                                                                                                                                  * Affiliation with a host institution was helpful for some cancer registries. For example, the Indian Cancer Society hosts the Mumbai cancer registry.
+                                                                                                                                                                                                                                                                                                                                  * For registries that had host agencies, the host agency contributed between 30% and 70% of registry funding.
+                                                                                                                                                                                                                                                                                                                                  * The cost per cancer case registered in low-income and lower-middle-income countries ranged from $3.77 to $15.62 (all amounts are in 2013 United States dollars).
+                                                                                                                                                                                                                                                                                                                                  * In registries in different locations in Colombia, a middle- to higher-income country, the cost per case registered ranged from $41.28 to $113.39.
+                                                                                                                                                                                                                                                                                                                                  * The Mumbai registry in India, which serves more than 15 million people, had a lower cost per inhabitant (less than $0.01) than the Pasto, Colombia registry, which serves fewer than 500,000 people ($0.22).
+                                                                                                                                                                                                                                                                                                                                  * Electronic reporting and the use of electronic devices to transfer data to registries can lower labor costs.
+
+## Colombia
+
+Five local registries provided information about the costs of running cancer
+registries in Colombia: Barranquilla, Bucaramanga, Cali, Manizales, and Pasto.
+Costs for registering cancer cases ranged from $41 to $113 per case and $0.05
+to $0.22 per inhabitant (all amounts in 2013 United States dollars). The
+registries in Colombia did not collect the same data about cancer cases or use
+the same collection methods, which may explain some of the variation in costs.
+Between 20% and 45% of the total cost was due to fixed-cost activities.
+
+## Kenya
+
+The Nairobi County cancer registry provided information about expenses and
+funding for cancer registries in Kenya. Of total funding, 70% came from
+grants, research studies, and international organizations. The greatest
+expenses were for administration, management, and training of staff;
+collecting the information on cancer cases; and recording and validating the
+data in the registries.
+
+## India
+
+Information about expenses and funding for cancer registries in India came
+from the central state registry in Mumbai, and from satellite registries in
+Pune, Nagpur, and Aurangabad. The Indian Cancer Society provided almost 60% of
+funding for the Mumbai registry, and more than half of its expenses were
+related to collecting information on cancer cases. For all four registries
+combined, 93% of the expenses went to labor costs. The cost per case
+registered was a little less than $4.00.
+
+## Barbados
+
+The Barbados Ministry of Health provided 56% of resources for the registries.
+Labor accounted for more than 70% of fixed costs, with management and
+administration having the highest costs, followed by the costs for collecting
+and analyzing the data. The two-year costs for registry operations were $382
+per case registered.
+
+## Uganda
+
+Cancer registries in Kampala-Kyadondo County, Gulu, and in rural northern
+Uganda provided information about expenses and funding for cancer registries
+in Uganda. The Kampala cancer registry used 42% of its budget on fixed-cost
+activities, 40% on core variable-cost activities, and the remaining 18% for
+other variable-cost activities. The total cost per case registered was about
+$10 in 2014 United States dollars. The Gulu cancer registry covers a much
+larger, mostly rural area, and serves a smaller population than the registry
+in Kampala. Because this increases the cost of collecting information on
+cancer cases, the Gulu registry needs as many resources as the Kampala
+registry to sustain operations.
+
+## Citations
+
+This article summary highlights findings in the following papers published in
+_Cancer Epidemiology._
+
+Tangka FKL, Subramanian S, Edwards P, Cole-Beebe M, Parkin DM, Bray F, Joseph
+R, Mery L, Saraiya M, Cancer registration economic evaluation participants.
+Resource requirements for cancer registration in areas with limited resources:
+analysis of cost data from four low- and middle-income countries.External
+_Cancer Epidemiology_ 2016.
+
+de Vries E, Pardo C, Arias N, Bravo LE, Navarro E, Uribe C, Yepez MC, Jurado
+D, Garci LS, Piñeros M, Edwards P, Cole-Beebe M, Tangka FKL, Subramanian S.
+Estimating the cost of operating cancer registries: experience in
+Colombia.External _Cancer Epidemiology_ 2016.
+
+Saraiya M, Tangka FKL, Asma S, Richardson LC. Importance of economic
+evaluation of cancer registration in the resource limited setting: laying the
+groundwork for surveillance systems.External _Cancer Epidemiology_ 2016.
+
+Subramanian S, Tangka FLK, Edwards P, Hoover S, Cole-Beebe M. Developing and
+testing a cost data collection instrument for noncommunicable disease registry
+planning.External _Cancer Epidemiology_ 2016.
+
+Koyande S, Subramanian S, Edwards P, Hoover S, Deshmane V, Tangka FKL, Dikshit
+R, Saraiya M. Economic evaluation of Mumbai and its satellite cancer
+registries: implications for expansion of data collection.External _Cancer
+Epidemiology_ 2016.
+
+Korir A, Gakunga R, Subramanian S, Okerosi N, Chesumbai G, Edwards P, Tangka
+FKL, Joseph R, Buziba N, Rono V, Parkin D, Saraiya M. Economic analysis of the
+Nairobi cancer registry: implications for expanding and enhancing cancer
+registration in Kenya.External _Cancer Epidemiology_ 2016.
+
+H Wabinga, Subramanian S, Nambooze S, Amulen P, Edwards P, Joseph R, Ogwang M,
+Okongo F, Parkin D, Tangka FKL. Uganda experience--using cost assessment of an
+established registry to project resources required to expand cancer
+registration.External _Cancer Epidemiology_ 2016.
+
+Martelly T, Rose A, Subramanian S, Edwards P, Tangka FKL, Saraiya M. Economic
+assessment of integrated cancer and cardiovascular registries: the Barbados
+experience.External _Cancer Epidemiology_ 2016.
+
+Page last reviewed: August 27, 2018
+
+Content source: Division of Cancer Prevention and Control, Centers for Disease
+Control and Prevention
+
+home Cancer Home
+
+                                                                                                                                                                                                                                                                                                                                  * Kinds of Cancer
+                                                                                                                                                                                                                                                                                                                                  * How to Prevent Cancer or Find It Earlyplus icon
+                                                                                                                                                                                                                                                                                                                                    * Screening Tests
+                                                                                                                                                                                                                                                                                                                                    * Vaccines (Shots)
+                                                                                                                                                                                                                                                                                                                                    * Healthy Choices
+                                                                                                                                                                                                                                                                                                                                  * Cancer Data and Statisticsplus icon
+                                                                                                                                                                                                                                                                                                                                    * Tools
+                                                                                                                                                                                                                                                                                                                                    * Other Cancer Data Sources
+                                                                                                                                                                                                                                                                                                                                  * Cancer Researchplus icon
+                                                                                                                                                                                                                                                                                                                                    * Annual Report to the Nationplus icon
+                                                                                                                                                                                                                                                                                                                                      * Healthy People 2020 Targets
+                                                                                                                                                                                                                                                                                                                                      * Cancer Death Rates
+                                                                                                                                                                                                                                                                                                                                      * Cancer Incidence Rates
+                                                                                                                                                                                                                                                                                                                                      * Cancer Among Children, Adolescents, and Young Adults
+                                                                                                                                                                                                                                                                                                                                      * Images to Share
+                                                                                                                                                                                                                                                                                                                                    * Article Summariesplus icon
+                                                                                                                                                                                                                                                                                                                                      * 2018â2019plus icon
+                                                                                                                                                                                                                                                                                                                                        * Cancer in American Indians and Alaska Natives in the United States
+                                                                                                                                                                                                                                                                                                                                        * Many Older Adults Donât Protect Their Skin From the Sun
+                                                                                                                                                                                                                                                                                                                                        * Few People Are Being Screened for Lung Cancer as Recommended
+                                                                                                                                                                                                                                                                                                                                        * Rates of Children and Teens Getting Cancer by State or Region
+                                                                                                                                                                                                                                                                                                                                        * Use of Colorectal Cancer Screening Tests by State
+                                                                                                                                                                                                                                                                                                                                        * HPV Vaccines and Cervical Precancers
+                                                                                                                                                                                                                                                                                                                                      * 2017plus icon
+                                                                                                                                                                                                                                                                                                                                        * Cancer Survival in the United States
+                                                                                                                                                                                                                                                                                                                                        * Certain People with Colorectal Cancer Are Less Likely to Get an Important Test
+                                                                                                                                                                                                                                                                                                                                        * Race, Sex, and Age Can Make a Difference in Surviving HPV-Associated Cancers
+                                                                                                                                                                                                                                                                                                                                        * Cost of Cancer-Related Neutropenia or Fever Hospitalizations
+                                                                                                                                                                                                                                                                                                                                        * Some Older Women Are Not Getting Recommended Cervical Cancer Screenings
+                                                                                                                                                                                                                                                                                                                                        * Most Schools Can Do More to Help Students Stay Sun Safe
+                                                                                                                                                                                                                                                                                                                                        * Indoor Tanning Among Adults in the U.S.
+                                                                                                                                                                                                                                                                                                                                        * Parents and Friends Can Influence Teensâ Decisions About Starting Indoor Tanning
+                                                                                                                                                                                                                                                                                                                                        * Deaths from Colorectal Cancer in U.S. Counties with Lower Education Levels
+                                                                                                                                                                                                                                                                                                                                        * Money Worries Affect How Some Cancer Patients Take Prescribed Medicines
+                                                                                                                                                                                                                                                                                                                                        * Annual Report to the Nation on the Status of Cancer, 1975â2014
+                                                                                                                                                                                                                                                                                                                                        * Cancer Screening Prevalence Among Adults with Disabilities
+                                                                                                                                                                                                                                                                                                                                        * Economic Evaluation of CDCâs Colorectal Cancer Control Program
+                                                                                                                                                                                                                                                                                                                                      * 2016plus icon
+                                                                                                                                                                                                                                                                                                                                        * State of the Science on Melanoma Prevention and Screening
+                                                                                                                                                                                                                                                                                                                                        * Developing a Cost Data Collection Tool for Cancer Registry Planning
+                                                                                                                                                                                                                                                                                                                                        * Anxiety and Depression Medicine Use Among Cancer Survivors
+                                                                                                                                                                                                                                                                                                                                        * Breast Cancer Rates Among Black Women and White Women
+                                                                                                                                                                                                                                                                                                                                        * Schools Can Help Prevent Skin Cancer
+                                                                                                                                                                                                                                                                                                                                        * Lung Cancer Survivors May Feel Blame
+                                                                                                                                                                                                                                                                                                                                        * Colorectal Cancer Screening Capacity in the United States
+                                                                                                                                                                                                                                                                                                                                        * New Cases of Melanoma Among Hispanics in the United States
+                                                                                                                                                                                                                                                                                                                                        * Annual Report to the Nation on the Status of Cancer, 1975â2012
+                                                                                                                                                                                                                                                                                                                                      * 2015plus icon
+                                                                                                                                                                                                                                                                                                                                        * Cancer Survivorship Supplement
+                                                                                                                                                                                                                                                                                                                                        * Gallbladder Cancer Incidence and Death Rates
+                                                                                                                                                                                                                                                                                                                                        * Sunscreen Use Among Adults in the U.S.
+                                                                                                                                                                                                                                                                                                                                        * Expected New Cancer Cases and Deaths in 2020plus icon
+                                                                                                                                                                                                                                                                                                                                          * Actual and Projected Cancer Incidence Rates, United States, 1975 to 2020
+                                                                                                                                                                                                                                                                                                                                          * Actual and Projected Cancer Death Rates, United States, 1975 to 2020
+                                                                                                                                                                                                                                                                                                                                        * Assessment of HPV Types in Cancers
+                                                                                                                                                                                                                                                                                                                                        * Use of the Persuasive Health Message Framework in a Mammography Promotion Campaign
+                                                                                                                                                                                                                                                                                                                                        * African American Women and Mass Media Campaign Evaluation
+                                                                                                                                                                                                                                                                                                                                        * Cancer Survival: The Start of Global Surveillance
+                                                                                                                                                                                                                                                                                                                                    * Preventing Cancer Across a Lifetimeplus icon
+                                                                                                                                                                                                                                                                                                                                      * Cancer Prevention During Early Life
+                                                                                                                                                                                                                                                                                                                                      * Cancer Prevention Among Youth
+                                                                                                                                                                                                                                                                                                                                      * Cancer Prevention During Early Adulthood
+                                                                                                                                                                                                                                                                                                                                      * Cancer Prevention During Midlife
+                                                                                                                                                                                                                                                                                                                                      * Cancer Prevention During Older Adulthood
+                                                                                                                                                                                                                                                                                                                                    * Citation Search Tool
+                                                                                                                                                                                                                                                                                                                                  * Risk Factors and Cancerplus icon
+                                                                                                                                                                                                                                                                                                                                    * Alcohol and Cancerplus icon
+                                                                                                                                                                                                                                                                                                                                      * Preventing Cancer by Reducing Excessive Alcohol Useplus icon
+                                                                                                                                                                                                                                                                                                                                        * Community Strategies to Reduce Excessive Alcohol Use
+                                                                                                                                                                                                                                                                                                                                        * Clinical Strategies to Reduce Excessive Alcohol Use
+                                                                                                                                                                                                                                                                                                                                        * What Comprehensive Cancer Control Programs Can Do to Reduce Excessive Alcohol Use
+                                                                                                                                                                                                                                                                                                                                        * Potential Partners for Comprehensive Cancer Control Coalitions
+                                                                                                                                                                                                                                                                                                                                    * HPV and Cancer
+                                                                                                                                                                                                                                                                                                                                    * Tobacco and Cancer
+                                                                                                                                                                                                                                                                                                                                    * Family Health History and Cancer
+                                                                                                                                                                                                                                                                                                                                  * Cancer Survivors
+                                                                                                                                                                                                                                                                                                                                  * Preventing Infections in Cancer Patients
+                                                                                                                                                                                                                                                                                                                                  * Cancer and Flu
+                                                                                                                                                                                                                                                                                                                                  * Resource Libraryplus icon
+                                                                                                                                                                                                                                                                                                                                    * Videosplus icon
+                                                                                                                                                                                                                                                                                                                                      * Cancer Survivorship
+                                                                                                                                                                                                                                                                                                                                    * Podcasts
+                                                                                                                                                                                                                                                                                                                                    * Shareable Graphicsplus icon
+                                                                                                                                                                                                                                                                                                                                      * Infographics
+                                                                                                                                                                                                                                                                                                                                    * Print Materials
+                                                                                                                                                                                                                                                                                                                                    * Featuresplus icon
+                                                                                                                                                                                                                                                                                                                                      * Breast Cancer Awareness
+                                                                                                                                                                                                                                                                                                                                      * Breast Cancer in Young Women
+                                                                                                                                                                                                                                                                                                                                      * Cancer and Men
+                                                                                                                                                                                                                                                                                                                                      * Cancer and Women
+                                                                                                                                                                                                                                                                                                                                      * Cancer Prevention Starts in Childhood
+                                                                                                                                                                                                                                                                                                                                      * Cancer, the Flu, and You
+                                                                                                                                                                                                                                                                                                                                      * Cervical Cancer Awareness
+                                                                                                                                                                                                                                                                                                                                      * Colorectal Cancer Awareness
+                                                                                                                                                                                                                                                                                                                                      * Gynecologic Cancer Awareness
+                                                                                                                                                                                                                                                                                                                                      * How to Stay Healthy After Cancer Treatment Ends
+                                                                                                                                                                                                                                                                                                                                      * Lung Cancer Awareness
+                                                                                                                                                                                                                                                                                                                                      * Preventing Infections in Cancer Patients
+                                                                                                                                                                                                                                                                                                                                      * Prostate Cancer Awareness
+                                                                                                                                                                                                                                                                                                                                      * Skin Cancer Awareness
+                                                                                                                                                                                                                                                                                                                                      * World Cancer Day
+                                                                                                                                                                                                                                                                                                                                    * _Cancer Prevention Works_ Newsletter
+                                                                                                                                                                                                                                                                                                                                  * Resources for Health Care Providersplus icon
+                                                                                                                                                                                                                                                                                                                                    * CME Courses
+                                                                                                                                                                                                                                                                                                                                    * Webinars and Other Videos
+                                                                                                                                                                                                                                                                                                                                    * CDC Medscape Expert Commentaries
+                                                                                                                                                                                                                                                                                                                                    * Blog Posts: Helpful Tips
+                                                                                                                                                                                                                                                                                                                                    * Screening Guidelines and Other Resources
+                                                                                                                                                                                                                                                                                                                                  * About Usplus icon
+                                                                                                                                                                                                                                                                                                                                    * Leadersplus icon
+                                                                                                                                                                                                                                                                                                                                      * Lisa C. Richardson
+                                                                                                                                                                                                                                                                                                                                      * Vicki Benard, PhD
+                                                                                                                                                                                                                                                                                                                                      * Djenaba A. Joseph
+                                                                                                                                                                                                                                                                                                                                      * Jacqueline W. Miller
+                                                                                                                                                                                                                                                                                                                                      * Mona Saraiya, MD, MPH
+                                                                                                                                                                                                                                                                                                                                      * Judith Lee Smith, PhD
+                                                                                                                                                                                                                                                                                                                                      * Hannah K. Weir, PhD, MSc
+                                                                                                                                                                                                                                                                                                                                      * Mary C. White
+                                                                                                                                                                                                                                                                                                                                    * Featured Scientistsplus icon
+                                                                                                                                                                                                                                                                                                                                      * Vicki Benard, PhD
+                                                                                                                                                                                                                                                                                                                                      * Natasha Buchanan Lunsford, PhD
+                                                                                                                                                                                                                                                                                                                                      * Simone Gray, PhD
+                                                                                                                                                                                                                                                                                                                                      * Ingrid J. Hall, PhD, MPH
+                                                                                                                                                                                                                                                                                                                                      * Donald Haverkamp, MPH
+                                                                                                                                                                                                                                                                                                                                      * Jane Henley, MSPH
+                                                                                                                                                                                                                                                                                                                                      * Dawn M. Holman, MPH
+                                                                                                                                                                                                                                                                                                                                      * Commander Djenaba A. Joseph, MD, MPH
+                                                                                                                                                                                                                                                                                                                                      * Stephanie C. Melkonian, PhD
+                                                                                                                                                                                                                                                                                                                                      * Captain Jacqueline W. Miller, MD, FACS
+                                                                                                                                                                                                                                                                                                                                      * Behnoosh Momin, DrPH, MS, MPH
+                                                                                                                                                                                                                                                                                                                                      * Lucy A. Peipins, PhD
+                                                                                                                                                                                                                                                                                                                                      * Lori A. Pollack, MD, MPH
+                                                                                                                                                                                                                                                                                                                                      * Thomas B. Richards, MD
+                                                                                                                                                                                                                                                                                                                                      * Lisa C. Richardson, MD, MPH
+                                                                                                                                                                                                                                                                                                                                      * Sun Hee Rim, PhD, MPH
+                                                                                                                                                                                                                                                                                                                                      * Elizabeth A. Rohan, PhD, MSW
+                                                                                                                                                                                                                                                                                                                                      * Mona Saraiya, MD, MPH
+                                                                                                                                                                                                                                                                                                                                      * Simple Singh, MD, MPH
+                                                                                                                                                                                                                                                                                                                                      * Judith Lee Smith, PhD
+                                                                                                                                                                                                                                                                                                                                      * Eric Tai, MD, MS
+                                                                                                                                                                                                                                                                                                                                      * Florence Tangka, PhD, MS
+                                                                                                                                                                                                                                                                                                                                      * Julie Townsend, MS
+                                                                                                                                                                                                                                                                                                                                      * Hannah K. Weir, PhD, MSc
+                                                                                                                                                                                                                                                                                                                                      * Arica White, PhD, MPH
+                                                                                                                                                                                                                                                                                                                                      * Mary C. White, ScD, MFA
+                                                                                                                                                                                                                                                                                                                                    * Organization Chart
+                                                                                                                                                                                                                                                                                                                                    * National Programs
+                                                                                                                                                                                                                                                                                                                                    * Educational Campaigns
+                                                                                                                                                                                                                                                                                                                                    * Initiatives
+                                                                                                                                                                                                                                                                                                                                    * CDCâs Cancer Genomics Programplus icon
+                                                                                                                                                                                                                                                                                                                                      * Logic Model
+
+## Stay Informed
+
+                                                                                                                                                                                                                                                                                                                                  * twitter
+                                                                                                                                                                                                                                                                                                                                  * govd
+
+**HAVE QUESTIONS?**
+
+Visit CDC-INFO
+
+Call 800-232-4636
+
+Email CDC-INFO
+
+Open 24/7
+
+**CDC INFORMATION**
+
+                                                                                                                                                                                                                                                                                                                                  * About CDC
+                                                                                                                                                                                                                                                                                                                                  * Jobs
+                                                                                                                                                                                                                                                                                                                                  * Funding
+                                                                                                                                                                                                                                                                                                                                  * Policies
+                                                                                                                                                                                                                                                                                                                                  * File Viewers & Players
+
+                                                                                                                                                                                                                                                                                                                                  * Privacy
+                                                                                                                                                                                                                                                                                                                                  * FOIA
+                                                                                                                                                                                                                                                                                                                                  * No Fear Act
+                                                                                                                                                                                                                                                                                                                                  * OIG
+                                                                                                                                                                                                                                                                                                                                  * Nondiscrimination
+                                                                                                                                                                                                                                                                                                                                  * Accessibility
+
+**CONNECT WITH CDC**  
+
+                                                                                                                                                                                                                                                                                                                                  * Facebook
+                                                                                                                                                                                                                                                                                                                                  * Twitter
+                                                                                                                                                                                                                                                                                                                                  * Youtube
+                                                                                                                                                                                                                                                                                                                                  * Instagram
+  
+
+                                                                                                                                                                                                                                                                                                                                  * Syndicate
+                                                                                                                                                                                                                                                                                                                                  * CDC TV
+                                                                                                                                                                                                                                                                                                                                  * RSS
+                                                                                                                                                                                                                                                                                                                                  * Email
+
+U.S. Department of Health & Human Services
+
+USA.gov
+
+CDC Website Exit Disclaimer external icon
+
+                                                                                                                                                                                                                                                                                                                                  * Facebook
+                                                                                                                                                                                                                                                                                                                                  * Twitter
+                                                                                                                                                                                                                                                                                                                                  * LinkedIn
+                                                                                                                                                                                                                                                                                                                                  * Email
+
+![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+
+PDF file_external
+
+#### Exit Notification/Disclaimer Policy
+
+Close
+
+**Links with this icon indicate that you are leaving the CDC website.**
+
+                                                                                                                                                                                                                                                                                                                                  * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+                                                                                                                                                                                                                                                                                                                                  * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+                                                                                                                                                                                                                                                                                                                                  * You will be subject to the destination website's privacy policy when you follow the link.
+                                                                                                                                                                                                                                                                                                                                  * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+For more information on CDC's web notification policies, see Website
+Disclaimers.
+
+Cancel Continue
+
+  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
+  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
+

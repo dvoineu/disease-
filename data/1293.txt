@@ -1,0 +1,259 @@
+
+
+Skip directly to search Skip directly to A to Z list Skip directly to
+navigation Skip directly to page options Skip directly to site content
+
+![Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People](/TemplatePackage/3.0/images/masthead_subpage.svg)
+![Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People](/TemplatePackage/3.0/images/masthead_1-col.svg)
+
+Start of Search Controls
+
+Search Form Controls
+
+TOPIC ONLY
+
+Search The CDC
+
+cancel submit
+
+CDC A-Z Index
+
+                                                                                                                                                                                                                                                                                                                                  * MENU
+                                                                                                                                                                                                                                                                                                                                  * CDC A-Z
+                                                                                                                                                                                                                                                                                                                                  * SEARCH
+
+                                                                                                                                                                                                                                                                                                                                  * A
+                                                                                                                                                                                                                                                                                                                                  * B
+                                                                                                                                                                                                                                                                                                                                  * C
+                                                                                                                                                                                                                                                                                                                                  * D
+                                                                                                                                                                                                                                                                                                                                  * E
+                                                                                                                                                                                                                                                                                                                                  * F
+                                                                                                                                                                                                                                                                                                                                  * G
+                                                                                                                                                                                                                                                                                                                                  * H
+                                                                                                                                                                                                                                                                                                                                  * I
+                                                                                                                                                                                                                                                                                                                                  * J
+                                                                                                                                                                                                                                                                                                                                  * K
+                                                                                                                                                                                                                                                                                                                                  * L
+                                                                                                                                                                                                                                                                                                                                  * M
+                                                                                                                                                                                                                                                                                                                                  * N
+                                                                                                                                                                                                                                                                                                                                  * O
+                                                                                                                                                                                                                                                                                                                                  * P
+                                                                                                                                                                                                                                                                                                                                  * Q
+                                                                                                                                                                                                                                                                                                                                  * R
+                                                                                                                                                                                                                                                                                                                                  * S
+                                                                                                                                                                                                                                                                                                                                  * T
+                                                                                                                                                                                                                                                                                                                                  * U
+                                                                                                                                                                                                                                                                                                                                  * V
+                                                                                                                                                                                                                                                                                                                                  * W
+                                                                                                                                                                                                                                                                                                                                  * X
+                                                                                                                                                                                                                                                                                                                                  * Y
+                                                                                                                                                                                                                                                                                                                                  * Z
+                                                                                                                                                                                                                                                                                                                                  * #
+
+Start of Search Controls
+
+Search Form Controls
+
+TOPIC ONLY
+
+Search The CDC
+
+cancel submit
+
+## The Topic Is Cancer
+
+Note: Javascript is disabled or is not supported by your browser. For this
+reason, some items on this page will be unavailable. For more information
+about this message, please visit this page: About CDC.gov.
+
+### Home
+
+                                                                                                                                                                                                                                                                                                                                  * Colorectal (Colon) Cancer
+                                                                                                                                                                                                                                                                                                                                  * Breast Cancer
+                                                                                                                                                                                                                                                                                                                                  * Cervical Cancer
+                                                                                                                                                                                                                                                                                                                                  * Lung Cancer
+                                                                                                                                                                                                                                                                                                                                  * Skin Cancer
+                                                                                                                                                                                                                                                                                                                                  * Other
+                                                                                                                                                                                                                                                                                                                                  * Cancer Prevention and Control
+
+# Cancer Registry Data: In the Clouds
+
+Posted on Friday, April 3, 2020 by DCPC
+
+Recommend on Facebook Tweet
+![Share](/TemplatePackage/3.0/images/social/addthis-32.png)ShareCompartir
+
+![National Program of Cancer
+Registries](https://blogs.cdc.gov/cancer/files/2020/03/NPCR_logo_jpg-300x294.jpg)National
+Program of Cancer Registries at CDC coordinates the collection and
+verification on nearly all reportable cancer cases in the United States.
+
+Vicki Benard, PhD  
+CDC Division of Cancer Prevention and Control  
+Cancer Surveillance Branch Chief
+
+Technology has come a long way in recent years. With one click we can have
+items at our doorstep within days or even hours! We can catch a ride to the
+airport, keep in touch with friends and family on social networks, and use
+Internet search engines for movie trivia instead of our memories. A lot of
+technological advancements add to fun and convenience, but technological
+advancements in cancer registry data can affect lives.
+
+### What Is the National Program of Cancer Registries?
+
+National Program of Cancer Registries (NPCR) at CDC coordinates the collection
+and verification on nearly all reportable cancer cases in the United States.
+With the help of NPCR, each year information on over 1.67 million new cancer
+cases are reported to CDC through cancer registries in 46 states, territories,
+and the District of Columbia. The goal of NPCR is to provide cancer data
+needed to measure progress and target action to prevent and control cancer.
+
+### Solution Requires Modernization
+
+Traditionally, cancer registry data comes from manually reviewing the notes in
+medical records during the evaluation and treatment of patients, abstracting
+the most important components, and repackaging the data into one cancer case
+record. The challenge is that there are so many reporting sources and it
+becomes complicated to bring together these data while maintaining
+completeness and accuracy. The diagnosis of most cancers in the United States
+starts with a pathology report that describes cells and type of cancer. Today,
+pathology reports are increasingly electronic (ePath). By obtaining this ePath
+reporting first, this could be one way to increase the speed to near real-time
+cancer reporting.
+
+![](https://blogs.cdc.gov/cancer/files/2020/03/Informatics1-300x253.jpg)The
+latest technology is cloud-based computing, which stores data and programs
+over the Internet.
+
+### Cloud-Based Data Capture and Sharing
+
+The latest technology is cloud-based computing, which stores data and programs
+over the Internet. NPCR is partnering with Quest Diagnostics (a national
+pathology laboratory), the Association of Public Health Laboratories (APHL),
+and three central cancer registries (California, Louisiana, and Nevada) to use
+cloud-based computing and electronic messaging services to effectively gather
+ePath data for central cancer registries. Over the past decade, NPCR has
+worked with individual laboratories to implement standardized ePath reporting.
+Central cancer registries had to set up secure data connections with each
+laboratory and manage each one. Quest Diagnostics sends all pathology data to
+APHL and then these data get distributed by APHL to the correct central cancer
+registry.
+
+This innovative electronic reporting project could lead to several
+possibilities: 1) a foundation for other pathology laboratories to send ePath
+data to central cancer registries using cloud-based computing; 2) a single
+portal for all laboratory reporting; and 3) access to electronic cancer data
+received from physician electronic health records and hospitals. As data are
+available, cancer planners and researchers can use it to improve cancer
+prevention, control, and treatment.
+
+We use technology to expand our knowledge base in so many arenas of our lives
+now. Technological advancements on the back end can make complex ideas easy to
+understand and actionable. NPCR is striving to achieve the same goal with
+cancer data. The faster we receive data, the faster we can connect people to
+the care and support they may need.
+
+Posted on Friday, April 3, 2020 by DCPC
+
+Categories Other
+
+* * *
+
+### Post a Comment
+
+###  Cancel Reply
+
+Your email address will not be published. Required fields are marked *
+
+Comment
+
+All comments posted become a part of the public domain, and users are
+responsible for their comments. This is a moderated site and your comments
+will be reviewed before they are posted. Read more about our comment policy »
+
+Name *
+
+Email *
+
+Current ye@r *
+
+Leave this field empty
+
+##### File Formats Help:
+
+How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+
+                                                                                                                                                                                                                                                                                                                                  * Adobe PDF file
+                                                                                                                                                                                                                                                                                                                                  * Microsoft PowerPoint file
+                                                                                                                                                                                                                                                                                                                                  * Microsoft Word file
+                                                                                                                                                                                                                                                                                                                                  * Microsoft Excel file
+                                                                                                                                                                                                                                                                                                                                  * Audio/Video file
+                                                                                                                                                                                                                                                                                                                                  * Apple Quicktime file
+                                                                                                                                                                                                                                                                                                                                  * RealPlayer file
+                                                                                                                                                                                                                                                                                                                                  * Text file
+                                                                                                                                                                                                                                                                                                                                  * Zip Archive file
+                                                                                                                                                                                                                                                                                                                                  * SAS file
+                                                                                                                                                                                                                                                                                                                                  * ePub file
+                                                                                                                                                                                                                                                                                                                                  * RIS file
+
+                                                                                                                                                                                                                                                                                                                                  * Page last reviewed:Friday, April 3, 2020
+                                                                                                                                                                                                                                                                                                                                  * Page last updated:Friday, April 3, 2020
+                                                                                                                                                                                                                                                                                                                                  * Content source: 
+                                                                                                                                                                                                                                                                                                                                    * Division of Cancer Prevention and Control
+
+###### Follow CDC
+
+                                                                                                                                                                                                                                                                                                                                  * Email
+                                                                                                                                                                                                                                                                                                                                  * Recommend
+                                                                                                                                                                                                                                                                                                                                  * Tweet
+                                                                                                                                                                                                                                                                                                                                  * Post
+                                                                                                                                                                                                                                                                                                                                  * RSS
+
+###### CDC Media
+
+                                                                                                                                                                                                                                                                                                                                  * Listen
+                                                                                                                                                                                                                                                                                                                                  * Watch
+                                                                                                                                                                                                                                                                                                                                  * YouTube
+
+![Department of Health and Human
+Services](/TemplatePackage/3.0/images/hhs.png)
+
+                                                                                                                                                                                                                                                                                                                                  * ###### About CDC
+
+                                                                                                                                                                                                                                                                                                                                    * Employment
+                                                                                                                                                                                                                                                                                                                                    * Newsroom
+                                                                                                                                                                                                                                                                                                                                    * Training/Education
+                                                                                                                                                                                                                                                                                                                                    * Funding
+                                                                                                                                                                                                                                                                                                                                    * CDC's Organization
+                                                                                                                                                                                                                                                                                                                                    * Mission and Vision
+                                                                                                                                                                                                                                                                                                                                    * Using this Site
+                                                                                                                                                                                                                                                                                                                                  * ###### Legal
+
+                                                                                                                                                                                                                                                                                                                                    * Link to Us
+                                                                                                                                                                                                                                                                                                                                    * Policies
+                                                                                                                                                                                                                                                                                                                                    * FOIA
+                                                                                                                                                                                                                                                                                                                                    * Accessibility
+                                                                                                                                                                                                                                                                                                                                    * Privacy
+                                                                                                                                                                                                                                                                                                                                    * No FEAR Act
+                                                                                                                                                                                                                                                                                                                                    * Inspector General
+                                                                                                                                                                                                                                                                                                                                    * USA.gov
+                                                                                                                                                                                                                                                                                                                                  *                                                                                                                                                                                                                                                                                                                                   * ###### Contact CDC
+
+Centers for Disease Control and Prevention
+
+1600 Clifton Road Atlanta, GA 30329-4027 USA
+
+800-CDC-INFO (800-232-4636)
+
+Contact CDC-INFO
+
+TOP
+
+![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+
+  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
+  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
+

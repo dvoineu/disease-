@@ -1,0 +1,643 @@
+
+
+Skip directly to site content Skip directly to page options Skip directly to
+A-Z link
+
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People Centers for Disease Control and Prevention. CDC
+twenty four seven. Saving Lives, Protecting People
+
+Search ____
+
+Ã
+
+Submit __
+
+For a full list of topics: A-Z Index
+
+DPDx - Laboratory Identification of Parasites of Public Health Concern
+
+Section Navigation
+
+CDC Home
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Facebook
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Twitter
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * LinkedIn
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Email
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Syndicate
+
+![bannermenu](/dpdx/images/dpdx-2.jpg)
+
+# Microsporidiosis
+
+Minus
+
+Related Pages
+
+_[Anncaliia spp.] [Encephalitozoon cuniculi] [Encephalitozoon hellem]
+[Encephalitozoon intestinalis (syn. Septata intestinalis)] [Tubulinosema
+acridophagus] [Enterocytozoon bieneusi] [Nosema spp.] [Pleistophora sp.]
+[Trachipleistophora spp.] [Vittaforma corneae (syn. Nosema corneum)]_
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Parasite Biology
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Image Gallery
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Laboratory Diagnosis
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Resources
+
+### Causal Agents
+
+The microsporidia are a group of unicellular intracellular parasites closely
+related to fungi, although the nature of the relation to the kingdom Fungi is
+not clear. The taxonomic position of this group has been debated and revised
+repeatedly; historically, they were considered protozoa and often remain
+managed by diagnostic parasitology laboratories. Microsporidia are
+characterized by the production of resistant spores that vary in size (usually
+1--4 µm for medically-important species). They possess a unique organelle, the
+polar tubule or polar filament, which is coiled inside the spore as
+demonstrated by its ultrastructure. Microsporidia also possess degenerated
+mitochondria called mitosomes and lack a conventional Golgi apparatus.
+
+To date, more than 1400 species belonging to over 200 genera have been
+described as parasites infecting a wide range of vertebrate and invertebrate
+hosts. There are at least 15 microsporidian species that have been identified
+as human pathogens; the vast majority of cases being caused by
+**_Enterocytozoon bieneusi,_** followed by some **_Encephalitozoon_** species
+( _E. cuniculi,_ _E. hellem_ , _E. intestinalis_ ( _=Septata intestinalis_ )).
+Other less frequently reported agents include members of the genera
+**_Anncaliia_** (= _Brachiola_ ) ( _A. algerae_ , _A. connori, A. vesicularum_
+), **_Microsporidium_** ( _M_. _ceylonensis_ , _M. africanum_ ),
+**_Trachipleistophora_** ( _T. hominis, T. anthropophthera_ ), _**Nosema
+ocularum**_ , _**Pleistophora**_ **_ronneafiei_** , **_Vittaforma corneae_**
+(= _Nosema corneae_ ), **_Tubulinosema acridophagus_** , and an unknown
+species likely belonging to **_Endoreticulatus_**.
+
+###  Life Cycle
+
+![Lifecycle](/dpdx/microsporidiosis/modules/Microsporidia_LifeCycle_19.jpg)
+
+View Larger
+
+The infective form of microsporidia is the resistant spore, which can persist
+in the environment for months
+![image](/dpdx/images/life_cycle_numbers/new/1.jpg) The spore then germinates,
+rapidly everting its polar tubule which contacts the eukaryotic host cell
+membrane ![image](/dpdx/images/life_cycle_numbers/new/2.jpg) . The spore then
+injects the infective sporoplasm into the host cell through the polar tubule
+![image](/dpdx/images/life_cycle_numbers/new/3.jpg) . Inside the cell, the
+sporoplasm enters the proliferative phase marked by extensive multiplication
+via merogony (binary fission or multiple fission), creating meronts
+![image](/dpdx/images/life_cycle_numbers/new/4.jpg) . The location of this
+developmental stage within the host cell varies by genus; it can occur either
+in direct contact with the host cell cytosol ( _Enterocytozoon, Nosema_ ),
+inside a parasitophorous vacuole of unknown origin ( _Encephalitozoon_ ), in a
+parasite-secreted envelope ( _Pleistophora, Trachipleistophora_ ), or
+surrounded by the host cell endoplasmic reticulum ( _Endoreticulatus,
+Vittaforma_ ) ![image](/dpdx/images/life_cycle_numbers/new/5.jpg) .  Following
+the proliferative phase, meronts undergo sporogony in which the thick spore
+wall and invasion apparatus develop, creating sporonts and eventually mature
+spores when all organelles are polarized. When the spores increase in number
+and completely fill the host cell cytoplasm, the cell membrane is disrupted
+and spores are released to the surroundings
+![image](/dpdx/images/life_cycle_numbers/new/6.jpg) . These free mature spores
+can infect new cells thus continuing the cycle.
+
+Mature spores of intestinal-localizing species may be shed in feces, although
+the route of transmission remains uncertain for many species. Exposure to
+spores in water or in soil appears to be a potentially major route, based on
+the finding of spores in these sources along with case histories. _E.
+bieneusi_ and _V. corneae_ have been identified in surface waters, and spores
+of _Nosema_ sp. (and likely _A. algerae_ ) have been identified in ditch
+water. Cases of donor-derived microsporidiosis ( _Encephalitozoon cuniculi_ )
+following bone marrow, kidney, liver, and heart transplantation have been
+confirmed.
+
+### Hosts
+
+Many domestic and wild animals may be naturally infected with various
+medically-important microsporidia. _Enterocytozoon bieneusi_ is generally
+considered a human parasite, but has been detected in swine, primates, cattle,
+cats, dogs, and several other mammals. Some, but not all, of these animal-
+derived strains appear to represent zoonotic genotypes.
+
+_Encephalitozoon cuniculi_ is endemic in several captive and wild rabbit
+populations. It has also occasionally been found in domestic dogs, cats,
+foxes, captive monkeys, and mink. Birds, especially psittacines (parrots,
+parakeets, love birds, budgerigars, etc.), may represent reservoirs for
+_Encephalitozoon hellem_. Unlike the other two important members of the genus,
+_E. intestinalis_ is only rarely identified in animals other than humans.
+
+The host range of the other microsporidia known to infect humans is not as
+well known. No animal reservoir has been identified for _Vittaforma cornea._
+_Pleistophora_ spp. are found in fish and reptiles, but spore morphology in
+these species is inconsistent with that of the species implicated in human
+infections ( _P. ronneafiei_ ). _Tubulinosema acridophagus,_
+_Trachipleistophora_ spp., and _Anncaliia algerae_ are related to known insect
+parasites, however, the significance of insects in transmission is unclear.
+
+### Geographic Distribution
+
+Microsporidia are being increasingly recognized as opportunistic infectious
+agents worldwide. Efforts to characterize the global distribution of species
+and genotypes are ongoing.
+
+### Clinical Presentation
+
+Human microsporidiosis represents an important and rapidly emerging
+opportunistic disease. Historically it has been observed in severely
+immunocompromised persons, particularly among persons with AIDS, however the
+implementation of effective anti-retroviral therapies has reduced the
+incidence in this group considerably. Cases are also known to occur in
+immunocompetent individuals. The clinical manifestations of microsporidiosis
+are very diverse, varying according to the causal species and route of
+infection. Disseminated infection can be fatal. Of all of the manifestations
+of microsporidiosis, _Enterocytozoon bieneusi-_ associated diarrhea is the
+most common. Below is a table summarizing the typical sites of infection for
+various species:
+
+  Species | Known sites of localization  
+---|---  
+_Anncaliia algerae_ | Eyes, muscle  
+_Anncaliia connori_ | Systemic  
+_Anncaliia vesicularum_ | Muscle  
+_Encephalitozoon cuniculi_ | Systemic  
+_Encephalitozoon hellem_ | Eyes  
+_Encephalitozoon intestinalis_ | Small intestine  
+_Enterocytozoon bieneusi_ | Small intestine, biliary tree  
+_Microsporidium_ spp. | Eyes  
+_Nosema ocularum_ | Eyes  
+_Pleistophora ronneafiei_ | Muscle  
+_Trachipleistophora anthropopthera_ | Systemic  
+_Trachipleistophora hominis_ | Eyes, muscle  
+_Tubulinosema acridophagus_ | Systemic  
+_Vittaforma corneae_ | Eyes  
+  
+Adapted from: Han, B. and Weiss, L.M., 2017. Microsporidia: obligate
+intracellular pathogens within the fungal kingdom. _Microbiology Spectrum_ , 5
+(2).
+
+Electron micrographs of microsporidia.
+
+![Figure A: Scanning electron micrograph showing an eukaryotic cell bursting
+and releasing spores of <em>Encephalitozoon hellem</em> to the extracellular
+medium.](/dpdx/microsporidiosis/images/1/E_hellum_SEM_2012.jpg)
+
+Figure A: Scanning electron micrograph showing an eukaryotic cell bursting and
+releasing spores of _Encephalitozoon hellem_ to the extracellular medium.
+
+![Figure B: Electron micrograph of an eukaryotic cell with <em>Encephalitozoon
+intestinalis</em> spores and developing forms inside a septated
+parasitophorous vacuole. The vacuole is a characteristic feature of this
+microsporidian
+species.](/dpdx/microsporidiosis/images/1/Eintestinalis_spores_EM_2012.jpg)
+
+Figure B: Electron micrograph of an eukaryotic cell with _Encephalitozoon
+intestinalis_ spores and developing forms inside a septated parasitophorous
+vacuole. The vacuole is a characteristic feature of this microsporidian
+species.
+
+![Figure C: Electron micrograph of an <em>Enterocytozoon bieneusi</em> spore.
+Arrows indicate the double rows of polar tubule coils in cross section which
+characterize a mature E. bieneusi
+spore.](/dpdx/microsporidiosis/images/1/msp_EM_arrows_2012.jpg)
+
+Figure C: Electron micrograph of an _Enterocytozoon bieneusi_ spore. Arrows
+indicate the double rows of polar tubule coils in cross section which
+characterize a mature E. bieneusi spore.
+
+![Figure D: Transmission electron micrograph of <em>E. intestinalis</em>
+depicting developing forms inside a parasitophorous vacuole \(red arrows\)
+with mature spores \(black
+arrows\).](/dpdx/microsporidiosis/images/1/msp_parasit_vac2012.jpg)
+
+Figure D: Transmission electron micrograph of _E. intestinalis_ depicting
+developing forms inside a parasitophorous vacuole (red arrows) with mature
+spores (black arrows).
+
+![Figure E: Scanning electron micrograph of a microsporidian spore with an
+extruded polar tubule inserted into a eukaryotic cell. The spore injects the
+infective sporoplasms through its polar
+tubule.](/dpdx/microsporidiosis/images/1/msp_tubule_EM_2012.jpg)
+
+Figure E: Scanning electron micrograph of a microsporidian spore with an
+extruded polar tubule inserted into a eukaryotic cell. The spore injects the
+infective sporoplasms through its polar tubule.
+
+![Figure F: Transmission electron micrograph of a microsporidian spore with an
+extruded polar tubule inserted into a eukaryotic cell. The spore injects the
+infective sporoplasms through its polar tubule. Figure courtesy of Dr. Massimo
+Scaglia, Laboratory of Clinical Parasitology, Institute of Infectious
+Diseases, University-IRCCS San Matteo, Pavia,
+Italy.](/dpdx/microsporidiosis/images/1/msp_tubule_EM2_2012.jpg)
+
+Figure F: Transmission electron micrograph of a microsporidian spore with an
+extruded polar tubule inserted into a eukaryotic cell. The spore injects the
+infective sporoplasms through its polar tubule. Figure courtesy of Dr. Massimo
+Scaglia, Laboratory of Clinical Parasitology, Institute of Infectious
+Diseases, University-IRCCS San Matteo, Pavia, Italy.
+
+Microsporidia stained with Chromotrope 2R and Gram chromotrope stains.
+
+![Figure A: <em>Encephalitozoon cuniculi</em> spores stained with Gram
+Chromotrope.](/dpdx/microsporidiosis/images/2/Ecuniculi_spores_gramchromo_2012.jpg)
+
+Figure A: _Encephalitozoon cuniculi_ spores stained with Gram Chromotrope.
+
+![Figure B: <em>Encephalitozoon cuniculi</em> spores stained with Gram
+Chromotrope.](/dpdx/microsporidiosis/images/2/Ecuniculi_spores_gramchromo2_2012.jpg)
+
+Figure B: _Encephalitozoon cuniculi_ spores stained with Gram Chromotrope.
+
+![Figure C: <em>Encephalitozoon cuniculi</em> spores stained with Gram
+Chromotrope.](/dpdx/microsporidiosis/images/2/Ecuniculi_spores_gramchromo3_2012.jpg)
+
+Figure C: _Encephalitozoon cuniculi_ spores stained with Gram Chromotrope.
+
+![Figure D: <em>Enterocytozoon bieneusi</em> spores stained with Chromotrope
+2R.](/dpdx/microsporidiosis/images/2/Ebieneusi_spores_chromo2012.jpg)
+
+Figure D: _Enterocytozoon bieneusi_ spores stained with Chromotrope 2R.
+
+![Figure E: Unidentified microsporidia stained with Chromotrope
+2R.](/dpdx/microsporidiosis/images/2/Microsporidia_2012.jpg)
+
+Figure E: Unidentified microsporidia stained with Chromotrope 2R.
+
+#####  _Encephalitozoon cuniculi_ in urine and kidney biopsy specimens,
+stained with Ryan's modified trichrome stain.
+
+
+
+The following images are from a case of disseminated microsporidiosis caused
+by _Encephalitozoon cuniculi_ , courtesy of the Mayo Clinic, Rochester, MN.
+**Figures A-C** are from urine; **Figure D** is from a kidney biopsy specimen.
+
+![Figure A: Spores of <em>E. cuniculi</em> from urine stained with Ryan's
+modified trichrome \(Trichrome
+blue\).](/dpdx/microsporidiosis/images/3/Ec_MAYO_Trichrome1.jpg)
+
+Figure A: Spores of _E. cuniculi_ from urine stained with Ryan's modified
+trichrome (Trichrome blue).
+
+![Figure B: Spores of <em>E. cuniculi</em> from urine stained with Ryan's
+modified trichrome \(Trichrome
+blue\).](/dpdx/microsporidiosis/images/3/Ec_MAYO_Trichrome2.jpg)
+
+Figure B: Spores of _E. cuniculi_ from urine stained with Ryan's modified
+trichrome (Trichrome blue).
+
+![Figure C: Spores of <em>E. cuniculi</em> from urine stained with Ryan's
+modified trichrome.](/dpdx/microsporidiosis/images/3/Ec_MAYO_Trichrome3.jpg)
+
+Figure C: Spores of _E. cuniculi_ from urine stained with Ryan's modified
+trichrome.
+
+![Figure D: Spores of <em>E. cuniculi</em> in a kidney biopsy specimen stained
+with Ryan's modified
+trichrome.](/dpdx/microsporidiosis/images/3/Ec_MAYO_KidneyTrichrome.jpg)
+
+Figure D: Spores of _E. cuniculi_ in a kidney biopsy specimen stained with
+Ryan's modified trichrome.
+
+#####  _Tubulinosema acridophagus_ in bronchoalveolar lavage (BAL) specimens,
+stained with Chromotrope 2R stain.
+
+
+
+Spores of _Tubulinosema acridophagus_ in bronchoalveolar lavage (BAL)
+specimens, stained with Chromotrope 2R stain. The case from which the
+following images were taken is courtesy of the National Institutes of Health,
+Bethesda, MD.
+
+![Figure A: Spores of <em>T. acridophagus</em> in BAL specimens, stained with
+Chromotrope 2R
+stain.](/dpdx/microsporidiosis/images/4/Tub_acrid_NIH_2012a.jpg)
+
+Figure A: Spores of _T. acridophagus_ in BAL specimens, stained with
+Chromotrope 2R stain.
+
+![Figure B: Spores of <em>T. acridophagus</em> in BAL specimens, stained with
+Chromotrope 2R
+stain.](/dpdx/microsporidiosis/images/4/Tub_acrid_NIH_2012b.jpg)
+
+Figure B: Spores of _T. acridophagus_ in BAL specimens, stained with
+Chromotrope 2R stain.
+
+![Figure C: Spores of <em>Tubulinosema acridophagus</em> in \(BAL\) specimens,
+stained with Chromotrope 2R
+stain.](/dpdx/microsporidiosis/images/4/Tub_acrid_NIH_2012c.jpg)
+
+Figure C: Spores of _Tubulinosema acridophagus_ in (BAL) specimens, stained
+with Chromotrope 2R stain.
+
+![Figure D: Spores of <em>Tubulinosema acridophagus</em> in \(BAL\) specimens,
+stained with Chromotrope 2R
+stain.](/dpdx/microsporidiosis/images/4/Tub_acrid_NIH_2012d.jpg)
+
+Figure D: Spores of _Tubulinosema acridophagus_ in (BAL) specimens, stained
+with Chromotrope 2R stain.
+
+##### Ocular microsporidiosis stained with trichrome and Giemsa.
+
+
+
+A case of ocular microsporidiosis. At the time of this writing, the species
+had not been confirmed. All images courtesy of the Swedish Institute of
+Communicable Diseases Control, Solna, Sweden.
+
+![Figure A: Microsporidia spores from a corneal section, stained with
+Giemsa.](/dpdx/microsporidiosis/images/5/msp_Sweden1.jpg)
+
+Figure A: Microsporidia spores from a corneal section, stained with Giemsa.
+
+![Figure B: A single microsporidia spore from the same case as Figure A,
+stained with Giemsa. In this image, the polar tubule has been
+extruded.](/dpdx/microsporidiosis/images/5/msp_Sweden2.jpg)
+
+Figure B: A single microsporidia spore from the same case as Figure A, stained
+with Giemsa. In this image, the polar tubule has been extruded.
+
+![Figure C: Microsporidia spores from a corneal section, stained with
+trichrome.](/dpdx/microsporidiosis/images/5/msp_Sweden3.jpg)
+
+Figure C: Microsporidia spores from a corneal section, stained with trichrome.
+
+![Figure D: Microsporidia spores from a corneal section, stained with
+trichrome.](/dpdx/microsporidiosis/images/5/msp_Sweden4.jpg)
+
+Figure D: Microsporidia spores from a corneal section, stained with trichrome.
+
+_Encephalitozoon intestinalis_ stained with Calcofluor white.
+
+![Figure A: <em>Encephalitozoon intestinalis</em> stained with Calcofluor
+white.](/dpdx/microsporidiosis/images/6/E_intestinalis_calcofluor_2012.jpg)
+
+Figure A: _Encephalitozoon intestinalis_ stained with Calcofluor white.
+
+Monoclonal antibody-based immunofluorescence identification of
+_Encephalitozoon hellem_.
+
+![Figure A: Monoclonal antibody-based immunofluorescence identification of
+<em>Encephalitozoon
+hellem</em>.](/dpdx/microsporidiosis/images/7/Ehellem_spores_IFA_2012.jpg)
+
+Figure A: Monoclonal antibody-based immunofluorescence identification of
+_Encephalitozoon hellem_.
+
+#### Microscopy
+
+Light microscopic examination of the stained clinical smears, especially the
+fecal samples, is an inexpensive method of diagnosing microsporidial
+infections even though it does not allow identification of microsporidia to
+the species level. The most widely used staining technique is the Chromotrope
+2R method or its modifications. This technique stains the spore and the spore
+wall a bright pinkish red. Often, a darker-staining equatorial band is seen in
+the middle of the spore. This technique, however, is lengthy and time
+consuming and requires about 90 min. A recently developed "Quick-Hot Gram
+Chromotrope technique" however, cuts down the staining time to less than 10
+min and provides a good differentiation from the lightly stained background
+fecal materials so that the spores stand out for easy visualization.  The
+spores stain dark violet and the equatorial band is enhanced. In some cases
+dark staining Gram positive granules are also clearly seen.  Chemofluorescent
+agents such as Calcofluor white are also useful in the quick identification of
+spores in fecal smears. The spores measure from 0.8 to 1.4 µm in the case of
+_Enterocytozoon bieneusi_ , and 1.5 to 4 µm in _Anncaliia algerae_ ,
+_Encephalitozoon_ spp., _Vittaforma corneae_ , and _Nosema_ spp.
+
+Transmission electron microscopy (TEM) is still the gold standard and is
+necessary for the identification of the microsporidian species, which is based
+on internal features of the spore such as the number of polar tubule coils.
+However, TEM is expensive, time consuming, and not feasible for routine
+diagnosis.
+
+#### Immunofluorescence Assays (IFA)
+
+IFAs are available for microsporidia using monoclonal and/or polyclonal
+antibodies.
+
+#### Molecular Methods (PCR)
+
+The CDC offers molecular identification of _Enterocytozoon bieneusi_ ,
+_Encephalitozoon intestinalis_ , _Encephalitozoon hellem_ and _Encephalitozoon
+cuniculi_ using species-specific polymerase chain reaction (PCR) assays.
+Molecular identification of other microsporidia species can be attempted using
+genera-specific primers and sequencing analysis on a case-by-case basis.
+
+#### Diagnostic References:
+
+Da Silva, A.J., Schwartz, D.A., Visvesvara, G.S., De Moura, H., Slemenda, S.B.
+and Pieniazek, N.J., 1996. Sensitive PCR diagnosis of Infections by
+_Enterocytozoon bieneusi_ (microsporidia) using primers based on the region
+coding for small-subunit rRNA. _Journal of Clinical Microbiology_ , _34_ (4),
+pp.986--987.
+
+Del Aguila, C., Croppo, G.P., Moura, H., Da Silva, A.J., Leitch, G.J., Moss,
+D.M., Wallace, S., Slemenda, S.B., Pieniazek, N.J. and Visvesvara, G.S., 1998.
+Ultrastructure, immunofluorescence, Western blot, and PCR analysis of eight
+isolates of _Encephalitozoon_ (= _Septata_ ) _intestinalis_ established in
+culture from sputum and urine samples and duodenal aspirates of five patients
+with AIDS. _Journal of Clinical Microbiology_ , _36_ (5), pp.1201--1208.
+
+#### Laboratory safety
+
+Microsporidial spores in diagnostic samples pose a risk of infection for
+laboratory workers. All procedures should be conducted under BSL2 conditions,
+observing standard precautions for stool samples and with all processing
+performed in a biosafety cabinet. The use and/or manipulation of contact
+lenses is discouraged and eye protection should always be worn. One case of
+laboratory-acquired ocular microsporidiosis has been reported due to splash
+exposure while not wearing appropriate eye protection.
+
+### Suggested Reading
+
+Han, B. and Weiss, L.M., 2017. Microsporidia: obligate intracellular pathogens
+within the fungal kingdom. _Microbiology Spectrum_ , _5_ (2).
+
+Watts, M.R., Chan, R.C., Cheong, E.Y., Brammah, S., Clezy, K.R., Tong, C.,
+Marriott, D., Webb, C.E., Chacko, B., Tobias, V. and Outhred, A.C., 2014.
+_Anncaliia algerae_ microsporidial myositis. _Emerging Infectious Diseases_ ,
+_20_ (2), p.185.
+
+Meissner, E.G., Bennett, J.E., Qvarnstrom, Y., da Silva, A., Chu, E.Y.,
+Tsokos, M. and Gea-Banacloche, J., 2012. Disseminated microsporidiosis in an
+immunosuppressed patient. _Emerging Infectious Diseases_ , _18_ (7), p.1155.
+
+Mathis, A., Weber, R. and Deplazes, P., 2005. Zoonotic potential of the
+microsporidia. _Clinical Microbiology Reviews_ , _18_ (3), pp.423-445.
+
+DPDx is an educational resource designed for health professionals and
+laboratory scientists. For an overview including prevention, control, and
+treatment visit www.cdc.gov/parasites/.
+
+Page last reviewed: May 29, 2019
+
+Content source: Global Health, Division of Parasitic Diseases and Malaria
+
+home DPDx Home
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Parasites A-Z Index
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Monthly Case Studies
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Diagnostic Proceduresplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Blood Specimensplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Safety
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Specimen Collection
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Specimen Processing
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Shipment
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Staining
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Microscopic examination
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Molecular diagnosis
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Extraction of DNA from blood specimens
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Detection of parasite antigens
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Isolation of organisms
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Special tests
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Stool Specimensplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Safety
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Specimen Collection
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Specimen Processing
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Shipment
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Staining
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Microscopic examination
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Detection of parasite antigens
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Molecular diagnosis
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Extraction of Parasite DNA from Fecal Specimens
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Morphologic comparison of intestinal parasites
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Serum/Plasma Specimensplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Safety
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Specimen Requirements
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Specimen Submission
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Detection of Antibodies
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Antibody Detection Test
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Other Specimensplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Shipment
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Tissue
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Tissue specimens for free-living amebae(FLA)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Isolation of Leishmania organisms
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Sputum
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Aspirates
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Sputum, induced sputum, and bronchoalveolar avage (BAL)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Vaginal swabs for diagnosis
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Procedure for demonstration of pinworm eggs
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Urine
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Whole Organisms
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Diagnostic Assistance
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Training
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Contact Us
+
+Social_govd govD  Get Email Updates
+
+To receive email updates about this page, enter your email address:
+
+Email Address
+
+What's this?
+
+Submit
+
+**HAVE QUESTIONS?**
+
+Visit CDC-INFO
+
+Call 800-232-4636
+
+Email CDC-INFO
+
+Open 24/7
+
+**CDC INFORMATION**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * About CDC
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Jobs
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Funding
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Policies
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * File Viewers & Players
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Privacy
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * FOIA
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * No Fear Act
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * OIG
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Nondiscrimination
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Accessibility
+
+**CONNECT WITH CDC**  
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Facebook
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Twitter
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Youtube
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Instagram
+  
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Syndicate
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * CDC TV
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * RSS
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Email
+
+U.S. Department of Health & Human Services
+
+USA.gov
+
+CDC Website Exit Disclaimer external icon
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Facebook
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Twitter
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * LinkedIn
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Email
+
+![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+
+#### Exit Notification/Disclaimer Policy
+
+Close
+
+**Links with this icon indicate that you are leaving the CDC website.**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * You will be subject to the destination website's privacy policy when you follow the link.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+For more information on CDC's web notification policies, see Website
+Disclaimers.
+
+Cancel Continue
+
+  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
+  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
+  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
+  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
+  *[PDF]: Portable Document Format
+  *[PDF-2.96 MB]]: Portable Document Format
+  *[PDF-2.25 MB]]: Portable Document Format
+  *[PDF-6.14 MB]]: Portable Document Format
+  *[PDF-2.65MB]]: Portable Document Format
+  *[GTSS]: Global Tobacco Surveillance System
+  *[GATS]: Global Adult Tobacco Survey
+  *[CDC]: Centers for Disease Control and Prevention
+  *[NTCP]: National Tobacco Control Program
+  *[OSH]: Office on Smoking and Health
+  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
+  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
+  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
+  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
+  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
+  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
+  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
+  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
+  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
+  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
+  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
+  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
+  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
+  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
+  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
+  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
+  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
+  *[15 hrs]: Monday, April 6, 2020 at 9:38 AM
+  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
+  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
+  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
+  *[10 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[]: You have unseen notifications
+  *[April 3 at 5:08 AM]: Friday, April 3, 2020 at 5:08 AM
+  *[April 1 at 8:09 AM]: Wednesday, April 1, 2020 at 8:09 AM
+

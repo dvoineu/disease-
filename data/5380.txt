@@ -1,0 +1,404 @@
+
+
+Skip directly to site content Skip directly to page options Skip directly to
+A-Z link
+
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People Centers for Disease Control and Prevention. CDC
+twenty four seven. Saving Lives, Protecting People
+
+Search __ Search Icon Close Icon
+
+Ã Coronavirus
+
+Coronavirus All CDC
+
+Submit __
+
+For a full list of topics: All A-Z Topics
+
+Middle East Respiratory Syndrome (MERS)
+
+Section Navigation
+
+CDC Home
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Facebook
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Twitter
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * LinkedIn
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Email
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Syndicate
+
+# Interim Guidelines for Collecting, Handling, and Testing Clinical Specimens
+from Persons Under Investigation (PUIs) for Middle East Respiratory Syndrome
+Coronavirus (MERS-CoV) â _Version 2.1_
+
+Minus
+
+Related Pages
+
+Printer-friendly file pdf icon[4 pages]
+
+Before collecting and handling specimens for Middle East Respiratory Syndrome
+Coronavirus (MERS-CoV) testing, determine whether the person meets the current
+definition for a "person under investigation" (PUI) for MERS-CoV infection
+prepared by the Centers for Disease Control and Prevention (CDC). See case
+definitions.
+
+## Specimen Type and Priority
+
+To date, we don't fully understand the pathogenic potential and transmission
+dynamics of MERS-CoV. To increase the likelihood of detecting infection, CDC
+recommends collecting multiple specimens from different sites at different
+times after symptom onset, if possible.
+
+Points to consider when determining which specimen types to collect from a
+person under investigation for MERS include:
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * The number of days between specimen collection and symptom onset
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Symptoms at the time of specimen collection
+
+Additional points to consider:
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Maintain proper infection control when collecting specimens
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Use approved collection methods and equipment when collecting specimens
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Handle, store, and ship specimens following appropriate protocols
+
+**_Collection of all three specimen types (not just one or two of the three),
+lower respiratory, upper respiratory and serum specimens for testing using the
+CDC MERS rRT-PCR assay is recommended._** Lower respiratory specimens are
+preferred, but collecting nasopharyngeal and oropharyngeal (NP/OP) specimens,
+and serum, are strongly recommended depending upon the length of time between
+symptom onset and specimen collection. Respiratory specimens should be
+collected as soon as possible after symptoms begin - ideally within 7 days.
+However, if more than a week has passed since symptom onset and the patient is
+still symptomatic, respiratory samples should still be collected, especially
+lower respiratory specimens since respiratory viruses can still be detected by
+rRT-PCR. For example,
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          1. if symptom onset for a PUI with respiratory symptoms was less than 14 days ago, a single serum specimen (see Section II. _Serum_ ), an NP/OP specimen and lower respiratory specimen (see Section I. _Respiratory Specimens_ ) should be collected for CDC MERS rRT-PCR testing.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          2. if symptom onset for a PUI with an ongoing respiratory tract infection, especially lower, was 14 or more days ago, a single serum specimen for serologic testing (see Section II. _Serum_ ) in addition to a lower respiratory specimen and an NP/OP specimen (see Section I. _Respiratory Specimens_ ) are recommended.
+
+
+
+## General Guidelines
+
+For short periods (≤ 72 hours), most specimens should be held at 2-8°C rather
+than frozen. For delays exceeding 72 hours, freeze specimens at -70°C as soon
+as possible after collection (with exceptions noted below). Label each
+specimen container with the patient's ID number, specimen type and the date
+the sample was collected.
+
+### I. Respiratory Specimens
+
+#### A. Lower respiratory tract
+
+##### Broncheoalveolar lavage, tracheal aspirate, pleural fluid
+
+Collect 2-3 mL into a sterile, leak-proof, screw-cap sputum collection cup or
+sterile dry container. Refrigerate specimen at 2-8°C up to 72 hours; if
+exceeding 72 hours, freeze at -70°C and ship on dry ice.
+
+##### Sputum
+
+Have the patient rinse the mouth with water and then expectorate deep cough
+sputum directly into a sterile, leak-proof, screw-cap sputum collection cup or
+sterile dry container. Refrigerate specimen at 2-8°C up to 72 hours; if
+exceeding 72 hours, freeze at -70°C and ship on dry ice.
+
+#### B. Upper respiratory tract
+
+##### Nasopharyngeal swab _AND_ oropharyngeal swab (NP/OP swab)
+
+Use only synthetic fiber swabs with plastic shafts. Do not use calcium
+alginate swabs or swabs with wooden shafts, as they may contain substances
+that inactivate some viruses and inhibit PCR testing. Place swabs immediately
+into sterile tubes containing 2-3 ml of viral transport media. NP/OP specimens
+can be combined, placing both swabs in the same vial. Refrigerate specimen at
+2-8°C up to 72 hours; if exceeding 72 hours, freeze at -70°C and ship on dry
+ice.
+
+Nasopharyngeal swab - Insert a swab into the nostril parallel to the palate.
+Leave the swab in place for a few seconds to absorb secretions. Swab both
+nasopharyngeal areas.  
+Oropharyngeal swab (e.g., throat swab) - Swab the posterior pharynx, avoiding
+the tongue.
+
+##### Nasopharyngeal wash/aspirate or nasal aspirate
+
+Collect 2-3 mL into a sterile, leak-proof, screw-cap sputum collection cup or
+sterile dry container. Refrigerate specimen at 2-8°C up to 72 hours; if
+exceeding 72 hours, freeze at -70°C and ship on dry ice.
+
+### II. Serum
+
+#### Serum (for serologic testing)
+
+**For serum antibody testing:** Because we do not want to delay detection of
+MERS infection and since the prevalence of MERS in the US is low, serologic
+testing on a single serum sample collected 14 or more days after symptom onset
+may be beneficial. This is in contrast to serologic testing for many other
+respiratory pathogens which require collection and testing of acute and
+convalescent serum specimens. Serologic testing is currently available at CDC
+upon request and approval. Please be aware that the MERS-CoV serologic test is
+for research/surveillance purposes and not for diagnostic purposes--it is a
+tool developed in response to the MERS-CoV outbreak. Contact CDC's Emergency
+Operations Center (EOC) (770-488-7100) for consultation and approval if
+serologic testing is being considered.
+
+#### Serum (for rRT-PCR testing)
+
+**For rRT-PCR testing (i.e., detection of the virus and not antibodies):** A
+single serum specimen collected optimally during the first 10-12 days after
+symptom onset is recommended. Note: The kinetics of MERS-CoV are not well
+understood. Once additional data become available, these recommendations will
+be updated as needed.
+
+**Minimum serum volume needed:** The minimum amount of serum required for
+MERS-CoV testing (either serologic **or** rRT-PCR) is 200 µL. If both MERS-CoV
+serology **and** rRT-PCR tests are planned, the minimum amount of serum
+required is 400 µL (200 µL for each test). Serum separator tubes should be
+stored upright for at least 30 minutes, and then centrifuged at 1000-1300
+relative centrifugal force (RCF) for 10 minutes before removing the serum and
+placing it in a separate sterile tube for shipping (such as a cryovial).
+Refrigerate the serum specimen at 2-8°C and ship on ice-pack; freezing and
+shipment of serum on dry ice is permissible.
+
+**_Children and adults:_** Collect 1 tube (5-10 mL) of whole blood in a serum
+separator tube.
+
+**_Infant:_** A minimum of 1 mL of whole blood is needed for testing pediatric
+patients. If possible, collect 1 mL in a serum separator tube.
+
+### III. Shipping
+
+Specimens from suspected MERS cases must be packaged, shipped, and transported
+according to the current edition of the International Air Transport
+Association (IATA) Dangerous Goods Regulationsexternal icon. Shipments from
+outside of the United States may require an importation permit that can be
+obtained from CDC.
+
+Specimens should be stored and shipped at the temperatures indicated above. If
+samples are unable to be shipped within 72 hours of collection, they should be
+stored at -70°C and shipped on dry ice. When shipping frozen specimen from
+long distances or from international locations, it is best to use a
+combination of dry ice and frozen gel ice-packs. The gel ice-packs will remain
+frozen for a day or two after the dry ice has dissipated.
+
+All specimens must be pre-packed to prevent breakage and spillage. Specimen
+containers should be sealed with Parafilm® and placed in ziplock bags. Place
+enough absorbent material to absorb the entire contents of the Secondary
+Container (containing Primary Container) and separate the Primary Containers
+(containing specimen) to prevent breakage. Send specimens with cold packs or
+other refrigerant blocks that are self-contained, not actual wet ice. This
+prevents leaking and the appearance of a spill. When large numbers of
+specimens are being shipped, they should be organized in a sequential manner
+in boxes with separate compartments for each specimen.
+
+Additional useful and detailed information on packing, shipping, and
+transporting specimens can be found at Interim Laboratory Biosafety Guidelines
+for Handling and Processing Specimens Associated with Middle East Respiratory
+Syndrome Coronavirus (MERS-CoV).
+
+CDC recommends against the following:
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Do not place any dry ice in the "Primary Container" or "Secondary Container", foam envelopes, ziplock bags, cryovial boxes, or hermetically sealed containers.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Do not place Primary Containers sideways or upside down in ziplock bags.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Do not place any paperwork in the Secondary Containers or ziplock bags, so as not to damage the paperwork.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Do not use biohazard/autoclave bags to prepack your materials due to the inadequate seal of these bags.
+
+_For additional information, consultation, or the CDC shipping address,
+contact the CDC Emergency Operations Center (EOC) at 770-488-7100. Specimens
+should be shipped for overnight delivery - if Saturday delivery is planned,
+special arrangements must be made with the shipping company._
+
+Summary of MERS-CoV rRT-PCR Testing Guidelines for Specimens
+
+Many state health department laboratories are approved for MERS-CoV testing
+using the CDC rRT-PCR assay. Contact your local/state health department to
+notify them of the PUI and to request MERS-CoV testing. If your state health
+department is unable to test, contact CDC's EOC at 770-488-7100.
+
+Testing for MERS-CoV and other respiratory pathogens can be done
+simultaneously. Virus isolation in cell culture and initial characterization
+of viral agents recovered in cultures of MERS-CoV specimens are NOT
+recommended at this time. However, if done, these activities must be performed
+in a BSL-3 facility using BSL-3 work practices.
+
+##### **Test for MERS-CoV**
+
+The laboratory must follow the protocol for the CDC rRT-PCR assay. "NEGATIVE"
+test results should be reported through the CDC Laboratory Response Network
+(LRN) within 24 hours. When a "PRESUMPTIVE POSITIVE" or "EQUIVOCAL" test
+result is obtained, CDC must be contacted immediately as per the assay
+protocol, and the result must also be reported to the LRN within 6 hours.
+Confirmation of a "PRESUMPTIVE POSITIVE" result by CDC is required, however
+this should not delay the local investigation and response, including the
+contact investigation.
+
+##### **Test for Other Respiratory Pathogens**
+
+Testing for common respiratory pathogens by molecular or antigen detection
+methods (not by viral culture) is strongly recommended. Common respiratory
+pathogens include 1) influenza A, influenza B, respiratory syncytial virus,
+human metapneumovirus, human parainfluenza viruses, adenovirus, human
+rhinovirus and other respiratory viruses; 2) _Streptococcus pneumoniae_ ,
+_Chlamydia pneumophila,_ and other pathogens that cause severe lower
+respiratory infections. Clinical presentation, epidemiologic and surveillance
+information, and season should be considered when selecting which pathogens to
+test for. A few MERS-CoV cases have had other respiratory pathogens detected,
+so identification of a respiratory pathogen prior to MERS-CoV testing should
+not preclude testing for MERS-CoV, especially if MERS is strongly suspected.
+If your laboratory does not have molecular or antigen testing capability for
+respiratory pathogens, contact your state laboratory for assistance.
+
+View Page In:pdf icon PDF [394K]
+
+Page last reviewed: August 2, 2019
+
+Content source: National Center for Immunization and Respiratory Diseases
+(NCIRD), Division of Viral Diseases
+
+home MERS Home
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * About MERS expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Symptoms & Complications
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Transmission
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Prevention & Treatment
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * People at Increased Risk for MERS
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * FAQs
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * MERS in the U.S.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Healthcare Professionals expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Interim Guidance for Health Professionals
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Clinical Features
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Preparedness expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Healthcare Provider Checklist
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Healthcare Facility Checklist
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Infection Prevention and Control
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Monitoring and Movement Guidance
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Home Care and Isolation or Quarantine expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Prevent Spreading in Homes and Communities
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Air Transport
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Laboratories expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Laboratory Testing for MERS-CoV
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Guidelines for Clinical Specimens
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Lab Biosafety Guidelines
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Guidance for Travel
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Related Materials expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Photos
+
+Related Links
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Coronavirus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * SARS
+
+**HAVE QUESTIONS?**
+
+Visit CDC-INFO
+
+Call 800-232-4636
+
+Email CDC-INFO
+
+Open 24/7
+
+**CDC INFORMATION**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * About CDC
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Jobs
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Funding
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Policies
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * File Viewers & Players
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Privacy
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * FOIA
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * No Fear Act
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * OIG
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Nondiscrimination
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Accessibility
+
+**CONNECT WITH CDC**  
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Facebook
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Twitter
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Youtube
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Instagram
+  
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Syndicate
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * CDC TV
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * RSS
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Email
+
+U.S. Department of Health & Human Services
+
+USA.gov
+
+CDC Website Exit Disclaimer external icon
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Facebook
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Twitter
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * LinkedIn
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Email
+
+![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+
+SAS stats
+
+#### Exit Notification/Disclaimer Policy
+
+Close
+
+**Links with this icon indicate that you are leaving the CDC website.**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * You will be subject to the destination website's privacy policy when you follow the link.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+For more information on CDC's web notification policies, see Website
+Disclaimers.
+
+Cancel Continue
+
+  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
+  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
+  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
+  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
+  *[PDF]: Portable Document Format
+  *[PDF-2.96 MB]]: Portable Document Format
+  *[PDF-2.25 MB]]: Portable Document Format
+  *[PDF-6.14 MB]]: Portable Document Format
+  *[PDF-2.65MB]]: Portable Document Format
+  *[GTSS]: Global Tobacco Surveillance System
+  *[GATS]: Global Adult Tobacco Survey
+  *[CDC]: Centers for Disease Control and Prevention
+  *[NTCP]: National Tobacco Control Program
+  *[OSH]: Office on Smoking and Health
+  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
+  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
+  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
+  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
+  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
+  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
+  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
+  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
+  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
+  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
+  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
+  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
+  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
+  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
+  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
+  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
+  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
+  *[15 hrs]: Monday, April 6, 2020 at 9:38 AM
+  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
+  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
+  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
+  *[10 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[]: You have unseen notifications
+  *[April 3 at 5:08 AM]: Friday, April 3, 2020 at 5:08 AM
+  *[April 1 at 8:09 AM]: Wednesday, April 1, 2020 at 8:09 AM
+

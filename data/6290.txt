@@ -1,0 +1,485 @@
+ï»¿
+
+Skip directly to search Skip directly to A to Z list Skip directly to site
+content
+
+CDC Home
+
+![CDC. Centers for Disease Control and Prevention. CDC 24/7: Saving Lives.
+Protecting People.](/TemplatePackage/images/cdcHeaderLogo.gif)CDC 24/7: Saving
+Lives. Protecting People.™
+
+Search The CDC
+
+Note: Javascript is disabled or is not supported by your browser. For this
+reason, some items on this page will be unavailable. For more information
+about this message, please visit this page: About CDC.gov.
+
+## Morbidity and Mortality Weekly Report ( _MMWR_ )
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * _MMWR_
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          *  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          *  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          *  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          *  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          *  
+
+![Share](/TemplatePackage/images/social/sm-plus.gif)ShareCompartir
+
+# Outbreak of _Salmonella_ Newport Infections Linked to Cucumbers -- United
+States, 2014
+
+Kristina M. Angelo, DO1,2, Alvina Chu, MHS3, Madhu Anand, MPH4, Thai-An
+Nguyen, MPH2, Lyndsay Bottichio, MPH2, Matthew Wise, PhD2, Ian Williams, PhD2,
+Sharon Seelman, MS, MBA5, Rebecca Bell, PhD5, Marianne Fatica, PhD5, Susan
+Lance, DVM, PhD5, Deanna Baldwin6, Kyle Shannon3, Hannah Lee, MPH3, Eija
+Trees, PhD2, Errol Strain, PhD5, Laura Gieraltowski, PhD2 (Author affiliations
+at end of text)
+
+In August 2014, PulseNet, the national molecular subtyping network for
+foodborne disease surveillance, detected a multistate cluster of _Salmonella
+enterica_ serotype Newport infections with an indistinguishable pulse-field
+gel electrophoresis (PFGE) pattern ( _Xba_ I PFGE pattern JJPX01.0061).*
+Outbreaks of illnesses associated with this PFGE pattern have previously been
+linked to consumption of tomatoes harvested from Virginia's Eastern Shore in
+the Delmarva region and have not been linked to cucumbers or other produce
+items ( _1_ ). To identify the contaminated food and find the source of the
+contamination, CDC, state and local health and agriculture departments and
+laboratories, and the Food and Drug Administration (FDA) conducted
+epidemiologic, traceback, and laboratory investigations. A total of 275
+patients in 29 states and the District of Columbia were identified, with
+illness onsets occurring during May 20-September 30, 2014. Whole genome
+sequencing (WGS), a highly discriminating subtyping method, was used to
+further characterize PFGE pattern JJPX01.0061 isolates. Epidemiologic,
+microbiologic, and product traceback evidence suggests that cucumbers were a
+source of _Salmonella_ Newport infections in this outbreak. The epidemiologic
+link to a novel outbreak vehicle suggests an environmental reservoir for
+_Salmonella_ in the Delmarva region that should be identified and mitigated to
+prevent future outbreaks.
+
+**Epidemiologic Investigation**
+
+A case was defined as infection with _Salmonella_ Newport with PFGE pattern
+JJPX01.0061 (the outbreak strain) in a person with illness onset occurring
+during May 20-September 30, 2014. Initial interviews of ill persons conducted
+by state and local health officials found that travel to the Delmarva region
+during the incubation period was commonly reported. A structured, focused
+supplemental questionnaire was developed to collect detailed information on
+travel and exposure to restaurants, seafood, fruit, and produce, including
+tomatoes, in the 7 days before illness onset. Exposure frequencies were
+compared with the 2006-2007 FoodNet Population Survey, in which healthy
+persons reported foods consumed in the week before interview.† Information
+also was collected on illness subclusters, defined as two or more unrelated
+ill persons who reported eating at the same restaurant, attending the same
+event, or shopping at the same grocery store in the week before becoming ill.
+
+A total of 275 cases were reported from 29 states and the District of Columbia
+(Figure 1). An additional 18 suspected cases not meeting the case definition
+were excluded from the analysis because they were found to be temporal
+outliers and unlikely to be related. Illness onset dates ranged from May 25 to
+September 29, 2014 (Figure 2). Median age of patients was 42 years (range =
+<1-90 years); 66% (174 of 265) were female. Thirty-four percent (48 of 141)
+were hospitalized; one death was reported in an elderly man with bacteremia. A
+total of 101 patients were interviewed using the supplemental questionnaire
+about exposures in the week before illness onset. This questionnaire focused
+on leafy greens and tomatoes and contained smaller sections on fruit,
+vegetables, and seafood common to the Delmarva region. Many patients were
+unreachable and did not receive the supplemental questionnaire. Sixty-two
+percent (49 of 79) of respondents reported eating cucumbers in the week before
+becoming ill. Patients were significantly more likely to report consuming
+cucumbers compared with respondents in the 2006-2007 FoodNet Population
+Survey, both for national year-round cucumber consumption (46.9% [p=0.002])
+and for cucumber consumption in Maryland during the month of July (54.9%
+[p=0.04]). The proportion of ill persons who reported eating tomatoes, leafy
+greens, or any other item on the supplemental questionnaire was not
+significantly higher than expected compared with findings from the FoodNet
+Population Survey.
+
+**Traceback investigation**
+
+Officials in Maryland, Delaware, and New York worked with their FDA district
+offices and FDA and U.S. Department of Agriculture foodborne outbreak rapid
+response teams to conduct an informational (i.e., nonregulatory) traceback
+from retail establishments in these states to identify a point of distribution
+convergence for produce items (i.e., cucumbers, leafy greens, and tomatoes)
+consumed in nine of 12 subclusters. Each of eight establishments in Maryland
+and Delaware received cucumbers from a single major distributor. Preliminary
+traceback from the distributor to several brokers identified a common grower
+on Maryland's Eastern Shore in the Delmarva region. Traceback from a New York
+subcluster led to a different distribution chain than in Maryland and
+Delaware. Officials from the Maryland Department of Agriculture, the Maryland
+rapid response team, and the FDA Baltimore District Office visited the
+Maryland farm. Officials collected 48 environmental samples from areas where
+cucumbers were grown, harvested, and packed. Sediment and manure samples were
+taken from the farm. No samples yielded _Salmonella_ ; however, sampling was
+performed several months after the harvest. Records and interviews indicated
+that the farm applied poultry litter approximately 120 days before harvest,
+but it was not available for testing.
+
+**Laboratory investigation**
+
+Twelve distinct illness subclusters were identified across four states,
+ranging in size from two to six cases. WGS was performed on 58 clinical
+isolates by state health departments, FDA, and CDC laboratories to further
+characterize the genetic relatedness of bacteria isolated from patients.
+Phylogenetic analysis revealed a primary group of highly related clinical
+isolates from cases in Delaware, Maryland, Ohio, Pennsylvania, and Virginia
+(median single nucleotide polymorphism distance = 26 [97.5% confidence
+interval = 1-37]). An additional group of highly related isolates from
+patients in New York was also identified, but this group was distinct from the
+primary phylogenetic group, consistent with the epidemiologic and traceback
+findings (single nucleotide polymorphism distance between the two phylogenetic
+groups = 102 [97.5% confidence interval = 85-114]). CDC's National
+Antimicrobial Resistance Monitoring System laboratory conducted antibiotic
+resistance testing on three isolates from ill persons with the outbreak
+strain. All three were susceptible to all antibiotics tested.§
+
+### Discussion
+
+The epidemiologic data, traceback investigations, and whole genome sequencing
+all support the hypothesis that cucumbers were a likely source of _Salmonella_
+Newport infections in this outbreak. Cucumbers were the only food eaten by
+patients significantly more often than expected. Traceback investigations
+performed using invoices from illness subclusters in Maryland and Delaware
+identified a common grower of cucumbers in the Delmarva region. This is the
+first multistate outbreak of _Salmonella_ Newport implicating a fresh produce
+item grown in the Delmarva region other than tomatoes. Historically,
+_Salmonella_ Newport outbreaks associated with this PFGE pattern have been
+linked to red round tomatoes grown on Virginia's Eastern Shore. These
+outbreaks occurred in 2002 (333 persons), 2005 (72 persons), 2006 (115
+persons), and 2007 (65 persons), with an additional suspected outbreak in 2010
+(51 persons) ( _1_ ). A definitive contamination source has not been found,
+and _Salmonella_ Newport has not been isolated directly from any Delmarva
+region tomatoes. Wildlife have been evaluated as a possible source of
+contamination, but fecal specimens from deer, turtles, and birds have been
+negative and do not support the hypothesis that animals are a source ( _2_ ).
+Other serotypes of _Salmonella_ have been linked to cucumbers; most recently
+an outbreak of _Salmonella_ Saintpaul infections was linked to imported
+cucumbers from Mexico in 2013 ( _3_ ).
+
+Investigating illness subclusters can provide critical clues about the source
+of an outbreak. Informational traceback can support the epidemiologic
+investigation by quickly assessing the plausibility of one or more vehicles as
+the source of the outbreak. Informational traceback generally can be completed
+much more quickly than regulatory traceback, which requires the collection of
+specific types of records, such as receipts, invoices, and bills of lading, at
+each step of the distribution chain. In this investigation, the informational
+traceback quickly provided a critical clue that suggested cucumbers were a
+likely source in the outbreak.
+
+Consultation with independent industry experts early in an outbreak
+investigation also can provide important clues to help focus the investigation
+on certain suspected foods. Because of the suspicion that this outbreak was
+caused by a novel vehicle for this _Salmonella_ Newport PFGE pattern, an
+industry consultation was held on September 11, 2014, with three independent
+experts from the produce industry to obtain information regarding cucumber
+harvesting and distribution on the Delmarva region. The consultants provided
+information regarding crop production and distribution practices that also
+helped assess the plausibility of cucumbers as an outbreak vehicle.
+
+Advanced molecular detection methods, including WGS, might improve
+discrimination of subclusters during outbreak investigations. WGS data from
+the subclusters in this investigation demonstrated a phylogenetic link between
+clinical isolates from the eight Maryland and Delaware subclusters, in
+addition to differentiating these clusters from a subcluster in New York. The
+significance of this differentiation remains unclear at this time but might
+suggest that some of the illnesses in New York were not related to consumption
+of cucumbers from the Delmarva region. This is also supported by the
+informational traceback from the New York establishment, which led to a
+different distribution chain than those of the Maryland and Delaware
+establishments.
+
+The findings in this report are subject to at least two limitations. First, no
+case-control study was performed because illness subclusters were small.
+Second, not all patients in the subclusters were systematically asked about
+cucumber consumption.
+
+This outbreak supports the continued evaluation of farm practices by FDA as a
+part of the development of a Produce Safety Rule.¶ These evaluations include
+conducting a risk assessment and working with the U.S. Department of
+Agriculture and other stakeholders. It also includes performing research to
+strengthen scientific support for determining appropriate intervals between
+application of raw manure fertilizer and harvest. The Maryland Department of
+Agriculture plans additional assessments in the Delmarva region before the
+2015 planting season to determine whether additional or alternative "best
+practices" can be implemented.
+
+Given the typical shelf life of cucumbers is 10-14 days, cucumbers from the
+implicated grower are no longer available for purchase or in person's homes.
+Consumers and retailers should always follow safe produce handling
+recommendations.** Cucumbers, like all produce, should be washed thoroughly,
+scrubbed with a clean produce brush before peeling or cutting, and
+refrigerated as soon as possible to prevent multiplication of bacteria such as
+_Salmonella_.
+
+### Acknowledgments
+
+William Wolfgang, PhD, David Nicholas, MPH, New York State Department of
+Health. David Blythe, MD, Maryland Department of Mental Health and Hygiene.
+Kate Heiman, MPH, Division of Foodborne, Waterborne, and Environmental
+Diseases, National Center for Emerging and Zoonotic Infectious Diseases, CDC.
+
+1Epidemic Intelligence Service, CDC; 2Division of Foodborne, Waterborne, and
+Environmental Diseases, National Center for Emerging and Zoonotic Infectious
+Diseases, CDC; 3Maryland Department of Health and Mental Hygiene; 4New York
+State Department of Health; 5Food and Drug Administration; 6Maryland
+Department of Agriculture (Corresponding author: Kristina M. Angelo,
+kangelo@cdc.gov, 404-718-4876)
+
+### References
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          1. Bennett SD, Litterell KW, Hill TA, Mahovic M, Behravesh CB. Multistate foodborne disease outbreaks associated with raw tomatoes, United States, 1990-2010: a recurring public health problem. Epidemiol Infect 2014;August 28:1-8 [Epub ahead of print].
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          2. Gruszynski K, Pao S, Kim C, et al. Evaluating wildlife as a potential source of _Salmonella_ serotype Newport (JJPX01.0061) contamination for tomatoes on the Eastern Shore of Virginia. Zoonoses Public Health 2014;61:202-7.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          3. CDC. Multistate outbreak of _Salmonella_ Saintpaul infections linked to imported cucumbers (final update). Available at http://www.cdc.gov/salmonella/saintpaul-04-13/index.html.
+  
+
+* Additional information available at http://www.cdc.gov/pulsenet.
+
+† Additional information available at
+http://www.cdc.gov/foodnet/studies/population-surveys.html.
+
+§ Additional information available at
+http://www.cdc.gov/narms/about/index.html.
+
+¶ Available at http://www.fda.gov/food/guidanceregulation/fsma/ucm334114.htm.
+
+** Available at
+http://www.foodsafety.gov/keep/types/fruits/tipsfreshprodsafety.html.
+
+  
+
+What is already known on this topic?
+
+_Salmonella_ is the most common bacterial cause of foodborne disease in the
+United States and results in the highest number of hospitalizations and deaths
+among foodborne pathogens. _Salmonella_ Newport has historically been a common
+cause of tomato-associated outbreaks in the United States. The Virginia
+Eastern Shore in the Delmarva region has been the site of multiple outbreaks
+of _Salmonella_ Newport infection in recent years.
+
+What is added by this report?
+
+In August 2014, a multistate cluster of _Salmonella enterica_ serotype Newport
+infections with an indistinguishable pulse-field gel electrophoresis (PFGE)
+pattern ( _Xba_ I PFGE pattern JJPX01.0061) was detected, involving 275
+patients in 29 states and the District of Columbia with illness onsets
+occurring during May 20 and September 30. Epidemiologic, product traceback,
+and laboratory evidence implicated cucumbers. Whole genome sequencing, used to
+subtype the isolates, and the traceback investigation suggested that some, but
+not all, of the contaminated cucumbers were from a farm in Maryland. No
+_Salmonella_ was isolated from environmental samples taken at the farm.
+
+What are the implications for public health practice?
+
+The epidemiologic link to a novel outbreak vehicle from the Delmarva region,
+cucumbers, suggests an environmental reservoir for _Salmonella_ that might
+also include both the Virginia and Maryland portions of the Delmarva region.
+Federal, state, and local public health and regulatory authorities should
+focus on identifying and mitigating this potential environmental reservoir to
+prevent future outbreaks.
+
+  
+
+**FIGURE 1. Number of persons (N = 275) infected with the outbreak strain of**
+** _Salmonella_** **Newport, by state -- United States, May 20-September 30,
+2014**
+
+![The figure above is a map of the United States showing the number of persons
+infected with the outbreak strain of Salmonella Newport, by state, in the
+United States during May 20- September 30, 2014. A total of 275 cases were
+reported from 29 states and the District of Columbia.](figures/m6406a3f1.gif)
+
+**Alternate Text:** The figure above is a map of the United States showing the
+number of persons infected with the outbreak strain of Salmonella Newport, by
+state, in the United States during May 20- September 30, 2014. A total of 275
+cases were reported from 29 states and the District of Columbia.
+
+  
+
+**FIGURE 2. Number of persons (N = 275) infected with the outbreak strain of**
+** _Salmonella_** **Newport, by estimated date of illness onset -- United
+States, May 20-September 30, 2014 **
+
+![The figure above is a histogram showing the number of persons \(N = 275\)
+infected with the outbreak strain of Salmonella Newport, by estimated date of
+illness onset, in the United States during May 20-September 30, 2014.
+](figures/m6406a3f2.gif)
+
+**Alternate Text:** The figure above is a histogram showing the number of
+persons (N = 275) infected with the outbreak strain of Salmonella Newport, by
+estimated date of illness onset, in the United States during May 20-September
+30, 2014.
+
+  
+  
+
+Use of trade names and commercial sources is for identification only and does
+not imply endorsement by the U.S. Department of Health and Human Services.  
+  
+References to non-CDC sites on the Internet are provided as a service to
+_MMWR_ readers and do not constitute or imply endorsement of these
+organizations or their programs by CDC or the U.S. Department of Health and
+Human Services. CDC is not responsible for the content of pages found at these
+sites. URL addresses listed in _MMWR_ were current as of the date of
+publication.
+
+  
+
+All _MMWR_ HTML versions of articles are electronic conversions from typeset
+documents. This conversion might result in character translation or format
+errors in the HTML version. Users are referred to the electronic PDF version
+(http://www.cdc.gov/mmwr) and/or the original _MMWR_ paper copy for printable
+versions of official text, figures, and tables. An original paper copy of this
+issue can be obtained from the Superintendent of Documents, U.S. Government
+Printing Office (GPO), Washington, DC 20402-9371; telephone: (202) 512-1800.
+Contact GPO for current prices.  
+  
+**Questions or messages regarding errors in formatting should be addressed to
+mmwrq@cdc.gov.
+
+
+
+### _MMWR_ Home
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Publications
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Weekly Report
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Past Volumes (1982-2014)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Recommendations and Reports
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Past Volumes (1990-2014)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Surveillance Summaries
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Past Volumes (1983-2014)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Supplements
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Notifiable Diseases
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * About _MMWR_
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Instructions for Authors
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Serial Publications
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Weekly
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Continuing Education
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Continuing Education
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Weekly Publications
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Serial Publications
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * State Health Statistics
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * _MMWR_ Editorial Board
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * _MMWR_ Staff
+
+
+
+### File Formats Help:
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * ![Adobe PDF file](/TemplatePackage/images/icon_pdf.gif)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * ![Microsoft Word file](/TemplatePackage/images/icon_word.gif)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * ![Microsoft Excel file](/TemplatePackage/images/icon_excel.gif)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * ![Microsoft PowerPoint file](/TemplatePackage/images/icon_ppt.gif)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * ![Audio/Video file](/TemplatePackage/images/icon_wmv.gif)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * ![Zip Archive file](/TemplatePackage/images/icon_zip.gif)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * ![RealPlayer file](/TemplatePackage/images/icon_real.gif)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * ![Apple Quicktime file](/TemplatePackage/images/icon_qt.gif)
+
+How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+![double arrows.](/TemplatePackage/images/btn_dblArrows.gif)
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Print
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Updates
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Subscribe
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Listen
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Download
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Page last reviewed: February 20, 2015
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Page last updated: February 20, 2015
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Content source: Centers for Disease Control and Prevention
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Home
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * A-Z Index
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Policies
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Using this Site
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Link to Us
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Contact CDC
+
+![USA.gov: The U.S. Government's Official Web
+Portal](/TemplatePackage/images/logo_usagov.gif)![Department of Health and
+Human Services](/TemplatePackage/images/logo_dhhs.gif)
+
+Centers for Disease Control and Prevention   1600 Clifton Road Atlanta, GA
+30329-4027, USA  
+800-CDC-INFO (800-232-4636) TTY: (888) 232-6348 - Contact CDC-INFO
+
+A-Z Index
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          1. A
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          2. B
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          3. C
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          4. D
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          5. E
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          6. F
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          7. G
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          8. H
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          9. I
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          10. J
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          11. K
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          12. L
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          13. M
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          14. N
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          15. O
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          16. P
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          17. Q
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          18. R
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          19. S
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          20. T
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          21. U
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          22. V
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          23. W
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          24. X
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          25. Y
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          26. Z
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          27. #
+
+![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+
+
+
+  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
+  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
+  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
+  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
+  *[PDF]: Portable Document Format
+  *[PDF-2.96 MB]]: Portable Document Format
+  *[PDF-2.25 MB]]: Portable Document Format
+  *[PDF-6.14 MB]]: Portable Document Format
+  *[PDF-2.65MB]]: Portable Document Format
+  *[GTSS]: Global Tobacco Surveillance System
+  *[GATS]: Global Adult Tobacco Survey
+  *[CDC]: Centers for Disease Control and Prevention
+  *[NTCP]: National Tobacco Control Program
+  *[OSH]: Office on Smoking and Health
+  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
+  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
+  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
+  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
+  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
+  *[11 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
+  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
+  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
+  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
+  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
+  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
+  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
+  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
+  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
+  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
+  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
+  *[15 hrs]: Monday, April 6, 2020 at 11:01 AM
+  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
+  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
+  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
+  *[10 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[]: You have unseen notifications
+  *[April 3 at 5:08 AM]: Friday, April 3, 2020 at 5:08 AM
+  *[April 1 at 8:09 AM]: Wednesday, April 1, 2020 at 8:09 AM
+  *[12 hrs]: Monday, April 6, 2020 at 1:37 PM
+

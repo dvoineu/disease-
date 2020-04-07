@@ -1,0 +1,835 @@
+
+
+Skip directly to site content Skip directly to page options Skip directly to
+A-Z link Skip directly to A-Z link Skip directly to A-Z link
+
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People Centers for Disease Control and Prevention. CDC
+twenty four seven. Saving Lives, Protecting People
+
+A-Z Index
+
+Ã
+
+Submit
+
+Search
+
+Submit
+
+For a full list of topics: A-Z Index
+
+Search Dropdown
+
+Submit
+
+For a full list of topics: A-Z Index
+
+Emerging Infectious Disease journal ISSN: 1080-6059
+
+Section Navigation
+
+CDC Home
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Facebook
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Twitter
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * LinkedIn
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Email
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Syndicate
+
+#####  Volume 17, Number 1âJanuary 2011
+
+##### _Research_
+
+###  Foodborne Illness Acquired in the United StatesâUnspecified Agents
+
+On This Page
+
+Methods
+
+* * *
+
+Results
+
+* * *
+
+Discussion
+
+* * *
+
+Cite This Article
+
+Figures
+
+Figure 1
+
+* * *
+
+Figure 2
+
+Tables
+
+Table
+
+Downloads
+
+Article
+
+* * *
+
+Technical Appendix
+
+* * *
+
+Article & Appendix  ![Help Icon](/eid/Content/images/icon/help_24x24.png)
+
+* * *
+
+RIS [TXT - 2 KB]
+
+Altmetric
+
+Metric Details
+
+**643**
+
+citations of this article  
+EID Journal Metrics on Scopus
+
+Elaine Scallan1![Comments to Author](/eid/content/images/icon/email.gif) ,
+Patricia M. Griffin, Frederick J. Angulo, Robert V. Tauxe, and Robert M.
+Hoekstra
+
+Author affiliations:  Author affiliation: Centers for Disease Control and
+Prevention, Atlanta, Georgia, USA
+
+Cite This Article
+
+Open modal
+
+### Abstract
+
+Each year, 31 major known pathogens acquired in the United States caused an
+estimated 9.4 million episodes of foodborne illness. Additional episodes of
+illness were caused by unspecified agents, including known agents with
+insufficient data to estimate agent-specific illness, known agents not yet
+recognized as causing foodborne illness, substances known to be in food but of
+unproven pathogenicity, and unknown agents. To estimate these additional
+illnesses, we used data from surveys, hospital records, and death certificates
+to estimate illnesses, hospitalizations, and deaths from acute gastroenteritis
+and subtracted illnesses caused by known gastroenteritis pathogens. If the
+proportions acquired by domestic foodborne transmission were similar to those
+for known gastroenteritis pathogens, then an estimated 38.4 million (90%
+credible interval [CrI] 19.8â61.2 million) episodes of domestically acquired
+foodborne illness were caused by unspecified agents, resulting in 71,878
+hospitalizations (90% CrI 9,924â157,340) and 1,686 deaths (90% CrI
+369â3,338).
+
+Foodborne diseases are a major cause of illness and death in the United
+States. In another article, we estimated that each year, major known pathogens
+acquired in the United States caused 9.4 million episodes of foodborne
+illness, resulting in 55,961 hospitalizations and 1,351 deaths ( _1_).
+(Hereafter, episodes of illness are referred to as illnesses.) Although the
+number of illnesses caused by these pathogens is substantial, these illnesses
+represent only a subset of the total illnesses.
+
+An additional proportion of foodborne illness is probably caused by a
+heterogeneous group of less understood agents. First, many agents that cause
+acute gastroenteritis are recognized as known or possible causes of foodborne
+illness, but because of a paucity of data, the number of agent-specific
+illnesses cannot be estimated. This category includes infectious agents (e.g.,
+_Aeromonas_ spp., _Edwardsiella_ spp., and _Plesiomonas_ spp.) and
+noninfectious agents (e.g., mushroom and marine biotoxins, metals, and other
+inorganic toxins). Second, some known agents may not be recognized as being
+transmitted in food. Detection of _Clostridium difficile_ in retail meat
+products suggests that it may sometimes be transmitted by that route ( _2_),
+and foodborne transmission of _Trypanosoma_ spp. has recently been recognized
+in Brazil but not in the United States ( _3_). Third, microbes, chemicals, and
+other substances known to be in food could at some time be shown to cause
+acute illness. Fourth, agents of foodborne illness continue to be discovered.
+Many major foodborne pathogens, e.g., _Campylobacter_ spp. and _Escherichia
+coli_ O157, were recognized only in recent decades ( _4_ _,_ _5_). For some
+outbreaks (e.g., Brainerd diarrhea), even when specimens are obtained quickly,
+no causative agent can be identified ( _6_ _,_ _7_). Additional agents of
+foodborne illness probably remain undescribed ( _8_). This article provides
+estimates of foodborne gastroenteritis illnesses, hospitalizations, and deaths
+in the United States, other than those caused by the 31 major known pathogens
+considered in our companion article ( _1_).
+
+###  Methods
+
+Figure 1
+
+![](/eid/images/P2-1101-F1-tn.jpg)
+
+Figure 1. Agents that cause foodborne illness. STEC, Shiga toxinâproducing
+_Escherichia coli_ ; ETEC, enterotoxigenic _E. coli_. *For most of these
+pathogens, the major manifestation is gastroenteritis. For some, i.e.,
+_Salmonella enterica_ serotype Typhi,...
+
+We defined unspecified agents as agents that cause acute gastroenteritis but
+that were not included in our estimate of foodborne illness caused by 31 major
+known pathogens ( _1_). They include known agents with insufficient data for
+estimating agent-specific episodes of illness; known agents not yet recognized
+as causing foodborne illness; microbes, chemicals, or other substances known
+to be in food but for which pathogenicity is unproven; and agents not yet
+described. To estimate the extent of foodborne illness caused by unspecified
+agents, we estimated the number of acute gastroenteritis illnesses,
+hospitalizations, and deaths and subtracted the estimated number of acute
+gastroenteritis illnesses, hospitalizations, and deaths caused by 24 major
+known pathogens that typically or often cause diarrhea or vomiting (Figure 1).
+We refer to them as the 24 known gastroenteritis pathogens, although for a
+few, diarrhea or vomiting was not the main clinical sign. Estimates of illness
+were not made for unspecified agents that do not typically result in acute
+gastroenteritis.
+
+We used data from the 24 known gastroenteritis pathogens to estimate the
+proportion of unspecified agents that were acquired in the United States
+(hereafter referred to as domestically acquired) and transmitted in food. Most
+of our data were from 2000 through 2007, and all estimates were based on the
+US population in 2006 (299 million persons) ( _9_). To account for
+uncertainty, we used probability distributions to describe a range of
+plausible values for all model inputs. The modeling approach used and
+parameters of these probability distributions are detailed in the Technical
+Appendix. Our model outputs are in the form of probability distributions
+summarized by a mean point estimate with 90% credible intervals (CrIs).
+
+#####  Acute Gastroenteritis
+
+We estimated the number of episodes of acute gastroenteritis by using combined
+data from the Foodborne Diseases Active Surveillance Network (FoodNet)
+Population Surveys conducted in 2000-2001, 2002-2003, and 2006-2007 (Centers
+for Disease Control and Prevention [CDC], unpub. data). These methods are
+described in detail elsewhere ( _10_). In brief, FoodNet Population Surveys
+are random-digit-dial telephone surveys of the general population in FoodNet
+sites. At the time of these surveys, the population in FoodNet sites included
+11% (in 2000) to 15% (in 2007) of the US population. In 2005, the demographic
+features of this population were similar to those of the US population, but
+the proportion of Hispanics was lower ( _11_).
+
+Surveys were conducted over 12-month periods and collected information about
+episodes of diarrhea and vomiting in the past month. Our estimate of the
+annual number of episodes of acute gastroenteritis was derived by multiplying
+the average monthly prevalence by 12. An episode of acute gastroenteritis was
+defined as diarrhea (>3 loose stools in 24 hours) or vomiting in the past
+month, each lasting >1 day or resulting in restricted daily activities. We
+excluded persons with a chronic condition in which diarrhea or vomiting was a
+major clinical sign and persons with concurrent cough or sore throat. Data
+were weighted to compensate for unequal probabilities of selection and to
+reflect the surveillance population by age and sex.
+
+The estimated rates of acute gastroenteritis according to individual surveys
+were 0.49 (2000-2001), 0.54 (2002-2003), and 0.73 (2006-2007) episodes per
+person per year. The number of episodes of acute gastroenteritis was estimated
+by applying the average rate (0.6 episodes/person/year) from the combined
+surveys to the 2006 US population estimate. Uncertainty was added by assuming
+that individual FoodNet site estimates were normally distributed with standard
+deviations equal to survey standard errors (Technical Appendix).
+
+#####  Hospitalizations
+
+We estimated the number of hospitalizations for acute gastroenteritis by using
+2000-2006 national estimates from 3 sources: CDC National Center for Health
+Statistics (NCHS) National Hospital Discharge System (NHDS) ( _12_ _,_ _13_);
+Healthcare Cost and Utilization Project, Nationwide Inpatient Sample (NIS) (
+_14_); and combined data from NCHS National Ambulatory and National Hospital
+Ambulatory Medical Care Surveys (NAMCS and NHAMCS) ( _15_).
+
+Codes from International Classification of Diseases, 9th Revision, Clinical
+Modification (ICD-9-CM), were used to extract hospital discharge data from
+NHDS and NIS when acute gastroenteritis was listed as 1 of the first 3
+diagnoses. Acute gastroenteritis was defined as ICD-9-CM diagnostic codes
+001-008 (infectious gastroenteritis of known cause), 009 (infectious
+gastroenteritis), 558.9 (other and unspecified noninfectious gastroenteritis
+and colitis), or 787.9 (other symptoms involving digestive system: diarrhea),
+excluding 008.45 ( _C. difficile_ colitis) and 005.1 (botulism). Many
+infectious diseases from which a pathogen was not isolated may be coded as
+other and unspecified noninfectious gastroenteritis and colitis. Annual
+national estimates from 2000-2006 NHDS and 2000-2006 NIS data were obtained by
+weighting the sample data according to NCHS and the Healthcare Cost and
+Utilization Project criteria ( _12_ _,_ _14_).
+
+To estimate hospitalizations for acute gastroenteritis from NAMCS and NHAMCS
+data, we combined data from both surveys and extracted patient visits to
+clinical settings (including physician offices, hospital emergency and
+outpatient departments) with a diagnosis of acute gastroenteritis resulting in
+hospitalization, when acute gastroenteritis was listed as 1 of the 3 codes.
+Acute gastroenteritis was defined by using the ICD-9-CM codes described above.
+Annual national estimates were obtained by weighting the sample data according
+to NCHS criteria ( _15_).
+
+During 2000-2006, mean annual rates of hospitalization for acute
+gastroenteritis were 203 hospitalizations per 100,000 persons according to
+NHDS data, 187 per 100,000 according to NIS data, and 109 per 100,000
+according to NAMCS and NHAMCS data. To estimate the number of hospitalizations
+for acute gastroenteritis, we chose the PERT distribution with a low, modal,
+and high value determined by the lowest (90), mean (166), and highest (211)
+annual rate per 100,000 persons across all 3 surveys and applied this
+distribution to the 2006 US population (Technical Appendix).
+
+#####  Deaths
+
+We estimated the number of deaths caused by acute gastroenteritis by using
+multiple cause-of-death data from the National Vital Statistics System
+(2000-2006) ( _16_ _,_ _17_) when acute gastroenteritis was listed as the
+underlying or a contributing cause. Acute gastroenteritis was defined as ICD,
+10th Revision, codes A00.9-A08.5 (infectious gastroenteritis of known cause),
+A09 (diarrhea and gastroenteritis of presumed infectious origin), and K52.9
+(noninfectious gastroenteritis and colitis, unspecified), excluding A04.7
+(enterocolitis caused by _C. difficile_ ) and A05.1 (botulism). To estimate
+the number of deaths, we chose the mean death rate (1.5 deaths/100,000
+population) as the modal value of a PERT distribution, used the lowest and
+highest annual death rates (1.2 and 2.4 deaths/100,000 population) as the
+lower and upper bounds, and applied this distribution to the 2006 US
+population.
+
+#####  Domestically Acquired and Foodborne Acute Gastroenteritis
+
+Figure 2
+
+![](/eid/images/P2-1101-F2-tn.jpg)
+
+Figure 2. Schematic of estimates of illnesses, hospitalizations, and deaths
+caused by unspecified acute gastroenteritis agents. *The estimated numbers of
+illnesses, hospitalizations, and deaths (hereafter, illnesses refers to
+illnesses, hospitalizations, or deaths as...
+
+To estimate acute gastroenteritis caused by unspecified agents, we subtracted
+the estimated number of illnesses, hospitalizations, and deaths caused by the
+24 known gastroenteritis pathogens from our estimate of the overall number of
+illnesses, hospitalizations, and deaths from acute gastroenteritis (Figure 2).
+To estimate the number that were domestically acquired and transmitted by
+food, we used the overall weighted distribution of the proportions of
+illnesses, hospitalizations, and deaths that were domestically acquired and
+foodborne from the 24 known gastroenteritis pathogens to describe the lower,
+modal, and upper values of the PERT distribution and applied these separately
+to the estimates of unspecified illnesses, hospitalizations, and deaths
+(Technical Appendix).
+
+#####  Uncertainty Analysis
+
+The parametric distribution used for almost all multipliers was a 4-parameter
+beta (modified PERT) distribution ( _18_). The first 3 parameters are low,
+modal, and high. The fourth parameter is related to the variability of the
+distribution. We typically fixed this last parameter at 4, which yields the
+simple PERT distribution ( _18_). However, when describing the proportions
+domestically acquired and foodborne from the 24 known gastroenteritis
+pathogens, we used a value of 2 to reflect greater uncertainty (Technical
+Appendix). On the basis of 100,000 iterations, we obtained empirical
+distributions of counts corresponding to Bayesian posterior distributions and
+used these posterior distributions to generate a point estimate (posterior
+mean) and upper and lower 5% limits for 90% CrIs. We used SAS version 9.2 (SAS
+Institute, Cary, NC, USA) for these analyses.
+
+###  Results
+
+#####  Foodborne Illnesses
+
+We estimate that 38.4 million (90% CrI 19.8-61.3 million) episodes of
+domestically acquired foodborne gastroenteritis were caused by unspecified
+agents (Figure 2) as follows. We estimated that 178.8 million acute
+gastroenteritis illnesses occurred each year in the United States. Subtracting
+37.0 million estimated illnesses caused by the 24 known gastroenteritis
+pathogens leaves 141.8 million acute gastroenteritis illnesses caused by
+unspecified agents. The proportion of these unspecified agents acquired
+through domestic foodborne transmission is unknown; however, applying the
+distribution of the proportion of illnesses from the 24 known gastroenteritis
+pathogens that were domestically acquired (98%) and foodborne (25%) yields an
+estimate of 38.4 million domestically acquired foodborne illnesses caused by
+unspecified agents.
+
+#####  Hospitalizations
+
+We estimate that 473,832 hospitalizations resulted from acute gastroenteritis
+each year in the United States (Figure 2). Subtracting the 215,799 estimated
+hospitalizations caused by the 24 known gastroenteritis pathogens leaves
+258,033 hospitalizations for acute gastroenteritis caused by unspecified
+agents. The proportion of these unspecified agents that were acquired as a
+result of domestic foodborne transmission is unknown; however, applying the
+distributions of the proportion of hospitalizations among the 24 known
+gastroenteritis pathogens that were domestically acquired (97%) and foodborne
+(23%) yields an estimate of 71,878 hospitalizations (90% CrI 9,924-157,340)
+caused by domestically acquired unspecified agents that were transmitted by
+food.
+
+#####  Deaths
+
+We estimate that an estimated 5,072 persons died of acute gastroenteritis each
+year in the United States (Figure 2). Subtracting the 1,498 deaths caused by
+the 24 known gastroenteritis pathogens leaves 3,574 acute gastroenteritis
+deaths caused by unspecified agents. The proportion of these unspecified
+agents acquired as a result of domestic foodborne transmission is unknown;
+however, applying the distributions of the proportion of deaths among the 24
+known gastroenteritis pathogens that were domestically acquired (95%) and
+foodborne (50%) yields an estimate of 1,686 (90% CrI 369-3,338) deaths caused
+by domestically acquired unspecified agents that were transmitted by food.
+
+###  Discussion
+
+Unspecified agents are major contributors to the total number of episodes of
+acute gastroenteritis and foodborne diseases. If distribution of domestically
+acquired and foodborne agents is similar to that of the 24 known
+gastroenteritis pathogens ( _1_), then these agents cause 38.4 million
+episodes of foodborne gastroenteritis each year in the United States,
+resulting in 78,878 hospitalizations, and 1,686 deaths. Combining the
+estimates for unspecified agents and major known pathogens provides an
+estimate of the total effect of contaminated food consumed in the United
+States: 47.8 million episodes of illness, 127,839 hospitalizations, and 3,037
+deaths (Table).
+
+Our estimate of foodborne illness caused by unspecified agents is lower than
+that estimated by CDC in 1999 (38.4 million vs. 62 million, respectively) (
+_19_). A major reason for this decrease is our lower estimate of episodes of
+acute gastroenteritis, which probably resulted from changes in data sources
+and methods rather than a real decline in the rate of illness. Our estimate is
+derived from the 3 most recent FoodNet Population Surveys, which had a sample
+size 5× greater than that in the 1996-1997 FoodNet survey used for the 1999
+estimates. Additionally, the 1999 estimates relied on respiratory symptom and
+vomiting data from US studies conducted before 1980 ( _20_ _,_ _21_). The
+current and the 1999 estimates excluded persons reporting concurrent cough or
+sore throat, but the proportion of respondents reporting these signs was
+higher in the current than in the earlier surveys (38% vs. 25%), contributing
+to a lower estimated prevalence of acute gastroenteritis (0.60 vs. 0.79
+episodes/person/year). In addition, the current study excluded persons with
+vomiting who had been ill for <1 day or whose illness did not result in
+restricted daily activities, whereas the 1999 estimate included all persons
+with vomiting. All these factors contributed to the current estimate of acute
+gastroenteritis being 24% lower than the 1999 estimate.
+
+The proportion of illnesses estimated to be foodborne was also a major driver
+of the current lower estimate of illness caused by unspecified foodborne
+agents. Because no data existed with which to directly estimate the
+proportions of unspecified agents that were domestically acquired and
+foodborne, distributions of these proportions were estimated to be similar to
+those of the 24 known gastroenteritis pathogens ( _1_). Because norovirus
+accounts for 59% of illnesses caused by the 24 known gastroenteritis
+pathogens, the foodborne proportion was driven largely by norovirus. The
+proportion of foodborne norovirus used for the current estimate is 26%, a
+marked decrease from 40% used for the 1999 estimates. Additionally, unlike the
+1999 estimates, the current estimates exclude international travel-related
+illnesses. As a result of these newer data and revised methods, the mean
+proportion of unspecified agents that were estimated to be transmitted by food
+was 25%, which is lower than 36% used for the 1999 estimate.
+
+Estimating the number of hospitalizations and deaths caused by unspecified
+foodborne agents is challenging. For an illness caused by a pathogen to be
+recorded, a physician must order the appropriate diagnostic tests and the
+pathogen must be detected. Without identification of a pathogen, infections
+producing signs and symptoms of gastroenteritis may be coded as nonspecific
+signs or symptoms or as noninfectious illnesses ( _22_). Our overall estimates
+of hospitalizations and deaths from acute gastroenteritis, derived from
+national data sources, include codes for infectious and noninfectious
+gastroenteritis. To avoid overestimating the number of hospitalizations, we
+selected outpatient visits resulting in hospitalization and we selected
+hospital discharge records on the basis of only the first 3 listed diagnoses.
+This approach was a compromise between limiting the analysis to
+hospitalizations for which acute gastroenteritis was listed as the primary
+cause and including hospitalizations for which signs or symptoms of
+gastroenteritis may have been a manifestation of another illness. This
+approach has been taken in other studies ( _23_ _,_ _24_). For deaths, we
+included all records in which acute gastroenteritis was listed as an
+underlying or a contributing cause.
+
+Our approach to estimating illness caused by unspecified agents has many
+limitations. First, the accuracy of our estimate of the number of acute
+episodes of gastroenteritis from the FoodNet Population Surveys has not been
+validated. This estimate was based on responses to questions about diarrhea
+and vomiting in the past month. These data provide a measure of prevalent
+cases; however, we lack sufficient data on duration of illness, onset date,
+and multiple episodes in the past month necessary to estimate incidence. An
+analysis of the FoodNet Population Surveys reported a 2-day median duration of
+acute gastroenteritis ( _10_), suggesting that the increase in the estimate of
+illnesses based on incidence versus prevalence would probably be small and
+would be included within the range of sampling variability and uncertainty
+associated with our estimate of acute gastroenteritis. The accuracy of the
+1-month recall period for acute gastroenteritis is also unknown. Some evidence
+suggests that shorter recall periods (e.g., past week) may result in higher
+reported prevalence ( _25_). Which recall period is more accurate is not
+known. Our estimate of the number of episodes of acute gastroenteritis may be
+too high. Although our survey attempted to eliminate other causes of illness
+by asking about chronic diseases, some of the vomiting illnesses classified as
+acute gastroenteritis, for example, could have been caused by medications,
+alcohol withdrawal, or other causes, and some of the diarrheal illnesses could
+be caused by medications or other causes. However, our criteria for acute
+gastroenteritis were fairly strict, and foodborne illnesses probably occurred
+in some persons who were excluded because they had concurrent cough or sore
+throat or because their illness lasted for only 1 day. Second, we may have
+underestimated the episodes of illness caused by the 24 known gastroenteritis
+pathogens. When our method is used, any increase in the estimate for the major
+known pathogens will result in a decrease in the estimate for unspecified
+agents. Recent serologic data from European countries suggest that infection
+with _Salmonella_ spp. is more common than estimated by other methods,
+including ours; however, many of these infections may be asymptomatic ( _26_).
+Finally, the proportion of illnesses transmitted by food for unspecified
+agents is unknown and may differ from that for the 24 known gastroenteritis
+pathogens. Studies estimating foodborne disease in England and Wales and in
+Australia (which also attributed a large proportion of foodborne illness to
+unspecified agents: 73% in Australia and 48% in England and Wales vs. 80% in
+the United States) have estimated a similar proportion of acute
+gastroenteritis episodes to be transmitted by food (32%, and 26%, respectively
+vs. 25% in the United States) ( _27_ _,_ _28_). A study of illness caused by
+known chemical agents, with estimates of the proportion that include acute
+gastroenteritis and that are foodborne, could help improve these estimates.
+
+Combining the estimate for unspecified agents with that for the 31 major known
+pathogens to arrive at an estimate of overall foodborne illness has
+limitations. The method used for unspecified agents began with an estimate of
+acute gastroenteritis episodes, hospitalizations, and deaths and scaled down
+to a number for domestically acquired foodborne illnesses, hospitalizations,
+and deaths. Conversely, for most known pathogens, our estimate scaled counts
+of laboratory-confirmed illnesses up to an estimated number of ill persons,
+accounting for underreporting and underdiagnosis factors that contribute to an
+illness not being reported to public health agencies. Combining different
+approaches is not optimal because the methods themselves may affect the
+estimates derived. Also, our estimates do not include unspecified foodborne
+illnesses that do not typically cause signs of acute gastroenteritis. Most
+foodborne outbreak-associated illnesses caused by chemical agents reported to
+CDC during 2001-2006 ( _29_) were not due to agents characterized by acute
+gastroenteritis and so would not be included in our estimates.
+
+Although the number of episodes of foodborne disease caused by unspecified
+agents is substantial, the claim that 80% of foodborne illnesses are
+unspecified must be treated with caution. Illnesses caused by the 24 known
+gastroenteritis pathogens were, in most instances, estimated by using models
+that scaled counts of laboratory-confirmed illnesses up to an estimated number
+of illnesses with aggregate multipliers to adjust for underreporting and
+underdiagnosis factors that contribute to an illness not being reported to
+public health agencies ( _1_). These multipliers are sensitive to the methods
+and modeling approaches used, and different choices could have increased
+estimates for the 24 known gastroenteritis pathogens, thus decreasing the
+estimate of foodborne illness caused by unspecified agents. For example, we
+took a conservative approach to estimating the underreporting multiplier for
+pathogens for which illness counts were derived from outbreak data ( _1_); a
+less conservative approach would have increased estimated illnesses for these
+pathogens.
+
+Future estimates might be improved by validating them by using other data on
+acute gastroenteritis episodes, hospitalizations, and deaths, such as by
+reviewing acute gastroenteritis coded as a secondary discharge diagnosis or
+assessing the accuracy of acute gastroenteritis coding on death certificates.
+The diagnostic gap might be narrowed by identifying additional agents linked
+to foodborne transmission. Systematic laboratory investigation of specimens
+from well-investigated outbreaks of foodborne disease of undetermined cause,
+and detailed investigations of specific syndromes, may identify new agents (
+_4_ _,_ _5_ _,_ _30_).
+
+Dr Scallan is assistant professor in the Department of Epidemiology at the
+Colorado School of Public Health. Her research focuses on the burden and
+attribution of foodborne diseases.
+
+Top
+
+### Acknowledgment
+
+We thank Laura B. Cantwell, Olga L. Henao, and Ida Rosenblum for providing
+data and input for these estimates. We also thank the anonymous reviewers for
+their helpful suggestions.
+
+Top
+
+### References
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        1. Scallan  E, Hoekstra  RM, Angulo  FJ, Tauxe  RV, Widdowson  M-A, Roy  SL,  Foodborne illness acquired in the United Statesâmajor pathogens. Emerg Infect Dis. 2011;17:7â15.PubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        2. Songer  JG, Trinh  HT, Killgore  GE, Thompson  AD, McDonald  LC, Limbago  BM. Clostridium difficile in retail meat products, USA, 2007. Emerg Infect Dis. 2009;15:819â21. DOIPubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        3. Pereira  KS, Schmidt  FL, Guaraldo  AM, Franco  RM, Dias  VL, Passos  LA. Chagasâ disease as a foodborne illness. J Food Prot. 2009;72:441â6.PubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        4. Dekeyser  P, Gossuin-Detrain  M, Butzler  JP, Sternon  J. Acute enteritis due to related Vibrio: first positive stool cultures. J Infect Dis. 1972;125:390â2. DOIPubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        5. Riley  LW, Remis  RS, Helgerson  SD, McGee  HB, Wells  JG, Davis  BR,  Hemorrhagic colitis associated with a rare Escherichia coli serotype. N Engl J Med. 1983;308:681â5. DOIPubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        6. Mintz  E. A riddle wrapped in a mystery inside an enigma: Brainerd diarrhoea turns 20. Lancet. 2003;362:2037â8. DOIPubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        7. Hall  JA, Goulding  JS, Bean  NH, Tauxe  RV, Hedberg  CW. Epidemiologic profiling: evaluating foodborne outbreaks for which no pathogen was isolated by routine laboratory testing: United States, 1982â9. Epidemiol Infect. 2001;127:381â7. DOIPubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        8. Tauxe  RV. Emerging foodborne pathogens. Int J Food Microbiol. 2002;78:31â41. DOIPubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        9. US Census Bureau. Population estimates [cited 2010 Mar 9]. http://www.census.gov/popest/states/NST-ann-est.html
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        10. Jones  TF, McMillian  MB, Scallan  E, Frenzen  PD, Cronquist  AB, Thomas  S,  A population-based estimate of the substantial burden of diarrhoeal disease in the United States; FoodNet, 1996â2003. Epidemiol Infect. 2007;135:293â301. DOIPubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        11. Scallan  E. Activities, achievements, and lessons learned during the first 10 years of the Foodborne Diseases Active Surveillance Network: 1996â2005. Clin Infect Dis. 2007;44:718â25. DOIPubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        12. Centers for Disease Control and Prevention. National Hospital Discharge Survey [cited 2010 Feb 2]. http://www.cdc.gov/nchs/nhds.htm
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        13. Dennison  C, Pokras  R. Design and operation of the National Hospital Discharge Survey: 1988 redesign. Vital Health Stat 1. 2000;39:1â42.PubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        14. Healthcare Cost and Utilization Project. Overview of the Nationwide Inpatient Sample (NIS) [cited 2010 Feb 8]. http://www.hcup-us.ahrq.gov/nisoverview.jsp
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        15. Centers for Disease Control and Prevention. Ambulatory health care data [cited 2010 Feb 8]. http://www.cdc.gov/nchs/ahcd/about_ahcd.htm
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        16. Centers for Disease Control and Prevention. Mortality data, multiple cause-of-death public-use data files [cited 2010 Feb 8]. http://www.cdc.gov/nchs/products/elec_prods/subject/mortmcd.htm
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        17. Heron  M, Hoyert  DL, Murphy  SL, Xu  J, Kochanek  KD, Tejada-Vera  B. Deaths: final data for 2006. Natl Vital Stat Rep. 2009;57:1â134.PubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        18. Vose  D. Risk analysis. A quantitative guide. 2nd ed. Chichester (UK): John Wiley & Sons, Ltd; 2000.
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        19. Mead  PS, Slutsker  L, Dietz  V, McCaig  LF, Bresee  JS, Shapiro  C,  Food-related illness and death in the United States. Emerg Infect Dis. 1999;5:607â25. DOIPubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        20. Badger  GF, Curtiss  C, Dingle  JH, Hodges  RG, Jordan  WS Jr, McCorkle  LP. A study of illness in a group of Cleveland families. XI. The occurrence of gastrointestinal symptoms. Am J Hyg. 1956;64:349â56.PubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        21. Monto  AS, Koopman  JS. The Tecumseh study. XI. Occurrence of acute enteric illness in the community. Am J Epidemiol. 1980;112:323â33.PubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        22. Pinner  RW, Teutsch  SM, Simonsen  L, Klug  LA, Graber  JM, Clarke  MJ,  Trends in infectious diseases mortality in the United States. JAMA. 1996;275:189â93. DOIPubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        23. Mounts  AW, Holman  RC, Clarke  MJ, Bresee  JS, Glass  RI. Trends in hospitalizations associated with gastroenteritis among adults in the United States, 1979â1995. Epidemiol Infect. 1999;123:1â8. DOIPubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        24. Gangarosa  RE, Glass  RI, Lew  JF, Boring  JR. Hospitalizations involving gastroenteritis in the United States, 1985: the special burden of the disease among the elderly. Am J Epidemiol. 1992;135:281â90.PubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        25. Cantwell  LB, Henao  OL, Hoekstra  RM, Scallan  E. The effect of different recall periods on estimates of acute gastroenteritis in the United States, FoodNet Population Survey 2006â2007. Foodborne Pathog Dis. 2010;10:1225â8. DOIPubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        26. Simonsen  J, Teunis  P, Van Pelt  W, Van Duynhoven  Y, Krogfelt  KA, Sadkowska-Todys  M,  Usefulness of seroconversion rates for comparing infection pressures between countries. Epidemiol Infect. 2010;12:1â8.PubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        27. Adak  GK, Long  SM, O'Brien  SJ. Trends in indigenous foodborne disease and deaths, England and Wales: 1992 to 2000. Gut. 2002;51:832â41. DOIPubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        28. Hall  G, Kirk  MD, Becker  N, Gregory  JE, Unicomb  L, Millard  G,  Estimating foodborne gastroenteritis, Australia. Emerg Infect Dis. 2005;11:1257â64.PubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        29. Centers for Disease Control and Prevention. Surveillance for foodborne disease outbreaksâUnited States, 2006. MMWR Morb Mortal Wkly Rep. 2009;58:609â15.PubMed
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        30. Karmali  MA, Petric  M, Lim  C, Fleming  PC, Arbus  GS, Lior  H. The association between idiopathic hemolytic uremic syndrome and infection by verotoxin-producing Escherichia coli. J Infect Dis. 1985;151:775â82. DOIPubMed
+
+Top
+
+##### Figures
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        *  **Figure 1**. Agents that cause foodborne illness. STEC, Shiga toxinâproducing _Escherichia coli_ ; ETEC, enterotoxigenic _E. coli_. *For most of these pathogens, the major manifestation is gastroenteritis. For some, i.e., _Salmonella enterica_...
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        *  **Figure 2**. Schematic of estimates of illnesses, hospitalizations, and deaths caused by unspecified acute gastroenteritis agents. *The estimated numbers of illnesses, hospitalizations, and deaths (hereafter, illnesses refers to illnesses, hospitalizations, or...
+
+##### Table
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        *  **Table**. Estimated annual number of episodes of domestically acquired, foodborne illness, hospitalizations, and deaths caused by 31 pathogens and unspecified agents transmitted through food, United States 
+
+Top
+
+Cite This Article
+
+DOI: 10.3201/eid1701.p21101
+
+1Current affiliation: Colorado School of Public Health, Aurora, Colorado, USA.
+
+Table of Contents - Volume 17, Number 1âJanuary 2011
+
+Comments
+
+Please use the form below to submit correspondence to the authors or contact
+them at the following address:
+
+Elaine Scallan, Department of Epidemiology, Colorado School of Public Health,
+Mailstop B119, Rm W3146, UCD-AMC Bldg 500, 13001 E 17th Pl, Aurora, CO 80045,
+USA
+
+**Return Address**
+
+**Send To**
+
+Send To  Authors  Editors
+
+**Comments**
+
+  
+_character(s) remaining._
+
+**Comment submitted successfully, thank you for your feedback.**
+
+Top
+
+Page created: December 20, 2011
+
+Page updated: December 20, 2011
+
+Page reviewed: December 20, 2011
+
+_The conclusions, findings, and opinions expressed by authors contributing to
+this journal do not necessarily reflect the official position of the U.S.
+Department of Health and Human Services, the Public Health Service, the
+Centers for Disease Control and Prevention, or the authors' affiliated
+institutions. Use of trade names is for identification only and does not imply
+endorsement by any of the groups named above._
+
+home4EID Journal
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * About the Journalexpand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * General Informationexpand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Background and Goals
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Editors
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Editorial Board
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Staff
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Contact
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Articlesexpand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * April 2020
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Early Release
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Past Issuesexpand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * January 2011expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Foodborne Illness Acquired in the United StatesâUnspecified Agentsexpand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Figure 1
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Figure 2
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Table
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Technical Appendix
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Medscape CME
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Searchexpand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Advanced Article Search
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Articles by Country Search
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Spotlight Topics
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Article Type Search
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * EID on PubMed Central
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Subscribe
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Author Resource Centerexpand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Policies and Guidelinesexpand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Editorial Policy
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Copyright Policy
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Informed Consent
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Preprint Policy
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Manuscriptexpand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Provide ORCiD
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Complete Author Checklist
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Types of Articles
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Manuscript Template
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Prepare Manuscript
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Format Tables
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Format Figures & Videos
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Format References
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Submit Manuscript
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Check Manuscript Status
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Writing Guidesexpand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Abbreviations, Acronyms, and Initialisms
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Capitalization
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Geographic Designations
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Mathematical Modeling Guide
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Preferred Usage
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Punctuation
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Scientific Nomenclature
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Spelling Preferences
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Units of Measure
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Editorial Style Guide
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Search Style Guide
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Peer Reviewers
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Podcasts
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Media Related Contentexpand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Social Media
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Press & Media Information
+
+**HAVE QUESTIONS?**
+
+Visit CDC-INFO
+
+Call 800-232-4636
+
+Email CDC-INFO
+
+Open 24/7
+
+**CDC INFORMATION**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * About CDC
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Jobs
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Funding
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Policies
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * File Viewers & Players
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Privacy
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * FOIA
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * No Fear Act
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * OIG
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Nondiscrimination
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Accessibility
+
+**CONNECT WITH CDC**  
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Facebook
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Twitter
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Youtube
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Instagram
+  
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Syndicate
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * CDC TV
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * RSS
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Email
+
+U.S. Department of Health & Human Services
+
+USA.gov
+
+CDC Website Exit Disclaimer external icon
+
+![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+
+file_external
+
+#### Exit Notification/Disclaimer Policy
+
+Close
+
+**Links with this icon indicate that you are leaving the CDC website.**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * You will be subject to the destination website's privacy policy when you follow the link.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+For more information on CDC's web notification policies, see Website
+Disclaimers.
+
+Cancel Continue
+
+#### Article Citations
+
+Highlight and copy the desired format.
+
+EID | Scallan E, Griffin PM, Angulo FJ, Tauxe RV, Hoekstra RM. Foodborne
+Illness Acquired in the United StatesâUnspecified Agents. Emerg Infect Dis.
+2011;17(1):16-22. https://dx.doi.org/10.3201/eid1701.p21101  
+---|---  
+AMA | Scallan E, Griffin PM, Angulo FJ, et al. Foodborne Illness Acquired in
+the United StatesâUnspecified Agents. _Emerging Infectious Diseases_.
+2011;17(1):16-22. doi:10.3201/eid1701.p21101.  
+APA | Scallan, E., Griffin, P. M., Angulo, F. J., Tauxe, R. V., & Hoekstra, R.
+M. (2011). Foodborne Illness Acquired in the United StatesâUnspecified
+Agents. _Emerging Infectious Diseases_ , _17_ (1), 16-22.
+https://dx.doi.org/10.3201/eid1701.p21101.  
+  
+Close
+
+  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
+  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
+  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
+  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
+  *[PDF]: Portable Document Format
+  *[PDF-2.96 MB]]: Portable Document Format
+  *[PDF-2.25 MB]]: Portable Document Format
+  *[PDF-6.14 MB]]: Portable Document Format
+  *[PDF-2.65MB]]: Portable Document Format
+  *[GTSS]: Global Tobacco Surveillance System
+  *[GATS]: Global Adult Tobacco Survey
+  *[CDC]: Centers for Disease Control and Prevention
+  *[NTCP]: National Tobacco Control Program
+  *[OSH]: Office on Smoking and Health
+  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
+  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
+  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
+  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
+  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
+  *[11 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
+  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
+  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
+  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
+  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
+  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
+  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
+  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
+  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
+  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
+  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
+  *[15 hrs]: Monday, April 6, 2020 at 11:01 AM
+  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
+  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
+  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
+  *[10 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[]: You have unseen notifications
+  *[April 3 at 5:08 AM]: Friday, April 3, 2020 at 5:08 AM
+  *[April 1 at 8:09 AM]: Wednesday, April 1, 2020 at 8:09 AM
+  *[12 hrs]: Monday, April 6, 2020 at 1:37 PM
+

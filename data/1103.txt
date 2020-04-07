@@ -1,0 +1,746 @@
+
+
+Skip directly to site content Skip directly to page options Skip directly to
+A-Z link Skip directly to A-Z link Skip directly to A-Z link
+
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People Centers for Disease Control and Prevention. CDC
+twenty four seven. Saving Lives, Protecting People
+
+Search ____
+
+Ã
+
+Submit __
+
+For a full list of topics: A-Z Index
+
+Adolescent and School Health
+
+Section Navigation
+
+CDC Home
+
+                                                                                                                                                                                                                                                                                                                                  * Facebook
+                                                                                                                                                                                                                                                                                                                                  * Twitter
+                                                                                                                                                                                                                                                                                                                                  * LinkedIn
+                                                                                                                                                                                                                                                                                                                                  * Email
+                                                                                                                                                                                                                                                                                                                                  * Syndicate
+
+# YRBSS Frequently Asked Questions
+
+Minus
+
+Related Pages
+
+To learn more about the Youth Risk Behavior Surveillance System (YRBSS) and
+its use, browse the topics below.
+
+Question_02
+
+                                                                                                                                                                                                                                                                                                                                  * Top Five YRBSS Frequently Asked Questions
+                                                                                                                                                                                                                                                                                                                                  * Data Availability and Requesting YRBSS Data Files
+                                                                                                                                                                                                                                                                                                                                  * Administration & Data Release
+                                                                                                                                                                                                                                                                                                                                  * Conducting Your Own YRBS
+                                                                                                                                                                                                                                                                                                                                  * YRBSS Questionnaires
+
+                                                                                                                                                                                                                                                                                                                                  * Analyzing YRBSS Data Files
+                                                                                                                                                                                                                                                                                                                                  * Uses of YRBSS Results
+                                                                                                                                                                                                                                                                                                                                  * Validity & Reliability
+                                                                                                                                                                                                                                                                                                                                  * Methodology
+
+Top Five YRBSS Frequently Asked Questions
+
+####  **Are YRBSS results available by zip code, census tract, school, large
+urban school district, or county? Are YRBSS results available for my
+town/city/large urban school district?**
+
+YRBSS data are not available by zip code, census tract, or school. Sample size
+limitations and confidentiality requirements do not support analyses at these
+levels.
+
+YRBSS data are available for a small number of specifically funded large urban
+school districts or counties. CDC funds certain large urban school districts
+to conduct the YRBSS. Some of those large urban school districts are county-
+based. See Participation History & Data Quality for more information about
+county-based large urban school districts with YRBSS data. Data are only
+available for large urban school districts or counties on the list; no other
+local YRBSS data are available.
+
+County-level identifiers are not available in the National YRBS data set or in
+most state data sets.
+
+#### **When are updated YRBSS results released?**
+
+Most YRBS's are conducted during the spring of odd-numbered years and results
+are released in the summer of the following year. Therefore, results from the
+2017 national, state, and local YRBSS administration, for instance, were
+released in an MMWR Surveillance Summary during the summer of 2018. The
+specific release date for a given cycle is posted on the YRBSS home page as
+soon as it has been determined.
+
+#### **What is the suggested citation for the YRBSS questionnaire or YRBSS
+data in a publication?**
+
+YRBSS questionnaires should be cited as follows:
+
+Centers for Disease Control and Prevention. [survey year] Youth Risk Behavior
+Survey Questionnaire. Available at: www.cdc.gov/yrbs. Accessed on [date].
+
+YRBSS data in a publication should be cited as follows:
+
+Centers for Disease Control and Prevention. [survey year] Youth Risk Behavior
+Survey Data. Available at: www.cdc.gov/yrbs. Accessed on [date].
+
+#### **Do I need permission to use YRBSS Questionnaires for my
+study/area/large urban school district/school? Is there a cost?**
+
+The YRBSS questionnaires are in the public domain and no permission is
+required to use them. You may download and use the questionnaires as is or
+with changes at no charge. See YRBSS Questionnaires for the most recent YRBSS
+questionnaires.
+
+#### **Are the YRBSS questionnaires available in languages other than
+English?**
+
+YRBSS questionnaires are not available in languages other than English. YRBSS
+questionnaires were designed to be administered in a school setting.
+Therefore, it is important to consider the language used in regular
+classrooms. If testing in subjects such as math or social studies is conducted
+in English, it may not be necessary to translate YRBSS questionnaires. Check
+with school officials before deciding whether or not translation is needed.
+
+YRBSS questionnaires are in the public domain, however, and may be freely
+translated and used in any language. No specific permission is required.
+
+Top of Page
+
+Data Availability and Requesting YRBSS Data Files
+
+####  **Are YRBSS results available by zip code, census tract, school, large
+urban school district, or county? Are YRBSS results available for my
+town/city/large urban school district?**
+
+YRBSS data are not available by zip code, census tract, or school.  Sample
+size limitations and confidentiality requirements do not support analyses at
+these levels.
+
+YRBSS data are available for a small number of specifically funded large urban
+school districts or counties. CDC funds certain large urban school districts
+to conduct the YRBSS. Some of those large urban school districts are county-
+based. See Participation Maps & History for more information about county-
+based large urban school districts with YRBSS data. Data are only available
+for large urban school districts or counties on the list; no other local YRBSS
+data are available.
+
+County-level identifiers are not available in the National YRBS data set or in
+most state data sets.
+
+#### **For which jurisdictions are YRBSS data sets available?**
+
+YRBSS data sets are available for the United States overall, most states, some
+territories, some large urban school districts, and some tribal governments.
+Availability depends on YRBSS participation, data quality, and data-sharing
+policies. See Participation Maps & History for more information about data
+availability.
+
+#### **How can I get state, large urban school district, territory, or tribal
+government YRBSS data?**
+
+State, large urban school district, territory, and tribal government data sets
+and documentation are owned and controlled by the jurisdictions that conducted
+the surveys. Many sites have given CDC permission to distribute their data
+sets upon request, but others manage the distribution of their data sets
+themselves.
+
+To request data sets and documentation for a specific jurisdiction, follow
+these steps:
+
+                                                                                                                                                                                                                                                                                                                                  * View the High School or Middle School participation history and data quality to see which sites have weighted data in which survey years and to see which sites have given permission for CDC to distribute their data.
+                                                                                                                                                                                                                                                                                                                                  * Complete the YRBSS Data Request Form, indicating the survey data you would like to receive.
+                                                                                                                                                                                                                                                                                                                                  * For sites that have given CDC YRBSS data distribution permission, we will email data sets to you directly. For sites that have not given us distribution permission, we will email you contact information for that site; you will need to contact the site directly to discuss your data request.
+
+#### **Why are results not available from every state?**
+
+Results are not available from every state for several reasons. First, four
+states (Minnesota, Oregon, Washington, and Wyoming) do not participate in the
+YRBSS. Second, some states that do participate do not achieve a high enough
+overall response rate to receive weighted results. Therefore, their results
+are not posted on the CDC web site and CDC does not distribute their data. The
+Participation Map and the Participation History & Data Quality tables provide
+more details on which states participated in the YRBSS and whether they
+obtained weighted data.
+
+#### **How can I get National YRBSS data sets?**
+
+National YRBS data sets and documentation are available for download at YRBSS
+Data & Documentation. There is no charge for the data nor is permission needed
+to download or use the data.
+
+#### **Do the National YRBS data sets have state identifiers?**
+
+The National YRBS data sets posted on the YRBSS web site do not contain state
+or region identifiers because the national samples are not constructed to
+provide representative data at state or region levels. However, National YRBS
+data sets with state identifiers included are available upon request using the
+YRBSS Data Request Form. The National YRBS data sets will not contain data
+from every state because the National YRBS is an independent sample; it is not
+the aggregate of individual state and local data sets.
+
+#### **Is the National YRBS data set a combination of all the data sets from
+the states conducting their own YRBS?**
+
+No, the National YRBS results are not the combination of state and large urban
+school district data. The National YRBS data are a separately drawn sample of
+high school students in grades 9-12 in the U.S. Some states may not have any
+schools chosen as part of the sample. States and large urban school districts
+each use a sample design that produces a representative sample of students in
+grades 9-12 for their state or large urban school district. If you want to
+analyze state or large urban school district data please see Participation
+Maps & History for more information about data availability.
+
+#### **Do the National YRBS data sets include schools and students from every
+state?**
+
+No. The National YRBS sample is designed to be representative of students in
+grades 9-12 in the United States overall but does necessarily include students
+from every state.
+
+#### **In which data file formats are National YRBS data available?**
+
+National YRBS data sets are available in two file formats: Access and ASCII.
+Additionally, SAS and SPSS programs are provided to convert the ASCII data
+into SAS and SPSS datasets. They can be downloaded at YRBSS Data &
+Documentation.
+
+State, large urban school district, territory, and tribal government data sets
+from surveys conducted since 1999 are available in SAS, SPSS, ASCII, and
+Access formats. State, large urban school district, territory, and tribal
+government data sets from surveys conducted prior to 1999 are available in
+ASCII only.
+
+Top of Page
+
+Conducting Your Own YRBS
+
+####  **Do I need permission to use YRBSS questionnaires for my
+study/area/district/school? Is there a cost?**
+
+The YRBSS questionnaires are in the public domain and no permission is
+required to use them. You may download the questionnaires at no charge. See
+YRBSS Questionnaires for the most recent YRBSS questionnaires.
+
+#### **How do I conduct a YRBS in my area/district/school?**
+
+See A Guide to Conducting Your Own Youth Risk Behavior SurveyCdc-pdf for
+information useful to communities and groups that plan to conduct their own
+YRBS survey.
+
+#### **If I conduct a YRBS, can CDC help me scan, process, or tabulate my
+data?**
+
+CDC provides data processing assistance only to states, territories, and large
+urban school districts that it funds directly to conduct a YRBSS. However,
+information on how the data are processed can be found on the Methods page and
+in the Methodology of the Youth Risk Behavior Surveillance SystemCdc-pdf.
+
+#### **Is funding available for conducting a YRBS?**
+
+CDC has funding available for all 50 states and only a small number of
+territories, and large urban school districts during each five year funding
+cycle.
+
+Top of Page
+
+YRBS Questionnaires
+
+####  **How are questions selected for inclusion on the YRBS questionnaire?**
+
+Before each YRBS cycle begins, CDC seeks input from subject matter experts
+(both inside and outside of CDC) regarding what questions should be changed,
+added, and deleted. This input is compiled for review by December of the odd-
+numbered year preceding the survey cycle (e.g., December 1, 2019 for the 2021
+YRBS).
+
+Proposed changes, additions, and deletions are then placed on a ballot, which
+is sent to the YRBS coordinators at all sites (states, territories, and large
+urban school districts). Each site votes for or against each proposed change,
+addition, and deletion. CDC considers the results of this balloting process
+when finalizing the standard questionnaire, which includes 89 questions. At
+least 60% of sites must approve each change, addition, or deletion before it
+can be implemented.
+
+For the national YRBS, approximately 10 questions are added to the standard
+questionnaire each cycle. These questions typically reflect emerging areas of
+interest for CDC and stakeholders.
+
+Additional questions of interest are included on an Optional Question List,
+from which sites can select questions for their questionnaire. Final wording
+for questionnaires and the Optional Question List is based on the results of
+cognitive testing and input from subject matter experts.
+
+#### **What is the process for getting a question added to the YRBS
+questionnaire or getting an existing question changed?**
+
+All suggested additions and changes should be submitted using the YRBSS
+Question, Comment, and Data Request Form. These suggestions must be received
+by December 1 of the odd-numbered year preceding the survey cycle (e.g.,
+December 1, 2019 for the 2021 YRBS). All suggestions are then compiled and
+reviewed by CDC before entering the ballot process described above.
+
+#### **Are the YRBSS questionnaires available in languages other than
+English?**
+
+The YRBSS questionnaires are not available in languages other than English.
+The YRBSS questionnaires were designed to be administered in a school setting.
+Therefore, it is important to consider the language used in regular
+classrooms. If testing in subjects such as math or social studies is conducted
+in English, it may not be necessary to translate YRBSS questionnaires. Check
+with school officials before deciding whether or not translation is needed.
+
+YRBSS questionnaires are, however, in the public domain and may be freely
+translated and used in any language. No specific permission is required.
+
+#### **Will asking questions about certain topics actually encourage certain
+behaviors?**
+
+There is no evidence that simply asking students about health behaviors will
+encourage them to try that behavior.
+
+#### **What is the suggested citation for a YRBSS questionnaire or YRBSS data
+in a publication?**
+
+The YRBSS questionnaire should be cited as follows:
+
+Centers for Disease Control and Prevention. [survey year] Youth Risk Behavior
+Survey. Available at: www.cdc.gov/YRBSS. Accessed on [date].
+
+YRBSS data in a publication should be cited as follows:
+
+Centers for Disease Control and Prevention. [survey year] Youth Risk Behavior
+Survey Data. Available at: www.cdc.gov/yrbs. Accessed on [date].
+
+#### **What behaviors are assessed by the YRBSS?**
+
+The YRBSS assesses six categories of priority health behaviors--behaviors that
+contribute to unintentional injuries and violence; sexual behaviors related to
+unintended pregnancy and sexually transmitted diseases, including HIV
+infection; alcohol and other drug use; tobacco use; unhealthy dietary
+behaviors; and inadequate physical activity. In addition, the YRBSS assesses
+obesity, overweight, asthma, and other important health issues.
+
+#### **Can state and local agencies that conduct a YRBSS modify the standard
+questionnaire?**
+
+Yes. State and local agencies that conduct a YRBS can add or delete questions
+to meet their policy or programmatic needs. Specific guidance on the
+parameters that must be followed during questionnaire modification is provided
+to those agencies funded by CDC to conduct a YRBS.
+
+#### **Are transgender students included in the national, state, and large
+urban school district YRBS 's?**
+
+Yes. All students in sampled classrooms are included as long as they are able
+to respond to the questionnaire in a private and anonymous matter.
+
+#### **Does the YRBS identify transgender students?**
+
+CDC worked with partners and researchers for several cycles to develop a
+credible question to identify transgender students. A question recommended by
+CDC was successfully piloted by 11 states and 10 large urban school districts
+during the 2017 YRBS cycle. Cognitive interviews conducted in March of 2018
+also indicated that the question functioned well. It is included in the 2019
+YRBS Optional Question list for any interested state or large urban school
+district to use.
+
+Top of Page
+
+Analyzing YRBSS Data
+
+####  **What software should I use to analyze YRBSS data?**
+
+See Software for Analysis of YRBS DataCdc-pdf for a review of software
+packages suitable for analyzing YRBSS data and guidance on how to use them.
+
+#### **How are the national, state, territory, tribal government, and local
+YRBS data different? Are the national data the aggregate of the all of the
+state and other YRBS data?**
+
+National, state, territory, tribal government, and local YRBS data come from
+separate scientific samples of schools and students. National YRBS data are
+not the aggregate of the state YRBS data sets. State, territory, tribal
+government, and local YRBS data are not subsets of the National YRBSS data
+set. National, state, territory, tribal government, and local YRBS's all
+follow the same survey methodology and use the same core questionnaire.
+
+#### **Is there a national middle school YRBS?**
+
+No. However, middle school results are available for some states, districts,
+territories, and tribal governments that have elected to conduct a middle
+school YRBS in their jurisdiction. Middle school YRBS results are available on
+Youth Online.
+
+#### **Can I calculate state-level estimates of a health behavior using the
+National YRBS data?**
+
+No, the National YRBS was not designed to produce representative estimates at
+the state level.
+
+#### **Is it possible to analyze associations between state-level
+characteristics and student-level behaviors using the National YRBS data?**
+
+This type of analysis has significant limitations and should be conducted with
+caution. A state-level characteristic, such as the presence of a state law,
+can be added to a regression model as an exogenous (independent) variable and
+will yield statistically correct estimates. However, it is important to fully
+consider the context of these estimates. The National YRBS was not designed to
+produce representative estimates at the state level, the number of students
+chosen from states varies considerably and is usually too small to generate
+precise or stable state-level estimates, and fewer than 50 states are included
+in the national sample each cycle. Thus, researchers should fully investigate
+the implications and interpretations of this type of analysis and should
+understand the sampling design of the National YRBS and how that design might
+influence their results. See Methodology of the Youth Risk Behavior
+Surveillance SystemCdc-pdf for more information about the National YRBS
+sampling design.
+
+#### **Can I calculate prevalence estimates by urban/rural status? Is an
+urban/rural identifier available for the National YRBS data sets?**
+
+No, the National YRBS was not designed to produce estimates by urban/rural
+status. In the National YRBS, PSUs are selected based on urban and non-urban
+definitions, but it does not necessarily follow that a non-urban area is
+rural. Urban status indicates only that the PSU was one of the largest 54
+metropolitan statistical areas (MSAs); non-urban indicates that the PSU was
+not one of the largest 54 MSAs; it could be rural but is not necessarily
+rural. See Methodology of the Youth Risk Behavior Surveillance SystemCdc-pdf
+for more information about the National YRBS sampling design.
+
+Top of Page
+
+Uses of YRBSS Results
+
+####  **How are the YRBSS results used?**
+
+State, territorial, tribal government, and local agencies and nongovernmental
+organizations use YRBSS data to set and track progress toward meeting school
+health and health promotion program goals, support modification of school
+health curricula or other programs, support new legislation and policies that
+promote health, and seek funding and other support for new initiatives.
+
+CDC and other federal agencies routinely use YRBSS data to assess trends in
+priority health behaviors among high school students, monitor progress toward
+achieving national health objectives, and evaluate the contribution of broad
+prevention efforts in schools and other settings toward helping the nation
+reduce health risk behaviors among youth.
+
+#### **Where can I find more information on using YRBSS data?**
+
+Uses of Youth Risk Behavior Survey and School Health Profiles Data:
+Applications for Improving Adolescent and School HealthExternal  
+Foti K, Balaji A, Shanklin S  
+Journal of School Health 2011;81(6):345-354
+
+#### **Can student behavior changes over time be tracked using the YRBSS?**
+
+Yes. The YRBSS tracks aggregate changes in student behavior over time. See the
+National Trends Fact Sheets for more information.
+
+#### **Does the YRBSS track specific students over time?**
+
+No. Each cycle a new sample of schools and students is drawn. Students who
+participated cannot be tracked because no identifying information is
+collected.
+
+#### **Is it appropriate to report prevalence estimates for any of the
+racial/ethnic subgroups (e.g., American Indian/Alaskan Native students) asked
+about on the National YRBS questionnaire?**
+
+Although prevalence estimates generated for students in each racial/ethnic
+subgroup are representative of these students nationally, caution should be
+used when analyzing and interpreting these data. Because of the small numbers
+of students in some racial/ethnic subgroups who participate in any single
+National YRBS, the estimates may lack precision. Precision can be improved by
+combining multiple years of National YRBS data.
+
+Top of Page
+
+Validity & Reliability
+
+####  **Do students tell the truth on the YRBS questionnaire?**
+
+Research indicates data of this nature may be gathered as credibly from
+adolescents as from adults. Internal reliability checks help identify the
+small percentage of students who falsify their answers. To obtain truthful
+answers, students must perceive the survey as important and know procedures
+have been developed to protect their privacy and allow for anonymous
+participation.
+
+#### **What kinds of validation or reliability studies have been done on the
+YRBS questionnaire?**
+
+The Methodology of the Youth Risk Behavior Surveillance SystemCdc-pdf contains
+a description of most of the methodological studies conducted to date on the
+YRBSS questionnaires or YRBSS data collection procedures. In addition, the
+list of YRBSS MMWR publications and journal articles contains the actual
+journal articles describing the results of these studies.
+
+These methodological studies include test-retest reliability studies on the
+1991 and 1999 versions of the questionnaire; a study assessing the validity of
+self-reported height and weight; a study assessing the effect of changing the
+race/ethnicity question; a study examining how varying honesty appeals,
+question wording, and data-editing protocols affect prevalence estimates; and
+a study examining how varying the mode and setting of survey administration
+affects prevalence estimates.
+
+Top of Page
+
+Methodology
+
+####  **What is the methodology of the YRBS?**
+
+See Methodology of the Youth Risk Behavior Surveillance System--2013Cdc-pdf
+for details about how YRBSS are conducted.
+
+#### **How are schools and students selected?**
+
+For the national, state, territory, tribal government, and local YRBS samples,
+schools are selected with probability proportional to the size of student
+enrollment in grades 9-12 and then required classes of students (e.g., English
+classes) or a specific period of the school day (e.g., 2nd period) are
+randomly selected to participate. Within selected classes, all students are
+eligible to participate. See the Methodology of the Youth Risk Behavior
+Surveillance SystemCdc-pdf for a more detailed description of sampling
+procedures.
+
+#### **Who does the National YRBS data represent?**
+
+National YRBS data are representative of all public and private school
+students in grades 9-12 in the 50 states and the District of Columbia.
+National YRBS data sets are not the aggregate of the state YRBS data sets; the
+National YRBS uses a separate scientific sample of schools and students.
+
+#### **Who does the state and local YRBS data represent?**
+
+Most state, territory, tribal government, and local YRBS data that are
+weighted are representative of all public school students in grades 9-12 in
+the respective jurisdiction. Some of these surveys also include private
+schools in their sampling frame. So their weighted data are representative of
+all public and private school students in grades 9-12 in their jurisdiction.
+State, territory, tribal government, and local YRBS data that are not weighted
+are representative only of the students who completed the survey in the
+respective jurisdiction.
+
+#### **What does it mean for data to be "weighted?"**
+
+Weighting is a mathematical procedure that makes data representative of the
+population from which it was drawn. In the YRBSS, only surveys with a
+scientifically drawn sample, appropriate documentation, and an overall
+response rate of at least 60% are weighted.
+
+#### **How are YRBSS data weighted?**
+
+YRBSS data are weighted to adjust for school and student nonresponse and to
+make the data representative of the population of students from which the
+sample was drawn. Generally, these adjustments are made by applying a weight
+based on student sex, grade, and race/ethnicity.
+
+Top of Page
+
+Page last reviewed: July 20, 2018
+
+Content source: Division of Adolescent and School Health, National Center for
+HIV/AIDS, Viral Hepatitis, STD, and TB Prevention
+
+home DASH Home
+
+                                                                                                                                                                                                                                                                                                                                  * About DASHplus icon
+                                                                                                                                                                                                                                                                                                                                    * At A Glance
+                                                                                                                                                                                                                                                                                                                                    * Why Schools?
+                                                                                                                                                                                                                                                                                                                                    * Adolescent Health: What Works In Schoolsplus icon
+                                                                                                                                                                                                                                                                                                                                      * What Works: Overview
+                                                                                                                                                                                                                                                                                                                                      * What Works: Sexual Health Education
+                                                                                                                                                                                                                                                                                                                                      * What Works: Sexual Health Services
+                                                                                                                                                                                                                                                                                                                                      * What Works: Safe and Supportive School Environments
+                                                                                                                                                                                                                                                                                                                                    * Youth HIV, STD & Pregnancy Prevention Program Impact
+                                                                                                                                                                                                                                                                                                                                  * Calendar
+                                                                                                                                                                                                                                                                                                                                  * Contact DASH
+                                                                                                                                                                                                                                                                                                                                  * Adolescent and School Health Policyplus icon
+                                                                                                                                                                                                                                                                                                                                    * DASH Partner Updates
+                                                                                                                                                                                                                                                                                                                                    * Policy Guidance
+                                                                                                                                                                                                                                                                                                                                    * School Health Policy Resources
+                                                                                                                                                                                                                                                                                                                                    * State School-Based Health Education Law Summary Reports
+                                                                                                                                                                                                                                                                                                                                  * Data & Statisticsplus icon
+                                                                                                                                                                                                                                                                                                                                    * Data By Topicplus icon
+                                                                                                                                                                                                                                                                                                                                      * Nutrition, Physical Activity, & Obesity
+                                                                                                                                                                                                                                                                                                                                    * School Health Profilesplus icon
+                                                                                                                                                                                                                                                                                                                                      * Overview
+                                                                                                                                                                                                                                                                                                                                      * Results
+                                                                                                                                                                                                                                                                                                                                      * Participation Map & History
+                                                                                                                                                                                                                                                                                                                                      * Questionnaires
+                                                                                                                                                                                                                                                                                                                                      * Requesting Data Files
+                                                                                                                                                                                                                                                                                                                                      * Data Request Form
+                                                                                                                                                                                                                                                                                                                                    * SHPPSplus icon
+                                                                                                                                                                                                                                                                                                                                      * Results
+                                                                                                                                                                                                                                                                                                                                      * Questionnaires
+                                                                                                                                                                                                                                                                                                                                      * Data & Documentation
+                                                                                                                                                                                                                                                                                                                                      * Data Request Form
+                                                                                                                                                                                                                                                                                                                                    * YRBSSplus icon
+                                                                                                                                                                                                                                                                                                                                      * Overview
+                                                                                                                                                                                                                                                                                                                                      * Results
+                                                                                                                                                                                                                                                                                                                                      * Participation Maps & History
+                                                                                                                                                                                                                                                                                                                                      * Frequently Asked Questions
+                                                                                                                                                                                                                                                                                                                                      * Methods
+                                                                                                                                                                                                                                                                                                                                      * Questionnaires
+                                                                                                                                                                                                                                                                                                                                      * Data & Documentation
+                                                                                                                                                                                                                                                                                                                                      * Trends Report
+                                                                                                                                                                                                                                                                                                                                      * Toolkit
+                                                                                                                                                                                                                                                                                                                                      * Journal Articles
+                                                                                                                                                                                                                                                                                                                                      * NYPANS
+                                                                                                                                                                                                                                                                                                                                      * Data Request Form
+                                                                                                                                                                                                                                                                                                                                  * Health Disparitiesplus icon
+                                                                                                                                                                                                                                                                                                                                    * Addressing Health and Educational Disparities
+                                                                                                                                                                                                                                                                                                                                    * Health Considerations for LGBTQ Youthplus icon
+                                                                                                                                                                                                                                                                                                                                      * Protective Factors for LGBTQ Youth
+                                                                                                                                                                                                                                                                                                                                      * Health Disparities Among LGBTQ Youth
+                                                                                                                                                                                                                                                                                                                                      * Terminology
+                                                                                                                                                                                                                                                                                                                                    * Survey of Todayâs Adolescent Relationships and Transitions (START)
+                                                                                                                                                                                                                                                                                                                                  * Funded Areasplus icon
+                                                                                                                                                                                                                                                                                                                                    * Notice of Funding Opportunities
+                                                                                                                                                                                                                                                                                                                                    * Funded Local Agencies
+                                                                                                                                                                                                                                                                                                                                    * Funded State Agencies
+                                                                                                                                                                                                                                                                                                                                    * Funded Territorial Agency and Tribal Nation
+                                                                                                                                                                                                                                                                                                                                    * Funded NGOs
+                                                                                                                                                                                                                                                                                                                                    * Success Stories
+                                                                                                                                                                                                                                                                                                                                  * Protective Factorsplus icon
+                                                                                                                                                                                                                                                                                                                                    * Adolescent Connectedness
+                                                                                                                                                                                                                                                                                                                                    * Parent Engagement in Schools
+                                                                                                                                                                                                                                                                                                                                    * Positive Parenting Practices
+                                                                                                                                                                                                                                                                                                                                    * School Connectedness
+                                                                                                                                                                                                                                                                                                                                    * Resources
+                                                                                                                                                                                                                                                                                                                                  * Health Services for Teensplus icon
+                                                                                                                                                                                                                                                                                                                                    * Condom Availability Programs (CAPs)plus icon
+                                                                                                                                                                                                                                                                                                                                      * CAPs: In Brief
+                                                                                                                                                                                                                                                                                                                                      * CAPs: Things to Consider
+                                                                                                                                                                                                                                                                                                                                  * High-Risk Substance Use Among Youth
+                                                                                                                                                                                                                                                                                                                                  * Sexual Risk Behaviors
+                                                                                                                                                                                                                                                                                                                                  * Program Evaluationplus icon
+                                                                                                                                                                                                                                                                                                                                    * Evaluations of Innovative Programs
+                                                                                                                                                                                                                                                                                                                                    * Additional Evaluation Resources
+                                                                                                                                                                                                                                                                                                                                  * Health & Academicsplus icon
+                                                                                                                                                                                                                                                                                                                                    * Anti-Bullying Policies and Enumeration: An Infobrief for Local Education Agencies
+                                                                                                                                                                                                                                                                                                                                  * How the WSCC Model Informs HIV, STD, and Pregnancy Preventionplus icon
+                                                                                                                                                                                                                                                                                                                                    * The Whole School, Whole Community, Whole Child (WSCC) Model
+                                                                                                                                                                                                                                                                                                                                  * Toolsplus icon
+                                                                                                                                                                                                                                                                                                                                    * GYT: Get Yourself Tested for High Schools
+                                                                                                                                                                                                                                                                                                                                    * Health Education Curriculum Analysis Tool (HECAT)
+                                                                                                                                                                                                                                                                                                                                    * HECAT FAQs
+                                                                                                                                                                                                                                                                                                                                    * Health Education Teacher Training Manual
+                                                                                                                                                                                                                                                                                                                                  * Publications, Registries, and Other Resourcesplus icon
+                                                                                                                                                                                                                                                                                                                                    * Journal Articles
+                                                                                                                                                                                                                                                                                                                                    * Registries of Programs Effective in Reducing Youth Risk Behaviors
+                                                                                                                                                                                                                                                                                                                                    * Fact Sheets
+                                                                                                                                                                                                                                                                                                                                    * NYHAAD Resourcesplus icon
+                                                                                                                                                                                                                                                                                                                                      * HIV Information and Youth
+                                                                                                                                                                                                                                                                                                                                    * Portrait Series
+                                                                                                                                                                                                                                                                                                                                    * Other Resources
+                                                                                                                                                                                                                                                                                                                                  * Multimediaplus icon
+                                                                                                                                                                                                                                                                                                                                    * Buttons
+                                                                                                                                                                                                                                                                                                                                    * Infographics
+                                                                                                                                                                                                                                                                                                                                    * Palm Cards & Posters
+                                                                                                                                                                                                                                                                                                                                    * Video
+                                                                                                                                                                                                                                                                                                                                  * Specific Audiencesplus icon
+                                                                                                                                                                                                                                                                                                                                    * Education Agencies
+                                                                                                                                                                                                                                                                                                                                    * Funded Programsplus icon
+                                                                                                                                                                                                                                                                                                                                      * plus icon
+                                                                                                                                                                                                                                                                                                                                        * Communication Planning for Program Success
+                                                                                                                                                                                                                                                                                                                                        * Frequently Asked Questions
+                                                                                                                                                                                                                                                                                                                                        * Funding Information
+                                                                                                                                                                                                                                                                                                                                        * Grants Management
+                                                                                                                                                                                                                                                                                                                                      * Program Guidance
+                                                                                                                                                                                                                                                                                                                                      * Reporting Guidance
+                                                                                                                                                                                                                                                                                                                                      * Resources
+                                                                                                                                                                                                                                                                                                                                    * Health Care Providers
+                                                                                                                                                                                                                                                                                                                                    * Parents
+
+Get Email Updates
+
+To receive email updates about this page, enter your email address:
+
+Email Address
+
+What's this?
+
+Submit
+
+**HAVE QUESTIONS?**
+
+Visit CDC-INFO
+
+Call 800-232-4636
+
+Email CDC-INFO
+
+Open 24/7
+
+**CDC INFORMATION**
+
+                                                                                                                                                                                                                                                                                                                                  * About CDC
+                                                                                                                                                                                                                                                                                                                                  * Jobs
+                                                                                                                                                                                                                                                                                                                                  * Funding
+                                                                                                                                                                                                                                                                                                                                  * Policies
+                                                                                                                                                                                                                                                                                                                                  * File Viewers & Players
+
+                                                                                                                                                                                                                                                                                                                                  * Privacy
+                                                                                                                                                                                                                                                                                                                                  * FOIA
+                                                                                                                                                                                                                                                                                                                                  * No Fear Act
+                                                                                                                                                                                                                                                                                                                                  * OIG
+                                                                                                                                                                                                                                                                                                                                  * Nondiscrimination
+                                                                                                                                                                                                                                                                                                                                  * Accessibility
+
+**CONNECT WITH CDC**  
+
+                                                                                                                                                                                                                                                                                                                                  * Facebook
+                                                                                                                                                                                                                                                                                                                                  * Twitter
+                                                                                                                                                                                                                                                                                                                                  * Youtube
+                                                                                                                                                                                                                                                                                                                                  * Instagram
+  
+
+                                                                                                                                                                                                                                                                                                                                  * Syndicate
+                                                                                                                                                                                                                                                                                                                                  * CDC TV
+                                                                                                                                                                                                                                                                                                                                  * RSS
+                                                                                                                                                                                                                                                                                                                                  * Email
+
+U.S. Department of Health & Human Services
+
+USA.gov
+
+CDC Website Exit Disclaimer external icon
+
+                                                                                                                                                                                                                                                                                                                                  * Facebook
+                                                                                                                                                                                                                                                                                                                                  * Twitter
+                                                                                                                                                                                                                                                                                                                                  * LinkedIn
+                                                                                                                                                                                                                                                                                                                                  * Email
+
+![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+
+question_02 PDF file_external
+
+#### Exit Notification/Disclaimer Policy
+
+Close
+
+**Links with this icon indicate that you are leaving the CDC website.**
+
+                                                                                                                                                                                                                                                                                                                                  * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+                                                                                                                                                                                                                                                                                                                                  * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+                                                                                                                                                                                                                                                                                                                                  * You will be subject to the destination website's privacy policy when you follow the link.
+                                                                                                                                                                                                                                                                                                                                  * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+For more information on CDC's web notification policies, see Website
+Disclaimers.
+
+Cancel Continue
+
+  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
+  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+
