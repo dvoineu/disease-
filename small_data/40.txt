@@ -1,7 +1,10 @@
-
+https://www.cdc.gov/other/plugins/index.htmlLink: https://www.cdc.gov/other/plugins/index.html    
+                Description: File Formats used on CDC.gov    
+                Keywords: CDC,  Centers for Disease Control and Prevention,  other,  about,  about cdc.gov,  web site disclaimers,  e-Government,  flash disclaimers,  policies and regulations,  image reuse terms and conditions,  key matches,  linking,  linking to cdc.gov,  why link to cdc.gov,  how to link to cdc.gov,  graphic link to cdc.gov,  text link to describe cdc.gov,  questions or comments,  search tips,  site map,  world aids day 2007 web page badges and buttons,  other languages,  most spoken languages in the United States, Policies &amp; Guidelines    
+                            
 
 Skip directly to site content Skip directly to page options Skip directly to
-A-Z link Skip directly to A-Z link Skip directly to A-Z link
+A-Z link
 
 Centers for Disease Control and Prevention. CDC twenty four seven. Saving
 Lives, Protecting People Centers for Disease Control and Prevention. CDC
@@ -15,325 +18,275 @@ Submit __
 
 For a full list of topics: A-Z Index
 
-Note: Javascript is disabled or is not supported by your browser. For this
-reason, some items on this page will be unavailable. For more information
-about this message, please visit this page: About CDC.gov.
+Using CDC.gov
 
-Travelers' Health
+Section Navigation
 
-          * Facebook
-          * Twitter
-          * LinkedIn
-          * Email
-          * Syndicate
+CDC Home
 
-# Vaccines. Medicines. Advice.
+      * Facebook
+      * Twitter
+      * LinkedIn
+      * Email
+      * Syndicate
 
-Novel Coronavirus Travel Health Information
+# File Formats used on CDC.gov
 
-![coronavirus](/travel/images/coronavirus-sq.jpg)
+Minus
 
-**Level 3:**   Cruise Ship Travel, Global COVID-19 Pandemic Notice
+Related Pages
 
-Coronavirus and Travel in the United States
+### Plugin Descriptions
 
-Additional Coronavirus Travel Information
+Below are the required icons for use with the CDC.gov Template Package.
 
-For Travelers
+####
 
-![](/travel/content/images/picker-traveler.jpg)
+![Adobe Acrobat Reader](/other/images/icon_acrobat.gif)
 
-**Where are you going?**
+#### Adobe Acrobat Reader (PDF)
 
-\-- Select One --
+**Description:** Adobe Acrobat Reader is a program that allows users to view
+files in Portable Document Format (PDF). PDF is a universal file format that
+preserves the appearance of the original document. PDF files can be easily
+printed but not easily modified. Several documents throughout this Web site
+are available in PDF. These files contain complex documents with graphs,
+images, and special text that cannot be presented easily through the typical
+Web browser. The creator of this file format, Adobe® Systems, offers a free
+viewer so that you can view any PDF file.  
+**File extensions:** .pdf  
+**Viewing:** If you do not already have Adobe Acrobat, you can download
+Acrobat Reader for free.  
 
-  
+#### Audio/Video Files
 
-Go
+**Description:** Audio and video files used on the CDC.gov site are commonly
+formatted at MP3, MP4, or WMV files (e.g. Podcasts, CDC-TV). These audio and
+video files and others such as MPEG, AVI, and WAV) must use the generic
+audio/video icon.  
+**File extensions:** .avi (audio), .mp3 (audio), .wav (audio), .wma (audio),
+.mpeg (video), .wmv (video), .mpg (video), .webm (video), .ogg (container),
+.ogy (container)
 
-  
+####
 
-You must select a destination above.
+![ePub](/other/images/icon_epub.gif)
 
-For Clinicians
+#### ePub file format
 
-![](/travel/content/images/picker-clinician.jpg)
+**Description:** An **electronic book** or ePub is a book-length publication
+in digital form, consisting of text, images, or both, readable on computers or
+other electronic devices.  
+**File extensions:** .epub  
+**Viewing:** Using Apple iBooks, Amazon Kindle devices, and many other ebook
+reading devices.
 
-**Traveler destination**
+####
 
-\-- Select One --
+![Microsoft Excel](/other/images/icon_excel.gif)
 
-  
+#### Microsoft Excel
 
-Go
+**Description:** Microsoft Excel is a spreadsheet program used to calculate,
+analyze, and store data. Text in Excel files can be easily modified or copied
+for use in other applications.  
+File extensions: .xls, .xlsx, .csv  
+**Viewing:** If you do not already have Excel, you can download Excel Viewer
+for free.
 
-  
+####
 
-You must select a destination above.
+![Microsoft PowerPoint](/other/images/icon_ppt.gif)
 
-Travel Health Notices
+#### Microsoft PowerPoint
 
-Visit the travel health notices page to see the full list of travel notices
-including:
+**Description:** Microsoft PowerPoint is a program for creating and viewing
+presentations and slide shows.  
+**File extensions:** .ppt, .pptx  
+**Viewing:** If you do not already have PowerPoint, you can download
+PowerPoint Viewer for free.
 
-  
+####
 
-### Warning Level 3, Avoid Nonessential Travel
+![Microsoft Word](/other/images/icon_word.gif)
 
-          * New 
+#### Microsoft Word
 
-Global COVID-19 Pandemic Notice March 27, 2020
+**Description:** Microsoft Word is a word processing program used to create
+and edit text documents. Text in Word documents can be easily modified or
+copied for use in other applications.  
+**File extensions:** .doc, .docx, .rtf  
+**Viewing:** If you do not already have Word, you can download Word Viewer for
+free.
 
-          * New 
+####
 
-COVID-19 and Cruise Ship Travel  March 17, 2020
+![QuickTime](/other/images/icon_qt.gif)
 
-          * Health Infrastructure Breakdown in Venezuela January 03, 2020
+#### QuickTime
 
-More
+**Description:** QuickTime is a program for viewing and listening to audio and
+video files (including live broadcasts).  
+**File extensions:** .mov, .qt, .mp4  
+Viewing/listening: If you do not already have QuickTime, you can download
+QuickTime for free.
 
-### Alert Level 2, Practice Enhanced Precautions
+####
 
-          * Polio in Africa March 09, 2020
-          * Polio in Asia January 03, 2020
-          * Yellow Fever in Nigeria January 03, 2020
+![RealOne Player](/other/images/icon_real.gif)
 
-More
+#### RealPlayer
 
-### Watch Level 1, Practice Usual Precautions
+**Description:** RealPlayer is a program for viewing and listening to audio
+and video files (including live broadcasts).  
+**File extensions:** .ra, .ram, .rm  
+**Viewing/listening:** If you do not already have RealPlayer, you can download
+RealPlayer for free. (Select "Download Free RealPlayer" on the right side of
+the page.)
 
-          * Updated  Dengue in the Americas March 31, 2020
-          * Dengue in Asia and the Pacific Islands March 09, 2020
-          * Meningococcal Disease in Benin January 28, 2020
+####
 
-More
+![RIS file format ](/other/images/icon_ris.gif)
 
-COVID-19 Travel Recommendations by Country
+#### RIS file format
 
-![map of world showing
-cases](https://www.cdc.gov/coronavirus/2019-ncov/travelers/images/covid-19-travel-
-map.jpg)
+**Description:** The RIS file format is a text file containing bibliographic
+citations. These files are best suited for import into bibliographic
+management applications such as EndNote®external icon, Reference
+Manager®external icon, and ProCite®external icon.  
+**Viewing:** A free trial download is available at each application's web
+site.
 
-See interactive world map showing COVID-19 travel recommendations by country.
+####
 
-Email Newsletter
+![SAS Universal Viewer](/other/images/icon_sas.jpg)
 
-Get the latest travel health news delivered to your inbox. Subscribe to our
-newsletter.
+#### SAS Universal Viewer
 
-Updates
+**Description:** The SAS Universal Viewer enables you to view, sort, and
+filter SAS data sets and other simple text-based files. You cannot edit SAS
+data sets with the SAS Universal Viewer. You do not have to invoke SAS or
+install SAS on your computer in order to use the SAS Universal Viewer. SAS
+Universal Viewer allows users to save SAS datasets in XML and CSV formats that
+can be used with other software programs.  
+**Viewing:** Download SAS Universal Viewer by visiting the SAS Software web
+page.
 
-          * Cholera Vaccine for Travelers
-          * Updated Recommendations to Prevent Japanese Encephalitis in Travelers
-          * Tafenoquine Approved for Malaria Prophylaxis and Treatment
-          * Announcement: Temporary Total Depletion of US Licensed Yellow Fever Vaccine 
-          * Medscape Commentary: Travelers' Diarrhea: New Guidelines for Prevention and Treatment
-          * Medscape Commentary: New Cholera Vaccine for Adult Travelers
-          * Zika Virus Travel Information
-          * YouTube Video: Heading Home Healthy
+####
 
-![Pre-travel prep tool](/travel/images/prep-tool.jpg)External Link
+![Text file format](/other/images/icon_text.gif)
 
-Providers: Use this free interactive clinical tool to guide you through pre-
-travel consultations with US patients traveling abroad.
+#### Text file format
 
+**Description:** A text file is a kind of computer file that is structured as
+a sequence of lines of electronic text containing plain text, but they are not
+limited to such.  
+**File extensions:** .txt  
+**Viewing:** Created by Notepad and TextEdit when document formatting is
+removed and some hardware devices recognize plain text files.
 
+####
 
+![WinZip](/other/images/icon_zip.gif)
 
+#### WinZip & Other Programs for Zipping/Compressing Files
 
-* * *
+**Description:** WinZip and similar programs (such as PowerZip, TurboZip,
+ZipScan, WinConfig, and StuffIt) are used to archive and compress files so
+that they can be stored and distributed more efficiently.  
+**File extensions:** .zip  
+**Viewing:** If you do not already have a compression program such as WinZip,
+you can download a free 21-day trial version of WinZip or download a similar
+compression program.
 
-Content source: National Center for Emerging and Zoonotic Infectious Diseases
-(NCEZID)  
-Division of Global Migration and Quarantine (DGMQ)
+Page last reviewed: October 22, 2019
 
-HomeTravelers Health
+Content source: Centers for Disease Control and Prevention
 
-          * Destinations
-          * Find a Clinicexpand
-            * Yellow Fever Vaccination Clinicsexpand
-              * FAQ
-          * Travel Notices
-          * Travel Advice and Resourcesexpand
-            * Clinician Tools and Resourcesexpand
-              * Clinical Updates
-              * Yellow Fever Vaccine Course
-              * Cholera Vaccine for Travelers
-              * Pre-Travel Quick Guide
-              * Think Travel Vaccine Guide
-            * Traveler Adviceexpand
-              * After Travel Tips
-              * Animal Safety
-              * Before You Travel Tips
-              * Blood Clots
-              * Bug Bites
-              * Business Travel
-              * Cold Climates
-              * Counterfeit Medicines
-              * Cruise Ship Travel
-              * COVID-19 and Cruise Ship Travel
-              * During Travel Tips
-              * Fish Poisoning in Travelers
-              * Food and Water
-              * Getting Health Care Abroadexpand
-                * ObtenciÃ³n de atenciÃ³n mÃ©dica en el extranjero
-              * High Altitudes
-              * Holiday Travel
-              * Hot Climates
-              * Humanitarian Aid Workers
-              * Insurance
-              * International Adoption
-              * Jet Lag
-              * Last-Minute Travel
-              * Long-Term Travel
-              * Lunar New Year
-              * Mass Gatherings
-              * Medical Tourism
-              * Mental Health
-              * Motion Sickness
-              * Natural Disasters
-              * Pack Smart
-              * Posters and Infographicsexpand
-                * Posters
-                * Prevent Bug Bites
-                * Recently in American Tropics?
-                * Going to American Tropics?
-                * Food and Water: What's Safer
-                * Food and Water: Risky vs. Safer
-                * Food and Water: What to Know
-                * Road Safety
-                * Road Safety - 8 Steps
-                * MERS Health Advisory poster
-                * MERS Pictogram
-                * CDC Guide for Healthy Travel
-                * Website Guide
-                * Zika: Inbound and Outbound Travelers
-                * Zika: Outbound Travelers
-                * Zika: Inbound Travelers
-                * Zika: Enjoy Your Vacation
-                * Zika: A CDC Guide for Travelers infographic
-              * Pregnant Travelers
-              * Road Safety
-              * Routine Vaccines
-              * Senior Citizens
-              * Sex Tourism
-              * Spring Break Travel
-              * STDs
-              * Study Abroad
-              * Summer Travel Abroad
-              * Sun Exposure
-              * Tick Bites
-              * Travel to the Extreme
-              * Travel Vaccines
-              * Traveler Survival Guide
-              * Traveling Abroad with Medicine
-              * Traveling with Children
-              * Traveling with Your Pet
-              * Travelers' Diarrhea
-              * Travelers with Chronic Illnesses
-              * Travelers with Disability
-              * Travelers with Weakened Immune Systems
-              * Visiting Friends or Relatives
-              * Water Disinfection
-              * Water Safety Abroad
-              * Mobile Apps
-              * RSS Feeds
-            * Travel Industry Resources
-            * Research and Surveillance Partners
-          * Disease Directoryexpand
-            * Ebola Recommendations for Organizations
-            * Zika Travel Informationexpand
-              * Guidelines for US Citizens and Residents Living in Areas with Zika
-          * Yellow Bookexpand
-            * Contents
-              * Chapter 1
-                * Introduction to Travel Health & the CDC Yellow Book
-                * Travel Epidemiology
-                *  _Perspectives:_ Why Guidelines Differ
-            * Tables
-            * Maps
-            * Figures
-            * Boxes
-            * Updates
-            * About the Yellow Bookexpand
-              * With Gratitude to Phyllis E. Kozarsky
-          * Frequently Asked Questionsexpand
-            * Contact Us
+home Using CDC.gov
 
-##### File Formats Help:
+      * About CDC.govplus icon
+        * Search Tips
+        * File Formats
+        * CDC Email Updatesplus icon
+          * Manage Subscriptions
+          * Frequently Asked Questions
+      * Policies and Regulationsplus icon
+        * Guidelines for Public Comments
+        * Linking to CDC.gov
+        * Use of Agency Materials
+        * PHIL Image Reuse Terms and Conditions
+        * Plain Writing
+        * Privacy Policyplus icon
+          * Current Third Party Tools/Pages
+          * Our Cookie Policy
+          * Mobile Privacy Policy
+        * Web Site Disclaimers
+        * CDC Nondiscrimination notice
+        * Language Assistance
 
-How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+Get Email Updates
 
-            * Adobe PDF file
-            * Microsoft PowerPoint file
-            * Microsoft Word file
-            * Microsoft Excel file
-            * Audio/Video file
-            * Apple Quicktime file
-            * RealPlayer file
-            * Text file
-            * Zip Archive file
-            * SAS file
-            * ePub file
+To receive email updates about this page, enter your email address:
 
-**CONTACT CDC-INFO**
+Email Address
 
-Have questions? We have answers. 1-800-CDC-INFO (800-232-4636) TTY:
-888-232-6348
+What's this?
+
+Submit
+
+**HAVE QUESTIONS?**
+
+Visit CDC-INFO
+
+Call 800-232-4636
 
 Email CDC-INFO
 
+Open 24/7
+
 **CDC INFORMATION**
 
-            * About CDC
-            * Jobs
-            * Funding
-            * Policies
-            * File Viewers & Players
+      * About CDC
+      * Jobs
+      * Funding
+      * Policies
+      * File Viewers & Players
 
-            * Privacy
-            * FOIA
-            * No Fear Act
-            * OIG
-            * Nondiscrimination
+      * Privacy
+      * FOIA
+      * No Fear Act
+      * OIG
+      * Nondiscrimination
+      * Accessibility
 
 **CONNECT WITH CDC**  
 
-            * Facebook
-            * Twitter
-            * Youtube
-            * Instagram
+      * Facebook
+      * Twitter
+      * Youtube
+      * Instagram
   
 
-            * Syndicate
-            * CDC TV
-            * RSS
-            * Email
+      * Syndicate
+      * CDC TV
+      * RSS
+      * Email
 
 U.S. Department of Health & Human Services
 
 USA.gov
 
-CDC Website Exit Disclaimer
+CDC Website Exit Disclaimer external icon
 
-###### Follow CDC
-
-            * Email
-            * Recommend
-            * Tweet
-            * Post
-            * RSS
-
-###### CDC Media
-
-            * Listen
-            * Watch
-            * eCards
-            * YouTube
-
-TOP
+      * Facebook
+      * Twitter
+      * LinkedIn
+      * Email
 
 ![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+
+file_external
 
 #### Exit Notification/Disclaimer Policy
 
@@ -341,12 +294,15 @@ Close
 
 **Links with this icon indicate that you are leaving the CDC website.**
 
-            * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-            * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-            * You will be subject to the destination website's privacy policy when you follow the link.
-            * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+      * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+      * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+      * You will be subject to the destination website's privacy policy when you follow the link.
+      * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
 For more information on CDC's web notification policies, see Website
 Disclaimers.
 
 Cancel Continue
+
+  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
+  *[4 hrs]: Tuesday, April 7, 2020 at 2:56 PM
 

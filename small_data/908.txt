@@ -1,0 +1,350 @@
+https://www.cdc.gov/mrsa/lab/index.htmlLink: https://www.cdc.gov/mrsa/lab/index.html    
+                Description: Laboratory information and resources for MRSA testing.    
+                Keywords: Oxacillin, susceptibility testing, Cefoxitin, antibiotic resistance, lab testing, doxycycline, staphylococcus, antibiotic resistant, staphylococcus    
+                            
+
+Skip directly to site content Skip directly to page options Skip directly to
+A-Z link Skip directly to A-Z link Skip directly to A-Z link
+
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People Centers for Disease Control and Prevention. CDC
+twenty four seven. Saving Lives, Protecting People
+
+Search ____
+
+Ã
+
+Submit __
+
+For a full list of topics: A-Z Index
+
+Methicillin-resistant _Staphylococcus aureus_ (MRSA)
+
+Section Navigation
+
+CDC Home
+
+                                                                                                                                                                                                                                                      * Facebook
+                                                                                                                                                                                                                                                      * Twitter
+                                                                                                                                                                                                                                                      * LinkedIn
+                                                                                                                                                                                                                                                      * Email
+                                                                                                                                                                                                                                                      * Syndicate
+
+# Laboratory Testing
+
+Minus
+
+Related Pages
+
+On this Page
+
+What are the antibiotic susceptibility patterns of clinical _S. aureus_
+isolates?
+
+How should clinical laboratories test for MRSA?
+
+Is it difficult to detect oxacillin/methicillin resistance?
+
+Can all susceptibility tests detect MRSA?
+
+Are there additional tests to detect oxacillin/methicillin resistance?
+
+How is the _mecA_ gene involved in the mechanism of resistance?
+
+What are the breakpoints for testing the susceptibility of staphylococci to
+oxacillin?
+
+Why are oxacillin and cefoxitin tested instead of methicillin?
+
+If oxacillin and cefoxitin are tested, why are the isolates called "MRSA"
+instead of "ORSA"?
+
+What are the antibiotic susceptibility patterns of clinical _S. aureus_
+isolates?
+
+Approximately 10% of _S. aureus_ isolates in the United States are susceptible
+to penicillin. However, many _S._ _aureus_ strains, while resistant to
+penicillin, remain susceptible to penicillinase-stable penicillins, such as
+oxacillin and methicillin. Strains that are oxacillin and methicillin
+resistant, historically termed methicillin-resistant _S. aureus_ (MRSA), are
+resistant to all ß-lactam agents, including cephalosporins and carbapenems,
+although they may be susceptible to the newest class of MRSA-active
+cephalosporins (e.g, ceftaroline). Strains of MRSA causing healthcare-
+associated infections are often resistant to other commonly used antimicrobial
+agents, including erythromycin, clindamycin and fluoroquinolones, while
+strains causing community-associated infections are often resistant only to
+ß-lactam agents, erythromycin and occasionally to fluoroquinolones. Since
+1996, MRSA strains with decreased susceptibility to vancomycin (minimum
+inhibitory concentration [MIC], 4 - 8 μg/ml) and strains fully resistant to
+vancomycin (MIC ≥ 16 μg/ml) have been reported.
+
+Top of Page
+
+How should clinical laboratories test for MRSA?
+
+In addition to broth microdilution testing, the Clinical and Laboratory
+Standards Institute (CLSI), recommends the cefoxitin disk diffusion test or a
+plate containing 6 μg/ml of oxacillin in Mueller-Hinton agar supplemented with
+4% NaCl as alternative methods of testing for MRSA. For specific details on
+these methods, see CLSI Approved Standard M100. In addition, there are FDA-
+approved assays for molecular detection of the _mecA_ gene and commercially
+available chromogenic agars that can be used for MRSA detection. Finally,
+latex agglutination or immunochromatographic membrane tests for PBP2a can be
+used to detect MRSA.
+
+Top of Page
+
+**Laboratory Testing Resources**
+
+                                                                                                                                                                                                                                                      * Use of an Inferred PFGE Algorithm, Emerging Infections Program/Active Bacterial Core (ABCs) Surveillance Invasive MRSA Project
+                                                                                                                                                                                                                                                      * Laboratory Protocol for Molecular Typing of _S. aureus_ by PFGE Cdc-pdf[PDF - 24 pages]
+
+**CLSI Approved Standard**
+
+Performance standards for antibiotic susceptibility testing. CLSI approved
+standard M100External
+
+**Source**
+
+Becker, K et al. 2019. Staphylococcus, Micrococcus, and Other Catalase-
+Positive Cocci. In James H. Jorgensen, Michael A. Pfaller, Karen C. Carroll,
+Guido Funke, Michael A. Pfaller, Marie Louise Landry, Robin Patel, Alexander
+J. McAdam, Sandra S. Richter, David W. Warnock (eds.) Manual of Clinical
+Microbiology 12th edition, ASM Press, Washington, D.C.External
+
+Is it difficult to detect oxacillin/methicillin resistance?
+
+MRSA is resistant to all β-lactams because of the presence of _mecA_ , a gene
+that produces a pencillin binding protein (PBP2a) with low affinity for
+β-lactam antibiotics. Mechanism of oxacillin resistance other than _mecA_ are
+rare. Accurate detection of oxacillin/methicillin resistance can be difficult
+due to the presence of two subpopulations (one susceptible and the other
+resistant) that may coexist within a culture of staphylococci (see Bannerman,
+TL. 2003). All cells in a culture may carry the genetic information ( _mecA_ )
+for resistance, but only a small number may express the resistance _in vitro_.
+This phenomenon is termed heteroresistance and occurs in staphylococci
+resistant to penicillinase-stable penicillins, such as oxacillin.
+
+Cells expressing heteroresistance grow more slowly than the oxacillin-
+susceptible population and may be missed at temperatures above 35°C. This is
+why CLSI recommends incubating isolates being tested against oxacillin at
+33-35°C (maximum of 35°C) for a full 24 hours before reading (see CLSI
+Approved Standard). Isolates tested against cefoxitin using either disk
+diffusion or broth microdilution should also be incubated at 33-35°C but can
+be read after 16-18 and 16-20 hours, respectively.
+
+Top of Page
+
+Can all susceptibility tests detect MRSA?
+
+When used correctly, broth-based and agar-based tests usually can detect MRSA.
+The cefoxitin disk diffusion method can be used in addition to routine
+susceptibility test methods or as a back-up method.
+
+Top of Page
+
+Are there additional tests to detect oxacillin/methicillin resistance?
+
+Nucleic acid amplification tests, such as the polymerase chain reaction (PCR),
+can be used for direct detection of _mecA_ , the most common gene mediating
+oxacillin resistance in staphylococci. However, _mecA_ PCR tests will not
+detect novel resistance mechanisms such as _mecC_ or uncommon phenotypes such
+as borderline-resistant oxacillin resistance. An alternative method for
+detection of MRSA is the use of anti-PBP2a monoclonal antibodies available as
+latex agglutination or immunochromatographic membrane assays. Finally, there
+are commercially available chromogenic agars that can be used for MRSA
+detection.
+
+Top of Page
+
+How is the _mecA_ gene involved in the mechanism of resistance?
+
+Staphylococcal resistance to oxacillin/methicillin occurs when an isolate
+produces an altered penicillin-binding protein, PBP2a, which is encoded by the
+_mecA_  gene. The variant penicillin-binding protein binds β-lactams with
+lower avidity, which results in resistance to this class of antibiotic agents.
+
+Top of Page
+
+What are the breakpoints for testing the susceptibility of staphylococci to
+oxacillin?
+
+The CLSI clinical breakpoints for _S. aureus_ are different than those for
+coagulase-negative staphylococci (CoNS) -- see CLSI approved standard M100.
+
+Oxacillin disk diffusion testing is not reliable for detecting oxacillin/
+methicillin resistance. Cefoxitin should be used as a surrogate for disk
+diffusion testing.
+
+#### Interpretive Criteria (in μg/ml) for Oxacillin MIC Tests
+
+Level of resistance of 2 pathogens to the Oxacillin MIC tests. Pathogen |
+Susceptible | Intermediate | Resistant  
+---|---|---|---  
+  _S. aureus and S. lugdunensis_ |  ≤ 2 μg/ml |  N/A |  ≥ 4 μg/ml  
+ CoNS |  ≤ 0.25 μg/ml |  N/A |  ≥ 0.5 μg/ml  
+  
+
+
+#### Interpretive Criteria (in μg/ml) for Cefoxitin MIC Tests
+
+Level of resistance of 2 pathogens to the  Cefoxitin MIC tests. Pathogen |
+Susceptible | Intermediate | Resistant  
+---|---|---|---  
+  _S. aureus and S. lugdunensis_ |  ≤ 4 μg/ml |  N/A |  ≥ 8 μg/ml  
+ CoNS |  N/A |  N/A |  N/A  
+  
+
+
+#### Interpretive Criteria (in mm) for Cefoxitin Disk Diffusion Test
+
+Level of resistance of 2 pathogens to the Cefoxitin disk diffusion test.
+Pathogen | Susceptible | Intermediate | Resistant  
+---|---|---|---  
+  _S. aureus and S. lugdunensis_ |  ≥ 22 mm |  N/A |  ≤ 21 mm  
+ CoNS |  ≥ 25 mm |  N/A |  ≤ 24 mm  
+  
+Top of Page
+
+Why are oxacillin and cefoxitin tested instead of methicillin?
+
+First, methicillin is no longer commercially available in the United States.
+Second, oxacillin maintains its activity during storage better than
+methicillin and is more likely to detect heteroresistant strains. However,
+cefoxitin is an even better inducer of the _mecA_ gene, and tests using
+cefoxitin give more reproducible and accurate results than tests with
+oxacillin.
+
+Top of Page
+
+If oxacillin and cefoxitin are tested, why are the isolates called "MRSA"
+instead of "ORSA"?
+
+When resistance was first described in 1961, methicillin was used to test and
+treat infections caused by _S._ _aureus._ However, oxacillin, which is in the
+same class of drugs as methicillin, was chosen as the agent of choice for
+testing staphylococci in the early 1990s, and this was modified to include
+cefoxitin later. The acronym MRSA is still used by many to describe these
+isolates because of its historic role.
+
+Top of Page
+
+Page last reviewed: February 6, 2019
+
+Content source: Centers for Disease Control and Prevention, National Center
+for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of Healthcare
+Quality Promotion (DHQP)
+
+home MRSA
+
+                                                                                                                                                                                                                                                      * General Information expand
+                                                                                                                                                                                                                                                        * For Patients
+                                                                                                                                                                                                                                                        * For School & Daycare
+                                                                                                                                                                                                                                                        * For Coaches & Athletic Directors
+                                                                                                                                                                                                                                                        * For Athletes
+                                                                                                                                                                                                                                                      * Factsheets & Posters
+                                                                                                                                                                                                                                                      * Healthcare Settings expand
+                                                                                                                                                                                                                                                        * Outpatient Management
+                                                                                                                                                                                                                                                        * Preventing Infections
+                                                                                                                                                                                                                                                      * Cleaning & Disinfection expand
+                                                                                                                                                                                                                                                        * Athletic Facilities
+                                                                                                                                                                                                                                                        * Laundry
+                                                                                                                                                                                                                                                      * Photos expand
+                                                                                                                                                                                                                                                        * MRSA Bacteria Photo 1
+                                                                                                                                                                                                                                                        * MRSA Bacteria Photo 2
+                                                                                                                                                                                                                                                        * MRSA Bacteria Photo 3
+                                                                                                                                                                                                                                                        * MRSA Bacteria Photo 4
+                                                                                                                                                                                                                                                        * MRSA Bacteria Photo 5
+                                                                                                                                                                                                                                                        * MRSA Bacteria Photo 6
+                                                                                                                                                                                                                                                        * MRSA Bacteria Photo 7
+                                                                                                                                                                                                                                                        * MRSA Bacteria Photo 8
+                                                                                                                                                                                                                                                        * MRSA Bacteria Photo 9
+                                                                                                                                                                                                                                                        * MRSA Bacteria Photo 10
+                                                                                                                                                                                                                                                        * MRSA Bacteria Photo 11
+                                                                                                                                                                                                                                                        * MRSA Bacteria Photo 12
+                                                                                                                                                                                                                                                        * MRSA Bacteria Photo 13
+                                                                                                                                                                                                                                                        * MRSA Bacteria Photo 14
+                                                                                                                                                                                                                                                      * Laboratory Testing
+                                                                                                                                                                                                                                                      * What CDC is Doing
+
+Get Email Updates
+
+To receive email updates about this page, enter your email address:
+
+Email Address
+
+What's this?
+
+Submit
+
+**HAVE QUESTIONS?**
+
+Visit CDC-INFO
+
+Call 800-232-4636
+
+Email CDC-INFO
+
+Open 24/7
+
+**CDC INFORMATION**
+
+                                                                                                                                                                                                                                                      * About CDC
+                                                                                                                                                                                                                                                      * Jobs
+                                                                                                                                                                                                                                                      * Funding
+                                                                                                                                                                                                                                                      * Policies
+                                                                                                                                                                                                                                                      * File Viewers & Players
+
+                                                                                                                                                                                                                                                      * Privacy
+                                                                                                                                                                                                                                                      * FOIA
+                                                                                                                                                                                                                                                      * No Fear Act
+                                                                                                                                                                                                                                                      * OIG
+                                                                                                                                                                                                                                                      * Nondiscrimination
+                                                                                                                                                                                                                                                      * Accessibility
+
+**CONNECT WITH CDC**  
+
+                                                                                                                                                                                                                                                      * Facebook
+                                                                                                                                                                                                                                                      * Twitter
+                                                                                                                                                                                                                                                      * Youtube
+                                                                                                                                                                                                                                                      * Instagram
+  
+
+                                                                                                                                                                                                                                                      * Syndicate
+                                                                                                                                                                                                                                                      * CDC TV
+                                                                                                                                                                                                                                                      * RSS
+                                                                                                                                                                                                                                                      * Email
+
+U.S. Department of Health & Human Services
+
+USA.gov
+
+CDC Website Exit Disclaimer external icon
+
+                                                                                                                                                                                                                                                      * Facebook
+                                                                                                                                                                                                                                                      * Twitter
+                                                                                                                                                                                                                                                      * LinkedIn
+                                                                                                                                                                                                                                                      * Email
+
+![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+
+PDF file_external
+
+#### Exit Notification/Disclaimer Policy
+
+Close
+
+**Links with this icon indicate that you are leaving the CDC website.**
+
+                                                                                                                                                                                                                                                      * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+                                                                                                                                                                                                                                                      * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+                                                                                                                                                                                                                                                      * You will be subject to the destination website's privacy policy when you follow the link.
+                                                                                                                                                                                                                                                      * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+For more information on CDC's web notification policies, see Website
+Disclaimers.
+
+Cancel Continue
+
+  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
+  *[4 hrs]: Tuesday, April 7, 2020 at 2:56 PM
+

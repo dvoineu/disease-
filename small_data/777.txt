@@ -1,0 +1,308 @@
+https://www.cdc.gov/Other/plugins/#wmvLink: https://www.cdc.gov/Other/plugins/#wmv    
+                Description: File Formats used on CDC.gov    
+                Keywords: CDC,  Centers for Disease Control and Prevention,  other,  about,  about cdc.gov,  web site disclaimers,  e-Government,  flash disclaimers,  policies and regulations,  image reuse terms and conditions,  key matches,  linking,  linking to cdc.gov,  why link to cdc.gov,  how to link to cdc.gov,  graphic link to cdc.gov,  text link to describe cdc.gov,  questions or comments,  search tips,  site map,  world aids day 2007 web page badges and buttons,  other languages,  most spoken languages in the United States, Policies &amp; Guidelines    
+                            
+
+Skip directly to site content Skip directly to page options Skip directly to
+A-Z link
+
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People Centers for Disease Control and Prevention. CDC
+twenty four seven. Saving Lives, Protecting People
+
+Search ____
+
+Ã
+
+Submit __
+
+For a full list of topics: A-Z Index
+
+Using CDC.gov
+
+Section Navigation
+
+CDC Home
+
+                                                                                  * Facebook
+                                                                                  * Twitter
+                                                                                  * LinkedIn
+                                                                                  * Email
+                                                                                  * Syndicate
+
+# File Formats used on CDC.gov
+
+Minus
+
+Related Pages
+
+### Plugin Descriptions
+
+Below are the required icons for use with the CDC.gov Template Package.
+
+####
+
+![Adobe Acrobat Reader](/other/images/icon_acrobat.gif)
+
+#### Adobe Acrobat Reader (PDF)
+
+**Description:** Adobe Acrobat Reader is a program that allows users to view
+files in Portable Document Format (PDF). PDF is a universal file format that
+preserves the appearance of the original document. PDF files can be easily
+printed but not easily modified. Several documents throughout this Web site
+are available in PDF. These files contain complex documents with graphs,
+images, and special text that cannot be presented easily through the typical
+Web browser. The creator of this file format, Adobe® Systems, offers a free
+viewer so that you can view any PDF file.  
+**File extensions:** .pdf  
+**Viewing:** If you do not already have Adobe Acrobat, you can download
+Acrobat Reader for free.  
+
+#### Audio/Video Files
+
+**Description:** Audio and video files used on the CDC.gov site are commonly
+formatted at MP3, MP4, or WMV files (e.g. Podcasts, CDC-TV). These audio and
+video files and others such as MPEG, AVI, and WAV) must use the generic
+audio/video icon.  
+**File extensions:** .avi (audio), .mp3 (audio), .wav (audio), .wma (audio),
+.mpeg (video), .wmv (video), .mpg (video), .webm (video), .ogg (container),
+.ogy (container)
+
+####
+
+![ePub](/other/images/icon_epub.gif)
+
+#### ePub file format
+
+**Description:** An **electronic book** or ePub is a book-length publication
+in digital form, consisting of text, images, or both, readable on computers or
+other electronic devices.  
+**File extensions:** .epub  
+**Viewing:** Using Apple iBooks, Amazon Kindle devices, and many other ebook
+reading devices.
+
+####
+
+![Microsoft Excel](/other/images/icon_excel.gif)
+
+#### Microsoft Excel
+
+**Description:** Microsoft Excel is a spreadsheet program used to calculate,
+analyze, and store data. Text in Excel files can be easily modified or copied
+for use in other applications.  
+File extensions: .xls, .xlsx, .csv  
+**Viewing:** If you do not already have Excel, you can download Excel Viewer
+for free.
+
+####
+
+![Microsoft PowerPoint](/other/images/icon_ppt.gif)
+
+#### Microsoft PowerPoint
+
+**Description:** Microsoft PowerPoint is a program for creating and viewing
+presentations and slide shows.  
+**File extensions:** .ppt, .pptx  
+**Viewing:** If you do not already have PowerPoint, you can download
+PowerPoint Viewer for free.
+
+####
+
+![Microsoft Word](/other/images/icon_word.gif)
+
+#### Microsoft Word
+
+**Description:** Microsoft Word is a word processing program used to create
+and edit text documents. Text in Word documents can be easily modified or
+copied for use in other applications.  
+**File extensions:** .doc, .docx, .rtf  
+**Viewing:** If you do not already have Word, you can download Word Viewer for
+free.
+
+####
+
+![QuickTime](/other/images/icon_qt.gif)
+
+#### QuickTime
+
+**Description:** QuickTime is a program for viewing and listening to audio and
+video files (including live broadcasts).  
+**File extensions:** .mov, .qt, .mp4  
+Viewing/listening: If you do not already have QuickTime, you can download
+QuickTime for free.
+
+####
+
+![RealOne Player](/other/images/icon_real.gif)
+
+#### RealPlayer
+
+**Description:** RealPlayer is a program for viewing and listening to audio
+and video files (including live broadcasts).  
+**File extensions:** .ra, .ram, .rm  
+**Viewing/listening:** If you do not already have RealPlayer, you can download
+RealPlayer for free. (Select "Download Free RealPlayer" on the right side of
+the page.)
+
+####
+
+![RIS file format ](/other/images/icon_ris.gif)
+
+#### RIS file format
+
+**Description:** The RIS file format is a text file containing bibliographic
+citations. These files are best suited for import into bibliographic
+management applications such as EndNote®external icon, Reference
+Manager®external icon, and ProCite®external icon.  
+**Viewing:** A free trial download is available at each application's web
+site.
+
+####
+
+![SAS Universal Viewer](/other/images/icon_sas.jpg)
+
+#### SAS Universal Viewer
+
+**Description:** The SAS Universal Viewer enables you to view, sort, and
+filter SAS data sets and other simple text-based files. You cannot edit SAS
+data sets with the SAS Universal Viewer. You do not have to invoke SAS or
+install SAS on your computer in order to use the SAS Universal Viewer. SAS
+Universal Viewer allows users to save SAS datasets in XML and CSV formats that
+can be used with other software programs.  
+**Viewing:** Download SAS Universal Viewer by visiting the SAS Software web
+page.
+
+####
+
+![Text file format](/other/images/icon_text.gif)
+
+#### Text file format
+
+**Description:** A text file is a kind of computer file that is structured as
+a sequence of lines of electronic text containing plain text, but they are not
+limited to such.  
+**File extensions:** .txt  
+**Viewing:** Created by Notepad and TextEdit when document formatting is
+removed and some hardware devices recognize plain text files.
+
+####
+
+![WinZip](/other/images/icon_zip.gif)
+
+#### WinZip & Other Programs for Zipping/Compressing Files
+
+**Description:** WinZip and similar programs (such as PowerZip, TurboZip,
+ZipScan, WinConfig, and StuffIt) are used to archive and compress files so
+that they can be stored and distributed more efficiently.  
+**File extensions:** .zip  
+**Viewing:** If you do not already have a compression program such as WinZip,
+you can download a free 21-day trial version of WinZip or download a similar
+compression program.
+
+Page last reviewed: October 22, 2019
+
+Content source: Centers for Disease Control and Prevention
+
+home Using CDC.gov
+
+                                                                                  * About CDC.govplus icon
+                                                                                    * Search Tips
+                                                                                    * File Formats
+                                                                                    * CDC Email Updatesplus icon
+                                                                                      * Manage Subscriptions
+                                                                                      * Frequently Asked Questions
+                                                                                  * Policies and Regulationsplus icon
+                                                                                    * Guidelines for Public Comments
+                                                                                    * Linking to CDC.gov
+                                                                                    * Use of Agency Materials
+                                                                                    * PHIL Image Reuse Terms and Conditions
+                                                                                    * Plain Writing
+                                                                                    * Privacy Policyplus icon
+                                                                                      * Current Third Party Tools/Pages
+                                                                                      * Our Cookie Policy
+                                                                                      * Mobile Privacy Policy
+                                                                                    * Web Site Disclaimers
+                                                                                    * CDC Nondiscrimination notice
+                                                                                    * Language Assistance
+
+Get Email Updates
+
+To receive email updates about this page, enter your email address:
+
+Email Address
+
+What's this?
+
+Submit
+
+**HAVE QUESTIONS?**
+
+Visit CDC-INFO
+
+Call 800-232-4636
+
+Email CDC-INFO
+
+Open 24/7
+
+**CDC INFORMATION**
+
+                                                                                  * About CDC
+                                                                                  * Jobs
+                                                                                  * Funding
+                                                                                  * Policies
+                                                                                  * File Viewers & Players
+
+                                                                                  * Privacy
+                                                                                  * FOIA
+                                                                                  * No Fear Act
+                                                                                  * OIG
+                                                                                  * Nondiscrimination
+                                                                                  * Accessibility
+
+**CONNECT WITH CDC**  
+
+                                                                                  * Facebook
+                                                                                  * Twitter
+                                                                                  * Youtube
+                                                                                  * Instagram
+  
+
+                                                                                  * Syndicate
+                                                                                  * CDC TV
+                                                                                  * RSS
+                                                                                  * Email
+
+U.S. Department of Health & Human Services
+
+USA.gov
+
+CDC Website Exit Disclaimer external icon
+
+                                                                                  * Facebook
+                                                                                  * Twitter
+                                                                                  * LinkedIn
+                                                                                  * Email
+
+![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+
+file_external
+
+#### Exit Notification/Disclaimer Policy
+
+Close
+
+**Links with this icon indicate that you are leaving the CDC website.**
+
+                                                                                  * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+                                                                                  * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+                                                                                  * You will be subject to the destination website's privacy policy when you follow the link.
+                                                                                  * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+For more information on CDC's web notification policies, see Website
+Disclaimers.
+
+Cancel Continue
+
+  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
+  *[4 hrs]: Tuesday, April 7, 2020 at 2:56 PM
+

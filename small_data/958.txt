@@ -1,0 +1,194 @@
+https://www.cdc.gov/coronavirus/mers/lab/lab-testing.htmlLink: https://www.cdc.gov/coronavirus/mers/lab/lab-testing.html    
+                Description: CDC laboratory tests for Middle East Respiratory Syndrome Coronavirus (MERS-CoV) fall into two categories: molecular tests and serology tests.    
+                Keywords: MERS, Middle East Respiratory Syndrome, MERS COV, MERS lab tests, MERS molecular lab tests, MERS serology lab tests, Coronavirus [CoV]    
+                            
+
+Skip directly to site content Skip directly to page options Skip directly to
+A-Z link
+
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People Centers for Disease Control and Prevention. CDC
+twenty four seven. Saving Lives, Protecting People
+
+Search ____
+
+Ã
+
+Submit __
+
+For a full list of topics: A-Z Index
+
+Middle East Respiratory Syndrome (MERS)
+
+Section Navigation
+
+CDC Home
+
+                                                                                                                                                                                                                                                      * Facebook
+                                                                                                                                                                                                                                                      * Twitter
+                                                                                                                                                                                                                                                      * LinkedIn
+                                                                                                                                                                                                                                                      * Email
+                                                                                                                                                                                                                                                      * Syndicate
+
+# CDC Laboratory Testing for Middle East Respiratory Syndrome Coronavirus
+(MERS-CoV)
+
+Minus
+
+Related Pages
+
+CDC works closely with state and local public health departments, travel
+industry partners, and others to identify and test people who may be infected
+with MERS-CoV. CDC conducts several different laboratory tests to detect MERS-
+CoV infection.
+
+In general, these lab tests fall into two categories:
+
+                                                                                                                                                                                                                                                      * Molecular tests, which look for evidence of active infection; and
+                                                                                                                                                                                                                                                      * Serology tests, which look for previous infection by detecting antibodies to MERS-CoV. Serology tests are for surveillance or investigational purposes and not for diagnostic purposes.
+
+## Molecular Tests
+
+Molecular tests are used to diagnose **active infection** (presence of MERS-
+CoV) in people who are thought to be infected with MERS-CoV based on their
+clinical symptoms and having links to places where MERS has been reported.
+
+                                                                                                                                                                                                                                                      * Real-time reverse-transcription polymerase chain reaction (rRT-PCR) assays are molecular tests that can be used to detect viral RNA in clinical samples. CDC's current case definition for laboratory confirmation of MERS-CoV infection requires either a positive rRT-PCR result for at least two specific genomic targets, or a single positive target with sequencing of a second target.
+                                                                                                                                                                                                                                                      * Most state laboratories in the United States are approved to test for MERS-CoV by using an rRT-PCR assay developed by CDC. This test is done under authority of an Emergency Use Authorization because there are no FDA-cleared/approved tests available for this purpose in the United States.
+                                                                                                                                                                                                                                                      * The success of rRT-PCR testing depends on several factors, including the experience and expertise of laboratory personnel, laboratory environment (e.g., avoidance of contamination), and the type and condition of specimens being tested. For this rRT-PCR assay, CDC recommends collecting multiple specimens, including lower (bronchalveolar lavage, sputum and tracheal aspirates) and upper (e.g., nasopharyngeal and oropharyngeal swabs) respiratory samples, serum, and stool specimens.
+                                                                                                                                                                                                                                                      * CDC considers a person under investigation to be negative for active MERS-CoV infection following one negative rRT-PCR test on the recommended specimens. Since a single negative result does not completely rule out MERS-CoV infection, in some circumstances additional specimens may be tested.
+                                                                                                                                                                                                                                                      * CDC considers a known MERS patient to be negative for active MERS-CoV infection following two consecutive negative rRT-PCR tests on all specimens.
+
+## Serology Tests
+
+Serology testing is used to detect **previous infection** (antibodies to MERS-
+CoV) in people who may have been exposed to the virus. Antibodies are proteins
+produced by the body's immune system to attack and kill viruses, bacteria, and
+other microbes during infection. The presence of antibodies to MERS-CoV
+indicates that a person had been previously infected with the virus and
+developed an immune response.
+
+                                                                                                                                                                                                                                                      * Evidence to date suggests there may be a broader range of MERS disease than was initially thought. For example, public health investigators have identified individuals who are PCR-positive but have no MERS symptoms; we do not know if MERS-CoV can be spread by these people. For this reason, public health scientists are working to learn more about how the virus is transmitted. One way to do this is through voluntary testing of blood samples from people who had close contact with people known to have MERS.
+                                                                                                                                                                                                                                                      * CDC has a two-phase approach for serology testing, using two screening tests and one confirmatory test to detect antibodies to MERS-CoV. 
+                                                                                                                                                                                                                                                        * ELISA, or enzyme-linked immunosorbent assay, is a screening test used to detect the presence and concentration of specific antibodies that bind to a viral protein. CDC tests by ELISAS for antibodies against two different MERS-CoV proteins, the nucleocapsid (N) and spike (S). 
+                                                                                                                                                                                                                                                          * If a clinical sample is determined to be antibody-positive by either ELISA, CDC then uses the microneutralization test to confirm the positive result.
+                                                                                                                                                                                                                                                        * The microneutralization assay is a highly specific confirmatory test used to measure neutralizing antibodies, or antibodies that can neutralize virus. This method is considered a gold standard for detection of specific antibodies in serum samples. However, compared with the ELISA, the microneutralization assay is labor-intensive and time-consuming, requiring at least 5 days before results are available. 
+                                                                                                                                                                                                                                                          * If a clinical sample is positive by either ELISA, and positive by microneutralization, the specimen is determined to be confirmed positive.
+                                                                                                                                                                                                                                                          * If a clinical sample is positive by both ELISAs, and negative by microneutralization, the sample is determined to be indeterminate.
+                                                                                                                                                                                                                                                          * If a clinical sample is positive by only one ELISA, and negative by microneutralization, the sample is determined to be negative.
+                                                                                                                                                                                                                                                          * If a clinical sample is negative by both ELISAS, the sample is determined negative.
+                                                                                                                                                                                                                                                        * In the end, a final determination of a confirmed positive serology result requires a positive ELISA test and confirmation by microneutralization assay.
+                                                                                                                                                                                                                                                      * MERS-CoV serology tests are for surveillance or investigational purposes and not for diagnostic purposes--they are tools developed in response to the MERS-CoV outbreak.
+                                                                                                                                                                                                                                                      * Information is limited about MERS-CoV and how the virus is spread. As public health scientists learn more about MERS-CoV, the approach to conducting these types of laboratory tests might change.
+
+ Top of Page
+
+Page last reviewed: August 2, 2019
+
+Content source: National Center for Immunization and Respiratory Diseases
+(NCIRD), Division of Viral Diseases
+
+home MERS Home
+
+                                                                                                                                                                                                                                                      * About MERS expand
+                                                                                                                                                                                                                                                        * Symptoms & Complications
+                                                                                                                                                                                                                                                        * Transmission
+                                                                                                                                                                                                                                                        * Prevention & Treatment
+                                                                                                                                                                                                                                                      * People at Increased Risk for MERS
+                                                                                                                                                                                                                                                      * FAQs
+                                                                                                                                                                                                                                                      * MERS in the U.S.
+                                                                                                                                                                                                                                                      * Healthcare Professionals expand
+                                                                                                                                                                                                                                                        * Interim Guidance for Health Professionals
+                                                                                                                                                                                                                                                        * Clinical Features
+                                                                                                                                                                                                                                                        * Preparedness expand
+                                                                                                                                                                                                                                                          * Healthcare Provider Checklist
+                                                                                                                                                                                                                                                          * Healthcare Facility Checklist
+                                                                                                                                                                                                                                                        * Infection Prevention and Control
+                                                                                                                                                                                                                                                        * Monitoring and Movement Guidance
+                                                                                                                                                                                                                                                        * Home Care and Isolation or Quarantine expand
+                                                                                                                                                                                                                                                          * Prevent Spreading in Homes and Communities
+                                                                                                                                                                                                                                                        * Air Transport
+                                                                                                                                                                                                                                                      * Laboratories expand
+                                                                                                                                                                                                                                                        * Laboratory Testing for MERS-CoV
+                                                                                                                                                                                                                                                        * Guidelines for Clinical Specimens
+                                                                                                                                                                                                                                                        * Lab Biosafety Guidelines
+                                                                                                                                                                                                                                                      * Guidance for Travel
+                                                                                                                                                                                                                                                      * Related Materials expand
+                                                                                                                                                                                                                                                        * Photos
+
+Related Links
+
+                                                                                                                                                                                                                                                      * Coronavirus
+                                                                                                                                                                                                                                                      * SARS
+
+**HAVE QUESTIONS?**
+
+Visit CDC-INFO
+
+Call 800-232-4636
+
+Email CDC-INFO
+
+Open 24/7
+
+**CDC INFORMATION**
+
+                                                                                                                                                                                                                                                      * About CDC
+                                                                                                                                                                                                                                                      * Jobs
+                                                                                                                                                                                                                                                      * Funding
+                                                                                                                                                                                                                                                      * Policies
+                                                                                                                                                                                                                                                      * File Viewers & Players
+
+                                                                                                                                                                                                                                                      * Privacy
+                                                                                                                                                                                                                                                      * FOIA
+                                                                                                                                                                                                                                                      * No Fear Act
+                                                                                                                                                                                                                                                      * OIG
+                                                                                                                                                                                                                                                      * Nondiscrimination
+                                                                                                                                                                                                                                                      * Accessibility
+
+**CONNECT WITH CDC**  
+
+                                                                                                                                                                                                                                                      * Facebook
+                                                                                                                                                                                                                                                      * Twitter
+                                                                                                                                                                                                                                                      * Youtube
+                                                                                                                                                                                                                                                      * Instagram
+  
+
+                                                                                                                                                                                                                                                      * Syndicate
+                                                                                                                                                                                                                                                      * CDC TV
+                                                                                                                                                                                                                                                      * RSS
+                                                                                                                                                                                                                                                      * Email
+
+U.S. Department of Health & Human Services
+
+USA.gov
+
+CDC Website Exit Disclaimer external icon
+
+                                                                                                                                                                                                                                                      * Facebook
+                                                                                                                                                                                                                                                      * Twitter
+                                                                                                                                                                                                                                                      * LinkedIn
+                                                                                                                                                                                                                                                      * Email
+
+![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+
+SAS stats
+
+#### Exit Notification/Disclaimer Policy
+
+Close
+
+**Links with this icon indicate that you are leaving the CDC website.**
+
+                                                                                                                                                                                                                                                      * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+                                                                                                                                                                                                                                                      * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+                                                                                                                                                                                                                                                      * You will be subject to the destination website's privacy policy when you follow the link.
+                                                                                                                                                                                                                                                      * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+For more information on CDC's web notification policies, see Website
+Disclaimers.
+
+Cancel Continue
+
+  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
+  *[4 hrs]: Tuesday, April 7, 2020 at 2:56 PM
+

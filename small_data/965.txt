@@ -1,0 +1,383 @@
+https://www.cdc.gov/coronavirus/mers/interim-guidance.htmlLink: https://www.cdc.gov/coronavirus/mers/interim-guidance.html    
+                Description: See MERS interim guidance for evaluating  patients, close contacts &amp; clusters, reporting PUIs, testing specimens, and infection control.     
+                Keywords: MERS, Middle East Respiratory Syndrome, MERS COV, MERS evaulate patients, MERS clusters, MERS reporting, MERS PUIs, MERS testing specimens, MERS infection control, MERS interim guidance, Coronavirus [CoV]    
+                            
+
+Skip directly to site content Skip directly to page options Skip directly to
+A-Z link
+
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People Centers for Disease Control and Prevention. CDC
+twenty four seven. Saving Lives, Protecting People
+
+Search __ Search Icon Close Icon
+
+Ã Coronavirus
+
+Coronavirus All CDC
+
+Submit __
+
+For a full list of topics: All A-Z Topics
+
+Middle East Respiratory Syndrome (MERS)
+
+Section Navigation
+
+CDC Home
+
+                                                                                                                                                                                                                                                      * Facebook
+                                                                                                                                                                                                                                                      * Twitter
+                                                                                                                                                                                                                                                      * LinkedIn
+                                                                                                                                                                                                                                                      * Email
+                                                                                                                                                                                                                                                      * Syndicate
+
+# Interim Guidance for Healthcare Professionals
+
+Minus
+
+Related Pages
+
+On This Page
+
+                                                                                                                                                                                                                                                      * Patients in the U.S. Who Should Be Evaluated
+                                                                                                                                                                                                                                                      * Evaluation and Management of Close Contacts
+                                                                                                                                                                                                                                                      * Clusters of Respiratory Illness
+                                                                                                                                                                                                                                                      * Laboratory Testing
+                                                                                                                                                                                                                                                      * Infection Control
+
+Healthcare providers should maintain awareness of the need to detect patients
+who should be evaluated for Middle East Respiratory Syndrome Coronavirus
+(MERS-CoV) infection; this requires clinical judgment as information on modes
+of transmission of MERS-CoV and clinical presentation of MERS continues to
+evolve.
+
+The spectrum of illness due to MERS-CoV infection is not fully defined.
+Symptoms of MERS-CoV infections are typically non-specific. At hospital
+admission, common signs and symptoms include fever, chills/rigors, headache,
+non-productive cough, dyspnea, and myalgia. Other symptoms can include sore
+throat, coryza, sputum production, dizziness, nausea and vomiting, diarrhea,
+and abdominal pain. Atypical presentations including mild respiratory illness
+without fever and diarrheal illness preceding development of pneumonia have
+been reported. Clinical judgment should be used to guide testing of patients
+for MERS-CoV infection.
+
+##  Patients in the U.S. Who Should Be Evaluated for MERS-CoV Infection
+
+Healthcare providers should evaluate patients in the U.S. for MERS-CoV
+infection if they meet the following criteria, defined as a Person Under
+Investigation (PUI)
+
+Clinical features and epidemiologic risk Clinical Features | & | Epidemiologic
+Risk  
+---|---|---  
+**Severe illness**  
+Fever1 _and_ pneumonia or acute respiratory distress syndrome (based on
+clinical or radiological evidence) | and | A history of travel from countries
+in or near the Arabian Peninsula2 within 14 days before symptom onset, _or_
+close contact3 with a symptomatic traveler who developed fever1 and acute
+respiratory illness (not necessarily pneumonia) within 14 days after traveling
+from countries in or near the Arabian Peninsula2.
+
+_- or -_
+
+A member of a cluster of patients with severe acute respiratory illness (e.g.,
+fever1 and pneumonia requiring hospitalization) of unknown etiology in which
+MERS-CoV is being evaluated, in consultation with state and local health
+departments in the US.  
+  
+**Milder illness**  
+Fever1 _and_ symptoms of respiratory illness (not necessarily pneumonia; e.g.,
+cough, shortness of breath) | and | A history of being in a healthcare
+facility (as a patient, worker, or visitor) within 14 days before symptom
+onset in a country or territory in or near the Arabian Peninsula2 in which
+recent healthcare-associated cases of MERS have been identified.  
+Fever1 _or_ symptoms of respiratory illness (not necessarily pneumonia; e.g.,
+cough, shortness of breath) | and | Close contact3 with a confirmed MERS case
+while the case was ill.  
+  
+
+
+The above criteria serve as guidance for testing; however, patients should be
+evaluated and discussed with public health departments on a case-by-case basis
+if their clinical presentation or exposure history is equivocal (e.g.,
+uncertain history of health care exposure).
+
+## Confirmed Case
+
+A confirmed case is a person with laboratory confirmation of MERS-CoV
+infection. Confirmatory laboratory testing requires a positive PCR on at least
+two specific genomic targets or a single positive target with sequencing on a
+second.
+
+## Probable Case
+
+A probable case is a PUI with absent or inconclusive laboratory results for
+MERS-CoV infection who is a close contact3 of a laboratory-confirmed MERS-CoV
+case. Examples of laboratory results that may be considered inconclusive
+include a positive test on a single PCR target, a positive test with an assay
+that has limited performance data available, or a negative test on an
+inadequate specimen.
+
+## Reporting Persons Under Investigation (PUIs)
+
+**Update July 2017:**
+
+To simplify the process, MERS reporting to CDC has been updated:
+
+                                                                                                                                                                                                                                                      * CDC is no longer asking for state and local health departments to submit MERS short forms for PUIs who test negative for MERS-CoV.
+                                                                                                                                                                                                                                                      * State and local health departments must still submit _all_ CDC MERS-CoV rRT-PCR assay test results (e.g., negative, positive, equivocal) via the LRN. Any MERS case detected in the U.S., and any PUI with equivocal or positive MERS test results must still be immediately reported to CDC as currently recommended.
+                                                                                                                                                                                                                                                      * CDC staff will continue to remain available for epidemiologic and laboratory consultation for MERS. Please contact eocreport@cdc.gov with any questions about MERS PUIs or MERS-CoV testing, or call the CDC Emergency Operations Center (EOC) at 770-488-7100
+                                                                                                                                                                                                                                                      * MERS PUI short forms are still available to use as tools when investigating PUIs.
+                                                                                                                                                                                                                                                      * Download PDF file pdf icon[1 page]
+                                                                                                                                                                                                                                                      * Download Microsoft Word file word icon[1 page]
+                                                                                                                                                                                                                                                      * NOTE: CDC may revise optional submission of the MERS short form for PUIs who test negative for MERS-CoV in the future if circumstances change, such as increasing worldwide MERS cases or if a MERS case is identified in the U.S.
+
+ Top of Page
+
+##  Evaluation and Management of Close Contacts
+
+### CLOSE CONTACTS OF A CONFIRMED CASE
+
+As part of investigation of confirmed cases, in consultation with a state or
+local health department, a person who develops fever1 or symptoms of
+respiratory illness within 14 days following close contact3 with a confirmed
+case of MERS while the case was ill should be evaluated for MERS-CoV
+infection.
+
+Other contacts of the ill person, such as community contacts or contacts on
+conveyances (e.g., airplane, bus), may be considered for evaluation in
+consultation with state and local health departments.
+
+Clinicians should be aware that the spectrum of illness due to MERS-CoV
+infection is not fully defined. Although most reported cases have had severe
+acute lower respiratory illness, mild infections, and infections with no
+apparent symptoms, have been reported. Additionally, in some cases, diarrhea
+preceded respiratory symptoms. Other early symptoms have included headache,
+chills, myalgia, nausea/vomiting, and diarrhea. Symptomatic contacts should be
+evaluated and, depending on their clinical history and presentation,
+considered for MERS-CoV testing. This includes rRT-PCR testing of lower/upper
+respiratory and serum specimens, and possibly MERS-CoV serology, if symptom
+onset was more than 14 days prior.
+
+Close contacts3 who are ill and do not require hospitalization for medical
+reasons may, in consultation with the state or local health department, be
+cared for and isolated in their home while being evaluated for MERS-CoV
+infection. (Isolation is defined as the separation or restriction of
+activities of an ill person with a contagious disease from those who are
+well). The possible benefit of home quarantine or other measures, such as
+wearing masks, is uncertain due to lack of information about transmissibility
+from persons with mild, or no apparent, symptoms. Contacts with no apparent
+symptoms who test positive by PCR, especially in respiratory specimens or
+serum, likely pose a risk of transmission, although the magnitude and
+contributing factors are unknown. Providers should contact their state or
+local health department to discuss home isolation, home quarantine or other
+measures for close contacts, especially for patients who test positive, and to
+discuss criteria for discontinuing any such measures.
+
+Recommendations may be modified as more data become available. For more
+information, see CDC's Interim Home Care and Isolation or Quarantine Guidance
+for MERS-CoV.
+
+### CLOSE CONTACTS OF A PUI
+
+Evaluation and management of close contacts3 of a PUI should be discussed with
+state and local health departments. Close contacts of a PUI should monitor
+themselves for fever and respiratory illness and seek medical attention if
+they become ill within 14 days after contact; healthcare providers should
+consider the possibility of MERS in these contacts.
+
+ Top of Page
+
+##  Clusters of Respiratory Illness in Which MERS-CoV Infection Should Be
+Considered
+
+Clusters5 of patients with severe acute respiratory illness (e.g., fever and
+pneumonia requiring hospitalization) without recognized links to a case of
+MERS-CoV infection or to travelers from countries in or near the Arabian
+Peninsula2 should be evaluated for common respiratory pathogens.4 If the
+illnesses remain unexplained, providers should consider testing for MERS-CoV,
+in consultation with state and local health departments.
+
+ Top of Page
+
+##  Laboratory Testing
+
+To date, limited information is available on the pathogenic potential and
+transmission dynamics of MERS-CoV. To increase the likelihood of detecting
+MERS-CoV infection, CDC recommends collecting multiple specimens from
+different sites at different times after symptom onset. For more information,
+see CDC's Interim Guidelines for Collecting, Handling, and Testing Clinical
+Specimens from PUIs for MERS-CoV. For a PUI, CDC strongly recommends testing a
+lower respiratory specimen (e.g., sputum, broncheoalveolar lavage fluid, or
+tracheal aspirate), a nasopharygeal/oropharygeal (NP/OP) swab, and serum, via
+the CDC MERS-CoV rRT-PCR assay. Lower respiratory specimens are preferred, but
+collecting nasopharyngeal and oropharyngeal (NP/OP) specimens, and serum, are
+strongly recommended depending upon the length of time between symptom onset
+and specimen collection. If symptom onset was more than 14 days prior, CDC
+also strongly recommends additional testing of a serum specimen via the CDC
+MERS-CoV serologic assay.
+
+Almost all state health department laboratories are approved for MERS-CoV
+testing using CDC's MERS-CoV rRT-PCR assay. Contact your state health
+department to notify them of PUIs and to request MERS-CoV testing. If your
+state health department is unable to test, contact CDC's EOC at 770-488-7100.
+
+
+
+##  Infection Control
+
+Appropriate infection-control measures should be used while managing patients,
+including specimen collection from PUIs and probable or confirmed MERS cases.
+For CDC guidance on MERS-CoV infection control in healthcare settings, see
+Interim Infection Prevention and Control Recommendations for Hospitalized
+Patients with MERS-CoV. For CDC interim guidance to prevent MERS-CoV from
+spreading in homes and communities in the U.S., see Interim Home Care and
+Isolation or Quarantine Guidance for MERS-CoV.
+
+ Top of Page
+
+* * *
+
+### Footnotes
+
+                                                                                                                                                                                                                                                      1. Fever may not be present in some patients, such as those who are very young, elderly, immunosuppressed, or taking certain medications. Clinical judgement should be used to guide testing of patients in such situations.
+                                                                                                                                                                                                                                                      2. Countries considered in the Arabian Peninsula and neighboring include: Bahrain; Iraq; Iran; Israel, the West Bank and Gaza; Jordan; Kuwait; Lebanon; Oman; Qatar; Saudi Arabia; Syria; the United Arab Emirates (UAE); and Yemen.
+                                                                                                                                                                                                                                                      3. Close contact is defined as a) being within approximately 6 feet (2 meters), or within the room or care area, of a confirmed MERS case for a prolonged period of time (such as caring for, living with, visiting, or sharing a healthcare waiting area or room with, a confirmed MERS case) while not wearing recommended personal protective equipment or PPE (e.g., gowns, gloves, NIOSH-certified disposable N95 respirator, eye protection); or b) having direct contact with infectious secretions of a confirmed MERS case (e.g., being coughed on) while not wearing recommended personal protective equipment. See CDC's Interim Infection Prevention and Control Recommendations for Hospitalized Patients with MERS. Data to inform the definition of close contact are limited; considerations when assessing close contact include the duration of exposure (e.g., longer exposure time likely increases exposure risk) and the clinical symptoms of the person with MERS (e.g., coughing likely increases exposure risk). Special consideration should be given to those exposed in healthcare settings. For detailed information regarding healthcare personnel (HCP) please review CDC Interim U.S. Guidance for Monitoring and Movement of Persons with Potential Middle East Respiratory Syndrome (MERS-CoV) Exposure. Transient interactions, such as walking by a person with MERS, are not thought to constitute an exposure; however, final determination should be made in consultation with public health authorities.
+                                                                                                                                                                                                                                                      4. Examples of respiratory pathogens causing community-acquired pneumonia include influenza A and B, respiratory syncytial virus, _Streptococcus pneumoniae_ , and _Legionella pneumophila_.
+                                                                                                                                                                                                                                                      5. In accordance with the World Health Organization's guidance for MERS-CoV, a cluster is defined as two or more persons with onset of symptoms within the same 14 days period, and who are associated with a specific setting such as a classroom, workplace, household, extended family, hospital, other residential institution, military barracks, or recreational camp. See WHO's Interim Surveillance Recommendations for Human Infection with Middle East Respiratory Syndrome Coronavirus pdf icon[5 pages]external icon.
+
+ Top of Page
+
+Related Pages
+
+                                                                                                                                                                                                                                                      * Clinical Features
+                                                                                                                                                                                                                                                      * Infection Prevention and Control
+                                                                                                                                                                                                                                                      * Home Care and Isolation or Quarantine Guidance
+                                                                                                                                                                                                                                                      * Information for Laboratories
+                                                                                                                                                                                                                                                      * CDC Expert Commentary Video: Be on the Lookout for MERS-CoVexternal icon. 5:26 minutes, RELEASED Jun 2014  
+Editorial Collaboration with Medscape
+
+                                                                                                                                                                                                                                                      * CDC Expert Commentary: Interim Guidance for Health Professionalsexternal icon. Jun 2014  
+Editorial Collaboration with Medscape
+
+Page last reviewed: August 2, 2019
+
+Content source: National Center for Immunization and Respiratory Diseases
+(NCIRD), Division of Viral Diseases
+
+home MERS Home
+
+                                                                                                                                                                                                                                                      * About MERS expand
+                                                                                                                                                                                                                                                        * Symptoms & Complications
+                                                                                                                                                                                                                                                        * Transmission
+                                                                                                                                                                                                                                                        * Prevention & Treatment
+                                                                                                                                                                                                                                                      * People at Increased Risk for MERS
+                                                                                                                                                                                                                                                      * FAQs
+                                                                                                                                                                                                                                                      * MERS in the U.S.
+                                                                                                                                                                                                                                                      * Healthcare Professionals expand
+                                                                                                                                                                                                                                                        * Interim Guidance for Health Professionals
+                                                                                                                                                                                                                                                        * Clinical Features
+                                                                                                                                                                                                                                                        * Preparedness expand
+                                                                                                                                                                                                                                                          * Healthcare Provider Checklist
+                                                                                                                                                                                                                                                          * Healthcare Facility Checklist
+                                                                                                                                                                                                                                                        * Infection Prevention and Control
+                                                                                                                                                                                                                                                        * Monitoring and Movement Guidance
+                                                                                                                                                                                                                                                        * Home Care and Isolation or Quarantine expand
+                                                                                                                                                                                                                                                          * Prevent Spreading in Homes and Communities
+                                                                                                                                                                                                                                                        * Air Transport
+                                                                                                                                                                                                                                                      * Laboratories expand
+                                                                                                                                                                                                                                                        * Laboratory Testing for MERS-CoV
+                                                                                                                                                                                                                                                        * Guidelines for Clinical Specimens
+                                                                                                                                                                                                                                                        * Lab Biosafety Guidelines
+                                                                                                                                                                                                                                                      * Guidance for Travel
+                                                                                                                                                                                                                                                      * Related Materials expand
+                                                                                                                                                                                                                                                        * Photos
+
+Related Links
+
+                                                                                                                                                                                                                                                      * Coronavirus
+                                                                                                                                                                                                                                                      * SARS
+
+![CDC, Medscape from WebMD](/coronavirus/mers/images/medscape-logo.gif)
+
+![CDC Commentary: Be on the Lookout for MERS-
+CoV](/coronavirus/mers/images/MERS-CoV-video.jpg)
+
+CDC Commentary: Be on the Lookout for MERS-CoVexternal  
+CDC's Dr. Susan Gerber provides an update on MERS, including when to evaluate
+patients, how to collect appropriate specimens, and infection control.  
+_Running Time 5:26 mins  
+Date Released 06/23/2014_
+
+**HAVE QUESTIONS?**
+
+Visit CDC-INFO
+
+Call 800-232-4636
+
+Email CDC-INFO
+
+Open 24/7
+
+**CDC INFORMATION**
+
+                                                                                                                                                                                                                                                      * About CDC
+                                                                                                                                                                                                                                                      * Jobs
+                                                                                                                                                                                                                                                      * Funding
+                                                                                                                                                                                                                                                      * Policies
+                                                                                                                                                                                                                                                      * File Viewers & Players
+
+                                                                                                                                                                                                                                                      * Privacy
+                                                                                                                                                                                                                                                      * FOIA
+                                                                                                                                                                                                                                                      * No Fear Act
+                                                                                                                                                                                                                                                      * OIG
+                                                                                                                                                                                                                                                      * Nondiscrimination
+                                                                                                                                                                                                                                                      * Accessibility
+
+**CONNECT WITH CDC**  
+
+                                                                                                                                                                                                                                                      * Facebook
+                                                                                                                                                                                                                                                      * Twitter
+                                                                                                                                                                                                                                                      * Youtube
+                                                                                                                                                                                                                                                      * Instagram
+  
+
+                                                                                                                                                                                                                                                      * Syndicate
+                                                                                                                                                                                                                                                      * CDC TV
+                                                                                                                                                                                                                                                      * RSS
+                                                                                                                                                                                                                                                      * Email
+
+U.S. Department of Health & Human Services
+
+USA.gov
+
+CDC Website Exit Disclaimer external icon
+
+                                                                                                                                                                                                                                                      * Facebook
+                                                                                                                                                                                                                                                      * Twitter
+                                                                                                                                                                                                                                                      * LinkedIn
+                                                                                                                                                                                                                                                      * Email
+
+![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+
+SAS stats
+
+#### Exit Notification/Disclaimer Policy
+
+Close
+
+**Links with this icon indicate that you are leaving the CDC website.**
+
+                                                                                                                                                                                                                                                      * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+                                                                                                                                                                                                                                                      * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+                                                                                                                                                                                                                                                      * You will be subject to the destination website's privacy policy when you follow the link.
+                                                                                                                                                                                                                                                      * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+For more information on CDC's web notification policies, see Website
+Disclaimers.
+
+Cancel Continue
+
+  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
+  *[4 hrs]: Tuesday, April 7, 2020 at 2:56 PM
+

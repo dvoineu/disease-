@@ -1,4 +1,7 @@
-
+https://www.cdc.gov/genomicsLink: https://www.cdc.gov/genomics    
+                Description: The mission of the Office of Genomics and Precision Public Health is to integrate advances in genomics and precision health into public health research, policy, and programs. We offer a weekly update, seminars, the PHGKB database, and develop a variety of tools, communication products, and scientific publications.     
+                Keywords: CDC, genomics, genetics, genetic testing, centers for disease control, public health, OGPPH, Office of Genomics and Precision Public Health, OPHG, Office of Public Health Genomics, Genomics and Disease Prevention, science, prevention, information, seminar, PHGKB, social media, implementation science, Genetics and Genomics Health, Public Health    
+                            
 
 Skip directly to site content Skip directly to page options Skip directly to
 A-Z link
@@ -15,7 +18,7 @@ Submit __
 
 For a full list of topics: A-Z Index
 
-Meningitis
+Genomics & Precision Health
 
 Section Navigation
 
@@ -27,142 +30,120 @@ CDC Home
               * Email
               * Syndicate
 
-# Meningitis
+# Public Health Genomics
 
 Minus
 
 Related Pages
 
-![Woman with headache](/meningitis/images/header_vp4.jpg)
+![coronavirus](/genomics/images/1350_coronavirusPortal_Mar20.jpg)
 
-Meningitis is an inflammation (swelling) of the protective membranes covering
-the brain and spinal cord. A bacterial or viral infection of the fluid
-surrounding the brain and spinal cord usually causes the swelling. However,
-injuries, cancer, certain drugs, and other types of infections also can cause
-meningitis. It is important to know the specific cause of meningitis because
-the treatment differs depending on the cause.
+Coronavirus Disease Portal in Genomics and Precision Health
 
-Bacterial Meningitis
+![coronavirus](/genomics/images/202_3_coronavirusPortal.jpg)
 
-Meningitis caused by bacteria can be deadly and requires immediate medical
-attention. Vaccines are available to help protect against some kinds of
-bacterial meningitis.
+Coronavirus Disease Portal in Genomics and Precision Health
 
-Viral Meningitis
+COVID-19
 
-Meningitis caused by viruses is serious but often is less severe than
-bacterial meningitis. People with normal immune systems who get viral
-meningitis usually get better on their own. There are vaccines to prevent some
-kinds of viral meningitis.
+![a daughter helping her elderly mother walking with a
+cane](/genomics/images/2019-07_elder.jpg)
 
-Fungal Meningitis
+High Risk Groups:
 
-Meningitis caused by fungi is rare, but people can get it by inhaling fungal
-spores from the environment. People with certain medical conditions, like
-diabetes, cancer, or HIV, are at higher risk of fungal meningitis.
+New MMWR
 
-Parasitic Meningitis
+COVID-19
 
-Various parasites can cause meningitis or can affect the brain or nervous
-system in other ways. Overall, parasitic meningitis is much less common than
-viral and bacterial meningitis.
+![coronavirus](/genomics/images/2020-1_coronavirus.jpg)
 
-Amebic Meningitis
+Pathogen Genomics
 
-Primary amebic meningoencephalitis (PAM) is a rare and devastating infection
-of the brain caused by _Naegleria fowleri_. _Naegleria fowleri_ is a free-
-living microscopic ameba that lives in warm water and soil.
+New Blog Post
 
-Non-Infectious Meningitis
+![Interoperability rules with an image of a stethoscope on a cell
+phone](/genomics/images/2020-3_blog_public_health.jpg)
 
-Sometimes cancers, systemic lupus erythematosus (lupus), certain drugs, head
-injury, and brain surgery can cause meningitis.
+Interoperability and Health Data
 
-How it Spreads
+New Blog Post
 
-![Doctor with patient.](/meningitis/images/doctor-girl.jpg)
+![a body](/genomics/images/2020-3_blog_microbiome.jpg)
 
-##### Bacterial Meningitis
+Manipulating the Microbiome
 
-Generally, the germs that cause bacterial meningitis spread from one person to
-another. Certain germs can spread through food. How people spread the germs
-often depends on the type of bacteria. Read about common examples of how
-people spread the different types of bacteria to each other.
+Hot Topics of the Day
 
-##### Viral Meningitis
+Weekly Update
 
-People can spread the viruses that cause viral meningitis to other people. If
-you have close contact with someone who has viral meningitis, they may spread
-the virus to you. However, you are not likely to develop meningitis. That's
-because most people infected with these viruses will not develop meningitis.
+PHGKB Database
 
-College Outbreaks
+Reports and Publications
 
- **San Diego State University**
+Genomics & Precision Health Blog
 
-San Diego State University (SDSU) is experiencing an outbreak of serogroup B
-meningococcal disease. San Diego County's public health officer recommends
-vaccination for all SDSU undergraduate students 23 years old and younger.
-Learn more from SDSUexternal icon.
+Family Health History
 
-Meningitis Versus Meningococcal Disease:There IS a Difference
+Genetic Counseling & Testing
 
-![Sick boy](/meningitis/images/sick-boy.jpg)
+Genomics and Health Topics
 
-Having meningitis doesn't always mean you have meningococcal disease. And
-having meningococcal disease doesn't necessarily mean you have meningitis.
-Meningococcal disease is any illness caused by a type of bacteria called
-_Neisseria meningitidis_. These illnesses are serious and include meningitis
-and bloodstream infections (septicemia).  More about meningococcal disease…
+Events and Multimedia
 
-Resources for Healthcare Professionals
+About Us
 
-![Healthcare resources](/meningitis/images/hcp-resources.jpg)
+![Coronavirus Disease Portal](/genomics/images/corona_portal2_ad_sm.jpg)
 
-Get clinical disease information, as well as vaccine recommendations and
-vaccination resources, for common causes of meningitis.
+![My Family Health Portrait - Record your family health history - Learn about
+your risk for conditions - Print & save your family health history - Visit My
+Family Health Portrait with an image of a multi generational
+family](/genomics/images/MyFHP_ad_sm.jpg)
 
-More
+twitter icon
 
-World Meningitis Day
+Latest CDC Genomics and Precision Health Tweets
 
-![World Meningitis Day April 24, 24 Hours, Life After
-Meningitis](/meningitis/images/logo-life-after-meningitis.png)
+#### More Resources
 
-              * Did you know April 24th is World Meningitis Day? Learn about this year's eventexternal icon.
-              * You can also find out more about a Technical Task Force that will develop a strategic global meningitis control road map as part of "Defeating meningitis by 2030external icon."
+Page last reviewed: March 5, 2020
 
-Page last reviewed: January 21, 2020
+Content source: Office of Science (OS), Office of Genomics and Precision
+Public Health
 
-Content source: National Center for Immunization and Respiratory Diseases
+home Genomics & Precision Health
 
-home Meningitis Home
-
-              * Bacterial Meningitis expand
-                * Laboratory Methods for the Diagnosis of Meningitis expand
-                  * Disclosure
-                  * Authors/Acknowledgements
-                  * Chapter 1
-                  * Chapter 2
-                  * Chapter 3
-                  * Chapter 4
-                  * Chapter 5
-                  * Chapter 6
-                  * Chapter 7
-                  * Chapter 8
-                  * Chapter 9
-                  * Chapter 10
-                  * Chapter 11
-                  * Chapter 12
-                  * Chapter 13
-                  * Chapter 14
-                  * Annex
-              * Viral Meningitis
-              * Fungal Meningitis
-              * Parasitic Meningitis
-              * Amebic Meningitis
-              * Non-infectious Meningitis
-              * Resources for Healthcare Professionals
+              * About Us
+              * Hot Topics of the Day
+              * Weekly Update
+              * PHGKBplus icon
+                * About PHGKB
+              * Reports and Publications
+              * Genomics and Precision Health Blog
+              * Events and Multimedia
+              * Genetics 101
+              * Family Health History
+              * Genetic Counseling and Testingplus icon
+                * Genetic Counseling
+                * Genetic Testing
+                * Evaluating Genomic Tests
+              * Genomics and Health Topicsplus icon
+                * Breast and Ovarian Cancer
+                * Colorectal Cancer
+                * Diabetes
+                * Heart Disease
+                * Hereditary Hemochromatosis
+                * Obesity
+                * Osteoporosis
+                * Pharmacogenomics
+                * Precision Medicine
+                * Real Stories
+              * My Family Health History Portrait
+              * More Resourcesplus icon
+                * Epidemiology
+                * Implementation
+                * Pathogen Genomics
+                * Genomics Toolkit
+                * Latest Tweets
 
 **HAVE QUESTIONS?**
 
@@ -233,5 +214,5 @@ Disclaimers.
 Cancel Continue
 
   *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[4 hrs]: Tuesday, April 7, 2020 at 2:56 PM
 

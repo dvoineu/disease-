@@ -1,0 +1,1003 @@
+https://www.cdc.gov/flu/avianflu/novel-av-treatment-guidance.htmLink: https://www.cdc.gov/flu/avianflu/novel-av-treatment-guidance.htm    
+                Description: Provides guidance for antiviral treatment of human infection with novel influenza A viruses associated with severe human disease; these viruses currently include H7N9 and HPAI H5N1. - CDC    
+                Keywords: H7N9, HPAI H5N1, severe human disease, novel influenza A virus, oseltamivir, peramivir, zanamivir, hospitalized patients, outpatient, antiviral treatment, confirmed case, probable case, exposure, guidance, antiviral, antiviral medications, H7N9, Asian-origin H5N1    
+                            
+
+Skip directly to site content Skip directly to page options Skip directly to
+A-Z link Skip directly to A-Z link Skip directly to A-Z link
+
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People Centers for Disease Control and Prevention. CDC
+twenty four seven. Saving Lives, Protecting People
+
+Search ____
+
+Ã
+
+Submit __
+
+For a full list of topics: A-Z Index
+
+Influenza (Flu)
+
+Section Navigation
+
+CDC Home
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Facebook
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Twitter
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * LinkedIn
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Email
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Syndicate
+
+# Interim Guidance on the Use of Antiviral Medications for Treatment of Human
+Infections with Novel Influenza A Viruses Associated with Severe Human Disease
+
+EspaÃ±ol
+
+Minus
+
+Related Pages
+
+This guidance pertains to avian influenza A (H7N9), Asian H5N1, and the newly
+detected avian influenza H5 viruses in the United States (H5N2, H5N8, and the
+new reassortant H5N1 virus).
+
+### Summary
+
+This document provides guidance for antiviral treatment of human infection
+with novel influenza A viruses associated with severe human disease; these
+viruses currently include influenza A (H7N9) virus and highly pathogenic avian
+influenza A (H5N1) virus.1
+
+This guidance merges and replaces the previously posted guidance on the use of
+antiviral agents for treatment of human infections with avian influenza A
+(H7N9) and avian influenza A (H5N1). This antiviral treatment guidance is
+consistent with current CDC and World Health Organization (WHO)
+recommendations, and provides updated recommendations for treatment of novel
+influenza A infections associated with severe human disease in the United
+States.
+
+This guidance reflects recently updated novel influenza A case definitions
+(see H7N9 case definitions and H5N1 case definitions). **This guidance
+recommends antiviral treatment as soon as possible for all hospitalized cases
+of human infection with novel influenza A viruses associated with severe human
+disease, and for confirmed and probable outpatient cases.** 2 **Outpatient
+cases under investigation who have had recent close contact with a confirmed
+or probable case of human infection with a novel influenza A virus that can
+cause severe disease should receive antiviral treatment, whereas outpatient
+cases under investigation meeting only the travel exposure criteria for a case
+under investigation are not recommended to receive antiviral treatment**. (For
+guidance on investigation of close contacts of confirmed or probable cases,
+see Interim Guidance on Follow-up of Close Contacts of Persons Infected with
+Novel Influenza A Viruses Associated with Severe Human Disease and the Use of
+Antiviral Medications for Chemoprophylaxis.)
+
+These recommendations are based on expert opinion and available published and
+unpublished data on the treatment of infection caused by influenza viruses,
+including seasonal, pandemic, and novel viruses. This guidance will continue
+to be updated as additional information on virus transmissibility,
+epidemiology, and antiviral susceptibility patterns becomes available for
+novel influenza A viruses that cause severe disease.
+
+### Background
+
+Randomized controlled trials have demonstrated decreased time to symptom
+improvement when currently approved neuraminidase inhibitor antiviral agents
+(oseltamivir, peramivir and zanamivir) are used to treat otherwise healthy
+persons with acute uncomplicated influenza caused by seasonal influenza
+viruses within the first few days of illness [1-11]. Secondary analyses in
+some of these trials and additional meta-analyses of data from randomized
+controlled trials have shown that neuraminidase inhibitors reduce secondary
+complications associated with influenza [4, 8, 9, 12-14].
+
+Clinical benefit is greatest when antiviral treatment is administered early,
+especially within 48 hours of influenza illness onset. Among patients
+hospitalized with seasonal influenza A or B, pandemic 2009 influenza A (H1N1),
+or avian influenza A (H5N1) virus infections, observational studies suggest
+that early treatment reduces disease severity and mortality [15-19]. Although
+earlier antiviral treatment results in greater clinical benefit, observational
+studies support the use of antiviral treatment in hospitalized patients even
+when started after 48 hours of illness, including in critically ill patients
+[15, 17-22]. Among patients with uncomplicated seasonal influenza, one
+randomized clinical trial in children demonstrated a modest reduction in
+duration of symptoms and virus shedding in patients initiated 72 hours after
+illness [10]. Neuraminidase inhibitor treatment with oseltamivir, peramivir,
+and zanamivir has been used for severely ill persons infected with A (H7N9)
+viruses, but the effectiveness for severe disease has not yet been determined
+[23-27].
+
+Similar to seasonal viruses, most influenza A (H7N9) and A (H5N1) viruses are
+susceptible to the neuraminidase inhibitors (oseltamivir, peramivir and
+zanamivir), but resistant to the adamantanes (amantadine and rimantadine).
+Therefore, amantadine and rimantadine are not recommended for treatment of
+novel influenza A virus infections.
+
+ Top of Page
+
+### Recommendations
+
+#### _Hospitalized Patients_
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * **Initiation of antiviral treatment with a neuraminidase inhibitor is recommended as early as possible for hospitalized patients who are confirmed cases, probable cases, or cases under investigation of human infection with novel influenza A viruses associated with severe human disease, even if more than 48 hours has elapsed since illness onset.**
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * **For hospitalized patients and outpatients with severe, complicated, or progressive illness (e.g., development of pneumonia), treatment with oral or enterically administered oseltamivir is recommended. 3** Inhaled zanamivir is not recommended because of the lack of data for use in patients with severe influenza. There is also insufficient data regarding efficacy of intravenous (IV) peramivir for hospitalized patients.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * **Antiviral treatment should not be delayed while waiting for laboratory testing results.** (For information regarding collection and laboratory testing, see the Interim Guidance for Specimen Collection, Processing, and Testing for Patients with Suspected Infection with Novel Influenza A Viruses Associated with Severe Disease in Humans.)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * **The standard dose of oseltamivir is 75 mg twice daily for 5 days. However, the optimal duration and dose are uncertain for severe or complicated influenza. Influenza A (H5N1) and A (H7N9) viruses have been shown to be associated with higher virus loads and more sustained viral replication (particularly in the lower respiratory tract) than seasonal influenza [23, 26, 28-30]. Pending further data, longer courses of treatment (e.g., 10 days) should be considered for severely ill hospitalized patients with infections with novel influenza A viruses that cause severe disease.**
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Clinical judgment and virologic testing of lower respiratory tract specimens by RT-PCR should guide decisions to consider treatment regimens longer than 5 days for patients with severe and prolonged illness. For patients with lower respiratory tract disease, lower respiratory tract specimens such as bronchoalveolar lavage fluid or endotracheal aspirate are preferred; an oropharyngeal (throat) swab may be collected if lower respiratory specimens are not available. Lower respiratory tract specimens may yield the diagnosis when testing of upper respiratory tract specimens yield negative results. Multiple respiratory tract specimens collected on different days should be tested if novel influenza A virus infection associated with severe disease is suspected without another definitive diagnosis.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Longer treatment regimens might be necessary in severely immunosuppressed persons (e.g., hematopoietic stem cell transplant recipients) who may have prolonged influenza viral replication. Such patients are at risk of developing antiviral-resistant virus.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * A higher dose of oseltamivir has been recommended by some experts (e.g., 150 mg twice daily in adults with normal renal function instead of the standard 75 mg twice daily dose) for treatment of influenza in immunocompromised patients and in severely ill hospitalized patients [31]. However, oral or enterically administered oseltamivir has been reported to be adequately absorbed in critically ill adults, with standard doses producing therapeutic blood levels [32]. Although the higher dose was generally well-tolerated and not associated with severe adverse events, limited data suggest that higher dosing may not provide additional clinical benefit for seasonal influenza and for pandemic 2009 influenza A (H1N1) [33, 34]. Studies indicate that the exposure to oseltamivir carboxylate (the active metabolite of oseltamivir) is similar between obese and non-obese subjects for both 75 mg and 150 mg doses given twice daily [35-37].
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * **Limited data suggest that oseltamivir administered orally or by oro/naso gastric tube is well absorbed in critically ill influenza patients** , including those in the intensive care unit, on continuous renal replacement therapy, and/or on extracorporeal membrane oxygenation [32, 38-44]. However, for patients who cannot tolerate or absorb oral or enterically-administered oseltamivir because of suspected or known gastric stasis, malabsorption, or gastrointestinal bleeding, the use of IV peramivir or investigational IV zanamivir should be considered. 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * While studies have shown benefit of parenteral peramivir for treatment of uncomplicated influenza in outpatients [11, 45], a randomized trial of treatment of seasonal influenza in hospitalized patients aged >6 years failed to demonstrate significant clinical benefit for intravenous peramivir plus standard of care compared with placebo plus standard of care. However, peramivir was generally safe and well tolerated at a dosage of 600 mg once daily (10 mg/kg once daily in children) for 5 days [46]. If used to treat hospitalized patients with novel influenza A viruses, this dose of IV peramivir is recommended for a minimum of 5 days (not a single dose as is recommended for outpatients with uncomplicated illness).
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * IV zanamivir is an investigational, parenterally administered neuraminidase inhibitor product available only by enrollment in an ongoing clinical trial, or under an emergency investigational new drug (EIND) request to the manufacturer **for compassionate use in hospitalized adult and pediatric patients with severe influenza.** (See CDC Considerations Related to Investigational Use of Intravenous Zanamivir for 2014-2015 Influenza Season.)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * **Use of zanamivir in combination with oseltamivir or peramivir is not recommended, on the basis of data which suggest antagonism may occur when they are given simultaneously.**
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * **It is possible that some novel influenza A viruses may become resistant to oseltamivir and peramivir during antiviral treatment with one of these agents and remain susceptible to zanamivir [29, 47-50]**. If a hospitalized patient treated with oseltamivir and/or peramivir manifests progressive lower respiratory disease, the presence of a resistant virus should be considered. After consultation with CDC's Influenza Division, investigation for antiviral resistance should be performed. Oseltamivir or peramivir should not be stopped until IV zanamivir can be initiated. (See CDC Considerations Related to Investigational Use of Intravenous Zanamivir for 2014-2015 Influenza Season.)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Any questions regarding arranging testing for antiviral resistance, or regarding appropriate clinical management if antiviral resistance is a concern, should be directed to the CDC Influenza Division via the CDC Emergency Operations Center (770-488-7100).
+
+#### _Outpatients_
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * **Initiation of antiviral treatment with a neuraminidase inhibitor is recommended as early as possible for outpatients who are confirmed cases, probable cases, or cases under investigation based on exposure criteria consisting of contact with a confirmed human novel influenza A case or unprotected exposure in a laboratory.** Treatment is not currently recommended for uncomplicated illness in outpatients whose exposure criteria consists only of travel to an area with human cases of H7N9 or H5N1, or where these viruses are known to be circulating in animals (see H7N9 case definitions and H5N1 case definitions).
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * **For outpatients with severe, progressive, or complicated illness, oseltamivir is recommended. For other outpatients, oral oseltamivir, inhaled zanamivir, or IV peramivir may be used. 3**
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * **When warranted, antiviral treatment should be initiated as early as possible, even if more than 48 hours has elapsed since illness onset.** For illness caused by novel influenza A viruses associated with severe disease, treatment is recommended even for otherwise healthy persons, but is especially important for those at higher risk of influenza complications: this includes children <5 years, with highest risk for those aged <2 years old, adults aged ≥65 years, pregnant women, and persons with certain underlying medical conditions. (See the complete list of people considered to be at higher risk for influenza complications in the Influenza Antiviral Medications: Summary for Clinicians.)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * **For outpatients who are confirmed cases, probable cases, or cases under investigation with uncomplicated disease in whom fever is absent and symptoms are nearly resolved, decisions to initiate antiviral treatment should be based on clinical judgment.** Persons who are not treated with antiviral medications should be monitored for progression of illness.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * **Recommended treatment duration for uncomplicated influenza with a novel influenza A virus associated with severe human disease is two doses per day of oral oseltamivir or inhaled zanamivir for 5 days.**
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * For IV peramivir, there are insufficient data for use in outpatients with infection with novel influenza A viruses that cause severe disease. The recommendation for uncomplicated seasonal influenza is one dose of IV peramivir for 1 day. For treatment of novel influenza A viruses, a single IV infusion is not recommended. Until evidence is available, if peramivir treatment is chosen, it should be given for at least 5 days.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Inhaled zanamivir is not recommended for persons with underlying airway disease (e.g., asthma or chronic obstructive pulmonary disease).
+
+For additional guidance on the use of influenza antiviral agents, including
+dosage recommendations for treatment by age group, please see the Influenza
+Antiviral Medications: Summary for Clinicians.
+
+CDC will continue to evaluate new information as it becomes available and will
+update this guidance as needed. Updated information will be provided on CDC's
+Avian Influenza website.
+
+1 This guidance is intended to address human infections with novel influenza A
+viruses that cause severe or progressive disease in otherwise healthy persons
+resulting in hospitalization and/or death. A number of different subtypes of
+novel influenza A viruses have been reported to cause severe pneumonia and
+death, including H5N1, H7N9, H7N2, H7N7, H9N2, H10N8, and H3N2v viruses;
+however, currently only H5N1 and H7N9 have caused severe illness in a high
+proportion of cases and have been reported in substantial numbers.
+
+2 "Outpatient" in this document refers to any patient in the ambulatory care
+setting, including emergency departments, urgent care and other clinics.
+
+3 Oral oseltamivir is approved by the FDA for treatment of acute uncomplicated
+influenza in persons ≥14 days old. Although use of oral oseltamivir for
+treatment of influenza in infants less than 14 days old is not part of the
+FDA-approved indication, it is recommended by the CDC and the American Academy
+of Pediatrics for treatment of influenza in patients of any age. Inhaled
+zanamivir is approved for treatment of acute uncomplicated influenza in
+persons aged 7 years and older. Clinicians may refer to the manufacturer's
+package inserts for additional information regarding dosing, limitations of
+populations studied, contraindications, and adverse events. Please see FDA
+Approved Drugs for InfluenzaExternal.
+
+ Top of Page
+
+**Table**. Antiviral treatment recommendations according to case definition
+category for human infection with novel influenza A viruses associated with
+severe disease. (See H7N9 case definitions and H5N1 case definitions.)
+
+
+
+#### Case Category
+
+#### Definition
+
+#### Antiviral Treatment
+
+#### Case Category
+
+**Confirmed Case**
+
+#### Definition
+
+Novel influenza A virus infection in a patient that is confirmed by CDC's
+Influenza Laboratory or a CDC certified public health laboratory using methods
+agreed upon by the CDC and the Council of State and Territorial
+Epidemiologists. Confirmation of novel influenza A viruses may be made by
+public health laboratories following CDC-approved protocols for detection of
+novel influenza A viruses, or by laboratories using an FDA-authorized test
+specific for detection of novel influenza A viruses.
+
+#### Antiviral Treatment
+
+Recommended for all (hospitalized patients and outpatients)
+
+#### Case Category
+
+**Probable Case**
+
+#### Definition
+
+Illness compatible with influenza in a patient meeting any of the exposure
+criteria below and for whom laboratory diagnostic testing is positive for
+influenza A, negative for H1, negative for H1pdm09, and negative for H3 by
+real-time reverse transcription polymerase chain reaction (RT-PCR) and
+therefore unsubtypeable.
+
+#### Antiviral Treatment
+
+Recommended for all (hospitalized patients and outpatients)
+
+#### Case Category
+
+**Case under investigation**
+
+#### Definition
+
+Illness compatible with influenza in a patient meeting any of the exposure
+criteria below and for whom laboratory confirmation is not known or pending or
+for whom test results do not provide a sufficient level of detail to confirm
+novel influenza A virus infection.
+
+#### Antiviral Treatment
+
+#### Case Category
+
+**Exposed during travel**
+
+#### Definition
+
+Patients with recent travel (within <10 days of illness onset) to areas where
+human cases of novel influenza A virus infection have become infected or to
+areas where novel influenza A viruses are known to be circulating in animals.2
+
+#### Antiviral Treatment
+
+Recommended for hospitalized patients
+
+#### Case Category
+
+**Exposed to confirmed or probable case**
+
+#### Definition
+
+Patients who have had recent close contact (within <10 days of illness onset)
+with confirmed or suspected3 cases of human infection with novel influenza A
+virus. Close contact may be regarded as coming within about 6 feet (2 meters)
+of a confirmed case while the case was ill (beginning 1 day prior to illness
+onset and continuing until resolution of illness). This includes healthcare
+personnel providing care for a confirmed case, family members of a confirmed
+case, persons who lived with or stayed overnight with a confirmed case, and
+others who have had similar close physical contact.4
+
+#### Antiviral Treatment
+
+Recommended for all (hospitalized patients and outpatients)
+
+#### Case Category
+
+**Exposure to birds infected with avian influenza**
+
+#### Definition
+
+Patients who have had recent contact5 (within <10 days of illness onset) to
+infected sick or dead birds, or infected flocks.
+
+#### Antiviral Treatment
+
+Recommended for all (hospitalized patients and outpatients)
+
+#### Case Category
+
+**Unprotected laboratory exposure**
+
+#### Definition
+
+Patients who have had recent (within <10 days of illness onset) unprotected
+exposure to live novel influenza A virus in a laboratory.
+
+#### Antiviral Treatment
+
+Recommended for all (hospitalized patients and outpatients)
+
+1 For hospitalized patients and outpatients with severe, progressive, or
+complicated disease, oseltamivir is recommended. Inhaled zanamivir and IV
+peramivir are not recommended because of the lack of data for these patients.
+For outpatients with uncomplicated influenza, oseltamivir, inhaled zanamivir,
+or IV peramivir may be used. For specific dosage recommendations for treatment
+by age group, please see
+https://www.cdc.gov/flu/professionals/antivirals/antiviral-dosage.htm.  
+2 As of March 19, 2015, China was the only country where H7N9 viruses were
+known to be circulating in animals (poultry) or where human cases have become
+infected. For H5N1, please see WHO website.
+http://www.who.int/influenza/human_animal_interface/EN_GIP_20131210CumulativeNumberH5N1cases.pdf
+Cdc-pdfCdc-pdf[39 KB, 2 pages]ExternalExternal and link to countries with
+animal cases. For more information, including updates on countries affected,
+please see the CDC Novel/Avian Influenza A Virus Home Page.  
+3 Patients suspected of having infection with a novel influenza A virus can
+include probable cases, cases under investigation for infection with novel
+influenza A virus, and other patients for whom available clinical and
+epidemiologic information support a diagnosis of infection with novel
+influenza A virus.  
+4 Limited non-sustained person-to-person transmission of H7N9 virus could not
+be excluded in some family clusters [51]. Limited non-sustained person-to-
+person transmission of H5N1 virus has been reported in several countries
+following close, prolonged unprotectedcontact with a severely ill H5N1
+patient, including in household and hospital settings.  
+5 May include: contact with birds (e.g., handling, slaughtering, defeathering,
+butchering, preparation for consumption); direct contact with surfaces
+contaminated with feces or bird parts (carcasses, internal organs, etc.); or
+prolonged exposure to birds in a confined space.
+
+Top of Page
+
+### References
+
+1\. Randomised trial of efficacy and safety of inhaled zanamivir in treatment
+of influenza A and B virus infections. The MIST (Management of Influenza in
+the Southern Hemisphere Trialists) Study Group. Lancet 1998; 352(9144):
+1877-81.
+
+2\. Hedrick JA, Barzilai A, Behre U, et al. Zanamivir for treatment of
+symptomatic influenza A and B infection in children five to twelve years of
+age: a randomized controlled trial. The Pediatric infectious disease journal
+2000; 19(5): 410-7.
+
+3\. Hayden FG, Osterhaus AD, Treanor JJ, et al. Efficacy and safety of the
+neuraminidase inhibitor zanamivir in the treatment of influenzavirus
+infections. GG167 Influenza Study Group. The New England journal of medicine
+1997; 337(13): 874-80.
+
+4\. Heinonen S, Silvennoinen H, Lehtinen P, et al. Early oseltamivir treatment
+of influenza in children 1-3 years of age: a randomized controlled trial.
+Clinical infectious diseases : an official publication of the Infectious
+Diseases Society of America 2010; 51(8): 887-94.
+
+5\. Monto AS, Fleming DM, Henry D, et al. Efficacy and safety of the
+neuraminidase inhibitor zanamivirin the treatment of influenza A and B virus
+infections. The Journal of infectious diseases 1999; 180(2): 254-61.
+
+6\. Monto AS, Moult AB, Sharp SJ. Effect of zanamivir on duration and
+resolution of influenza symptoms. Clinical therapeutics 2000; 22(11):
+1294-305.
+
+7\. Nicholson KG, Aoki FY, Osterhaus AD, et al. Efficacy and safety of
+oseltamivir in treatment of acute influenza: a randomised controlled trial.
+Neuraminidase Inhibitor Flu Treatment Investigator Group. Lancet 2000;
+355(9218): 1845-50.
+
+8\. Treanor JJ, Hayden FG, Vrooman PS, et al. Efficacy and safety of the oral
+neuraminidase inhibitor oseltamivir in treating acute influenza: a randomized
+controlled trial. US Oral Neuraminidase Study Group. JAMA : the journal of the
+American Medical Association 2000; 283(8): 1016-24.
+
+9\. Whitley RJ, Hayden FG, Reisinger KS, et al. Oral oseltamivir treatment of
+influenza in children. The Pediatric infectious disease journal 2001; 20(2):
+127-33.
+
+10\. Fry AM, Goswami D, Nahar K, et al. Efficacy of oseltamivir treatment
+started within 5 days of symptom onset to reduce influenza illness duration
+and virus shedding in an urban setting in Bangladesh: a randomised placebo-
+controlled trial. The Lancet infectious diseases 2014; 14(2): 109-18.
+
+11\. Kohno S, Kida H, Mizuguchi M, Shimada J, Group SCS. Efficacy and safety
+of intravenous peramivir for treatment of seasonal influenza virus infection.
+Antimicrobial agents and chemotherapy 2010; 54(11): 4568-74.
+
+12\. Hernan MA, Lipsitch M. Oseltamivir and risk of lower respiratory tract
+complications in patients with flu symptoms: a meta-analysis of eleven
+randomized clinical trials. Clinical infectious diseases : an official
+publication of the Infectious Diseases Society of America 2011; 53(3): 277-9.
+
+13\. Lipsitch M, Hernan MA. Oseltamivir effect on antibiotic-treated lower
+respiratory tract complications in virologically positive randomized trial
+participants. Clinical infectious diseases : an official publication of the
+Infectious Diseases Society of America 2013; 57(9): 1368-9.
+
+14\. Dobson J, Whitley RJ, Pocock S, Monto AS. Oseltamivir treatment for
+influenza in adults: a meta-analysis of randomised controlled trials. Lancet
+2015.
+
+15\. Louie JK, Yang S, Acosta M, et al. Treatment with neuraminidase
+inhibitors for critically ill patients with influenza A (H1N1)pdm09. Clinical
+infectious diseases : an official publication of the Infectious Diseases
+Society of America 2012; 55(9): 1198-204.
+
+16\. Muthuri SG, Venkatesan S, Miles PR, et al. Effectiveness of neuraminidase
+inhibitors in reducing mortality in patients admitted to hospital with
+influenza A H1N1pdm09 virus infection: a meta-analysis of individual
+participant data. Lancet Respir Med 2014: doi:10.1016/S2213-600(14)70041-4.
+
+17\. Siston AM, Rasmussen SA, Honein MA, et al. Pandemic 2009 influenza
+A(H1N1) virus illness among pregnant women in the United States. JAMA : the
+journal of the American Medical Association 2010; 303(15): 1517-25.
+
+18\. Yu H, Feng Z, Uyeki TM, et al. Risk factors for severe illness with 2009
+pandemic influenza A (H1N1) virus infection in China. Clinical infectious
+diseases : an official publication of the Infectious Diseases Society of
+America 2011; 52(4): 457-65.
+
+19\. Adisasmito W, Chan PK, Lee N, et al. Effectiveness of antiviral treatment
+in human influenza A(H5N1) infections: analysis of a Global Patient Registry.
+The Journal of infectious diseases 2010; 202(8): 1154-60.
+
+20\. McGeer A, Green KA, Plevneshi A, et al. Antiviral therapy and outcomes of
+influenza requiring hospitalization in Ontario, Canada. Clinical infectious
+diseases : an official publication of the Infectious Diseases Society of
+America 2007; 45(12): 1568-75.
+
+2121\. Lee N, Choi KW, Chan PK, et al. Outcomes of adults hospitalised with
+severe influenza. Thorax 2010; 65(6): 510-5.
+
+22\. Lee N, Cockram CS, Chan PK, Hui DS, Choi KW, Sung JJ. Antiviral treatment
+for patients hospitalized with severe influenza infection may affect clinical
+outcomes. Clinical infectious diseases : an official publication of the
+Infectious Diseases Society of America 2008; 46(8): 1323-4.
+
+23\. Gao HN, Lu HZ, Cao B, et al. Clinical findings in 111 cases of influenza
+A (H7N9) virus infection. The New England journal of medicine 2013; 368(24):
+2277-85.
+
+24\. Chen Y, Liang W, Yang S, et al. Human infections with the emerging avian
+influenza A H7N9 virus from wet market poultry: clinical analysis and
+characterisation of viral genome. Lancet 2013; 381(9881): 1916-25.
+
+25\. Gao R, Cao B, Hu Y, et al. Human infection with a novel avian-origin
+influenza A (H7N9) virus. The New England journal of medicine 2013; 368(20):
+1888-97.
+
+26\. Hu Y, Lu S, Song Z, et al. Association between adverse clinical outcome
+in human disease caused by novel influenza A H7N9 virus and sustained viral
+shedding and emergence of antiviral resistance. Lancet 2013.
+
+27\. Ho PL, Sin WC, Chan JF, Cheng VC, Chan KH. Severe influenza A H7N9
+pneumonia with rapid virological response to intravenous zanamivir. The
+European respiratory journal 2014; 44(2): 535-7.
+
+28\. de Jong MD, Simmons CP, Thanh TT, et al. Fatal outcome of human influenza
+A (H5N1) is associated with high viral load and hypercytokinemia. Nature
+medicine 2006; 12(10): 1203-7.
+
+29\. de Jong MD, Tran TT, Truong HK, et al. Oseltamivir resistance during
+treatment of influenza A (H5N1) infection. The New England journal of medicine
+2005; 353(25): 2667-72.
+
+30\. Yu L, Wang Z, Chen Y, et al. Clinical, virological, and histopathological
+manifestations of fatal human infections by avian influenza A(H7N9) virus.
+Clinical infectious diseases : an official publication of the Infectious
+Diseases Society of America 2013; 57(10): 1449-57.
+
+31\. Writing Committee of the Second World Health Organization Consultation on
+Clinical Aspects of Human Infection with Avian Influenza AV, Abdel-Ghafar AN,
+Chotpitayasunondh T, et al. Update on avian influenza A (H5N1) virus infection
+in humans. The New England journal of medicine 2008; 358(3): 261-73.
+
+32\. Ariano RE, Sitar DS, Zelenitsky SA, et al. Enteric absorption and
+pharmacokinetics of oseltamivir in critically ill patients with pandemic
+(H1N1) influenza. CMAJ : Canadian Medical Association journal = journal de
+l'Association medicale canadienne 2010; 182(4): 357-63.
+
+33\. Lee N, Hui DS, Zuo Z, et al. A prospective intervention study on higher-
+dose oseltamivir treatment in adults hospitalized with influenza a and B
+infections. Clinical infectious diseases : an official publication of the
+Infectious Diseases Society of America 2013; 57(11): 1511-9.
+
+34\. South East Asia Infectious Disease Clinical Research N. Effect of double
+dose oseltamivir on clinical and virological outcomes in children and adults
+admitted to hospital with severe influenza: double blind randomised controlled
+trial. Bmj 2013; 346: f3039.
+
+35\. Jittamala P, Pukrittayakamee S, Tarning J, et al. Pharmacokinetics of
+orally administered oseltamivir in healthy obese and non-obese Thai subjects.
+Antimicrobial agents and chemotherapy 2013.
+
+36\. Pai MP, Lodise TP, Jr. Oseltamivir and oseltamivir carboxylate
+pharmacokinetics in obese adults: dose modification for weight is not
+necessary. Antimicrobial agents and chemotherapy 2011; 55(12): 5640-5.
+
+37\. Thorne-Humphrey LM, Goralski KB, Slayter KL, et al. Oseltamivir
+pharmacokinetics in morbid obesity (OPTIMO trial). The Journal of
+antimicrobial chemotherapy 2011; 66(9): 2083-91.
+
+38\. Eyler RF, Heung M, Pleva M, et al. Pharmacokinetics of oseltamivir and
+oseltamivir carboxylate in critically ill patients receiving continuous
+venovenous hemodialysis and/or extracorporeal membrane oxygenation.
+Pharmacotherapy 2012; 32(12): 1061-9.
+
+39\. Giraud C, Manceau S, Oualha M, et al. High levels and safety of
+oseltamivir carboxylate plasma concentrations after nasogastric administration
+in critically ill children in a pediatric intensive care unit. Antimicrobial
+agents and chemotherapy 2011; 55(1): 433-5.
+
+40\. Mulla H, Peek GJ, Harvey C, Westrope C, Kidy Z, Ramaiah R. Oseltamivir
+pharmacokinetics in critically ill adults receiving extracorporeal membrane
+oxygenation support. Anaesthesia and intensive care 2013; 41(1): 66-73.
+
+41\. Taylor WR, Thinh BN, Anh GT, et al. Oseltamivir is adequately absorbed
+following nasogastric administration to adult patients with severe H5N1
+influenza. PloS one 2008; 3(10): e3410.
+
+42\. Eyler RF, Klein KC, Mueller BA. The pharmacokinetics of oseltamivir and
+oseltamivir carboxylate in a critically ill pediatric patient receiving
+extracorporeal membrane oxygenation and continuous venovenous hemodialysis.
+The journal of pediatric pharmacology and therapeutics : JPPT : the official
+journal of PPAG 2012; 17(2): 173-6.
+
+43\. Kromdijk W, Sikma MA, van den Broek MP, Beijnen JH, Huitema AD, de Lange
+DW. Pharmacokinetics of oseltamivir carboxylate in critically ill patients:
+each patient is unique. Intensive care medicine 2013; 39(5): 977-8.
+
+44\. Lemaitre F, Luyt CE, Roullet-Renoleau F, et al. Impact of extracorporeal
+membrane oxygenation and continuous venovenous hemodiafiltration on the
+pharmacokinetics of oseltamivir carboxylate in critically ill patients with
+pandemic (H1N1) influenza. Therapeutic drug monitoring 2012; 34(2): 171-5.
+
+45\. Whitley R, Laughlin A, Carson S, et al. Single dose peramivir for the
+treatment of acute seasonal influenza: integrated analysis of efficacy and
+safety from two placebo-controlled trials. Antiviral therapy 2014.
+
+46\. de Jong MD, Ison MG, Monto AS, et al. Evaluation of intravenous peramivir
+for treatment of influenza in hospitalized patients. Clinical infectious
+diseases : an official publication of the Infectious Diseases Society of
+America 2014; 59(12): e172-85.
+
+47\. Earhart KC, Elsayed NM, Saad MD, et al. Oseltamivir resistance mutation
+N294S in human influenza A(H5N1) virus in Egypt. Journal of infection and
+public health 2009; 2(2): 74-80.
+
+48\. Le QM, Kiso M, Someya K, et al. Avian flu: isolation of drug-resistant
+H5N1 virus. Nature 2005; 437(7062): 1108.
+
+49\. Baek YH, Song MS, Lee EY, et al. Profiling and characterization of
+influenza virus N1 strains potentially resistant to multiple neuraminidase
+inhibitors. Journal of virology 2015; 89(1): 287-99.
+
+50\. Hai R, Schmolke M, Leyva-Grado VH, et al. Influenza A(H7N9) virus gains
+neuraminidase inhibitor resistance without loss of in vivo virulence or
+transmissibility. Nature communications 2013; 4: 2854.
+
+51\. Li Q, Zhou L, Zhou M, et al. Epidemiology of human infections with avian
+influenza A(H7N9) virus in China. The New England journal of medicine 2014;
+370(6): 520-32.
+
+Top of Page
+
+**Avian influenza A viruses with the potential to cause severe human disease
+currently include the following virusesdetected in wild and domestic birds in
+the United States beginning in December 2014:**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Highly pathogenic avian influenza A (H5N2) virus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Highly pathogenic avian influenza A (H5N8) virus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Highly pathogenic avian influenza A (H5N1) virus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Avian influenza A (H7N8) virus
+
+|
+
+**Avian influenza A viruses associated with severe human disease currently
+include the following:**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Low pathogenic avian influenza A (H7N9) virus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Highly pathogenic Asian-origin avian influenza A (H5N1) virus  
+  
+---|---  
+  
+|
+
+**Guidance Type**
+
+|
+
+**Viruses**  
+  
+---|---  
+  
+**Summary for Clinicians**
+
+|
+
+Summary of guidance for all viruses that have the potential to cause severe
+disease  
+  
+**Testing and Reporting**
+
+|
+
+Guidance for all viruses that have the potential to cause severe disease  
+  
+**Case Definitions**
+
+|
+
+HPAI H5 in the United States  
+  
+**Infection Control**
+
+|
+
+_See guidance for viruses associated with severe disease_  
+  
+**Treatment**
+
+|
+
+_See guidance for viruses associated with severe disease_  
+  
+**Chemoprophylaxis of Persons Exposed to Birds**
+
+|
+
+Guidance for all viruses that have the potential to cause severe disease  
+  
+**Chemoprophylaxis of Followup of Close Contacts**
+
+|
+
+_See guidance for viruses associated with severe disease_  
+  
+|
+
+**Guidance Type**
+
+|
+
+**Viruses**  
+  
+---|---  
+  
+**Summary for Clinicians**
+
+|
+
+Not available  
+  
+**Testing and Reporting**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+**Case Definitions**
+
+|
+
+H7N9
+
+|
+
+Asian-lineage H5N1  
+  
+**Infection Control**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+**Treatment**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+**Chemoprophylaxis of Persons Exposed to Birds**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+**Chemoprophylaxis and Followup of Close Contacts**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+**Avian influenza A viruses with the potential to cause severe human disease
+currently include the following virusesdetected in wild and domestic birds in
+the United States beginning in December 2014:**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Highly pathogenic avian influenza A (H5N2) virus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Highly pathogenic avian influenza A (H5N8) virus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Highly pathogenic avian influenza A (H5N1) virus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Avian influenza A (H7N8) virus
+
+**Guidance Type**
+
+|
+
+**Viruses**  
+  
+---|---  
+  
+**Summary for Clinicians**
+
+|
+
+Summary of guidance for all viruses that have the potential to cause severe
+disease  
+  
+**Testing and Reporting**
+
+|
+
+Guidance for all viruses that have the potential to cause severe disease  
+  
+**Case Definitions**
+
+|
+
+HPAI H5 in the United States  
+  
+**Infection Control**
+
+|
+
+_See guidance for viruses associated with severe disease_  
+  
+**Treatment**
+
+|
+
+_See guidance for viruses associated with severe disease_  
+  
+**Chemoprophylaxis of Persons Exposed to Birds**
+
+|
+
+Guidance for all viruses that have the potential to cause severe disease  
+  
+**Chemoprophylaxis of Followup of Close Contacts**
+
+|
+
+_See guidance for viruses associated with severe disease_  
+  
+**Avian influenza A viruses associated with severe human disease currently
+include the following:**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Low pathogenic avian influenza A (H7N9) virus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Highly pathogenic Asian-origin avian influenza A (H5N1) virus
+
+**Guidance Type**
+
+|
+
+**Viruses**  
+  
+---|---  
+  
+**Summary for Clinicians**
+
+|
+
+Not available  
+  
+**Testing and Reporting**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+**Case Definitions**
+
+|
+
+H7N9
+
+|
+
+Asian-lineage H5N1  
+  
+**Infection Control**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+**Treatment**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+**Chemoprophylaxis of Persons Exposed to Birds**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+**Chemoprophylaxis and Followup of Close Contacts**
+
+|
+
+Guidance for all viruses that are associated with severe disease  
+  
+Page last reviewed: April 7, 2015
+
+Content source: Centers for Disease Control and Prevention, National Center
+for Immunization and Respiratory Diseases (NCIRD)
+
+home Avian Flu
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Bird Flu Basics expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Avian Influenza Type A Viruses
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Bird Flu in Birds
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Bird Flu in People expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Spread of Bird Flu Viruses Between Animals and People
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Examples of Human Infections with Avian Influenza A Viruses with Possible Limited, Non-Sustained Human-to-Human Transmission
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Prevention and Treatment
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Information for Specific Groups expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Information for People Exposed to Birds Infected with Avian Influenza Viruses of Public Health Concern
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Recommendations for Worker Protection and Use of Personal Protective Equipment (PPE) 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Self-Observation Instructions for Demobilizing Bird Flu Responders
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Current Situation
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Specific Avian Flu Viruses expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Avian Influenza Type A Viruses
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Asian Avian Influenza A (H5N1) expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * H5N1 in Birds and Other Animals
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * H5N1 in People
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Public Health Threat of Highly Pathogenic Asian Avian Influenza A (H5N1) Virus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * H5N1 Genetic Changes Inventory expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Inventory Preamble
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Inventory
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Questions & Answers: H5N1 Genetic Change Inventory
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * HPAI A H5 Virus Background and Clinical Illness
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Asian Lineage Avian Influenza A (H7N9) Virus expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  *                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   *                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     * H7N9 Images
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Publications & Resources
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Pandemic Response Planning Tips
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * North American Lineage AI Viruses
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Past Outbreaks expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * H5 Viruses in the United States
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * U.S. H5 outbreaks in 2014-2015
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * U.S. H7N8 in 2016
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * U.S. H7N2 in cats in 2016
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Health Care & Laboratorian Guidance expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Case Definitions expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * U.S. H5 Virus Case Definitions
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Asian H5N1 Case Definitions
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Asian H7N9 Case Definitions
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Testing, Reporting & Lab Information expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Specimen Collection and Testing for Patients with Novel Influenza A Viruses with Potential to Cause Severe Disease in Humans
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Specimen Collection and Testing for Patients with Novel Influenza A Viruses Associated with Severe Disease in Humans
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Diagnostics for Detecting H7N9 Using rRT-PCR
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * CDC and USDA: Interim Risk Assessment and Biosafety Level Recommendations for Working with Influenza A (H7N9) Viruses
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Infection Control Within Healthcare Settings for Patients with Novel Influenza A Viruses
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Treatment and Prophylaxis expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * For Clinicians: Evaluating and Managing Patients
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Use of Antiviral Medications for Treatment of Human Infections with Novel Influenza A Viruses
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Antiviral Chemoprophylaxis of Persons Exposed to Birds with Avian Influenza A Viruses
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Follow-up of Close Contacts of Persons Infected with Novel Influenza A Viruses and Use of Antiviral Chemoprophylaxis
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * What CDC Does expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Monitoring
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Risk Assessment & Research expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Researching the Virus 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Dual Use Research of Concern
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Preparedness and Response expand
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Making a Candidate Vaccine Virus 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Avian Influenza Related Links
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * News & Spotlights
+
+Get Email Updates
+
+To receive email updates about this page, enter your email address:
+
+Email Address
+
+What's this?
+
+Submit
+
+![1918 Pandemic flu commemoration website.](/flu/images/pandemic-1918-flu.jpg)
+
+
+
+Influenza Types
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Seasonal
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Avian
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Swine/Variant
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Pandemic
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Influenza in Animals
+
+**HAVE QUESTIONS?**
+
+Visit CDC-INFO
+
+Call 800-232-4636
+
+Email CDC-INFO
+
+Open 24/7
+
+**CDC INFORMATION**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * About CDC
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Jobs
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Funding
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Policies
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * File Viewers & Players
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Privacy
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * FOIA
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * No Fear Act
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * OIG
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Nondiscrimination
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Accessibility
+
+**CONNECT WITH CDC**  
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Facebook
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Twitter
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Youtube
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Instagram
+  
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Syndicate
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * CDC TV
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * RSS
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Email
+
+U.S. Department of Health & Human Services
+
+USA.gov
+
+CDC Website Exit Disclaimer external icon
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Facebook
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Twitter
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * LinkedIn
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Email
+
+![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+
+PDF file_external
+
+#### Exit Notification/Disclaimer Policy
+
+Close
+
+**Links with this icon indicate that you are leaving the CDC website.**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * You will be subject to the destination website's privacy policy when you follow the link.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+For more information on CDC's web notification policies, see Website
+Disclaimers.
+
+Cancel Continue
+
+  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
+  *[4 hrs]: Tuesday, April 7, 2020 at 2:56 PM
+  *[9 hrs]: Tuesday, April 7, 2020 at 10:08 AM
+  *[12 hrs]: Tuesday, April 7, 2020 at 7:00 AM
+  *[Yesterday at 9:38 AM]: Monday, April 6, 2020 at 9:38 AM
+  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
+  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
+  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
+  *[ 11 hrs]: Tuesday, April 7, 2020 at 8:30 AM
+  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
+  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
+  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
+  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
+  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
+  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
+  *[11 hrs]: Tuesday, April 7, 2020 at 8:48 AM
+  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
+  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
+  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
+  *[PDF]: Portable Document Format
+  *[GTSS]: Global Tobacco Surveillance System
+  *[CDC]: Centers for Disease Control and Prevention
+  *[GATS]: Global Tobacco Surveillance System
+  *[PDF-2.96 MB]]: Portable Document Format
+  *[PDF-2.25 MB]]: Portable Document Format
+  *[PDF-6.14 MB]]: Portable Document Format
+  *[PDF-2.65MB]]: Portable Document Format
+  *[NTCP]: National Tobacco Control Program
+  *[OSH]: Office on Smoking and Health
+  *[5 hrs]: Tuesday, April 7, 2020 at 2:56 PM
+  *[8 hrs]: Tuesday, April 7, 2020 at 11:16 AM
+  *[Yesterday at 2:45 PM]: Monday, April 6, 2020 at 2:45 PM
+  *[April 3 at 5:08 AM]: Friday, April 3, 2020 at 5:08 AM
+  *[April 1 at 8:09 AM]: Wednesday, April 1, 2020 at 8:09 AM
+  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
+  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
+  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
+  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
+  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
+  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
+  *[6 hrs]: Tuesday, April 7, 2020 at 2:56 PM
+

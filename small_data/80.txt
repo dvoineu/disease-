@@ -1,4 +1,7 @@
-
+https://www.cdc.gov/diseasesconditions/az/c.htmlLink: https://www.cdc.gov/diseasesconditions/az/c.html    
+                Description: None    
+                Keywords: Other    
+                            
 
 Skip directly to site content Skip directly to page options Skip directly to
 A-Z link
@@ -109,14 +112,126 @@ Z
 
 * * *
 
-### Z
+### C
 
-              * Zika Virus Infection
-              * Zoonotic Diseases from Animals -- see Animal-Related Diseases
-              * Zoonotic enteric diseases -- see Gastrointestinal Diseases from Animals
-              * Zoonotic Hookworm
-              * Zoster -- see Shingles
-              * Zygomycosis -- see Mucormycosis
+              * C. auris infection -- see _Candida auris_ infection
+              * C. diff. Infection [Clostridium difficile Infection]
+              *  _C. gattii_ cryptococcosis
+              *  _C. neoformans_ cryptococcosis
+              * Campy ( _Campylobacter_ Infection)
+              *  _Campylobacter_ Infection (Campy) [Campylobacteriosis]
+              * Campylobacteriosis -- see _Campylobacter_ Infection
+              * Cancer
+              * Colorectal (Colon) Cancer
+              * Gynecologic Cancers
+              * Lung Cancer
+              * Prostate Cancer
+              * Skin Cancer
+              * Cancer and Flu
+              * see also Cancer
+              * see also Influenza
+              * Cancer Health Disparities -- see Health Disparities in Cancer
+              *  _Candida auris_ infection
+              * Canine Flu
+              *  _Capillaria_ Infection [Capillariasis]
+              * Capillariasis -- see _Capillaria_ Infection
+              * Carbapenem-resistant Enterobacteriaceae (CRE)
+              * Carbapenem resistant _Klebsiella pneumonia_ (CRKP) -- see _Klebsiella pneumoniae_
+              * Cardiovascular Health -- see Heart Disease
+              * Carpal Tunnel Syndrome -- see Ergonomic and Musculoskeletal Disorders
+              * Carrion's disease -- see _Bartonella bacilliformis_ Infection
+              * Cat Flea Tapeworm -- see Tapeworm, Dog and Cat Flea
+              * Cats, Infections from
+              * Cat Scratch Disease -- see _Bartonella henselae_ Infection
+              * Cat Scratch Disease from Pets
+              * CCHF (Crimean-Congo hemorrhagic fever)
+              * CDI (Chronic Disease Indicators)
+              * Cercarial Dermatitis -- see Swimmer's Itch
+              * Cerebral Palsy
+              * Cervical Cancer
+              * see also National Breast and Cervical Cancer Early Detection Program (NBCCEDP)
+              * Chagas Disease [ _Trypanosoma cruzi_ Infection]
+              * Chapare Hemorrhagic Fever (CHHF)
+              * Chest Cold -- see Bronchitis
+              * CHHF (Chapare Hemorrhagic Fever)
+              * Chickenpox Vaccination
+              * Chickenpox [Varicella Disease]
+              * Chikungunya Fever (CHIKV)
+              * CHIKV (Chikungunya Fever)
+              * Childhood Arthritis
+              * Childhood Injuries
+              * Childhood Overweight and Obesity
+              * Children's Cough and Cold Medicines -- see Cough and Cold Medicines
+              *  _Chlamydia pneumoniae_ Infection
+              *  _Chlamydia psittaci_ Infection
+              * see also Psittacosis [ _Chlamydia psittaci_ Infection]
+              *  _Chlamydia trachomatis_ Disease -- see Chlamydia
+              * Chlamydia [ _Chlamydia trachomatis_ Disease]
+              * Cholera [ _Vibrio cholerae_ Infection]
+              * Chronic Disease Indicators (CDI)
+              * Chronic Disease Prevention
+              * Chronic Fatigue Syndrome -- see Myalgic Encephalomyelitis/ Chronic Fatigue Syndrome
+              * Chronic Kidney Disease (CKD)
+              * Chronic Obstructive Pulmonary Disease (COPD)
+              * Chronic Traumatic Encephalopathy -- see CTE
+              * Chronic Wasting Disease (CWD)
+              * Ciguatera Fish Poisoning
+              * Ciguatoxin -- see Marine Toxins
+              * CJD, Classic (Classic Creutzfeldt-Jakob Disease)
+              * CKD (Chronic Kidney Disease)
+              * CKD (Kidney Disease)
+              * Classic Creutzfeldt-Jakob Disease (CJD, Classic)
+              * Clonorchiasis -- see _Clonorchis_ Infection
+              *  _Clonorchis_ Infection [Clonorchiasis]
+              *  _Clostridium botulinum_ Infection -- see Botulism
+              * Clostridium difficile Infection -- see C. diff. Infection
+              *  _Clostridium perfringens_ infection
+              *  _Clostridium tetani_ Infection -- see Tetanus Disease
+              * Clotting Disorders
+              * CMV (Cytomegalovirus Infection)
+              * Coal Workers' Pneumoconioses -- see Black Lung
+              * Coccidioidomycosis -- see Valley Fever
+              * Cold, Common
+              * Colorado Tick Fever (CTF)
+              * Colorectal (Colon) Cancer
+              * Colorectal Cancer Control Program (CRCCP)
+              * Colorectal Cancer and Genetics
+              * see also C
+              * see also Genetics and Genomics
+              * Common Cold -- see Cold, Common
+              * Concussion -- see Traumatic Brain Injury
+              * Congenital Hearing Loss -- see Hearing Loss in Children
+              * Congenital Heart Defects
+              * Screening for Critical Congenital Heart Defects
+              * Conjunctivitis -- see Pink Eye
+              * Cooley's Anemia
+              * COPD (Chronic Obstructive Pulmonary Disease)
+              *  _Corynebacterium diphtheriae_ Infection -- see Diphtheria
+              *  _Corynebacterium diphtheria_ Infection
+              * see also Diphtheria [ _Corynebacterium diphtheriae_ Infection]
+              * Cough and Cold Medicines
+              *  _Coxiella burnetii_ Infection -- see Q Fever
+              * CRE (Carbapenem-resistant Enterobacteriaceae)
+              * Creutzfeldt-Jakob Disease, Classic -- see Classic Creutzfeldt-Jakob Disease
+              * Crimean-Congo hemorrhagic fever (CCHF) [Nairovirus Infection]
+              * CRKP (Carbapenem resistant _Klebsiella pneumonia_ )
+              * Crohn's Disease -- see Inflammatory Bowel Disease
+              * Cronobacter Infection
+              * Cryptococcosis, C. gattii. -- see _C. gattii_ cryptococcosis
+              * Cryptococcosis, C. neoformans -- see _C. neoformans_ cryptococcosis
+              * Cryptosporidiosis -- see _Cryptosporidium_ Infection
+              *  _Cryptosporidium_ Infection [Cryptosporidiosis]
+              * CTE [Chronic Traumatic Encephalopathy]
+              * see also Traumatic Brain Injury (TBI)
+              * CTF (Colorado Tick Fever)
+              * CWD (Chronic Wasting Disease)
+              * cyanobacterial algal bloom-associated illness -- see Harmful Algal Bloom (HAB)-Associated Illness
+              *  _Cyclospora_ Infection [Cyclosporiasis]
+              * Cyclosporiasis -- see _Cyclospora_ Infection
+              * Cysticercosis
+              *  _Cystoisospora_ Infection [Cystoisosporiasis]
+              * Cystoisosporiasis -- see _Cystoisospora_ Infection
+              * Cytomegalovirus Infection (CMV)
 
 A-Z Index FAQs
 
@@ -249,5 +364,5 @@ Disclaimers.
 Cancel Continue
 
   *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[4 hrs]: Tuesday, April 7, 2020 at 2:56 PM
 

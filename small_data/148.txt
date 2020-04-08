@@ -1,7 +1,10 @@
-
+https://www.cdc.gov/flu/index.htmLink: https://www.cdc.gov/flu/index.htm    
+                Description: Everything you need to know about the flu illness, including symptoms, treatment and prevention.    
+                Keywords: influenza,  flu,  spanish flu,  avian flu,  asian flu,  influenza-like illness,  ILI,  influenza a,  influenza b,  influenza c,  influenza activity,  influenza branch,  influenza pandemic,  influenza epidemic,  flu vaccine,  flu shot,  antiviral,  antiviral drug,  antiviral medications,  antiviral agents,  influenza surveillance,  strain selection,  hong kong flu,  swine flu,  hemagglutinin,  neuraminidase,  respiratory illness,  guillain barre syndrome,  stomach flu,  influenza summary update,  amantadine,  rimantadine,  zanamivir,  oseltamivir,  influenza prevention,  influenza control,  negative rna strand virus,  antigenic drift,  antigenic shift,  CDC, Influenza Vaccination, Influenza (Flu), Pandemic Flu, Seasonal Flu, H1N1 Flu, Swine Influenza    
+                            
 
 Skip directly to site content Skip directly to page options Skip directly to
-A-Z link Skip directly to A-Z link Skip directly to A-Z link
+A-Z link
 
 Centers for Disease Control and Prevention. CDC twenty four seven. Saving
 Lives, Protecting People Centers for Disease Control and Prevention. CDC
@@ -15,7 +18,7 @@ Submit __
 
 For a full list of topics: A-Z Index
 
-_Salmonella_
+Influenza (Flu)
 
 Section Navigation
 
@@ -27,610 +30,388 @@ CDC Home
                     * Email
                     * Syndicate
 
-# References
+# Influenza (Flu)
+
+Other Languages
+
+EspaÃ±olç¹é«ä¸­æTiáº¿ng Viá»tíêµ­ì´
 
 Minus
 
 Related Pages
 
-                    * Cummings KJ, Warnick LD, Davis MA, Eckmann K, Grohn YT, Hoelzer K, et al. Farm animal contact as risk factor for transmission of bovine-associated _Salmonella_ subtypes. Emerg Infect Dis [Internet]. 2012 Dec.
-                    * Morris JG Jr. How safe is our food? Emerg Infect Dis. 2011 Jan; [Epub ahead of print]
-                    * Scallan E, Hoekstra RM, Angulo FJ, Tauxe RV, Widdowson M‐A, Roy SL, et al. Foodborne illness acquired in the United States-- major pathogens. Emerg Infect Dis. 2011;17(1):7-15.
-                    * Scallan E, Griffin PM, Angulo FJ, Tauxe RV, Hoekstra RM. Foodborne illness acquired in the United States--unspecified agents. Emerg Infect Dis. 2011;17(1):16-22.
-                    * Patel MK, Chen S, Pringle J, Russo E, Viñaras J, Weiss J, et al. A prolonged outbreak of _Salmonella_ Montevideo infections associated with multiple locations of a restaurant chain in Phoenix, Arizona, 2008External. J Food Prot. 2010;73(10):1858-1863.
-                    * Lynch MF, Tauxe RV, Hedberg CW. The growing burden of foodborne outbreaks due to contaminated fresh produce: risks and opportunitiesExternal. Epidemiol Infect. 2009;137(3):307‐15.
-                    * Braden CR. _Salmonella enterica_ serotype Enteritidis and eggs: a national epidemic in the United StatesExternal. Clin Infect Dis. 2006;43(4):512‐517.
-                    * Tauxe RV. Molecular subtyping and the transformation of public healthExternal. Foodborne Pathog Dis. 2006;3(1):4‐8.
-                    * Olsen SJ, Bishop R, Brenner FW, et al. The changing epidemiology of _Salmonella_ : trends in serotypes isolated from humans in the U.S., 1987-1997External. J Infect Dis 2001; 183: 756-761.
-                    * Mead PS, Slutsker L, Dietz V, et al. Food‐related illness and death in the United StatesExternal. Emerg Infect Dis. 1999;5(5):607‐25.
-                    * Hennessy TW, Hedberg CW, Slutsker L, White KE, Besser-Wiek JM, Moen ME, et al. A national outbreak of _Salmonella_ External enteritidis infections from ice creamExternal. N Engl J Med. 1996;334(20):1281-1286.
+alert icon
 
-Additional Information about _Salmonella_
+Find information on coronavirus disease 2019 (COVID-19).
 
-                    * PHLIS Data
+![Join the Fight Against Flu! Everyone 6 months and older needs a flu vaccine
+each year.](/flu/images/homepage/how-does-flu-make-you-sick-video-banner.jpg)
 
-                    * FoodNet
+Join the Fight Against Flu! Everyone 6 months and older needs a flu vaccine
+each year.
 
-                    * Healthy Pets, Healthy People
+![Flu activity is widespread in most of the U.S. Take action to prevent
+flu!](/flu/modules/homepage/flexslider-take-action.jpg)
 
-Page last reviewed: March 9, 2015
+Flu vaccination has been shown to prevent flu illnesses, doctors' visits and
+hospitalizations and can be life-saving in children
+
+![2019-2020 Preliminary In-Season Flu Burden
+Estimates](/flu/images/homepage/burden-slider-13-675px.jpg)
+
+2019-2020 Preliminary In-Season Flu Burden Estimates
+
+![FluView Interactive](/flu/modules/homepage/flexslider-fluview-update.jpg)
+
+FluView Interactive: Surveillance Data the Way You Want It!
+
+![FluSight](/flu/modules/homepage/flexslider-flu-sight.jpg)
+
+Can we predict flu? Learn about CDC's efforts to predict flu activity and find
+the latest flu forecasts each week
+
+#### Influenza Updates:
+
+                    * Laboratory-confirmed flu activity is low at this time.
+                    * Elevated influenza-like-illness is likely related to COVID-19.
+
+#### CDC Recommends:
+
+                    * Stay home as much as possible and avoid close contact with others.
+                    * Learn more about COVID-19.
+
+Flu Report
+
+Prevent Flu
+
+![Everyone 6 months & older should receive a yearly flu
+vaccine.](/flu/images/homepage/prevent2.png)
+
+Everyone 6 months & older should receive a yearly flu vaccine.
+
+Prevention
+
+Symptoms & Diagnosis
+
+![Flu can cause mild to severe illness. Learn the symptoms of
+flu.](/flu/images/homepage/symptoms2.png)
+
+Flu can cause mild to severe illness. Learn the symptoms of flu.
+
+Symptoms
+
+Treatment
+
+![Prescription medications called antiviral drugs can be used to treat
+flu.](/flu/images/homepage/treatment2.png)
+
+Prescription medications called antiviral drugs can be used to treat flu.
+
+Treatment
+
+Flu Activity & Surveillance
+
+![Flu Activity & Surveillance](/flu/images/weekly/week-13.jpg)
+
+Laboratory confirmed flu activity as reported by clinical laboratories
+continues to decrease sharply and is now low.
+
+Activity
+
+![1918 Pandemic Flu Badge](/flu/pandemic-
+resources/1918-commemoration/images/1918-pandemic-photo.jpg)
+
+book icon
+
+About Flu
+
+Learn about flu season and get answers to questions.
+
+chart icon
+
+Flu Season
+
+Find information about current and past flu seasons.
+
+people icon
+
+People at High Risk
+
+Understand who is at high risk from flu.
+
+people icon
+
+Communication Resource Center
+
+Find resources to promote flu prevention.
+
+medical icon
+
+Health Professionals
+
+Learn what CDC recommends this season.
+
+alert icon
+
+Flu News & Spotlights
+
+Read about CDC's work with flu.
+
+Flu Vaccine Finder
+
+![Flu Finder](/flu/images/homepage/flu-finder-3.jpg) Everyone **six months of
+age or older** needs a flu vaccine.
+
+##### Find the flu shot near you.
+
+![MedFinder](/flu/images/treatment/medfinder-logo-1.png)
+
+
+
+
+
+Need to fill a prescription for flu antivirals?
+
+external iconFind Flu Medication
+
+Other Types of Influenza
+
+                    * ![Pandemic](/flu/images/homepage/globe.png) Pandemic
+                    * ![Avian Flu](/flu/images/homepage/avian.png) Avian
+                    * ![Swine](/flu/images/homepage/swine.png)Swine/Variant
+                    * ![Bat](/flu/images/homepage/bat.png) Flu in Animals
+                    * ![Canine](/flu/images/homepage/canine.png) Canine Flu
+                    * ![Animal%20to%20Human%20Transmission](/flu/images/homepage/transmissions.png) Animal to Human
+
+Stay Connected with Flu
+
+fb icon twitter icon syndication icon youtube icon email icon
+
+What's New
+
+                    * Weekly U.S. Influenza Surveillance Report Friday, April 3, 2020
+                    * New Study Expands Understanding of Influenza-associated Complications Friday, March 20, 2020
+                    * Interim Flu Vaccine Effectiveness Estimates for the 2019-20 Flu Season Show Flu Vaccines Providing Substantial Protection, Especially in Children Thursday, February 20, 2020
+                    * CDCâs portable flu testing kit allows for faster, on-site detection of viruses that could cause the next pandemic Thursday, February 6, 2020
+                    * Study confirms that some flu vaccines cause a stronger immune response among older adults Thursday, December 12, 2019
+
+More
+
+Page last reviewed: April 3, 2020
 
 Content source: Centers for Disease Control and Prevention, National Center
-for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of Foodborne,
-Waterborne, and Environmental Diseases (DFWED)
+for Immunization and Respiratory Diseases (NCIRD)
 
-home _Salmonella_ Homepage
+home Seasonal Influenza (Flu)
 
-                    * Questions & Answersplus icon
-                      * Additional Information
-                    * Prevention
-                    * Symptoms
-                    * Diagnosis & Treatmentplus icon
-                      * Diagnostic and Public Health Testing
-                    * Current Outbreaksplus icon
-                      * Reporting Timeline
-                      * _Salmonella_ Infections Linked to Small Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tortugas mascota pequeÃ±as
-                      * _Salmonella_ Infections Linked to Cut Fruitplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Ground Beefplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a la carne de res molida
-                      * _Salmonella_ Infections Linked to Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a turtugas mascota
-                      * _Salmonella_ Infections Linked to Pig Ear Dog Treatsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Papayasplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a papayas frescas enteras importadas de MÃ©xico
-                      * _Salmonella_ Infections Linked to Karawan brand Tahiniplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tahini de la marca Karawan
-                      * _Salmonella_ Infections Linked to Backyard Poultryplus icon
-                        * Map of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brotes de infecciones por _Salmonella_ vinculados a aves de corral domÃ©sticas
-                      * _Salmonella_ Infections Linked to Frozen Raw Tunaplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Newport vinculado a atÃºn crudo congelado
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                      * _Salmonella_ Infections Linked to Pre-Cut Melonplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Carrau vinculado a melÃ³n y sandÃ­a precortados
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                      * _Salmonella_ Infections Linked to Butterball Brand Ground Turkeyplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado al pavo molido de marca Butterball
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones de la investigaciÃ³n del brote, por fecha
-                      * _Salmonella_ Infections Linked to Pet Hedgehogsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a los erizos como mascota
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                    * Previous Outbreaksplus icon
-                      * 2018 Outbreaksplus icon
-                        * Multidrug-Resistant _Salmonella_ Infections Linked to Raw Turkey Productsplus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pavo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Tahini from Achdut Ltd., 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a tahini elaborado por Achdut Ltd.
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Raw Chicken Products, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Advice to Clinicians
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pollo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Recomendaciones para los mÃ©dicos
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Ground Beef, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a carne molida de res
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Agbeni Infections, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Gravel Ridge Farms Shell Eggs, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Chicken, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Hy-Vee Spring Pasta Salad, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella vinculado a la ensalada de pasta âHy-Vee Spring Pasta Saladâ
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Kelloggâs Honey Smacks Cereal, 2018plus icon
-                          * Salmonella Infections Linked to Kelloggâs Honey Smacks Cereal en EspaÃ±ol
-                          * Recall and Advice to Consumers, Restaurants and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pre-Cut Melon, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pre-Cut Melon en EspaÃ±ol
-                          * Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks, 2018plus icon
-                          * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Braenderup Infections Linked to Shell Eggs, 2018plus icon
-                          * _Salmonella_ Braenderup Infections Linked to Shell Eggs en EspaÃ±ol
-                          * Recalls and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Dried Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Dried Coconut en EspaÃ±ol
-                          * Recall and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Guinea Pigs, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pet Guinea Pigs en EspaÃ±ol
-                          * Case Count Maps
-                          * Case Count Maps en EspaÃ±ol
-                          * Signs & Symptoms
-                          * Signs & Symptoms en EspaÃ±ol
-                        * _Salmonella_ Infections Linked to Chicken Salad, 2018plus icon
-                          * _Salmonella_ Infections Linked to Chicken Salad en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Kratom, 2018plus icon
-                          * _Salmonella_ Infections Linked to Kratom en EspaÃ±ol
-                          * Recalls and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo Infections Linked to Raw Sprouts, 2018plus icon
-                          * _Salmonella_ Infections Linked to Raw Sprouts en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Shredded Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut en EspaÃ±ol
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut á» Viá»t Nam [PDF â 3 pages]
-                          * Recall and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2017 Outbreaksplus icon
-                        * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Turtles, 2017plus icon
-                          * _Salmonella_ Infections Linked to Small Turtles, 2017 en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Laboratory Exposure, 2017plus icon
-                          * Advice to Students & Employees in Microbiology Laboratories
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry in Backyard Flocksplus icon
-                          * Case Count Maps
-                          * Live Poultry FAQ
-                      * 2016 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Contact with Dairy Calves, 2016plus icon
-                          * Case Count Maps
-                          * Epi Curves
-                        * _Salmonella_ Oranienburg Infections Linked to Shell Eggs, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Reading and _Salmonella_ Abony Infections linked to Alfalfa Sprouts, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps 
-                          * Epi Curves 
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2016plus icon
-                          * Advice to Consumers and Retailers
-                          * Live Poultry FAQs
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo and _Salmonella_ Senftenberg Infections Linked to Wonderful Pistachios, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Alfalfa Sprouts from One Contaminated Seed Lot, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Virchow Infections Linked to Raw Meal Organic Shake and Meal Products, 2016plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2015 Outbreaksplus icon
-                        * _Salmonella_ Paratyphi B variant L(+) tartrate(+) Infections Linked to Sprouted Nut Butter Spreads, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2015plus icon
-                          * Human _Salmonella_ Infections Linked to Small Turtles en EspaÃ±ol
-                          * Advice to Pet Owners
-                          * Advice to Pet Owners en EspaÃ±ol
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * _Salmonella_ Poona Infections Linked to Imported Cucumbers, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Multidrug-Resistant _Salmonella_ I 4,[5],12:i:- and _Salmonella_ Infantis Infections Linked to Pork, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Aspen Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Drug-Resistant _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Barber Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2015plus icon
-                          * Advice to Backyard Flock Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Raw Tuna, 2015plus icon
-                          * Advice to Retailers & Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Crested Geckos, 2015plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2014 Outbreaksplus icon
-                        * Enteritidis Infections Linked to Bean Sprouts, 2014plus icon
-                          * Advice to Consumers & Retailers
-                          * Final Case Count Maps
-                          * Final Epi Curve
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Linked to Nut Butter, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human Typhimurium Infections Linked to Laboratory Exposure, 2014plus icon
-                          * Advice to Students & Employees in Labs
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Chia Powder, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Frozen Feeder Rodents, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Bearded Dragons, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Heidelberg Infections Linked to Tyson Brand Mechanically Separated Chicken, 2014plus icon
-                          * Recall & Advice to Institutions
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Stanley Infections Linked to Raw Cashew Cheese, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2013 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Foster Farms Brand Chicken, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * _Salmonella_ Mbandaka Infections Linked to Tahini Sesame Paste, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Live Poultry in Backyard Flocks, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Saintpaul Infections Linked to Imported Cucumbers, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Heidelberg Infections Linked to Chicken, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Typhimurium Infections Linked to Ground Beef, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2012 Outbreaksplus icon
-                        * Bredeney Infections Linked to Peanut Butter, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Hedgehogs, 2012plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Associated with Mangoes, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Typhimurium and Newport Infections Linked to Cantaloupe, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Enteritidis Infections Linked to Ground Beef, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Hadar Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Montevideo Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infantis Infections Linked to Dry Dog Food, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Information for Pet Owners
-                          * Information for Veterinarians
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Bareilly and Nchanga Infections Associated with a Raw Scraped Ground Tuna Product, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Outbreaks Diagram
-                          * Signs & Symptoms
-                          * Key Resource
-                        * Enteritidis Infections Linked to Restaurant Chain A, 2012
-                      * 2010 through 2011 Outbreaksplus icon
-                        * Typhimurium Infections Linked to Ground Beef
-                        * Heidelberg Infections Linked to Kosher Broiled Chicken Livers
-                        * Enteritidis Infections Linked to Turkish Pine Nuts
-                        * Heidelberg Infections Linked to Ground Turkey
-                        * Agona Infections Linked to Whole, Fresh Imported Papayas
-                        * Enteritidis Infections Linked to Alfalfa Sprouts and Spicy Sprouts
-                        * Altona and Johannesburg Infections Linked to Chicks and Ducklings
-                        * Typhimurium Infections Associated with Lab Exposure
-                        * Typhimurium Infections Linked to African Dwarf Frogs
-                        * Hadar Infections Associated with Turkey Burgers
-                        * Panama Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Alfalfa Sprouts
-                        * Enteritidis Infections Associated with Shell Eggs
-                        * Chester Infections Associated with Cheesy Chicken & Rice Frozen EntrÃ©e
-                        * Typhi (Typhoid Fever) Associated with Frozen Mamey Fruit Pulp
-                        * Hartford and Baildon Infections Associated with Restaurant Chain A
-                        * I 4,[5],12:i:- Linked to Frozen Rodents
-                        * Newport Infections Linked to Alfalfa Sprouts
-                        * Montevideo Infections Linked to Red and Black Pepper/Italian-Style Meats
-                      * 2006 through 2009 Outbreaksplus icon
-                        * Saintpaul Infections Linked to Alfalfa Sprouts
-                        * _Salmonella_ Infections Linked to Pistachio Nuts
-                        * Typhimurium Infections Linked to Peanut Butter
-                        * Saintpaul Infections Linked to Raw Produce
-                        * Agona Infections Linked to Rice & Wheat Puff Cereal
-                        * Litchfield Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Pot Pies
-                        * Human Schwarzengrund Infections Linked to Dry Pet Food
-                        * Wandsworth Infections Linked to Veggie Booty
-                        * Tennessee Infections Linked to Peanut Butter
-                        * Typhimurium Infections Linked to Tomatoes
-                    * For Health Professionals
-                    * Surveillanceplus icon
-                      * _Salmonella_ Atlasplus icon
-                        * 32 Individual Serotypes Reports
-                        * Importance of Serotyping
-                        * Snapshots of Serotypes
-                    * Communication Materials
-                    * Reports & Publicationsplus icon
-                      * MMWR Articles
-                      * References
-
-Related Links
-
-                    * Multistate Foodborne Outbreaks
-                    * Zoonotic Diseases (Diseases from Animals)
-                    * Foodborne Illness A-Z
-                    * Estimates of Foodborne Illness
-                    * Report a Foodborne Illness
-                    * Foodsafety.govExternal file_external 
-                    * U.S. Food and Drug Administration (FDA)External file_external 
-                    * USDA Food Safety and Inspection ServiceExternal file_external 
-
-Follow Salmonella
-
-![Sign up for RSS feed.](/salmonella/images/outbreaks/rss-icon.png)
-
-Sign up for RSS Feed
+                    * About Fluplus icon
+                      * What You Need to Know
+                      * When is Flu Season
+                      * How Flu Spreads
+                      * Understanding Influenza Viruses plus icon
+                        * Types of Influenza Viruses
+                        * How Flu Viruses Can Change
+                        * Antigenic Characterization
+                        * Genetic Characterization
+                        * Reconstruction of the 1918 Influenza Pandemic Virus
+                        * Advanced Molecular Detection
+                      * Burden of Influenzaplus icon
+                        * Preliminary In-Season 2019-2020 Burden Estimates
+                        * How CDC Estimates Burden
+                        * Why CDC Estimates the Burden of Flu
+                        * Past Seasons
+                        * Frequently Asked Questions
+                      * How CDC Classifies Flu Severity
+                      * Glossary of Influenza (Flu) Terms
+                      * Questions & Answers
+                    * Who is at High Risk for Flu Complicationsplus icon
+                      * Adults 65 & Over
+                      * Pregnant Womenplus icon
+                        * Flu Vaccine Safety and Pregnant Women
+                      * Asthma
+                      * Heart Disease & Stroke
+                      * Diabetes
+                      * HIV/AIDS
+                      * Cancer
+                      * What Parents Need to Knowplus icon
+                        * Caregivers of Infants
+                        * Young Children
+                        * Children With Neurologic Conditions
+                        * Children and Antiviral Drugs
+                        * Mixing Oseltamivir Capsules for Children
+                    * Flu Seasonplus icon
+                      * What You Need to Know for 2019-20
+                      * Health Care Providers
+                      * Past Flu Seasonsplus icon
+                        * 2018-2019
+                        * 2017-2018
+                        * 2016-2017
+                        * 2015-2016
+                        * 2014-2015
+                        * 2013-2014
+                        * 2012-2013
+                        * 2011-2012
+                        * 2010-2011
+                        * 2009-2010
+                        * 2007-2008
+                        * 2006-2007
+                    * Prevent Fluplus icon
+                      * How to Prevent Fluplus icon
+                        * Preventive Actions
+                      * Key Facts About Flu Vaccines
+                      * Who Needs a Flu Vaccine & Whenplus icon
+                        * Who Should & Who Should NOT Get Vaccinated
+                      * Vaccine Benefitsplus icon
+                        * Publications on Vaccine Benefits 
+                      * Different Flu Vaccinesplus icon
+                        * Flu Shot
+                        * Live Attenuated Influeza Vaccine (LAIV)/Nasal Spray Vaccine
+                        * Quadrivalent Influenza Vaccine
+                        * High-Dose Flu Vaccine
+                        * Adjuvanted Flu Vaccine
+                        * Cell-Based Flu Vaccine
+                        * Recombinant Flu Vaccine
+                        * Intradermal Flu Vaccine
+                        * Flu Vaccination by Jet Injector
+                      * How Flu Vaccines are madeplus icon
+                        * Advancements in Influenza Vaccines
+                        * Selecting Viruses for the Seasonal Influenza Vaccine
+                        * Projects to Improve Flu Vaccines
+                      * Flu Vaccine Safetyplus icon
+                        * Vaccine Safety Questions & Answers
+                        * Febrile Seizures Following Vaccination
+                        * Flu Vaccine and People with Egg Allergies
+                        * Guillain-BarrÃ© Syndrome (GBS)
+                        * Thimerosal
+                      * Misconceptions about Flu Vaccines
+                      * Healthy Habits to Help Prevent Flu
+                      * Vaccine Supply & Distributionplus icon
+                        * Vaccine Supply for 2019-2020 Season
+                        * Frequently Asked Questions on Vaccine Supply
+                        * Historical Reference of Vaccine Doses Distributed
+                    * Flu Vaccines Workplus icon
+                      * How Well Flu Vaccines Work
+                      * CDCâs Vaccine Effectiveness Networksplus icon
+                        * US Flu VE Network
+                        * Hospitalized Adult Influenza Vaccine Effectiveness Network (HAIVEN)
+                      * How Vaccine Effectiveness and Efficacy are Measured
+                      * Why CDC Estimates Vaccine Effectiveness
+                      * Vaccine Effectiveness Studiesplus icon
+                        * 2019-2020 Vaccine Effectiveness
+                        * Past Seasons Vaccine Effectivenessplus icon
+                          * VE Tables for 2011-12
+                          * VE Tables for 2012-13
+                          * VE Tables for 2013-14
+                          * VE Tables for 2014-15
+                          * VE Tables for 2015-16
+                          * VE Tables for 2016-17
+                          * VE Tables for 2017-18
+                          * VE Tables for 2018-19
+                      * Flu Burden Averted from Vaccinationplus icon
+                        * How CDC Estimates Burden Averted
+                        * Why CDC Estimates Burden Averted
+                        * Past Seasons Burden Averted Estimates
+                    * Symptoms & Diagnosis plus icon
+                      * Flu Symptoms & Complicationsplus icon
+                        * What People with a Staph Infection Should Know about Flu
+                      * The Difference Between Cold and Flu
+                      * Diagnosis
+                    * Treatmentplus icon
+                      * What You Need to Know
+                      * What are Flu Antiviral Drugsplus icon
+                        * Antiviral Drug Resistance
+                        * Baloxavir Marboxil
+                      * What to do if You Get Sick
+                      * Caring for Someone Sick
+                    * Schools, Businesses & Travelersplus icon
+                      * Schools & Childcare Providersplus icon __
+                        * Guidance for School Administrators
+                        * Cleaning & Disinfecting Schools
+                        * School-Located Vaccination
+                      * Business & Employersplus icon
+                        * Prevent Flu in the Workplace
+                        * Promoting Vaccination in the Workplace
+                        * Resources for Hosting a Vaccination Clinic
+                        * Stay Home When Sick
+                      * Travelers
+                    * Flu Activity & Surveillanceplus icon
+                      * CDCâs WHO Collaborating Center
+                      * Overview of Influenza Surveillance in the United States
+                      * Current United States Flu Activity Map
+                      * Weekly U.S. Influenza Surveillance Report (FluView)
+                      * FluView Interactive
+                      * Past Weekly Surveillance Reports
+                      * FluSight: Flu Forecastingplus icon
+                        * About CDCâs Flu Forecasting Efforts
+                        * How CDC Uses Flu Forecasting
+                        * Why CDC Supports Flu Forecasting
+                        * Past Flu Seasons Flu Forecasting Accuracy Results
+                    * Health Professionalsplus icon
+                      * Health Care Workers Need A Flu Vaccine
+                      * ACIP Recommendationsplus icon
+                        * 2019-20 ACIP Background
+                        * Background and Epidemiology
+                        * 2019-20 ACIP Summary
+                      * Vaccinationplus icon
+                        * Flu Vaccination & Miscarriage 
+                        * Table of Approved Vaccines for 2019-2020
+                        * Vaccine Dosage & Administration
+                        * For Clinicians: Vaccination Summary
+                        * For Clinicians: Vaccine Safety
+                        * Large-Scale Influenza Vaccination Clinic Planning
+                        * Reallocating Influenza Vaccine
+                        * Vaccination Settings
+                        * Make a Strong Flu Vaccine Recommendation
+                        * Tools to Prepare Your Practice for Flu Season
+                        * Sample Social Media Posts
+                      * Information for Clinicians on Influenza Virus Testingplus icon
+                        * Overview of Influenza Testing Methods
+                        * Information on Collection of Respiratory Specimens for Influenza Virus Testing
+                        * Clinical Signs & Symptoms of Influenza
+                        * Symptoms & Laboratory Diagnosis 
+                        * Information for Clinicians on Rapid Diagnostic Testing for Influenza
+                        * Rapid Influenza Diagnostic Tests (RIDTs)
+                        * Guidance: Use of Rapid Diagnostic Test 
+                        * Information on Rapid Molecular Assays, RT-PCR, and other Molecular Assays for Diagnosis of Influenza Virus Infection
+                        * Nucleic Acid Detection Based Tests
+                        * Medical Office Telephone Evaluation
+                        * Parotitis and Influenza 
+                        * FAQ Parotitis and Influenza 
+                        * Algorithm: Interpreting Influenza Testing Results When Influenza is Circulating
+                        * Algorithm: Interpreting Influenza Testing Results When Influenza is NOT Circulating
+                        * Guide: Considering Influenza Testing
+                        * Guide: Influenza Diagnostic Testing in Closed Setting Outbreaks
+                      * Information for Laboratoriesplus icon
+                        * Rapid Diagnostic Testing
+                        * Guidance: Standard-Based Electronic Laboratory Reporting
+                        * Influenza Virus Testing Methods
+                      * Antiviral Drugsplus icon
+                        * For Clinicians: Antiviral Medication 
+                        * Types of Antiviral Drugs 
+                        * Antiviral Guidance Reference Material 
+                        * Guidance: Antiviral and Obstetric Health Care 
+                        * Antiviral Drug Supply
+                      * Infection Controlplus icon
+                        * Guidelines for Healthcare Settings
+                        * Respiratory Infection Control Measures
+                        * Guidance: Outbreak Management in Long-Term Care Facilities
+                        * Guidance: Use of Mask to Control Influenza Transmission
+                        * Guidance: Prevention & Control in Peri- and Postpartum Settings 
+                      * Toolkit for Long-Term Care Employers
+                      * Trainings
+                      * Health Professional References & Resources 
+                    * Flu News & Spotlightsplus icon
+                      * 2018-2019
+                      * 2017-2018
+                      * 2016-2017
+                      * 2015-2016
+                      * 2014-2015
+                      * 2013-2014
+                      * 2012-2013
+                      * 2011-2012
+                      * 2010-2011
+                      * 2009-2010
+                    * Whatâs New
 
 **HAVE QUESTIONS?**
 
@@ -683,7 +464,7 @@ CDC Website Exit Disclaimer external icon
 
 ![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
 
-file_external
+SAS stats
 
 #### Exit Notification/Disclaimer Policy
 
@@ -701,5 +482,5 @@ Disclaimers.
 Cancel Continue
 
   *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[4 hrs]: Tuesday, April 7, 2020 at 2:56 PM
 

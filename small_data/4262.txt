@@ -1,0 +1,843 @@
+https://www.cdc.gov/vhf/ebola/healthcare-us/ppe/calculator.htmlLink: https://www.cdc.gov/vhf/ebola/healthcare-us/ppe/calculator.html    
+                Description: Determining the amount of Personal Protective Equipment (PPE) a hospital needs for a multi-disciplinary healthcare team managing a patient with Ebola    
+                Keywords: Ebola,  Ebola outbreak,  Ebola virus,  Personal Protective Equipment,  PPE,  hospital,  healthcare team,  managing Ebola patient, Viral Hemorrhagic Fevers VHF, Ebola Virus Disease    
+                            
+
+Skip directly to site content Skip directly to page options Skip directly to
+A-Z link
+
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People Centers for Disease Control and Prevention. CDC
+twenty four seven. Saving Lives, Protecting People
+
+Search ____
+
+Ã
+
+Submit __
+
+For a full list of topics: A-Z Index
+
+Ebola (Ebola Virus Disease)
+
+Section Navigation
+
+CDC Home
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * LinkedIn
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Syndicate
+
+# Estimated Personal Protective Equipment (PPE) Needed for Healthcare
+Facilities
+
+Minus
+
+Related Pages
+
+PPE Calculator
+
+To determine the amount of PPE your hospital needs to manage a patient with
+Ebola, click **HERE**.
+
+To determine the amount of Personal Protective Equipment (PPE) a hospital
+needs for a multi-disciplinary healthcare team managing a patient with Ebola,
+facilities should consider various factors including: acuity of patient,
+configuration of the healthcare team/roles and intended interaction with
+patient, length of shifts, number of required breaks for staff wearing PPE,
+isolation unit location and support strategies, waste management strategy, lab
+location, lab testing demand, hospital protocols for products, and length of
+patient's hospital stay. Hospital inventory needs must be assessed on a case
+by case basis and should consider these and any other relevant factors.
+Because the ability to stockpile large amounts of PPE may be limited and re-
+ordering may not be immediate, it is recommended that facilities determine an
+appropriate interval for par level monitoring of PPE (e.g. every 8 hours) and
+designate a specific member of the team to complete this task.
+
+**Staffing models may include some of the following roles that should be
+considered when determining how much Ebola PPE is needed:**
+
+**Healthcare Team Roles and Descriptions:**
+
+**Role**
+
+|
+
+**Description**  
+  
+---|---  
+Nurses responsible for direct or indirect patient care | Nursing staff
+providing direct patient care. Includes primary and support nurses that are
+either in the patient room or in the anteroom donned and ready to care for
+patients or assist if needed. In many centers, this role may also be
+responsible for environmental cleaning while the patient is in the room.  
+Physician providing direct patient care | Includes any physician or specialty
+care practitioner entering the patient's room.  
+Trained observer to assist with donning/doffing | Person assisting with
+donning/doffing of PPE.  
+Environmental cleaning | Person responsible for cleaning/decontaminating the
+patient's room while the patient is present. May not require dedicated staff
+if nurses responsible for direct care perform environmental cleaning of
+patient room and anteroom.  
+Laboratory staff handling specimens | Staff should be considered if PPE is
+needed beyond normal PPE provided to lab staff  
+  
+**The following are examples of staffing models for Ebola Assessment Hospitals
+that have experienced caring for persons under investigation (PUI). These may
+be helpful when planning the configuration of your facility 's health care
+team:**
+
+**Example 1:**
+
+**Patient was relatively stable. 2 nurses provided direct patient care
+(primary nurse, support nurse), 2 nurses provided environmental cleaning, and
+lab staff handling specimens was in Ebola PPE.** **Role** | **Persons/shift**
+| **Shifts/day** | **Person/day**  
+---|---|---|---  
+Nurses with patient contact | 2 | 2 | 4  
+Physician with patient contact | 1 | 1 | 1  
+Trained observer to assist with donning/doffing | 1 | 2 | 2  
+Environmental cleaning (nurse staff) | 2 | 2 | 4  
+Laboratory staff handling specimens | 1 | 2 | 2  
+**Total persons** |  |  | **12**  
+  
+**Example 2** :
+
+**Patient was considered unstable. 2 nurses provided direct patient care
+(primary nurse, support nurse) and were also responsible for environmental
+cleaning in the room, lab staff handling specimens was provided PPE through
+lab (normal lab PPE protocols)** **Role** | **Persons/shift** | **Shifts/day**
+| **Person/day**  
+---|---|---|---  
+Nurses with patient contact | 3 | 2 | 6  
+Physician with patient contact | 2 | 2 | 4  
+Trained observer to assist with donning/doffing | 1 | 2 | 2  
+Environmental cleaning (nurse staff) | 0 | 0 | 0  
+Laboratory staff handling specimens | 0 | 0 | 0  
+**Total persons** |  |  | **12**  
+  
+**Example 3:**
+
+**Patient was considered stable. 2 nurses provided direct patient care
+(primary nurse, support nurse) and were also responsible for environmental
+cleaning in the room, lab staff handling specimens was provided Ebola PPE.**
+**Role** | **Persons/shift** | **Shifts/day** | **Person/day**  
+---|---|---|---  
+Nurses with patient contact | 2 | 2 | 4  
+Physician with patient contact | 1 | 2 | 2  
+Trained observer to assist with donning/doffing | 1 | 2 | 2  
+Environmental cleaning (nurse staff) | 0 | 0 | 0  
+Laboratory staff handling specimens | 1 | 2 | 2  
+**Total persons** |  |  | **10**  
+  
+**Example 4:**
+
+**Patient was considered unstable. 3 nurses provided direct patient care (2
+primary nurse, support nurse), 2 staff responsible for environmental cleaning
+in the room, lab staff handling specimens was provided Ebola PPE.** **Role** |
+**Persons/shift** | **Shifts/day** | **Person/day**  
+---|---|---|---  
+Nurses with patient contact | 3 | 2 | 6  
+Physician with patient contact | 1 | 2 | 2  
+Trained observer to assist with donning/doffing | 1 | 2 | 2  
+Environmental cleaning (nurse staff) | 2 | 2 | 4  
+Laboratory staff handling specimens | 1 | 2 | 2  
+**Total persons** |  |  | **16**  
+  
+**Example 5:**
+
+**Patient was relatively stable. 3 nurses provided direct patient care (2
+primary nurses, 1 support nurse) and were also responsible for environmental
+cleaning in the room, lab staff handling specimens was in Ebola PPE.**
+**Role** | **Persons/shift** | **Shifts/day** | **Person/day**  
+---|---|---|---  
+Nurses with patient contact | 3 | 2 | 6  
+Physician with patient contact | 1 | 2 | 2  
+Trained observer to assist with donning/doffing | 2 | 2 | 4  
+Environmental cleaning (nurse staff) | 0 | 0 | 0  
+Laboratory staff handling specimens | 2 | 1 | 2  
+**Total persons** |  |  | **15**  
+  
+**Range for Staffing Model**
+
+**Range for number of staff needed on a healthcare team caring for a possible
+EVD patient may be as follows:** **Role** | **Persons/shift** | **Shifts/day**
+| **Person/day**  
+---|---|---|---  
+Nurses with patient contact |
+
+2-3
+
+|
+
+2
+
+|
+
+4-6  
+  
+Physician with patient contact |
+
+1
+
+|
+
+2
+
+|
+
+2  
+  
+Trained observer to assist with donning/doffing |
+
+1-2
+
+|
+
+2
+
+|
+
+2-4  
+  
+Environmental cleaning (nurse staff) |
+
+0-2
+
+|
+
+2
+
+|
+
+0-4  
+  
+Laboratory staff handling specimens |
+
+0-1
+
+|
+
+2
+
+|
+
+0-2  
+  
+**Total persons** |
+
+|
+
+|
+
+**8-18**  
+  
+**How much product will each member of the team need per shift?**
+
+The table below provides estimates to help determine the number of changes of
+PPE each staff member on a team may need per shift. **_Quantities for products
+needed per shift should be multiplied by number of persons serving in that
+healthcare team role._** Information in the table is a guide to help
+deliberate PPE needs. Facility estimates may vary from these projections based
+on facility specific planning and protocols.
+
+**Estimated quantities of Ebola PPE needed for health care teams by role for
+one shift**
+
+**Estimated Disposable PPE Needed by Role per Shift***  
+  
+---  
+**Health Care Team Roles**** |
+
+**Either Gowns or Coveralls Needed^**
+
+|
+
+**All Needed**
+
+|
+
+**Either PAPRs^^ or N95 Respirators Needed^**  
+  
+|
+
+**Gown**
+
+|
+
+**Coverall**
+
+|
+
+**Glove, Extended Cuff**
+
+|
+
+**Glove Exam**
+
+|
+
+**Boot/Shoe Cover**
+
+|
+
+**Fluid Resistant Apron**
+
+|
+
+**PAPR Shroud/**
+
+**Hood**
+
+|
+
+**PAPR Battery**
+
+|
+
+**PAPR Filter #**
+
+|
+
+**N95**
+
+**Resp ##**
+
+|
+
+**Surgical Hood**
+
+|
+
+**Face Shield**
+
+|
+
+**Surgical Mask**  
+  
+Nurse with patient contact |
+
+2
+
+|
+
+2
+
+|
+
+12
+
+|
+
+4
+
+|
+
+4
+
+|
+
+2
+
+|
+
+2
+
+|
+
+4
+
+|
+
+2
+
+|
+
+2
+
+|
+
+2
+
+|
+
+2
+
+|
+
+0  
+  
+Doctor with patient contact |
+
+1
+
+|
+
+1
+
+|
+
+2
+
+|
+
+2
+
+|
+
+2
+
+|
+
+1
+
+|
+
+1
+
+|
+
+2
+
+|
+
+1
+
+|
+
+1
+
+|
+
+1
+
+|
+
+1
+
+|
+
+0  
+  
+Trained Observer |
+
+2
+
+|
+
+0
+
+|
+
+2
+
+|
+
+2
+
+|
+
+2
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+2
+
+|
+
+2  
+  
+Env cleaning |
+
+2
+
+|
+
+2
+
+|
+
+12
+
+|
+
+12
+
+|
+
+12
+
+|
+
+2
+
+|
+
+2
+
+|
+
+4
+
+|
+
+2
+
+|
+
+2
+
+|
+
+2
+
+|
+
+2
+
+|
+
+0  
+  
+Lab Staff |
+
+2
+
+|
+
+2
+
+|
+
+4
+
+|
+
+4
+
+|
+
+4
+
+|
+
+2
+
+|
+
+2
+
+|
+
+4
+
+|
+
+2
+
+|
+
+2
+
+|
+
+2
+
+|
+
+2
+
+|
+
+0  
+  
+* Quantity of product per shift may vary based on multiple factors including patient acuity, length of shifts, breaks etc. Estimates in table assume 3-4 hour shift.
+
+**Hospitals may have additional roles that need to be considered. Roles in the
+table are defined above under " **Healthcare Team Roles and Descriptions. "**
+
+^ Reference CDC PPE guidance for specifications for impermeable and fluid-
+resistant gowns and coveralls.
+
+^^ Powered air purifying respirator (PAPR) blower units/system s are not
+included in the table. These items may be reused post decontamination.
+Therefore, the quantity of PAPR blower units/systems needed per shift and per
+day should be based on the number of persons that may be using a PAPR blower
+and the time needed to decontaminate and ensure that these products are ready
+for use. One PAPR blower units/system will be needed for each staff member per
+shift who will be in direct contact with the patient. Should consider having
+1.5 to 2 shifts worth of PAPR blower units/systems on hand to account for
+changing of staff and decon time.
+
+# Follow the manufacturer's guidance to determine the need to replace/dispose
+of a filter during PAPR decontamination. Several manufacturers have added
+specific instructions for cleaning, disinfecting, and decontamination after
+use with a known or suspected Ebola patient. Estimate in the table assumes
+filter is being changed with each shroud/hood change.
+
+## N95 respirator selection must include surgical hood and full face shield.
+
+Page last reviewed: January 21, 2016
+
+Content source: Centers for Disease Control and Prevention, National Center
+for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of Healthcare
+Quality Promotion (DHQP)
+
+home Ebola (Ebola Virus Disease)
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * What is Ebola Virus Disease?
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * History of Ebola Virus Diseaseplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Years of Ebola Virus Disease Outbreaks
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Ebola Virus Disease Distribution Map: Cases of Ebola Virus Disease in Africa Since 1976
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * 2014-2016 Ebola Outbreak in West Africa plus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * The Cost of the Ebola Epidemic
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * 2014-2016 Ebola Outbreak Distribution in West Africa
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Case Counts
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * 2014 Ebola Outbreak in West Africa Epidemic Curves
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Transmission
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Signs and Symptoms
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Prevention and Vaccineplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Handwashing
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Diagnosis
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Treatmentplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Survivors
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Outbreaksplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * 2018 Eastern Democratic Republic of the Congoplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Overview
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Whatâs New
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * What CDC is Doing
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Ebola By The Numbers
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Eastern Democratic Republic of the Congo Ebola Outbreak Map
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Ebola Communication and Awareness Resources
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * 2018 Democratic Republic of Congo, Bikoroplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Map of Ebola-Affected Health Zones in the Democratic Republic of the Congo (DRC)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * 2017 Democratic Republic of the Congo, Bas UÃ©lÃ© District
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * 2014 Ebola Outbreak in Democratic Republic of the Congo
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Outbreak Preparedness
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Outbreak Response Storiesplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Itâs not over until itâs over
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Long flights, long days mark vaccine campaign
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Roads to Uganda
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * How community feedback shapes the Ebola response
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Ebola outbreak becomes a class act for EIS officers
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * In the shadow of the volcano
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Congo-born CDC photographer rooting for Ebola responders
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Fighting Ebola on familiar ground
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Thereâs no silver bullet
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Strength In Numbers
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Responding to a case of Ebola in Goma
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Fighting Ebola: Every day is a Monday
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Protecting the Health of Communities
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Collaborating across Time Zones
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Being Creative in Goma
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Crunching the Numbers
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Supporting the Laboratory in Uganda
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Supporting the Ministry of Health
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Protecting Ugandaâs Border
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Watching DRCâs Border
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * For Cliniciansplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Ebola Virus Disease for Cliniciansplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Infection Control
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Acute Hemodialysis
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Pregnant Women
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Handling Human Remains
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Neonatal Care
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Evaluating Patientsplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Case Definition
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Think Ebola
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * FAQs: Screening for Ebola Virus Disease
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Discharging Persons Under Investigation
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Evaluating Travelers
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Management of Survivors of Ebola Virus Disease
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Messages for the Care of Survivors of Ebola
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Cleaning and Disinfectingplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Hospital Guidance
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Waste Management
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Survivability of Ebola Virus in Medical Waste
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Handling Ebola-Associated Waste
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Emergency Services plus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Emergency Department Guidance 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Emergency Department Preparedness Training 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * EMS Systems and 9-1-1 Answering Points 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Air Medical Transport SOP 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Transport of Pediatric Patients 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Interfacility Transport Guidance plus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Patient Handoff SOP 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Air-to-Ground Patient Handoff SOP
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Ambulance Decontamination 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Outpatient Settings
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Non US Healthcare Settingsplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Preventing Injury from Injections and Sharps in Non-U.S. General Healthcare Settings
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Hand Hygiene in Non-U.S. General Healthcare Settings
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Rationale and Considerations for Chlorine Use in Infection Control for Non- U.S. General Healthcare Settings
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Laboratory Testingplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Specimen Collection, Transport, and Submission 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Packing and Shipping Specimens 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Managing and Testing Routine Clinical Specimens
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Non-CDC Resources
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * For Public Health Plannersplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Top 10 Ebola Response Planning Tips
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Hospital Preparednessplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Preparing Frontline Healthcare Facilities
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Preparing Ebola Assessment Hospitals
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Preparing Ebola Treatment Centers
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Personal Protective Equipment (PPE)plus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Guidance for Confirmed Ebola Patients or Clinically Unstable PUIs
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Guidance for Clinically Stable PUIs
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Ebola PPE Frequently Asked Questions
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Training
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * PPE Supply Considerations
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * PPE Calculator
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Cleaning and Decontaminationplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Guidance for the U.S. Residence Decontamination for Ebola Virus Disease (EVD) and Removal of Contaminated Waste
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Guidance for Handling Untreated Sewage
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * FAQs: Interim Guidance for Handling Untreated Sewage from Suspected or Confirmed Individuals with Ebola in the U.S.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Guidance for Cleaning, Disinfection, and Waste Disposal in Commercial Passenger Aircraft
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Notes on the Interim U.S. Guidance for Monitoring and Movement of Persons with Potential Ebola Virus Exposure
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Communication Resourcesplus icon
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Videos
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Audio
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Infographics & Illustrations
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Factsheets
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Posters
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Virus Ecology Graphic
+
+![      illustration of colorful DNA strand behind the text - CDC uses next-
+generation sequencing to identify hemorrhagic fever viruses in
+bats](/amd/images/amd-badges/amd-initiative-badge-filovirus.jpg)
+
+![MMWR Ebola Reports](/vhf/ebola/images/mmwr-badge.jpg)
+
+**HAVE QUESTIONS?**
+
+Visit CDC-INFO
+
+Call 800-232-4636
+
+Email CDC-INFO
+
+Open 24/7
+
+**CDC INFORMATION**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * About CDC
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Jobs
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Funding
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Policies
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * File Viewers & Players
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Privacy
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * FOIA
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * No Fear Act
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * OIG
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Nondiscrimination
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Accessibility
+
+**CONNECT WITH CDC**  
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Youtube
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Instagram
+  
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Syndicate
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * CDC TV
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * RSS
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
+
+U.S. Department of Health & Human Services
+
+USA.gov
+
+CDC Website Exit Disclaimer external icon
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * LinkedIn
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
+
+![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+
+#### Exit Notification/Disclaimer Policy
+
+Close
+
+**Links with this icon indicate that you are leaving the CDC website.**
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * You will be subject to the destination website's privacy policy when you follow the link.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+For more information on CDC's web notification policies, see Website
+Disclaimers.
+
+Cancel Continue
+
+  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
+  *[4 hrs]: Tuesday, April 7, 2020 at 2:56 PM
+  *[9 hrs]: Tuesday, April 7, 2020 at 10:08 AM
+  *[12 hrs]: Tuesday, April 7, 2020 at 7:00 AM
+  *[Yesterday at 9:38 AM]: Monday, April 6, 2020 at 9:38 AM
+  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
+  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
+  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
+  *[ 11 hrs]: Tuesday, April 7, 2020 at 8:30 AM
+  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
+  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
+  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
+  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
+  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
+  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
+  *[11 hrs]: Tuesday, April 7, 2020 at 8:48 AM
+  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
+  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
+  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
+  *[PDF]: Portable Document Format
+  *[GTSS]: Global Tobacco Surveillance System
+  *[CDC]: Centers for Disease Control and Prevention
+  *[GATS]: Global Tobacco Surveillance System
+  *[PDF-2.96 MB]]: Portable Document Format
+  *[PDF-2.25 MB]]: Portable Document Format
+  *[PDF-6.14 MB]]: Portable Document Format
+  *[PDF-2.65MB]]: Portable Document Format
+  *[NTCP]: National Tobacco Control Program
+  *[OSH]: Office on Smoking and Health
+  *[5 hrs]: Tuesday, April 7, 2020 at 2:56 PM
+  *[8 hrs]: Tuesday, April 7, 2020 at 11:16 AM
+  *[Yesterday at 2:45 PM]: Monday, April 6, 2020 at 2:45 PM
+  *[April 3 at 5:08 AM]: Friday, April 3, 2020 at 5:08 AM
+  *[April 1 at 8:09 AM]: Wednesday, April 1, 2020 at 8:09 AM
+  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
+  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
+  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
+  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
+  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
+  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
+

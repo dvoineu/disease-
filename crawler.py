@@ -5,7 +5,9 @@ from urllib.parse import urlparse
 import Query
 from collections import deque
 
-import pickle
+import time
+import threading
+
 
 
 
@@ -13,13 +15,15 @@ class Crawler:
 
     seed = ""
     visited = None
-    proxy_orbit_key = None
-    user_agent = ""
-    proxy_orbit_url = ""
+    # proxy_orbit_key = None
+    # user_agent = ""
+    # proxy_orbit_url = ""
     text_converter = None
     count = 0
     q = deque()
-    stop_link = {"language-assistance", "#"}
+    semaphore = threading.Semaphore(1)
+    threads = []
+
 
     def __init__(self, seed):
         self.seed = seed
@@ -75,7 +79,7 @@ class Crawler:
             curr_link = curr[0]
             curr_depth = curr[1]
 
-            if curr_depth >= 3:
+            if curr_depth >= 2:
                 continue
 
             links = self.extract_links(curr_link)
@@ -90,8 +94,7 @@ class Crawler:
                             """
                 text = self.text_converter.handle(self.extract_html(link))
 
-                if not meta or not text or len(text) < 100 or 'cdc.gov' not in link \
-                        or '#' in link or 'language-assistance' in link:
+                if not meta or not text or len(text) < 200 or 'cdc.gov' not in link:
                     continue
 
                 print(info)
@@ -100,6 +103,8 @@ class Crawler:
                 file_name = 'small_data/' + str(self.count) + '.txt'
                 output = open(file_name, 'w+')
 
+                output.write(link)
+                output.write(info)
                 output.write(text)
                 output.close()
 
@@ -114,14 +119,101 @@ class Crawler:
 
     def start(self):
         self.crawl()
+        # thread1 = crawl_thread(1, self.semaphore, self.q, self)
+        # thread2 = crawl_thread(2, self.semaphore, self.q, self)
+        # thread3 = crawl_thread(3, self.semaphore, self.q, self)
+        # thread4 = crawl_thread(4, self.semaphore, self.q, self)
+        #
+        # thread1.start()
+        # thread2.start()
+        # thread3.start()
+        # thread4.start()
+        #
+        # self.threads.append(thread1)
+        # self.threads.append(thread2)
+        # self.threads.append(thread3)
+        # self.threads.append(thread4)
+        #
+        # # for t in self.threads:
+        # #     t.start()
+        #
+        # for t in self.threads:
+        #     t.join()
+
+
+
+class crawl_thread(threading.Thread):
+
+    def __init__(self, threadID, semaphore, q, crawler):
+        self.threadID = threadID
+        self.semaphore = semaphore
+        self.q = q
+        self.crawler = crawler
+        threading.Thread.__init__(self)
+
+    def run(self):
+
+        if not self.q:
+            time.sleep(30)
+
+
+        while self.q:
+            self.semaphore.acquire()
+            curr = self.q.popleft()
+            self.semaphore.release()
+            curr_link = curr[0]
+            curr_depth = curr[1]
+
+            if curr_depth >= 2:
+                continue
+
+            links = self.crawler.extract_links(curr_link)
+            for link in links:
+                if link in self.crawler.visited:
+                    continue
+
+                meta = self.crawler.extract_metadata(link)
+                info = f"""Link: {link}    
+                Description: {meta.get('description')}    
+                Keywords: {meta.get('keywords')}    
+                            """
+                text = self.crawler.text_converter.handle(self.crawler.extract_html(link))
+
+                if not meta or not text or len(text) < 200 or 'cdc.gov' not in link:
+                    continue
+
+                print("threadID: " + str(self.threadID))
+                print(info)
+
+                self.semaphore.acquire()
+
+                file_name = 'small_data/' + str(self.crawler.count) + '.txt'
+                output = open(file_name, 'w+')
+
+                output.write(link)
+                output.write(info)
+                output.write(text)
+                output.close()
+
+                self.q.append((link, curr_depth + 1))
+                self.crawler.visited.add(link)
+
+                print(self.crawler.count)
+                self.crawler.index_to_html[self.crawler.count] = link
+                self.crawler.index_to_summary[self.crawler.count] = info
+                self.crawler.count += 1
+
+                self.semaphore.release()
+                # add code to save all info into local storage
+
 
 
 if __name__ == "__main__":
     # crawler = Crawler("https://www.cdc.gov/DiseasesConditions/")
     # crawler.start()
-    search_engine = Query.Query("./data", True)
+    search_engine = Query.Query("./small_data", True)
 
-    results = search_engine.query('cough fever')
+    results = search_engine.query('fever weakness pain fatigue bleeding')
     for result in results:
         print(result)
 

@@ -1,7 +1,10 @@
-
+https://www.cdc.gov/HAI/organisms/staph.htmlLink: https://www.cdc.gov/HAI/organisms/staph.html    
+                Description: None    
+                Keywords: healthcare-associated infection,  health care associated infections,  hospital acquired infections,  HAIs,  health care acquired infections,  infection prevention,  hygiene,  healthcare,  hospital related infection,  BSI,  UTI,  surgical site infection,  organisms, Healthcare Associated Infections [HAIs]    
+                            
 
 Skip directly to site content Skip directly to page options Skip directly to
-A-Z link Skip directly to A-Z link Skip directly to A-Z link
+A-Z link
 
 Centers for Disease Control and Prevention. CDC twenty four seven. Saving
 Lives, Protecting People Centers for Disease Control and Prevention. CDC
@@ -15,7 +18,7 @@ Submit __
 
 For a full list of topics: A-Z Index
 
-_Salmonella_
+Healthcare-associated Infections
 
 Section Navigation
 
@@ -27,622 +30,247 @@ CDC Home
                     * Email
                     * Syndicate
 
-# Key Resources
-
-Multistate Outbreak of _Salmonella_ Bareilly and _Salmonella_ Nchanga
-Infections Associated with a Raw Scraped Ground Tuna Product (Final Update)
+# _Staphylococcus aureus_ in Healthcare Settings
 
 Minus
 
 Related Pages
 
-Posted July 26, 2012 5:30 PM ET
+### General Information about _Staphylococcus aureus_  
 
-This outbreak appears to be over _._ However, _Salmonella_ is an important
-cause of human illness in the United States. More information about
-_Salmonella_ , and steps people can take to reduce their risk of infection,
-can be found on the CDC _Salmonella_ Web Page and the CDC Vital Signs Web
-Page.
+![Staphylococcus aureus](/hai/images/staph.jpg)
 
-FDA: Investigation of Multistate Outbreak of _Salmonella_ Bareilly
-InfectionsExternal
+Staphylococcus aureus
 
-FDA: FORM 483: Moon Fishery (India) Pvt. LtdExternal
+_Staphylococcus aureus_ [staf I lō-kok is aw ree us] (staph), is a type of
+germ that about 30% of people carry in their noses. Most of the time, staph
+does not cause any harm; however, sometimes staph causes infections. In
+healthcare settings, these staph infections can be serious or fatal,
+including:
 
-What is Salmonellosis? (General Information)
+                    * Bacteremia or sepsis when bacteria spread to the bloodstream.
+                    * Pneumonia, which most often affects people with underlying lung disease including those on mechanical ventilators.
+                    * Endocarditis (infection of the heart valves), which can lead to heart failure or stroke.
+                    * Osteomyelitis (bone infection), which can be caused by staph bacteria traveling in the bloodstream or put there by direct contact such as following trauma (puncture wound of foot or intravenous (IV) drug abuse).
 
-Multistate Foodborne Outbreaks
+Staph infections are caused by several different types of staph germs,
+including:
 
-Description of the Steps In a Foodborne Outbreak Investigation
+                    * methicillin-resistant _Staphylococcus aureus_ (MRSA)
+                    * methicillin-susceptible _Staphylococcus aureus_ (MSSA)
+                    * vancomycin-intermediate _Staphylococcus aureus_ (VISA)
+                    * vancomycin-resistant _Staphylococcus aureus_ (VRSA)
 
-CDC's Role During a Multi-State Foodborne Outbreak Investigation
+Although MRSA is often better known, any staph infection can be dangerous even
+if it is not resistant to antibiotics.
 
-800-CDC-INFO (800-232-4636)
+### Populations at risk for _Staphylococcus aureus_ infection
 
-TTY: (888) 232-6348
+Anyone can develop a staph infection, although certain groups of people are at
+greater risk, including people with chronic conditions such as diabetes,
+cancer, vascular disease, eczema, lung disease, and people who inject drugs.
+In healthcare facilities, the risk of more serious staph infection is higher
+because many patients have weakened immune systems or have undergone
+procedures. In healthcare, the risk of more serious staph infection is higher
+for patients in intensive care units (ICUs), patients who have undergone
+certain types of surgeries and patients with medical devices inserted in their
+bodies.
 
-FoodSafety.govExternal
+![What puts people at risk for serious staph infections? In Communities:
+Uncovered or draining wounds, especially in high-contact sports or crowded
+living. Sharing personal items such as towels or razors. Recent stays in a
+healthcare facility. Injection drug use, like opioids. In Hospitals: Hospital
+stays or surgery \(during and shortly after\). Exposure to patients carrying
+or infected with staph. Medical devices in the body, like intravenous lines
+\(IVs\). On Other Healthcare Facilities: Outpatient surgery and procedures,
+like dialysis. Nursing home stays. Medical devices in the body, like
+IVs.](/hai/images/outbreaks/infographic-staph-infections-large.jpg)
 
-Read the full Outbreak Investigation
+Top of Page
 
-Page last reviewed: July 26, 2012
+Page last reviewed: January 17, 2011
 
 Content source: Centers for Disease Control and Prevention, National Center
-for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of Foodborne,
-Waterborne, and Environmental Diseases (DFWED)
+for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of Healthcare
+Quality Promotion (DHQP)
 
-home _Salmonella_ Homepage
+home Healthcare-associated Infections (HAI)
 
-                    * Questions & Answersplus icon
-                      * Additional Information
-                    * Prevention
-                    * Symptoms
-                    * Diagnosis & Treatmentplus icon
-                      * Diagnostic and Public Health Testing
-                    * Current Outbreaksplus icon
-                      * Reporting Timeline
-                      * _Salmonella_ Infections Linked to Small Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tortugas mascota pequeÃ±as
-                      * _Salmonella_ Infections Linked to Cut Fruitplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Ground Beefplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a la carne de res molida
-                      * _Salmonella_ Infections Linked to Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a turtugas mascota
-                      * _Salmonella_ Infections Linked to Pig Ear Dog Treatsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Papayasplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a papayas frescas enteras importadas de MÃ©xico
-                      * _Salmonella_ Infections Linked to Karawan brand Tahiniplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tahini de la marca Karawan
-                      * _Salmonella_ Infections Linked to Backyard Poultryplus icon
-                        * Map of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brotes de infecciones por _Salmonella_ vinculados a aves de corral domÃ©sticas
-                      * _Salmonella_ Infections Linked to Frozen Raw Tunaplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Newport vinculado a atÃºn crudo congelado
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                      * _Salmonella_ Infections Linked to Pre-Cut Melonplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Carrau vinculado a melÃ³n y sandÃ­a precortados
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                      * _Salmonella_ Infections Linked to Butterball Brand Ground Turkeyplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado al pavo molido de marca Butterball
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones de la investigaciÃ³n del brote, por fecha
-                      * _Salmonella_ Infections Linked to Pet Hedgehogsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a los erizos como mascota
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                    * Previous Outbreaksplus icon
-                      * 2018 Outbreaksplus icon
-                        * Multidrug-Resistant _Salmonella_ Infections Linked to Raw Turkey Productsplus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pavo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Tahini from Achdut Ltd., 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a tahini elaborado por Achdut Ltd.
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Raw Chicken Products, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Advice to Clinicians
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pollo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Recomendaciones para los mÃ©dicos
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Ground Beef, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a carne molida de res
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Agbeni Infections, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Gravel Ridge Farms Shell Eggs, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Chicken, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Hy-Vee Spring Pasta Salad, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella vinculado a la ensalada de pasta âHy-Vee Spring Pasta Saladâ
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Kelloggâs Honey Smacks Cereal, 2018plus icon
-                          * Salmonella Infections Linked to Kelloggâs Honey Smacks Cereal en EspaÃ±ol
-                          * Recall and Advice to Consumers, Restaurants and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pre-Cut Melon, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pre-Cut Melon en EspaÃ±ol
-                          * Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks, 2018plus icon
-                          * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Braenderup Infections Linked to Shell Eggs, 2018plus icon
-                          * _Salmonella_ Braenderup Infections Linked to Shell Eggs en EspaÃ±ol
-                          * Recalls and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Dried Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Dried Coconut en EspaÃ±ol
-                          * Recall and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Guinea Pigs, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pet Guinea Pigs en EspaÃ±ol
-                          * Case Count Maps
-                          * Case Count Maps en EspaÃ±ol
-                          * Signs & Symptoms
-                          * Signs & Symptoms en EspaÃ±ol
-                        * _Salmonella_ Infections Linked to Chicken Salad, 2018plus icon
-                          * _Salmonella_ Infections Linked to Chicken Salad en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Kratom, 2018plus icon
-                          * _Salmonella_ Infections Linked to Kratom en EspaÃ±ol
-                          * Recalls and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo Infections Linked to Raw Sprouts, 2018plus icon
-                          * _Salmonella_ Infections Linked to Raw Sprouts en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Shredded Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut en EspaÃ±ol
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut á» Viá»t Nam [PDF â 3 pages]
-                          * Recall and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2017 Outbreaksplus icon
-                        * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Turtles, 2017plus icon
-                          * _Salmonella_ Infections Linked to Small Turtles, 2017 en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Laboratory Exposure, 2017plus icon
-                          * Advice to Students & Employees in Microbiology Laboratories
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry in Backyard Flocksplus icon
-                          * Case Count Maps
-                          * Live Poultry FAQ
-                      * 2016 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Contact with Dairy Calves, 2016plus icon
-                          * Case Count Maps
-                          * Epi Curves
-                        * _Salmonella_ Oranienburg Infections Linked to Shell Eggs, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Reading and _Salmonella_ Abony Infections linked to Alfalfa Sprouts, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps 
-                          * Epi Curves 
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2016plus icon
-                          * Advice to Consumers and Retailers
-                          * Live Poultry FAQs
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo and _Salmonella_ Senftenberg Infections Linked to Wonderful Pistachios, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Alfalfa Sprouts from One Contaminated Seed Lot, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Virchow Infections Linked to Raw Meal Organic Shake and Meal Products, 2016plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2015 Outbreaksplus icon
-                        * _Salmonella_ Paratyphi B variant L(+) tartrate(+) Infections Linked to Sprouted Nut Butter Spreads, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2015plus icon
-                          * Human _Salmonella_ Infections Linked to Small Turtles en EspaÃ±ol
-                          * Advice to Pet Owners
-                          * Advice to Pet Owners en EspaÃ±ol
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * _Salmonella_ Poona Infections Linked to Imported Cucumbers, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Multidrug-Resistant _Salmonella_ I 4,[5],12:i:- and _Salmonella_ Infantis Infections Linked to Pork, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Aspen Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Drug-Resistant _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Barber Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2015plus icon
-                          * Advice to Backyard Flock Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Raw Tuna, 2015plus icon
-                          * Advice to Retailers & Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Crested Geckos, 2015plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2014 Outbreaksplus icon
-                        * Enteritidis Infections Linked to Bean Sprouts, 2014plus icon
-                          * Advice to Consumers & Retailers
-                          * Final Case Count Maps
-                          * Final Epi Curve
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Linked to Nut Butter, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human Typhimurium Infections Linked to Laboratory Exposure, 2014plus icon
-                          * Advice to Students & Employees in Labs
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Chia Powder, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Frozen Feeder Rodents, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Bearded Dragons, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Heidelberg Infections Linked to Tyson Brand Mechanically Separated Chicken, 2014plus icon
-                          * Recall & Advice to Institutions
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Stanley Infections Linked to Raw Cashew Cheese, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2013 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Foster Farms Brand Chicken, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * _Salmonella_ Mbandaka Infections Linked to Tahini Sesame Paste, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Live Poultry in Backyard Flocks, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Saintpaul Infections Linked to Imported Cucumbers, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Heidelberg Infections Linked to Chicken, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Typhimurium Infections Linked to Ground Beef, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2012 Outbreaksplus icon
-                        * Bredeney Infections Linked to Peanut Butter, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Hedgehogs, 2012plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Associated with Mangoes, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Typhimurium and Newport Infections Linked to Cantaloupe, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Enteritidis Infections Linked to Ground Beef, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Hadar Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Montevideo Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infantis Infections Linked to Dry Dog Food, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Information for Pet Owners
-                          * Information for Veterinarians
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Bareilly and Nchanga Infections Associated with a Raw Scraped Ground Tuna Product, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Outbreaks Diagram
-                          * Signs & Symptoms
-                          * Key Resource
-                        * Enteritidis Infections Linked to Restaurant Chain A, 2012
-                      * 2010 through 2011 Outbreaksplus icon
-                        * Typhimurium Infections Linked to Ground Beef
-                        * Heidelberg Infections Linked to Kosher Broiled Chicken Livers
-                        * Enteritidis Infections Linked to Turkish Pine Nuts
-                        * Heidelberg Infections Linked to Ground Turkey
-                        * Agona Infections Linked to Whole, Fresh Imported Papayas
-                        * Enteritidis Infections Linked to Alfalfa Sprouts and Spicy Sprouts
-                        * Altona and Johannesburg Infections Linked to Chicks and Ducklings
-                        * Typhimurium Infections Associated with Lab Exposure
-                        * Typhimurium Infections Linked to African Dwarf Frogs
-                        * Hadar Infections Associated with Turkey Burgers
-                        * Panama Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Alfalfa Sprouts
-                        * Enteritidis Infections Associated with Shell Eggs
-                        * Chester Infections Associated with Cheesy Chicken & Rice Frozen EntrÃ©e
-                        * Typhi (Typhoid Fever) Associated with Frozen Mamey Fruit Pulp
-                        * Hartford and Baildon Infections Associated with Restaurant Chain A
-                        * I 4,[5],12:i:- Linked to Frozen Rodents
-                        * Newport Infections Linked to Alfalfa Sprouts
-                        * Montevideo Infections Linked to Red and Black Pepper/Italian-Style Meats
-                      * 2006 through 2009 Outbreaksplus icon
-                        * Saintpaul Infections Linked to Alfalfa Sprouts
-                        * _Salmonella_ Infections Linked to Pistachio Nuts
-                        * Typhimurium Infections Linked to Peanut Butter
-                        * Saintpaul Infections Linked to Raw Produce
-                        * Agona Infections Linked to Rice & Wheat Puff Cereal
-                        * Litchfield Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Pot Pies
-                        * Human Schwarzengrund Infections Linked to Dry Pet Food
-                        * Wandsworth Infections Linked to Veggie Booty
-                        * Tennessee Infections Linked to Peanut Butter
-                        * Typhimurium Infections Linked to Tomatoes
-                    * For Health Professionals
-                    * Surveillanceplus icon
-                      * _Salmonella_ Atlasplus icon
-                        * 32 Individual Serotypes Reports
-                        * Importance of Serotyping
-                        * Snapshots of Serotypes
-                    * Communication Materials
-                    * Reports & Publicationsplus icon
-                      * MMWR Articles
-                      * References
+                    * HAI Dataplus icon
+                      * Data Portalplus icon
+                        * Current HAI Progress Report
+                        * Progress Report FAQs
+                        * Antibiotic Resistance & Patient Safety Portal
+                        * Patient Safety Atlas
+                      * Data Archiveplus icon
+                        * 2017 HAI Progress Report
+                        * 2016 HAI Progress Report
+                        * Data Summary: Assessing Progress 2006-2016
+                        * 2015 HAI Data Report
+                        * 2015 SIRs Using Historical Baselines
+                        * 2014 HAI Progress Report
+                        * Technical Appendix for _Stop Spread of Antibiotic Resistance_
+                    * Types of Infectionsplus icon
+                      * Central Line-associated Bloodstream Infectionsplus icon
+                        * Resources for Patients & Providers
+                        * FAQs about Catheters
+                      * Surgical Site Infectionplus icon
+                        * FAQs about SSIs
+                      * Catheter-associated Urinary Tract Infectionplus icon
+                        * FAQs about CAUTI
+                      * Ventilator-associated Pneumoniaplus icon
+                        * FAQs about VAP
+                    * Diseases and Organismsplus icon
+                      * _Acinetobacter_
+                      * _Burkholderia cepacia_
+                      * _Clostridioides difficile_
+                      * _Clostridium Sordellii_
+                      * Carbapenem-resistant Enterobacteriaceae (CRE)plus icon
+                        * Patients
+                        * Clinicians
+                        * Healthcare Facilities
+                        * Public Health Departments
+                        * CRE Technical Information
+                        * Tracking CRE in the United States
+                      * ESBL-producing Enterobacteriaceae
+                      * Gram-negative Bacteria
+                      * Hepatitis
+                      * HIVplus icon
+                        * Occupationally Acquired HIV/AIDS in Healthcare Personnel
+                      * _Klebsiella_
+                      * MRSA
+                      * Nontuberculous Mycobacteria (NTM)plus icon
+                        * Clinicians
+                        * Healthcare Facilities
+                        * Health Departments
+                        * _Mycobacterium abscessus_
+                      * Norovirus
+                      * _Pseudomonas aeruginosa_ plus icon
+                        * Tracking Carbapenem-Resistant _Pseudomonas aeruginosa_
+                      * _Staphylococcus aureus_
+                      * Tuberculosis
+                      * VISA / VRSA
+                      * Vancomycin-resistant Enterococci (VRE) in Healthcare Settings
+                    * Preventing HAIsplus icon
+                      * Staph BSI Prevention Strategies
+                      * CDI Prevention Strategies
+                      * Urine Culture Stewardshipplus icon
+                        * Patients with Indwelling Urinary Catheterplus icon
+                          * Survey
+                          * Structure
+                          * Strategize
+                          * Sustain
+                        * Patients without Indwelling Urinary Catheter 
+                      * Targeted Assessment for Prevention (TAP)plus icon
+                        * TAP CAUTI Implementation Guide
+                        * TAP CDI Implementation Guide
+                        * TAP CLABSI Implementation Guide
+                        * Infection Prevention Champions
+                      * Prevention Toolkitsplus icon
+                        * Options for Evaluating Environmental Cleaning
+                        * Appendices to the Conceptual Program Model for Environmental Evaluation
+                      * Basic Infection Control and Prevention Plan for Outpatient Oncology Settingsplus icon
+                        * Appendices
+                      * Outpatient Care Guide
+                      * Tools for Protecting Healthcare Personnelplus icon
+                        * PPE Training
+                      * Infection Control Assessment Tools
+                      * Healthcare Environmental Infection Preventionplus icon
+                        * Reduce Risk from Water
+                        * Environmental Cleaning in Resource-Limited Settings
+                    * Containment Strategyplus icon
+                      * What Can Be Done
+                      * Guidelines
+                      * Case Studies
+                      * PPE in Nursing Homesplus icon
+                        * Frequently Asked Questions (FAQs)
+                    * State-based HAI Prevention Activitiesplus icon
+                      * Success Stories
+                      * State HAI Plans
+                      * States with HAI Reporting Mandates
+                      * HAI/AR Accreditation Crosswalkplus icon
+                        * Acronyms
+                        * Domain 1: Assess
+                        * Domain 2: Investigate
+                        * Domain 3: Inform and Educate
+                        * Domain 4: Community Engagement
+                        * Domain 5: Policies and Plans
+                        * Domain 6: Public Health Laws
+                        * Domain 7: Access to Care
+                        * Domain 8: Workforce
+                        * Domain 9: Quality Improvement
+                        * Domain 10: Evidence-based Practices
+                        * Domain 11: Administration and Management
+                        * Domain 12: Governance
+                      * CDC Resources for Statesplus icon
+                        * Data Use Agreement (DUA) Announcement
+                        * DUA FAQs for Health Departments and Facilities
+                        * ELC HAI/AR Program Funded Activities
+                        * Grantee Meeting Presentations
+                        * State Policy Resources
+                    * Researchplus icon
+                      * CDC Supported Projects
+                      * Prevention Epicenters (PE)
+                      * Healthcare Safety Research (SHEPheRD)
+                      * Environmental Hygiene in Healthcare
+                      * Modeling Infectious Diseases in Healthcare Network (MInD â Healthcare)
+                    * Patient Safetyplus icon
+                      * Antibiotic Resistant Germs in Hospitals
+                    * Outpatient Settings
+                    * Laboratory Resourcesplus icon
+                      * Reference AST Data
+                      * Multiplex Real-Time PCR Detection of KPC & NDM-1 genes
+                      * Quinolones and the Clinical Lab
+                      * VRE and the Clinical Laboratory
+                      * Detection of Imipenem or Meropenem-resistance in Gram-negative Organisms
+                      * Detection of: Oxacillin/MRSA
+                      * Detection of VISA/VRSAplus icon
+                        * S.E.A.R.C.H.
+                      * Labs Role in the Search and Containment of VRSA
+                      * Detection of Coagulase-negative _Staphylococcus_ species with Decreased Susceptibility
+                      * VISA/VRSA Lab Testing Algorithm
+                      * Use of an Inferred PFGE Algorithm
+                      * Inferred Identification of Pulsed Field Types based on MLST clonal complex
+                    * Outbreak and Patient Notificationsplus icon
+                      * _B. cepacia_ â Saline Flush
+                      * Contaminated Heater-Cooler Devices
+                      * _B. cepacia_ â Docusate
+                      * CDC Statement LA CRE
+                      * Stem Cell and Exosome Products
+                      * _Pseudomonas aeruginosa_
+                      * Multistate Meningitis Outbreakplus icon
+                        * Meningitis Case Counts
+                        * Meningitis State Facilities Map
+                        * Resources for Clinicians
+                        * Resources for Patients
+                        * Resources for Laboratories
+                        * Infographic
+                        * Microscopic Gallery of Pathologic Results
+                      * Outbreaks in Outpatient Settingsplus icon
+                        * 2007-2009 (Archived)
+                      * Outbreak Resources for State Health Departmentsplus icon
+                        * Evaluating an Infection Control Breach
+                        * Outbreak Toolkit
+                    * CDC HAI Commentaries
+                    * Digital Press Kitsplus icon
+                      * Get Smart About Antibiotics Week 2015
+                      * Nearly half a million Americans suffer from _C. difficile_ infections in single year
+                      * MRSA study: simple steps slash deadly infections in sickest hospital patients
+                      * CDC Modeling Predicts Growth of Drug-resistant Infections and _C. difficile_
+                      * Lethal, Drug-resistant Bacteria Spreading in U.S. Healthcare Facilities
+                      * Hospital Infections: Some Progress, but More Work Needed
+                      * Flow Restrictors May Help Prevent Medication Poisonings in Young Children
+                      * The Impact of Unsafe Injection Practices in U.S. Healthcare Settings
 
-Related Links
+Get Email Updates
 
-                    * Multistate Foodborne Outbreaks
-                    * Zoonotic Diseases (Diseases from Animals)
-                    * Foodborne Illness A-Z
-                    * Estimates of Foodborne Illness
-                    * Report a Foodborne Illness
-                    * Foodsafety.govExternal file_external 
-                    * U.S. Food and Drug Administration (FDA)External file_external 
-                    * USDA Food Safety and Inspection ServiceExternal file_external 
+To receive email updates about this page, enter your email address:
 
-Follow Salmonella
+Email Address
 
-![Sign up for RSS feed.](/salmonella/images/outbreaks/rss-icon.png)
+What's this?
 
-Sign up for RSS Feed
+Submit
 
 **HAVE QUESTIONS?**
 
@@ -695,8 +323,6 @@ CDC Website Exit Disclaimer external icon
 
 ![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
 
-file_external
-
 #### Exit Notification/Disclaimer Policy
 
 Close
@@ -713,5 +339,5 @@ Disclaimers.
 Cancel Continue
 
   *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[4 hrs]: Tuesday, April 7, 2020 at 2:56 PM
 

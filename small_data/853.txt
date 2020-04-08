@@ -1,0 +1,122 @@
+https://www2c.cdc.gov/podcasts/rss.aspLink: https://www2c.cdc.gov/podcasts/rss.asp    
+                Description: CDC - Public Health Media Library    
+                Keywords: CDC - Public Health Media Library    
+                            
+
+Skip directly to search Skip directly to A to Z list Skip directly to
+navigation Skip directly to page options Skip directly to site content
+
+Sign in
+
+My Account {{main.$rootScope.syndList.listName}}
+
+                                                                                                                                                                                                                  * {{list.listName}} 
+{{main.$rootScope.syndList.listName}} Logout
+
+New User
+
+![Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People](/TemplatePackage/3.0/images/masthead_subpage.svg)
+![Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People](/TemplatePackage/3.0/images/masthead_1-col.svg)
+
+A-Z Topic Index
+
+                                                                                                                                                                                                                  * MENU
+                                                                                                                                                                                                                  * CDC A-Z
+                                                                                                                                                                                                                  * SEARCH
+
+# Public Health Media Library
+
+Note: Javascript is disabled or is not supported by your browser. For this
+reason, some items on this page will be unavailable. For more information
+about this message, please visit this page: About CDC.gov.
+
+Recommend on Facebook Tweet
+![Share](/TemplatePackage/3.0/images/social/addthis-32.png)ShareCompartir
+
+×
+
+### Contact Us
+
+                                                                                                                                                                                                                  * For non-technical or general public health questions, contact CDC-INFO by phone 800-CDC-INFO (800-232-4636) or email.
+                                                                                                                                                                                                                  * If you need technical help: Report a Problem
+
+##### File Formats Help:
+
+How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+
+                                                                                                                                                                                                                  * Adobe PDF file
+                                                                                                                                                                                                                  * Microsoft PowerPoint file
+                                                                                                                                                                                                                  * Microsoft Word file
+                                                                                                                                                                                                                  * Microsoft Excel file
+                                                                                                                                                                                                                  * Audio/Video file
+                                                                                                                                                                                                                  * Apple Quicktime file
+                                                                                                                                                                                                                  * RealPlayer file
+                                                                                                                                                                                                                  * Text file
+                                                                                                                                                                                                                  * Zip Archive file
+                                                                                                                                                                                                                  * SAS file
+                                                                                                                                                                                                                  * ePub file
+                                                                                                                                                                                                                  * RIS file
+
+                                                                                                                                                                                                                  * Page last reviewed:{{main.CURRENT_DATE}}
+                                                                                                                                                                                                                  * Page last updated:{{main.CURRENT_DATE}}
+                                                                                                                                                                                                                  * Content source: 
+                                                                                                                                                                                                                    * Centers for Disease Control and Prevention, 
+                                                                                                                                                                                                                    * Office of the Associate Director for Communications, Division of Public Affairs
+
+###### Follow CDC
+
+                                                                                                                                                                                                                  * Email
+                                                                                                                                                                                                                  * Recommend
+                                                                                                                                                                                                                  * Tweet
+                                                                                                                                                                                                                  * Post
+                                                                                                                                                                                                                  * RSS
+
+###### CDC Media
+
+                                                                                                                                                                                                                  * Listen
+                                                                                                                                                                                                                  * Watch
+                                                                                                                                                                                                                  * YouTube
+
+![Department of Health and Human
+Services](/TemplatePackage/3.0/images/hhs.png)
+
+                                                                                                                                                                                                                  * ###### About CDC
+
+                                                                                                                                                                                                                    * Employment
+                                                                                                                                                                                                                    * Newsroom
+                                                                                                                                                                                                                    * Training/Education
+                                                                                                                                                                                                                    * Funding
+                                                                                                                                                                                                                    * CDC's Organization
+                                                                                                                                                                                                                    * Mission and Vision
+                                                                                                                                                                                                                    * Using this Site
+                                                                                                                                                                                                                  * ###### Legal
+
+                                                                                                                                                                                                                    * Link to Us
+                                                                                                                                                                                                                    * Policies
+                                                                                                                                                                                                                    * FOIA
+                                                                                                                                                                                                                    * Accessibility
+                                                                                                                                                                                                                    * Privacy
+                                                                                                                                                                                                                    * No FEAR Act
+                                                                                                                                                                                                                    * Inspector General
+                                                                                                                                                                                                                    * USA.gov
+                                                                                                                                                                                                                  *                                                                                                                                                                                                                   * ###### Contact CDC
+
+Centers for Disease Control and Prevention
+
+1600 Clifton Road Atlanta, GA 30329-4027 USA
+
+800-CDC-INFO (800-232-4636)
+
+Contact CDC-INFO
+
+TOP
+
+![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+
+Version {{main.VERSION}}
+
+  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
+  *[4 hrs]: Tuesday, April 7, 2020 at 2:56 PM
+

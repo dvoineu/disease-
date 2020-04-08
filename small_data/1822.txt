@@ -1,0 +1,493 @@
+https://www.cdc.gov/tb/topic/laboratory/rapidmoleculartesting/appendix1.htmLink: https://www.cdc.gov/tb/topic/laboratory/rapidmoleculartesting/appendix1.htm    
+                Description: None    
+                Keywords: tb, tuberculosis, cdc, for medical authorities, for health professionals, tb education, tb control, tb genotyping, tb drug susceptibility testing , tb drug resistance, drug-resistant TB, rapid molecular testing, tb laboratory, tb drug resistance test, molecular drug-resistance testing    
+                            
+
+Skip directly to site content Skip directly to page options Skip directly to
+A-Z link Skip directly to A-Z link Skip directly to A-Z link
+
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People Centers for Disease Control and Prevention. CDC
+twenty four seven. Saving Lives, Protecting People
+
+Search ____
+
+Ã
+
+Submit __
+
+For a full list of topics: A-Z Index
+
+Tuberculosis (TB)
+
+Section Navigation
+
+CDC Home
+
+                                                                                                                                                                                                                                                        * Facebook
+                                                                                                                                                                                                                                                        * Twitter
+                                                                                                                                                                                                                                                        * LinkedIn
+                                                                                                                                                                                                                                                        * Email
+                                                                                                                                                                                                                                                        * Syndicate
+
+# Report of Expert Consultations on Rapid Molecular Testing to Detect Drug-
+Resistant Tuberculosis in the United States
+
+Minus
+
+Related Pages
+
+### Appendix 1: Molecular Basis of Drug Resistance and Molecular DR tests
+
+Drug resistance in _Mycobacterium tuberculosis_ bacteria arises mainly through
+the acquisition of mutations in the chromosomal sequence that encode changes
+that 1) block the activity of a drug (mutations in _rpoB_ prevent binding of
+rifampin to RNA polymerase and inhibition of transcription), 2) block
+activation of a prodrug (e.g., mutations in _katG_ lead to loss of the ability
+of catalase to activate the prodrug isoniazid to its active form), or 3)
+produce an activity that binds or destroys the drug (e.g., mutations in _inhA_
+increase the amount of InhA protein which interferes with the activity of
+isoniazid by binding sufficient isoniazid to reduce its effective
+concentration in the bacterium to below an inhibitory level) (1,2). The
+mutations associated with resistance to many of the antituberculosis drugs
+have been identified, though much work remains to be done to identify the
+molecular basis of resistance for some of the drugs and to determine the
+predictive value of finding a particular mutation in a strain of _M.
+tuberculosis_ (1,2). For example, approximately 95% of rifampin-resistant _M.
+tuberculosis_ strains carry mutations within the rifampin-resistance
+determining region (RRDR), an 81-bp region encoding codons 507 through 533 of
+the _rpoB_ gene.
+
+Molecular genetic tests for detecting drug-resistance are, in general, just a
+variation of nucleic acid amplification (NAA) tests and can reliably provide
+information on the presence of mutations associated with drug resistance in 1
+to 2 days. Typically, PCR is used to amplify a target sequence followed by a
+second assay to determine if the sequence contains a mutation associated with
+resistance. Methods that have been described for the latter include DNA
+sequencing, pyrosequencing, electrophoretic detection methods (e.g., single
+strand conformation polymorphism), methods for detecting mismatches in
+heteroduplexes (e.g., temperature gradient HPLC analysis or branch migration
+inhibition), and hybridization assays (e.g., molecular beacons, microarrays,
+membrane hybridization, or line-probe assays). Kits for detecting mutations
+associated with rifampin resistance that are commercially available in Europe
+and elsewhere include line-probe assays (INNO-LiPA® Rif.TB, Innogenetics and
+GenoType® MTBDR( _plus_ ), Hain LifeScience GmbH) and microarray assays
+(CombiChip Mycobacteria DR, GENE IN). Some also detect mutations associated
+with isoniazid resistance. In-house PCR-based tests using molecular beacons
+have also been used for diagnostic purposes in a few clinical laboratories.
+
+For the hybridization assays, the region of the target gene associated with
+resistance is PCR amplified, and the labeled PCR products hybridized to
+oligonucleotide probes immobilized on a nitrocellulose strip or in a
+microarray. Mutations are detected by lack of binding to wild-type probes
+and/or by binding to probes specific for commonly occurring mutations. The
+performance of the line-probe assays relative to culture-based DS tests was
+evaluated in meta-analyses (3-5). For the INNO-LiPA Rif.TB assay, the pooled
+sensitivity was 0.97 (95%CI 0.95-0.98) and the pooled specificity was 0.99
+(95%CI 0.98-1.00) for detecting rifampin resistance in _M. tuberculosis_
+isolates. Overall discriminatory ability of the assay was 99% and overall
+accuracy was 97%, with all studies yielding consistently high performances. In
+four studies, the INNO-LiPA Rif.TB showed 100% specificity and sensitivity
+ranging from 80% to 100% for detecting rifampin resistance directly from
+clinical specimens. For the MTBDR and MTBDR( _plus_ ) assays, the pooled
+sensitivity was 0.98 (95%CI 0.96-0.99) and the pooled specificity was 0.99
+(95% CI 0.97-0.99) for detecting rifampin resistance in isolates or directly
+from clinical specimens. Overall discriminatory ability of the assay was 99%
+and overall accuracy 97%, with all studies yielding consistently high
+performances.
+
+Molecular beacons are hybridization probes which emit fluorescence only when
+hybridized to their target. Molecular beacons can discriminate between targets
+differing by a single nucleotide. Because molecular beacons can use different
+fluorophores, real-time PCR assays can be designed in which different DNA
+fragments or mutations can be amplified and detected simultaneously in the
+same tube. For example, a single-well assay has been developed that uses five
+molecular beacons to detect mutations associated with rifampin resistance in
+_M. tuberculosis_ bacteria and appears to perform similarly as the line-probe
+assays. In the California Microbial Diseases Laboratory, molecular beacons
+were designed to detect mutations in _rpoB, katG_ , and _inhA_ promoter region
+genes and directly applied to clinical specimens or to cultures. Comparison of
+molecular beacons results with results of culture-based drug-susceptibility
+testing showed 96% to 97% agreement in a series of approximately 1,000
+clinical specimens and cultures (6, E. Desmond, personal communication).
+
+Validation studies were conducted at the Wadsworth Center of an approach that
+combines PCR-amplification of the RRDR with rapid (< 2hrs) DNA sequencing (K.
+Musser, personal communication). A PyrosequencingTM protocol utilizing two
+primers was developed to sequence the 81-bp RRDR of the _rpoB_ gene and obtain
+a clear and accurate pyrogram. The detection limit was determined and the
+pyrosequencing approach was evaluated in primary specimens positive for _M.
+tuberculosis_ complex DNA by real-time PCR. Final results were compared with
+conventional susceptibility testing results and/or DNA sequencing. This test
+has a detection limit of <1 colony forming unit, 100% specificity, and 99%
+agreement in the 188 cultures and specimens tested. (7)
+
+Molecular genetic tests for the other antituberculosis drugs are much less
+developed and studied than the tests for rifampin resistance. A meta-analysis
+of the performance of the Hain MTBDR _(plus)_ assay for detecting isoniazid
+revealed a pooled sensitivity of 0.85 (95%CI 0.77- 0.90) which ranged from
+57%-100% and a pooled specificity of 0.99 (95%CI 0.98-1.00) which was fairly
+consistent across studies. Validation studies conducted in the California
+Microbial Diseases Laboratory that used archived cultures revealed that the
+molecular beacon test displayed 82.7% sensitivity, 100% specificity, 100%
+positive predictive value, and 98.1% negative predictive value for detecting
+isoniazid resistance (6). Tests for the other key resistances, especially the
+XDR TB defining resistances, are in various stages of development from
+discovery of the mutations associated with resistance to development of
+prototype assays and laboratory-based evaluations.
+
+### References
+
+                                                                                                                                                                                                                                                        1. Zhang Y and Telenti A. (2000) Genetics of drug resistance in _Mycobacterium tuberculosis_. In Hatfull GF and Jacobs WR Jr (Eds.). Molecular genetics of Mycobacteria (ASM Press, Washington, D.C) pp. 235-54.
+                                                                                                                                                                                                                                                        2. Johnson R, Streicher EM, Louw GE, Warren RM, van Helden PD, Victor TC. Drug resistance in _Mycobacterium tuberculosis_. Curr Issues Mol Biol. 2006 Jul;8(2):97-111.
+                                                                                                                                                                                                                                                        3. Morgan M, Kalantri S, Flores L, Pai M. A commercial line probe assay for the rapid detection of rifampicin resistance in _Mycobacterium tuberculosis_ : a systematic review and meta-analysis. BMC Infect Dis. 2005; 5:62.
+                                                                                                                                                                                                                                                        4. Ling DI, Zwerling AA, Pai M. GenoType MTBDR assays for the diagnosis of multidrug-resistant tuberculosis: a meta-analysis. Eur Respir J. 2008;32:1165 _-_ 74.
+                                                                                                                                                                                                                                                        5. WHO Expert Group Report. Molecular line probe assays for rapid screening of patients at risk of multi-drug resistant tuberculosis (MDR-TB). Geneva: World Health Organization; 2008. http://www.who.int/tb/features_archive/expert_group_report_june08.pdfCdc-pdfExternal.
+                                                                                                                                                                                                                                                        6. Lin S-YG, Lin S-Y, Probert W, Lo M , Desmond E. Rapid detection of isoniazid and rifampin resistance mutations in _Mycobacterium tuberculosis_ complex from cultures or smear-positive sputa by use of molecular beacons. J Clin Microbiol 2004 42: 4204-08.
+                                                                                                                                                                                                                                                        7. Halse TA, Edwards J, Driscoll JR, Escuyer VE, and Musser KA. A pyrosequencing approach to rapidly assess mutations in the _rpoB_ gene associated with rifampin resistance in clinical specimens of _Mycobacterium tuberculosis_. 48th Annual ICAAC/IDSA Annual Meeting. Washington, DC. 2008.
+
+Page last reviewed: September 1, 2012
+
+Content source: Division of Tuberculosis Elimination
+
+home Tuberculosis
+
+                                                                                                                                                                                                                                                        * Basic TB Factsplus icon
+                                                                                                                                                                                                                                                          * How TB Spreads
+                                                                                                                                                                                                                                                          * Latent TB Infection and TB Disease
+                                                                                                                                                                                                                                                          * Signs & Symptoms
+                                                                                                                                                                                                                                                          * TB Risk Factors
+                                                                                                                                                                                                                                                          * Exposure to TB
+                                                                                                                                                                                                                                                          * TB Prevention
+                                                                                                                                                                                                                                                          * Vaccines
+                                                                                                                                                                                                                                                          * TB & HIV Coinfection
+                                                                                                                                                                                                                                                          * TB and Diabetes
+                                                                                                                                                                                                                                                          * TB Terms
+                                                                                                                                                                                                                                                        * Personal Storiesplus icon
+                                                                                                                                                                                                                                                          * Kristi
+                                                                                                                                                                                                                                                          * Laura
+                                                                                                                                                                                                                                                          * Kelcie
+                                                                                                                                                                                                                                                          * Tenzin
+                                                                                                                                                                                                                                                          * Mildred
+                                                                                                                                                                                                                                                          * Shaka
+                                                                                                                                                                                                                                                          * Kelly
+                                                                                                                                                                                                                                                          * Kim
+                                                                                                                                                                                                                                                          * Emily
+                                                                                                                                                                                                                                                          * Jerry
+                                                                                                                                                                                                                                                          * Kate
+                                                                                                                                                                                                                                                          * Nauman
+                                                                                                                                                                                                                                                          * Nicole
+                                                                                                                                                                                                                                                          * Thomas
+                                                                                                                                                                                                                                                          * Natalie
+                                                                                                                                                                                                                                                          * Esteban and Danielle
+                                                                                                                                                                                                                                                          * Deo
+                                                                                                                                                                                                                                                          * Kenni
+                                                                                                                                                                                                                                                          * Rosalie and Faith
+                                                                                                                                                                                                                                                          * Rick and Francene
+                                                                                                                                                                                                                                                          * Santos
+                                                                                                                                                                                                                                                          * Mabruka
+                                                                                                                                                                                                                                                          * Liliana
+                                                                                                                                                                                                                                                          * Martha
+                                                                                                                                                                                                                                                          * Tri
+                                                                                                                                                                                                                                                          * Sarah
+                                                                                                                                                                                                                                                        * Testing & Diagnosisplus icon
+                                                                                                                                                                                                                                                          * Who Should be Tested
+                                                                                                                                                                                                                                                          * Testing for TB Infection
+                                                                                                                                                                                                                                                          * Testing in BCG-Vaccinated Persons
+                                                                                                                                                                                                                                                          * TB Screening and Testing of Health Care Personnel
+                                                                                                                                                                                                                                                          * Testing During Pregnancy
+                                                                                                                                                                                                                                                          * Diagnosing latent TB infection and TB disease
+                                                                                                                                                                                                                                                        * Treatmentplus icon
+                                                                                                                                                                                                                                                          * Deciding When to Treat Latent TB Infection
+                                                                                                                                                                                                                                                          * Treatment Regimens for Latent TB Infection (LTBI)
+                                                                                                                                                                                                                                                          * Treatment for TB Disease
+                                                                                                                                                                                                                                                          * Adverse Events
+                                                                                                                                                                                                                                                          * TB Treatment of Persons Living with HIV
+                                                                                                                                                                                                                                                          * TB Treatment and Pregnancy
+                                                                                                                                                                                                                                                          * TB Treatment for Children
+                                                                                                                                                                                                                                                        * Drug-Resistant TB
+                                                                                                                                                                                                                                                        * Researchplus icon
+                                                                                                                                                                                                                                                          * TB Epidemiologic Studies Consortiumplus icon
+                                                                                                                                                                                                                                                            * Research Projects
+                                                                                                                                                                                                                                                            * Publications
+                                                                                                                                                                                                                                                          * TB Trials Consortiumplus icon
+                                                                                                                                                                                                                                                            * Study Descriptions
+                                                                                                                                                                                                                                                            * Background
+                                                                                                                                                                                                                                                          * Behavioral & Social Science Research
+                                                                                                                                                                                                                                                        * Health Care Settingsplus icon
+                                                                                                                                                                                                                                                          * TB Infection Control in Health Care Settings
+                                                                                                                                                                                                                                                          * Resources for TB Screening and Testing of Health Care Personnelplus icon
+                                                                                                                                                                                                                                                            * Frequently Asked Questions
+                                                                                                                                                                                                                                                        * TB in Specific Populationsplus icon
+                                                                                                                                                                                                                                                          * African-American Communityplus icon
+                                                                                                                                                                                                                                                            * Stop TB in the African-American Community Summit
+                                                                                                                                                                                                                                                            * Background
+                                                                                                                                                                                                                                                            * Slideset
+                                                                                                                                                                                                                                                          * Asian Community
+                                                                                                                                                                                                                                                          * Children
+                                                                                                                                                                                                                                                          * Correctional Facilities
+                                                                                                                                                                                                                                                          * Homelessness
+                                                                                                                                                                                                                                                          * International Travelers
+                                                                                                                                                                                                                                                          * Pregnancy
+                                                                                                                                                                                                                                                          * Health Disparities
+                                                                                                                                                                                                                                                        * Laboratory Informationplus icon
+                                                                                                                                                                                                                                                          * Drug Susceptibility Testing
+                                                                                                                                                                                                                                                          * False-Positive Investigation Toolkit
+                                                                                                                                                                                                                                                          * Interim Laboratory Biosafety Guidance for XDR _Mycobacterium_ tuberculosis strains
+                                                                                                                                                                                                                                                          * Model Performance Evaluation Program (MPEP)
+                                                                                                                                                                                                                                                          * Rapid Molecular Testing to Detect Drug-Resistant TB in the USplus icon
+                                                                                                                                                                                                                                                            * Executive Summary
+                                                                                                                                                                                                                                                            * Introduction
+                                                                                                                                                                                                                                                            * Background on Tests for Molecular Detection of DR
+                                                                                                                                                                                                                                                            * General Considerations and Principles for a Molecular DR Testing Service
+                                                                                                                                                                                                                                                            * Possible Scenarios and Scope of Testing for a Molecular DR Testing Service
+                                                                                                                                                                                                                                                            * Research Needs
+                                                                                                                                                                                                                                                            * General Recommendations of the Expert Panel
+                                                                                                                                                                                                                                                            * Communication Plan for the Report
+                                                                                                                                                                                                                                                            * Recommendations
+                                                                                                                                                                                                                                                            * References
+                                                                                                                                                                                                                                                            * Panel Members and CDC Participants
+                                                                                                                                                                                                                                                            * Appendix 1
+                                                                                                                                                                                                                                                            * Appendix 2
+                                                                                                                                                                                                                                                            * Appendix 3
+                                                                                                                                                                                                                                                          * The Uses of Nucleic Acid Amplification Tests for the Diagnosis of TBplus icon
+                                                                                                                                                                                                                                                            * General Considerations
+                                                                                                                                                                                                                                                            * General Recommendations of the Expert Panel
+                                                                                                                                                                                                                                                            * Recommendations to ACET, CDC, DTBE
+                                                                                                                                                                                                                                                        * Data & Statisticsplus icon
+                                                                                                                                                                                                                                                          * TB Incidence in the United States
+                                                                                                                                                                                                                                                          * Reported TB in the US, 2018 Surveillance Report
+                                                                                                                                                                                                                                                          * Trends in Tuberculosis 2018
+                                                                                                                                                                                                                                                          * Tuberculosis in the United States, 2018 (Slide Set)
+                                                                                                                                                                                                                                                          * Archived Surveillance Reports and Slide Sets
+                                                                                                                                                                                                                                                          * 2018 State and City Report
+                                                                                                                                                                                                                                                          * Archived State and City Reports
+                                                                                                                                                                                                                                                        * Professional Resources & Toolsplus icon
+                                                                                                                                                                                                                                                          * Tools for Healthcare Providersplus icon
+                                                                                                                                                                                                                                                            * Interactive Core Curriculum on Tuberculosis: What the Clinician Should Know
+                                                                                                                                                                                                                                                          * Resources for TB Programsplus icon
+                                                                                                                                                                                                                                                            * Notice of Funding Opportunity (NOFO)
+                                                                                                                                                                                                                                                          * TB Centers of Excellence 
+                                                                                                                                                                                                                                                        * Publications & Productsplus icon
+                                                                                                                                                                                                                                                          * Patient and Public Materials
+                                                                                                                                                                                                                                                          * Fact Sheetsplus icon
+                                                                                                                                                                                                                                                            * General
+                                                                                                                                                                                                                                                            * Data & Statistics
+                                                                                                                                                                                                                                                            * Drug-Resistant TB
+                                                                                                                                                                                                                                                            * Infection Control & Prevention
+                                                                                                                                                                                                                                                            * TB in Specific Populations
+                                                                                                                                                                                                                                                            * Treatment
+                                                                                                                                                                                                                                                            * Testing & Diagnosis
+                                                                                                                                                                                                                                                            * Vaccines & Immunizations
+                                                                                                                                                                                                                                                          * Guidelinesplus icon
+                                                                                                                                                                                                                                                            * Contact Investigations
+                                                                                                                                                                                                                                                            * Control & Elimination
+                                                                                                                                                                                                                                                            * Drug-Resistant TB
+                                                                                                                                                                                                                                                            * Genotyping
+                                                                                                                                                                                                                                                            * Infection Control & Prevention
+                                                                                                                                                                                                                                                            * Laboratory
+                                                                                                                                                                                                                                                            * TB & HIV
+                                                                                                                                                                                                                                                            * TB in Specific Populations
+                                                                                                                                                                                                                                                            * Testing & Diagnosis
+                                                                                                                                                                                                                                                            * Treatment
+                                                                                                                                                                                                                                                            * Vaccines & Immunizations
+                                                                                                                                                                                                                                                            * Guidelines by Date
+                                                                                                                                                                                                                                                          * Guides & Toolkitsplus icon
+                                                                                                                                                                                                                                                            * Aggregate Reports
+                                                                                                                                                                                                                                                            * CDC TB Surveillance Training
+                                                                                                                                                                                                                                                            * Core Curriculum
+                                                                                                                                                                                                                                                            * Effective TB Interviewing for Contact Investigation
+                                                                                                                                                                                                                                                            * Ethnographic Guides
+                                                                                                                                                                                                                                                            * False-Positive Investigation Toolkit
+                                                                                                                                                                                                                                                            * Forging Partnerships to Eliminate TB
+                                                                                                                                                                                                                                                            * Guide to Application of Genotyping
+                                                                                                                                                                                                                                                            * LTBI: A Guide for Primary Health Care Providers
+                                                                                                                                                                                                                                                            * Mantoux Tuberculin Skin Testing Products
+                                                                                                                                                                                                                                                            * Report of Verified Case of Tuberculosis (RVCT)
+                                                                                                                                                                                                                                                            * Self-Study Modules
+                                                                                                                                                                                                                                                            * TB Contact Investigation Interviewing Skills Course
+                                                                                                                                                                                                                                                            * TB eDOT Toolkit
+                                                                                                                                                                                                                                                            * Understanding the TB Cohort Review Process
+                                                                                                                                                                                                                                                          * Newslettersplus icon
+                                                                                                                                                                                                                                                            * TB Notes, No. 4, 2019
+                                                                                                                                                                                                                                                            * TB Notes, No. 3, 2019
+                                                                                                                                                                                                                                                            * TB Notes, No. 2, 2019
+                                                                                                                                                                                                                                                            * TB Notes, No. 1, 2019
+                                                                                                                                                                                                                                                            * TB Notes, No. 6, 2018Â 
+                                                                                                                                                                                                                                                            * TB Notes, No. 5, 2018
+                                                                                                                                                                                                                                                            * TB Notes, No. 4, 2018
+                                                                                                                                                                                                                                                            * TB Notes, No. 3, 2018
+                                                                                                                                                                                                                                                            * TB Notes, No. 2, 2018
+                                                                                                                                                                                                                                                            * TB Notes, No. 1, 2018
+                                                                                                                                                                                                                                                            * TB Notes, No. 5, 2017
+                                                                                                                                                                                                                                                            * TB Notes, No. 4, 2017
+                                                                                                                                                                                                                                                            * TB Notes, No. 3, 2017
+                                                                                                                                                                                                                                                            * TB Notes, No. 2, 2017
+                                                                                                                                                                                                                                                            * TB Notes, No. 1, 2017
+                                                                                                                                                                                                                                                            * TB Notes, No. 5, 2016
+                                                                                                                                                                                                                                                            * TB Notes, No. 4, 2016
+                                                                                                                                                                                                                                                            * TB Notes, No. 3, 2016
+                                                                                                                                                                                                                                                            * TB Notes, No. 2, 2016
+                                                                                                                                                                                                                                                            * TB Notes, No. 1, 2016
+                                                                                                                                                                                                                                                          * Pamphlets, Brochures, Bookletsplus icon
+                                                                                                                                                                                                                                                            * Questions and Answers
+                                                                                                                                                                                                                                                            * Patient Education Series
+                                                                                                                                                                                                                                                            * Tuberculosis â Get the Facts
+                                                                                                                                                                                                                                                            * Tuberculosis â The Connection between TB and HIV
+                                                                                                                                                                                                                                                            * 12-Dose Regimen for Latent TB Infection-Patient Education Brochure
+                                                                                                                                                                                                                                                          * Postersplus icon
+                                                                                                                                                                                                                                                            * Mantoux Tuberculin Skin Test Wall Chart
+                                                                                                                                                                                                                                                            * World TB Day
+                                                                                                                                                                                                                                                            * Think TB
+                                                                                                                                                                                                                                                            * Stop TB
+                                                                                                                                                                                                                                                          * Reports & Articlesplus icon
+                                                                                                                                                                                                                                                            * _Morbidity and Mortality Weekly Reports (MMWRs)_
+                                                                                                                                                                                                                                                            * DTBE Authored Journal Articles
+                                                                                                                                                                                                                                                            * Tuberculosis Laboratory Aggregate Reports
+                                                                                                                                                                                                                                                          * Slide Setsplus icon
+                                                                                                                                                                                                                                                            * Epidemiology of Tuberculosis Among Non-U.S.ââBorn Persons in the United States, 1993â2016
+                                                                                                                                                                                                                                                            * Self-Study Modules on Tuberculosis, 1-5 Slide Sets
+                                                                                                                                                                                                                                                            * The Tuberculosis (TB) in Correctional Settingsplus icon
+                                                                                                                                                                                                                                                              * Facilitator Guide
+                                                                                                                                                                                                                                                            * Introduction to TB Genotyping
+                                                                                                                                                                                                                                                            * Core Curriculum
+                                                                                                                                                                                                                                                            * Epidemiology of Tuberculosis in Correctional Facilities, United States, 1993-2017
+                                                                                                                                                                                                                                                            * Prevention and Control of Tuberculosis in Correctional and Detention Facilities
+                                                                                                                                                                                                                                                            * Guidelines for Preventing the Transmission of M. TB in Health care Settings
+                                                                                                                                                                                                                                                            * Investigation of Contacts of Persons with Infectious TB
+                                                                                                                                                                                                                                                            * Epidemiology of Pediatric Tuberculosis in the United States
+                                                                                                                                                                                                                                                            * Targeted Tuberculosis Testing and Treatment of Latent Tuberculosis Infection
+                                                                                                                                                                                                                                                          * Electronic Tools & Resources
+                                                                                                                                                                                                                                                          * Web-Based Courses & Webinarsplus icon
+                                                                                                                                                                                                                                                            * TB 101 for Health Care Workersplus icon
+                                                                                                                                                                                                                                                              * TB 101
+                                                                                                                                                                                                                                                            * Interactive Core Curriculum
+                                                                                                                                                                                                                                                            * Program Evaluation
+                                                                                                                                                                                                                                                          * Content Syndication
+                                                                                                                                                                                                                                                          * Infographicsplus icon
+                                                                                                                                                                                                                                                            * Social Media Graphics
+                                                                                                                                                                                                                                                            * Customizable Take on TB Infographic with Instructions
+                                                                                                                                                                                                                                                        * Events
+                                                                                                                                                                                                                                                        * World TB Dayplus icon
+                                                                                                                                                                                                                                                          * Resources
+                                                                                                                                                                                                                                                          * U.S. TB Championsplus icon
+                                                                                                                                                                                                                                                            * 2020 CDC U.S. TB Elimination Champions
+                                                                                                                                                                                                                                                            * 2019 CDC U.S. TB Elimination Champions
+                                                                                                                                                                                                                                                            * 2018 CDC U.S. TB Elimination Champions
+                                                                                                                                                                                                                                                            * 2017 CDC U.S. TB Elimination Champions
+                                                                                                                                                                                                                                                            * 2016 Supporting TB Control
+                                                                                                                                                                                                                                                            * 2016 Building Partnerships
+                                                                                                                                                                                                                                                            * 2016 Expanding Testing and Treatment
+                                                                                                                                                                                                                                                            * 2016 Focusing on Prevention
+                                                                                                                                                                                                                                                            * 2016 Maximizing Resources
+                                                                                                                                                                                                                                                          * Activities
+                                                                                                                                                                                                                                                          * History
+                                                                                                                                                                                                                                                        * Linksplus icon
+                                                                                                                                                                                                                                                          * State TB Control Offices
+                                                                                                                                                                                                                                                        * About Usplus icon
+                                                                                                                                                                                                                                                          * Mission Statement and Activitiesplus icon
+                                                                                                                                                                                                                                                            * DTBE Strategic Plan
+                                                                                                                                                                                                                                                            * National TB Program Objectives
+                                                                                                                                                                                                                                                          * Organization Chart
+                                                                                                                                                                                                                                                          * Advisory Groupsplus icon
+                                                                                                                                                                                                                                                            * Federal TB Task Force
+
+**HAVE QUESTIONS?**
+
+Visit CDC-INFO
+
+Call 800-232-4636
+
+Email CDC-INFO
+
+Open 24/7
+
+**CDC INFORMATION**
+
+                                                                                                                                                                                                                                                        * About CDC
+                                                                                                                                                                                                                                                        * Jobs
+                                                                                                                                                                                                                                                        * Funding
+                                                                                                                                                                                                                                                        * Policies
+                                                                                                                                                                                                                                                        * File Viewers & Players
+
+                                                                                                                                                                                                                                                        * Privacy
+                                                                                                                                                                                                                                                        * FOIA
+                                                                                                                                                                                                                                                        * No Fear Act
+                                                                                                                                                                                                                                                        * OIG
+                                                                                                                                                                                                                                                        * Nondiscrimination
+                                                                                                                                                                                                                                                        * Accessibility
+
+**CONNECT WITH CDC**  
+
+                                                                                                                                                                                                                                                        * Facebook
+                                                                                                                                                                                                                                                        * Twitter
+                                                                                                                                                                                                                                                        * Youtube
+                                                                                                                                                                                                                                                        * Instagram
+  
+
+                                                                                                                                                                                                                                                        * Syndicate
+                                                                                                                                                                                                                                                        * CDC TV
+                                                                                                                                                                                                                                                        * RSS
+                                                                                                                                                                                                                                                        * Email
+
+U.S. Department of Health & Human Services
+
+USA.gov
+
+CDC Website Exit Disclaimer external icon
+
+                                                                                                                                                                                                                                                        * Facebook
+                                                                                                                                                                                                                                                        * Twitter
+                                                                                                                                                                                                                                                        * LinkedIn
+                                                                                                                                                                                                                                                        * Email
+
+![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+
+PDF file_external
+
+#### Exit Notification/Disclaimer Policy
+
+Close
+
+**Links with this icon indicate that you are leaving the CDC website.**
+
+                                                                                                                                                                                                                                                        * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+                                                                                                                                                                                                                                                        * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+                                                                                                                                                                                                                                                        * You will be subject to the destination website's privacy policy when you follow the link.
+                                                                                                                                                                                                                                                        * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+For more information on CDC's web notification policies, see Website
+Disclaimers.
+
+Cancel Continue
+
+  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
+  *[4 hrs]: Tuesday, April 7, 2020 at 2:56 PM
+  *[9 hrs]: Tuesday, April 7, 2020 at 10:08 AM
+  *[12 hrs]: Tuesday, April 7, 2020 at 7:00 AM
+  *[Yesterday at 9:38 AM]: Monday, April 6, 2020 at 9:38 AM
+  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
+  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
+  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
+  *[ 11 hrs]: Tuesday, April 7, 2020 at 8:30 AM
+  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
+  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
+  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
+  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
+  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
+  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
+  *[11 hrs]: Tuesday, April 7, 2020 at 8:48 AM
+  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
+  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
+  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
+  *[PDF]: Portable Document Format
+  *[GTSS]: Global Tobacco Surveillance System
+  *[CDC]: Centers for Disease Control and Prevention
+  *[GATS]: Global Tobacco Surveillance System
+  *[PDF-2.96 MB]]: Portable Document Format
+  *[PDF-2.25 MB]]: Portable Document Format
+  *[PDF-6.14 MB]]: Portable Document Format
+  *[PDF-2.65MB]]: Portable Document Format
+  *[NTCP]: National Tobacco Control Program
+  *[OSH]: Office on Smoking and Health
+  *[5 hrs]: Tuesday, April 7, 2020 at 2:56 PM
+

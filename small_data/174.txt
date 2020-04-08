@@ -1,7 +1,10 @@
-
+https://www.cdc.gov/otherspottedfever/Link: https://www.cdc.gov/otherspottedfever/    
+                Description: Other Spotted Fevers, Rickettsial Infections    
+                Keywords: Rickettsial,  Rickettsia,  Spotted Fever group Rickettsia,  (SFGR),  R. parkeri and Rickettsia species 364D,  R. conorii,  R. africae, Rickettsial Diseases, Spotted Fevers    
+                            
 
 Skip directly to site content Skip directly to page options Skip directly to
-A-Z link Skip directly to A-Z link Skip directly to A-Z link
+A-Z link
 
 Centers for Disease Control and Prevention. CDC twenty four seven. Saving
 Lives, Protecting People Centers for Disease Control and Prevention. CDC
@@ -15,7 +18,7 @@ Submit __
 
 For a full list of topics: A-Z Index
 
-_Salmonella_
+Other Spotted Fever Group Rickettsioses
 
 Section Navigation
 
@@ -27,854 +30,70 @@ CDC Home
                     * Email
                     * Syndicate
 
-# Case Count Maps
-
-Multistate Outbreak of Multidrug-Resistant _Salmonella_ Heidelberg Infections
-Linked to Foster Farms Brand Chicken (Final Update)
+# Other Spotted Fever Group Rickettsioses
 
 Minus
 
 Related Pages
 
-Posted July 31, 2014 4:00 PM ET
+![Gulf Coast tick on a leaf](/otherspottedfever/images/GCT-
+highres_1350-389.jpeg)
 
-This outbreak appears to be over. However, _Salmonella_ is an important cause
-of human illness in the United States. More information about _Salmonella,_
-and steps people can take to reduce their risk of infection, can be found on
-the CDC _Salmonella_ Web Page.
+Spotted fever group rickettsioses (spotted fevers) are a group of diseases
+caused by closely related bacteria. These bacteria are spread to people
+through the bite of infected mites and ticks. The most serious and commonly
+reported spotted fever group rickettsiosis in the United States is Rocky
+Mountain spotted fever (RMSF).
 
-  
+Other causes of spotted fever group rickettsioses (spotted fevers) in the
+United States include:
 
-## Final Case Count Map
+                    * _Rickettsia parkeri_ rickettsiosis, caused by _R. parkeri_
+                    * Pacific Coast tick fever, caused by _Rickettsia  _species 364D
+                    * Rickettsialpox, caused by _Rickettsia akari_
 
-### Persons infected with the outbreak strains of _Salmonella_ Heidelberg, by
-State*
+Spotted fevers can range from mild to life-threatening. Most people who get
+sick with a spotted fever other than RMSF will have an eschar (dark scab at
+the site of tick or mite bite), fever, headache, and rash. Doxycycline is the
+treatment of choice for all spotted fever infections.
 
-![7-31-2014 Case Count Map: Persons infected with the outbreak strain of
-Salmonella Heidelberg, by
-State](/salmonella/heidelberg-10-13/images/073114-map.jpg)
+Signs and Symptoms
 
-*n=633 for whom information was reported as of July 24, 2014
+Diagnosis and Testing
 
-A total of 634 individuals infected with the outbreak strains of _Salmonella_
-Heidelberg have been reported from 29 states and Puerto Rico. Most of the ill
-persons (77%) have been reported from California. The number of ill persons
-identified in each state is as follows: Alabama (1), Alaska (1), Arkansas (1),
-Arizona (25), California (490), Colorado (9), Connecticut (1), Delaware (1),
-Florida (4), Georgia (1), Hawaii (1), Idaho (5), Illinois (4), Kentucky (1),
-Louisiana (1), Michigan (4), Missouri (5), Montana (1), Nevada (11), New
-Mexico (2), North Carolina (1), Oregon (17), Puerto Rico (1), Tennessee (1),
-Texas (13), Utah (6), Virginia (4), Washington (20), West Virginia (1), and
-Wisconsin (1).
+Imported Spotted Fevers
 
-### Previous Case Count Maps
+Treatment
 
-July 4, 2014
+Prevention
 
-#### Persons infected with the outbreak strains of _Salmonella_ Heidelberg, by
-State*
+For Health Care Providers
 
-![7-4-2013 Case Count Map: Persons infected with the outbreak strain of
-Salmonella Heidelberg, by
-State](/salmonella/heidelberg-10-13/images/070314-map.jpg)
+Transmission
 
-*n=621 for whom information was reported as of July 2, 2014
+For Public Health Officials
 
-A total of 621 individuals infected with the outbreak strains of _Salmonella_
-Heidelberg have been reported from 29 states and Puerto Rico. Most of the ill
-persons (76%) have been reported from California. The number of ill persons
-identified in each state is as follows: Alabama (1), Alaska (1), Arkansas (1),
-Arizona (25), California (480), Colorado (9), Connecticut (1), Delaware (1),
-Florida (4), Georgia (1), Hawaii (1), Idaho (5), Illinois (1), Kentucky (1),
-Louisiana (1), Michigan (4), Missouri (5), Montana (1), North Carolina (1),
-Nevada (11), New Mexico (2), Oregon (17), Puerto Rico (1), Tennessee (1),
-Texas (13), Utah (6), Virginia (4), Washington (20), West Virginia (1), and
-Wisconsin (1).
+Epidemiology and Statistics
 
-May 27, 2014
+![Button for Clinical Toolkit for Rocky Mountain Spotted
+Fever](/otherspottedfever/images/tickborne-for-spotted-fevers-button.jpg)
 
-#### Persons infected with the outbreak strains of _Salmonella_ Heidelberg, by
-State*
-
-![5-27-2013 Case Count Map: Persons infected with the outbreak strain of
-Salmonella Heidelberg, by
-State](/salmonella/heidelberg-10-13/images/052314-map.jpg)
-
-*n=574 for whom information was reported as of May 22, 2014
-
-A total of 574 individuals infected with the outbreak strains of _Salmonella_
-Heidelberg have been reported from 27 states and Puerto Rico. Most of the ill
-persons (76%) have been reported from California. The number of ill persons
-identified in each state is as follows: Alaska (1), Arkansas (1), Arizona
-(25), California (441), Colorado (9), Connecticut (1), Delaware (1), Florida
-(4), Georgia (1), Hawaii (1), Idaho (5), Illinois (1), Kentucky (1), Louisiana
-(1), Michigan (4), Missouri (5), Montana (1), North Carolina (1), Nevada (11),
-New Mexico (2), Oregon (14), Puerto Rico (1), Tennessee (1), Texas (13), Utah
-(6), Virginia (4), Washington (17), and Wisconsin (1).
-
-April 9, 2014
-
-#### Persons infected with the outbreak strain of _Salmonella_ Heidelberg, by
-State*
-
-![4-9-2013 Case Count Map: Persons infected with the outbreak strain of
-Salmonella Heidelberg, by
-State](/salmonella/heidelberg-10-13/images/040914-map.jpg)
-
-*n=524 for whom information was reported as of April 7, 2014
-
-A total of 524 individuals infected with the outbreak strains of _Salmonella_
-Heidelberg have been reported from 25 states and Puerto Rico. Most of the ill
-persons (76%) have been reported from California. The number of ill persons
-identified in each state is as follows: Alaska (1), Arkansas (1), Arizona
-(24), California (399), Colorado (9), Connecticut (1), Delaware (1), Florida
-(4), Hawaii (1), Idaho (5), Illinois (1), Kentucky (1), Louisiana (1),
-Michigan (4), Missouri (5), North Carolina (1), Nevada (10), New Mexico (2),
-Oregon (13), Puerto Rico (1), Tennessee (1), Texas (12), Utah (4), Virginia
-(4), Washington (17), and Wisconsin (1).
-
-March 3, 2014
-
-#### Persons infected with the outbreak strain of _Salmonella_ Heidelberg, by
-State*
-
-![3-3-2014 Case Count Map: Persons infected with the outbreak strain of
-Salmonella Heidelberg, by
-State](/salmonella/heidelberg-10-13/images/030314-map.jpg)
-
-*n=481 for whom information was reported as of February 28, 2014
-
-A total of 481 individuals infected with the outbreak strains of _Salmonella_
-Heidelberg have been reported from 25 states and Puerto Rico. Most of the ill
-persons (76%) have been reported from California. The number of ill persons
-identified in each state is as follows: Alaska (1), Arkansas (1), Arizona
-(22), California (365), Colorado (9), Connecticut (1), Delaware (1), Florida
-(4), Hawaii (1), Idaho (5), Illinois (1), Kentucky (1), Louisiana (1),
-Michigan (3), Missouri (5), North Carolina (1), Nevada (10), New Mexico (2),
-Oregon (10), Puerto Rico (1), Tennessee (1), Texas (10), Utah (4), Virginia
-(4), Washington (16), and Wisconsin (1).
-
-January 16, 2014
-
-#### Persons infected with the outbreak strain of _Salmonella_ Heidelberg, by
-State*
-
-![1-16-2013 Case Count Map: Persons infected with the outbreak strain of
-Salmonella Heidelberg, by
-State](/salmonella/heidelberg-10-13/images/011514-map.jpg)
-
-*n=430  for whom information was reported as of January 15, 2014
-
-A total of 430 individuals infected with the outbreak strains of _Salmonella_
-Heidelberg have been reported from 23 states and Puerto Rico. Most of the ill
-persons (74%) have been reported from California. The number of ill persons
-identified in each state is as follows: Alaska (1), Arkansas (1), Arizona
-(19), California (321), Colorado (9), Connecticut (1), Delaware (1), Florida
-(4), Idaho (5), Illinois (1), Kentucky (1), Louisiana (1), Michigan (3),
-Missouri (5), North Carolina (1), Nevada (10), New Mexico (2), Oregon (10),
-Puerto Rico (1), Texas (10), Utah (2), Virginia (4), Washington (16), and
-Wisconsin (1).
-
-December 18, 2013
-
-#### Persons infected with the outbreak strain of _Salmonella_ Heidelberg, by
-State*
-
-![12-18-2013 Case Count Map: Persons infected with the outbreak strain of
-Salmonella Heidelberg, by
-State](/salmonella/heidelberg-10-13/images/121813-map.jpg)
-
-*n=416 for whom information was reported as of December 18, 2013
-
-A total of 416 individuals infected with the outbreak strains of _Salmonella_
-Heidelberg have been reported from 23 states and Puerto Rico. Most of the ill
-persons (74%) have been reported from California. The number of ill persons
-identified in each state is as follows: Alaska (1), Arkansas (1), Arizona
-(18), California (310), Colorado (9), Connecticut (1), Delaware (1), Florida
-(4), Idaho (4), Illinois (1), Kentucky (1), Louisiana (1), Michigan (3),
-Missouri (5), North Carolina (1), Nevada (10), New Mexico (2), Oregon (10),
-Puerto Rico (1), Texas (10), Utah (2), Virginia (3), Washington (16), and
-Wisconsin (1).
-
-November 19, 2013
-
-#### Persons infected with the outbreak strain of _Salmonella_ Heidelberg, by
-State*
-
-![11-10-2013 Map of Persons infected with the outbreak strain of Salmonella
-Heidelberg, by State](/salmonella/heidelberg-10-13/images/111913-map.jpg)
-
-*n=389 for whom information was reported as of November 15, 2013
-
-A total of 389 individuals infected with the outbreak strains of _Salmonella_
-Heidelberg have been reported from 23 states and Puerto Rico. Most of the ill
-persons (74%) have been reported from California. The number of ill persons
-identified in each state is as follows: Alaska (1), Arkansas (1), Arizona
-(16), California (288), Colorado (7), Connecticut (1), Delaware (1), Florida
-(4), Idaho (4), Illinois (1), Kentucky (1), Louisiana (1), Michigan (3),
-Missouri (5), North Carolina (1), Nevada (10), New Mexico (2), Oregon (10),
-Puerto Rico (1), Texas (10), Utah (2), Virginia (3), Washington (15), and
-Wisconsin (1).
-
-October 30, 2013
-
-#### Persons infected with the outbreak strain of _Salmonella_ Heidelberg, by
-State*
-
-![10-30-2013 Case Count Map: Persons infected with the outbreak strain of
-Salmonella Heidelberg, by
-State](/salmonella/heidelberg-10-13/images/102913-map.jpg)
-
-*n=362 for whom information was reported as of October 29, 2013
-
-A total of 362 individuals infected with the outbreak strains of _Salmonella_
-Heidelberg have been reported from 21 states and Puerto Rico. Most of the ill
-persons (74%) have been reported from California. The number of ill persons
-identified in each state is as follows: Alaska (1), Arkansas (1), Arizona
-(14), California (268), Colorado (7), Connecticut (1), Delaware (1), Florida
-(4), Idaho (3), Kentucky (1), Michigan (3), Missouri (5), North Carolina (1),
-Nevada (9), New Mexico (2), Oregon (9), Puerto Rico (1), Texas (11), Utah (2),
-Virginia (2), Washington (15), and Wisconsin (1).
-
-October 18, 2013
-
-#### Persons infected with the outbreak strain of _Salmonella_ Heidelberg, by
-State*
-
-![10-18-2013 Case Count Map: Persons infected with the outbreak strain of
-Salmonella Heidelberg, by
-State](/salmonella/heidelberg-10-13/images/101813-map.jpg)
-
-*n=338 for whom information was reported as of October 17, 2013
-
-A total of 338 individuals infected with the outbreak strains of _Salmonella_
-Heidelberg have been reported from 20 states and Puerto Rico. Most of the ill
-persons (73%) have been reported from California. The number of ill persons
-identified in each state is as follows: Alaska (1), Arkansas (1), Arizona
-(14), California (252), Colorado (4), Connecticut (1), Florida (4), Idaho (2),
-Kentucky (1), Michigan (2), Missouri (5), North Carolina (1), Nevada (9), New
-Mexico (2), Oregon (9), Puerto Rico (1), Texas (9), Utah (2), Virginia (2),
-Washington (15), and Wisconsin (1).
-
-October 11, 2013
-
-#### Persons infected with the outbreak strain of _Salmonella_ Heidelberg, by
-State*
-
-![10-11-2013 Case Count Map: Persons infected with the outbreak strain of
-Salmonella Heidelberg, by
-State](/salmonella/heidelberg-10-13/images/101113-map.jpg)
-
-*n=317 for whom information was reported as of October 11, 2013
-
-A total of 317 individuals infected with the outbreak strains of _Salmonella_
-Heidelberg have been reported from 20 states and Puerto Rico. Most of the ill
-persons (73%) have been reported from California. The number of ill persons
-identified in each state is as follows: Alaska (2), Arkansas (1), Arizona
-(13), California (232), Colorado (4), Connecticut (1), Florida (4), Idaho (2),
-Kentucky (1), Michigan (2), Missouri (5), North Carolina (1), Nevada (9), New
-Mexico (2), Oregon (8), Puerto Rico (1), Texas (9), Utah (2), Virginia (2),
-Washington (15), and Wisconsin (1).
-
-October 7, 2013
-
-#### Persons infected with the outbreak strain of _Salmonella_ Heidelberg, by
-State*
-
-![10-7-2013 Case Count Map: Persons infected with the outbreak strain of
-Salmonella Heidelberg, by
-State](/salmonella/heidelberg-10-13/images/100813-map.jpg)
-
-*n=278 for whom information was reported as of October 7, 2013
-
-A total of 278 individuals infected with the outbreak strains of _Salmonella_
-Heidelberg have been reported from 17 states. Most of the ill persons (77%)
-have been reported from California. The number of ill persons identified in
-each state is as follows: Alaska (2), Arkansas (1), Arizona (11), California
-(213), Colorado (4), Connecticut (1), Florida (1), Hawaii (1), Idaho (2),
-Michigan (2), North Carolina (1), Nevada (8), Oregon (8), Texas (5), Utah (2),
-Washington (15), and Wisconsin (1).
-
-Read the full Outbreak Investigation
-
-Page last reviewed: July 31, 2014
+Page last reviewed: January 18, 2019
 
 Content source: Centers for Disease Control and Prevention, National Center
-for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of Foodborne,
-Waterborne, and Environmental Diseases (DFWED)
+for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of Vector-
+Borne Diseases (DVBD)
 
-home _Salmonella_ Homepage
+home Other Spotted Fevers Home
 
-                    * Questions & Answersplus icon
-                      * Additional Information
+                    * Transmission
+                    * Signs and Symptoms
+                    * Diagnostic and Testing
+                    * Treatment
                     * Prevention
-                    * Symptoms
-                    * Diagnosis & Treatmentplus icon
-                      * Diagnostic and Public Health Testing
-                    * Current Outbreaksplus icon
-                      * Reporting Timeline
-                      * _Salmonella_ Infections Linked to Small Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tortugas mascota pequeÃ±as
-                      * _Salmonella_ Infections Linked to Cut Fruitplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Ground Beefplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a la carne de res molida
-                      * _Salmonella_ Infections Linked to Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a turtugas mascota
-                      * _Salmonella_ Infections Linked to Pig Ear Dog Treatsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Papayasplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a papayas frescas enteras importadas de MÃ©xico
-                      * _Salmonella_ Infections Linked to Karawan brand Tahiniplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tahini de la marca Karawan
-                      * _Salmonella_ Infections Linked to Backyard Poultryplus icon
-                        * Map of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brotes de infecciones por _Salmonella_ vinculados a aves de corral domÃ©sticas
-                      * _Salmonella_ Infections Linked to Frozen Raw Tunaplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Newport vinculado a atÃºn crudo congelado
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                      * _Salmonella_ Infections Linked to Pre-Cut Melonplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Carrau vinculado a melÃ³n y sandÃ­a precortados
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                      * _Salmonella_ Infections Linked to Butterball Brand Ground Turkeyplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado al pavo molido de marca Butterball
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones de la investigaciÃ³n del brote, por fecha
-                      * _Salmonella_ Infections Linked to Pet Hedgehogsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a los erizos como mascota
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                    * Previous Outbreaksplus icon
-                      * 2018 Outbreaksplus icon
-                        * Multidrug-Resistant _Salmonella_ Infections Linked to Raw Turkey Productsplus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pavo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Tahini from Achdut Ltd., 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a tahini elaborado por Achdut Ltd.
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Raw Chicken Products, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Advice to Clinicians
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pollo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Recomendaciones para los mÃ©dicos
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Ground Beef, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a carne molida de res
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Agbeni Infections, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Gravel Ridge Farms Shell Eggs, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Chicken, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Hy-Vee Spring Pasta Salad, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella vinculado a la ensalada de pasta âHy-Vee Spring Pasta Saladâ
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Kelloggâs Honey Smacks Cereal, 2018plus icon
-                          * Salmonella Infections Linked to Kelloggâs Honey Smacks Cereal en EspaÃ±ol
-                          * Recall and Advice to Consumers, Restaurants and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pre-Cut Melon, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pre-Cut Melon en EspaÃ±ol
-                          * Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks, 2018plus icon
-                          * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Braenderup Infections Linked to Shell Eggs, 2018plus icon
-                          * _Salmonella_ Braenderup Infections Linked to Shell Eggs en EspaÃ±ol
-                          * Recalls and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Dried Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Dried Coconut en EspaÃ±ol
-                          * Recall and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Guinea Pigs, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pet Guinea Pigs en EspaÃ±ol
-                          * Case Count Maps
-                          * Case Count Maps en EspaÃ±ol
-                          * Signs & Symptoms
-                          * Signs & Symptoms en EspaÃ±ol
-                        * _Salmonella_ Infections Linked to Chicken Salad, 2018plus icon
-                          * _Salmonella_ Infections Linked to Chicken Salad en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Kratom, 2018plus icon
-                          * _Salmonella_ Infections Linked to Kratom en EspaÃ±ol
-                          * Recalls and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo Infections Linked to Raw Sprouts, 2018plus icon
-                          * _Salmonella_ Infections Linked to Raw Sprouts en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Shredded Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut en EspaÃ±ol
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut á» Viá»t Nam [PDF â 3 pages]
-                          * Recall and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2017 Outbreaksplus icon
-                        * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Turtles, 2017plus icon
-                          * _Salmonella_ Infections Linked to Small Turtles, 2017 en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Laboratory Exposure, 2017plus icon
-                          * Advice to Students & Employees in Microbiology Laboratories
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry in Backyard Flocksplus icon
-                          * Case Count Maps
-                          * Live Poultry FAQ
-                      * 2016 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Contact with Dairy Calves, 2016plus icon
-                          * Case Count Maps
-                          * Epi Curves
-                        * _Salmonella_ Oranienburg Infections Linked to Shell Eggs, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Reading and _Salmonella_ Abony Infections linked to Alfalfa Sprouts, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps 
-                          * Epi Curves 
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2016plus icon
-                          * Advice to Consumers and Retailers
-                          * Live Poultry FAQs
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo and _Salmonella_ Senftenberg Infections Linked to Wonderful Pistachios, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Alfalfa Sprouts from One Contaminated Seed Lot, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Virchow Infections Linked to Raw Meal Organic Shake and Meal Products, 2016plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2015 Outbreaksplus icon
-                        * _Salmonella_ Paratyphi B variant L(+) tartrate(+) Infections Linked to Sprouted Nut Butter Spreads, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2015plus icon
-                          * Human _Salmonella_ Infections Linked to Small Turtles en EspaÃ±ol
-                          * Advice to Pet Owners
-                          * Advice to Pet Owners en EspaÃ±ol
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * _Salmonella_ Poona Infections Linked to Imported Cucumbers, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Multidrug-Resistant _Salmonella_ I 4,[5],12:i:- and _Salmonella_ Infantis Infections Linked to Pork, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Aspen Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Drug-Resistant _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Barber Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2015plus icon
-                          * Advice to Backyard Flock Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Raw Tuna, 2015plus icon
-                          * Advice to Retailers & Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Crested Geckos, 2015plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2014 Outbreaksplus icon
-                        * Enteritidis Infections Linked to Bean Sprouts, 2014plus icon
-                          * Advice to Consumers & Retailers
-                          * Final Case Count Maps
-                          * Final Epi Curve
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Linked to Nut Butter, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human Typhimurium Infections Linked to Laboratory Exposure, 2014plus icon
-                          * Advice to Students & Employees in Labs
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Chia Powder, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Frozen Feeder Rodents, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Bearded Dragons, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Heidelberg Infections Linked to Tyson Brand Mechanically Separated Chicken, 2014plus icon
-                          * Recall & Advice to Institutions
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Stanley Infections Linked to Raw Cashew Cheese, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2013 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Foster Farms Brand Chicken, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * _Salmonella_ Mbandaka Infections Linked to Tahini Sesame Paste, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Live Poultry in Backyard Flocks, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Saintpaul Infections Linked to Imported Cucumbers, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Heidelberg Infections Linked to Chicken, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Typhimurium Infections Linked to Ground Beef, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2012 Outbreaksplus icon
-                        * Bredeney Infections Linked to Peanut Butter, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Hedgehogs, 2012plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Associated with Mangoes, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Typhimurium and Newport Infections Linked to Cantaloupe, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Enteritidis Infections Linked to Ground Beef, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Hadar Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Montevideo Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infantis Infections Linked to Dry Dog Food, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Information for Pet Owners
-                          * Information for Veterinarians
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Bareilly and Nchanga Infections Associated with a Raw Scraped Ground Tuna Product, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Outbreaks Diagram
-                          * Signs & Symptoms
-                          * Key Resource
-                        * Enteritidis Infections Linked to Restaurant Chain A, 2012
-                      * 2010 through 2011 Outbreaksplus icon
-                        * Typhimurium Infections Linked to Ground Beef
-                        * Heidelberg Infections Linked to Kosher Broiled Chicken Livers
-                        * Enteritidis Infections Linked to Turkish Pine Nuts
-                        * Heidelberg Infections Linked to Ground Turkey
-                        * Agona Infections Linked to Whole, Fresh Imported Papayas
-                        * Enteritidis Infections Linked to Alfalfa Sprouts and Spicy Sprouts
-                        * Altona and Johannesburg Infections Linked to Chicks and Ducklings
-                        * Typhimurium Infections Associated with Lab Exposure
-                        * Typhimurium Infections Linked to African Dwarf Frogs
-                        * Hadar Infections Associated with Turkey Burgers
-                        * Panama Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Alfalfa Sprouts
-                        * Enteritidis Infections Associated with Shell Eggs
-                        * Chester Infections Associated with Cheesy Chicken & Rice Frozen EntrÃ©e
-                        * Typhi (Typhoid Fever) Associated with Frozen Mamey Fruit Pulp
-                        * Hartford and Baildon Infections Associated with Restaurant Chain A
-                        * I 4,[5],12:i:- Linked to Frozen Rodents
-                        * Newport Infections Linked to Alfalfa Sprouts
-                        * Montevideo Infections Linked to Red and Black Pepper/Italian-Style Meats
-                      * 2006 through 2009 Outbreaksplus icon
-                        * Saintpaul Infections Linked to Alfalfa Sprouts
-                        * _Salmonella_ Infections Linked to Pistachio Nuts
-                        * Typhimurium Infections Linked to Peanut Butter
-                        * Saintpaul Infections Linked to Raw Produce
-                        * Agona Infections Linked to Rice & Wheat Puff Cereal
-                        * Litchfield Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Pot Pies
-                        * Human Schwarzengrund Infections Linked to Dry Pet Food
-                        * Wandsworth Infections Linked to Veggie Booty
-                        * Tennessee Infections Linked to Peanut Butter
-                        * Typhimurium Infections Linked to Tomatoes
-                    * For Health Professionals
-                    * Surveillanceplus icon
-                      * _Salmonella_ Atlasplus icon
-                        * 32 Individual Serotypes Reports
-                        * Importance of Serotyping
-                        * Snapshots of Serotypes
-                    * Communication Materials
-                    * Reports & Publicationsplus icon
-                      * MMWR Articles
-                      * References
-
-Related Links
-
-                    * Multistate Foodborne Outbreaks
-                    * Zoonotic Diseases (Diseases from Animals)
-                    * Foodborne Illness A-Z
-                    * Estimates of Foodborne Illness
-                    * Report a Foodborne Illness
-                    * Foodsafety.govExternal file_external 
-                    * U.S. Food and Drug Administration (FDA)External file_external 
-                    * USDA Food Safety and Inspection ServiceExternal file_external 
-
-Follow Salmonella
-
-![Sign up for RSS feed.](/salmonella/images/outbreaks/rss-icon.png)
-
-Sign up for RSS Feed
+                    * For Health Care Providers
+                    * Imported Spotted Fevers
+                    * For Public Health Officials
 
 **HAVE QUESTIONS?**
 
@@ -927,6 +146,8 @@ CDC Website Exit Disclaimer external icon
 
 ![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
 
+SAS stats
+
 #### Exit Notification/Disclaimer Policy
 
 Close
@@ -943,5 +164,5 @@ Disclaimers.
 Cancel Continue
 
   *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[4 hrs]: Tuesday, April 7, 2020 at 2:56 PM
 

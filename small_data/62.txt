@@ -1,7 +1,10 @@
-
+https://www.cdc.gov/asthmaLink: https://www.cdc.gov/asthma    
+                Description: CDC works to help Americans with asthma achieve better health and improved quality of life.    
+                Keywords: asthma,  public health,  healthcare,  kids,  children,  parents,  inhaler,  asthma-friendly,  action plan,  asthma action plan,  state contacts,  data,  surveilance,  interventions,  mmwr,  publications,  triggers,  podcasts,  management,  treatment,  legislation,  policy,  schools,  childcare providers,  resources, Asthma    
+                            
 
 Skip directly to site content Skip directly to page options Skip directly to
-A-Z link Skip directly to A-Z link Skip directly to A-Z link
+A-Z link
 
 Centers for Disease Control and Prevention. CDC twenty four seven. Saving
 Lives, Protecting People Centers for Disease Control and Prevention. CDC
@@ -15,7 +18,7 @@ Submit __
 
 For a full list of topics: A-Z Index
 
-Emergency Preparedness and Response
+Asthma
 
 Section Navigation
 
@@ -27,335 +30,281 @@ CDC Home
             * Email
             * Syndicate
 
-# Chemical Emergencies
+# Asthma
 
 Minus
 
 Related Pages
 
-Specific Chemical Agents
+alert icon
 
-            * A-Z
-            * List by Category
+Coronavirus Disease-2019 (COVID-19) and People with Asthma
 
-Info for the General Public
+lightbulb solid icon
 
-            * Overview
-            * Chemical-Specific Fact Sheets
-            * Toxicology FAQs
-            * Sheltering in Place
-            * Evacuation
-            * Personal Cleaning & Disposal of Contaminated Clothing
+Asthma Care During an Emergency
 
-Info for Professionals
+Asthma is a disease that affects your lungs. It causes repeated episodes of
+wheezing, breathlessness, chest tightness, and nighttime or early morning
+coughing. Asthma can be controlled by taking medicine and avoiding the
+triggers that can cause an attack. You must also remove the triggers in your
+environment that can make your asthma worse.
 
-            * Case Definitions
-            * Toxic Syndrome Descriptions
-            * Toxicological Profiles
-            * Training
-            * First Responders
-            * ATSDR Medical Management Guidelines for Chemical Agents
-            * CHEMM - Chemical Hazards Emergency Medical ManagementExternal
-            * Emergency Response Cards
-            * Lab Info
-            * Surveillance
-            * Preparation & Planning
-            * Swimming Pool Operators
+CDC's National Asthma Control Program works to help Americans with asthma
+achieve better health and improved quality of life. The program funds states,
+school programs, and non-government organizations to help them improve
+surveillance of asthma, train health professionals, educate individuals with
+asthma and their families, and explain asthma to the public.
 
-Related Resources
+![Twitter icon](/asthma/images/twitter_icon.jpg)
 
-            * ATSDR Emergency Response Program
-            * National Toxic Substances Incidents Program 
-            * Assessment of Chemical Exposures (ACE) Program
-            * Community Assessment for Public Health Emergency Response (CASPER) ToolkitCdc-pdf
-            * Regional Poison Control Centers: **1-800-222-1222**
-            * State & Local Health Departments
-            * U.S. Chemical Safety Board (CSB)External
+Follow @CDCasthma on Twitter to learn more about helping people with asthma
+live healthier lives by gaining control over their asthma.
 
-![Ready.gov - Prepare. Plan. Stay
-Informed.](http://emergency.cdc.gov/images/readygov_button_160x110.gif)External
-file_external
+![Diagrams projecting from tablet](/asthma/images/data-visualization-
+homepage-675x370.jpg)
 
-Page last reviewed: April 4, 2018
+See our new data visualization
+
+Notice of Funding Opportunity (NOFO)
+
+CDC is pleased to announce availability of Fiscal Year 2020 funds through
+Notice of Funding Opportunity (NOFO) #CDC-RFA-EH20-2002, "Promoting Asthma
+Friendly Environments Through Partnerships and Collaborations."external icon
+The purpose of this NOFO is to promote evidence-based asthma strategies and
+interventions through partnerships and collaborations. Recipients will develop
+partnerships and collaborations using health education and communication
+strategies that will result in measurable impacts.  These strategies are
+outlined in the CDC asthma technical package, EXHALE pdf icon[PDF - 760 KB].
+
+CDC will conduct an informational conference call regarding the NOFO on March
+23, 2020 at 2:00 p.m., U.S. Eastern Standard Time. The call-in information is:
+(877) 954-4821 Passcode: 57457322#. Questions and responses from this
+conference call will be posted on this site after the call.
+
+book icon
+
+Learn How to Control Asthma
+
+medical icon
+
+CDC's National Asthma Control Program
+
+chart icon
+
+Data, Statistics, and Surveillance
+
+tools icon
+
+Resources for Health Professionals and Schools
+
+clipboard icon
+
+Evaluation
+
+building icon
+
+Agencies Working on Asthma
+
+Page last reviewed: April 7, 2020
 
 Content source: National Center for Environmental Health
 
-home Specific Hazards
+home Asthma
 
-            * Bioterrorism expand
-              * A-Z expand
-                * Anthrax (Bacillus anthracis)
-                * Arenaviruses expand
-                  * Treatment & Infection Control
-                  * Specimen Submission & Lab Testing
-                  * Education & Training
-                  * Related Bioterrorism Resources
-                * Bacillus anthracis (Anthrax)
-                * Botulism (Clostridium botulinum toxin)
-                * Brucella species (brucellocis) expand
-                  * Laboratory Information
-                  * Surveillance & Investigation
-                * Burkholderia mallei (glanders)
-                * Burkholderia pseudomallei (melioidosis)
-                * Cholera (Vibrio cholerae)
-                * Clostridium botulinum toxin (botulism)
-                * Coxiella burnetii (Q fever)
-                * Ebola virus hemorrhagic fever
-                * E. coli O157:H7 (Escherichia coli)
-                * Escherichia coli O157:H7 (E. coli)
-                * Food safety threats (e.g.,Â _Salmonella_ Â species,Â _Escherichia coli_ Â O157:H7,Â _Shigella_ )
-                * Francisella tularensisÂ (tularemia) expand
-                  * Key Facts About Tularemia
-                  * Frequently Asked Questions (FAQ)
-                  * Diagnosis & Evaluation
-                  * Treatment & PEP
-                  * Lab Testing
-                  * Surveillance & Investigation
-                  * Infection Control
-                  * Other Resources
-                * Glanders ( _Burkholderia mallei_ )
-                * Lassa fever
-                * Marburg virus hemorrhagic fever
-                * Melioidosis ( _Burkholderia pseudomallei_ )
-                * Plague ( _Yersinia pestis_ ) expand
-                  * FAQ About Plague (as a bioweapon)
-                  * Facts About Pneumonic Plague
-                  * Plague Q & A (naturally occurring disease)
-                  * CDC Plague Home Page (naturally occurring disease)
-                  * Diagnosis & Evaluation
-                  * Infection Control
-                  * Laboratory Testing
-                  * Case Definitions and Report Forms
-                  * Surveillance & Investigation
-                  * Publications, Education & Training Materials
-                * Q fever ( _Coxiella burnetii_ )
-                * Ricin toxin fromÂ _Ricinus communis_ Â (castor beans) expand
-                  * Facts About Ricin
-                  * Questions and Answers
-                  * Health Professionals
-                  * Labs
-                * _Salmonella_ Â species (salmonellosis)
-                * _Salmonella_ Â Typhi (typhoid fever)
-                * Salmonellosis ( _Salmonella_ Â species)
-                * _Shigella_ Â (shigellosis)
-                * Shigellosis ( _Shigella_ )
-                * Smallpox (variola major) expand
-                  * Smallpox Basics
-                  * Specific Topics
-                  * Clinicians
-                  * Health Officials
-                  * People Selected for Response Teams
-                  * Diagnosis/Evaluation
-                  * Lab Testing
-                  * Infection Control
-                  * Surveillance & Investigation
-                  * Preparation & Planning
-                  * Response
-                  * Vaccination
-                  * Smallpox: Images
-                  * Medical Management
-                  * Smallpox: Training and Education
-                  * References
-                * Tularemia ( _Francisella tularensis_ )
-                * Typhoid fever ( _Salmonella_ Â Typhi)
-                * Variola major (smallpox)
-                * _Vibrio cholerae_ Â (cholera)
-                * Viral hemorrhagic fevers (filoviruses [e.g., Ebola, Marburg] and arenaviruses [e.g., Lassa, Machupo])
-                * _Yersinia pestis_ Â (plague)
-              * Case Definitions
-              * Training
-              * Surveillance
-              * Preparation & Planning
-              * Lab Info
-            * Chemical Emergencies expand
-              * A-Z  expand
-                * Abrin
-                * Acids (caustics) expand
-                  * Case Definition: Caustic or Corrosive Agents
-                * Adamsite (DM) expand
-                  * Case Definition: Adamsite Poisoning
-                * Ammonia expand
-                  * Case Definition: Ammonia
-                * Arsenic expand
-                  * Case Definition: Arsenic (Inorganic)
-                * Arsine (SA) or Stibine expand
-                  * Facts About Arsine
-                  * Case Definition: Arsine or Stibine Poisoning
-                  * Toxic Syndrome Description: Arsine or Stibine Poisoning
-                * Barium expand
-                  * Case Definition: Barium Poisoning
-                * Benzene expand
-                  * Facts about Benzene
-                * Biotoxins
-                * Blister agents/vesicants expand
-                  * Case Definition: Vesicant (Mustards, Dimethyl Sulfate, and Lewisite)
-                  * Toxic Syndrome Description: Vesicant/Blister Agent Poisoning
-                * Blood agents
-                * Brevetoxin expand
-                  * Case Definition: Brevetoxin
-                * Bromine (CA) expand
-                  * Facts About Bromine
-                  * Case Definition: Bromine Poisoning
-                * BZ expand
-                  * Case Definition: BZ Poisoning
-                * Carbon Monoxide
-                * Caustics (acids)
-                * Choking/lung/pulmonary agents
-                * Chlorine (CL) expand
-                  * Facts About Chlorine
-                  * Case Definition: Chlorine
-                * Chromium
-                * Colchicine expand
-                  * Case Definition: Colchicine
-                * Cyanide expand
-                  * Facts About Cyanide
-                  * Case Definition: Cyanide
-                * Cyanogen chloride (CK)
-                * Digitalis expand
-                  * Case Definition: Digitalis Poisoning
-                * Ethylene glycol
-                * Fentanyls and other opioids expand
-                  * Case Definition: Opioids (Fentanyl, Etorphine, or Others) Poisoning
-                * Hydrazine expand
-                  * Potential Health Effects Associated with Hydrazine and Satellite Reentry
-                * Hydrofluoric acid (hydrogen fluoride) expand
-                  * Facts about Hydrogen Fluoride (Hydrofluoric Acid)
-                  * Case Definition: Hydrofluoric Acid
-                  * Case Definition: Caustic or Corrosive Agents
-                * Hydrogen cyanide (AC)
-                * Hydrogen fluoride (hydrofluoric acid) expand
-                  * Facts about Hydrogen Fluoride (Hydrofluoric Acid)
-                  * Case Definition: Hydrofluoric Acid
-                  * Case Definition: Caustic or Corrosive Agents
-                * Incapacitating agents expand
-                  * BZ
-                  * Fentanyls & other opioids
-                * Lewisite (L, L-1, L-2, L-3) expand
-                  * Facts About Lewisite
-                  * Case Definition: Vesicant (Mustards, Dimethyl Sulfate, and Lewisite)
-                  * Toxic Syndrome Description: Vesicant/Blister Agent Poisoning
-                * Long-acting anticoagulant (super warfarin) expand
-                  * Case Definition: âSuper Warfarinâ Poisoning
-                * Lung/choking/pulmonary agents
-                * Mercury expand
-                  * Case Definition: Mercury (Organic)
-                  * Case Definition: Mercury (Inorganic)
-                  * Case Definition: Mercury (Elemental)
-                * Methyl bromide expand
-                  * Case Definition: Methyl Bromide Poisoning
-                * Methyl isocyanate expand
-                  * Case Definition: Methyl Isocyanate Poisoning
-                * Mustard gas (H) (sulfur mustard) expand
-                  * Facts About Sulfur Mustard
-                  * Case Definition: Vesicant (Mustards, Dimethyl Sulfate, and Lewisite)
-                  * Toxic Syndrome Description: Vesicant/Blister Agent Poisoning
-                * Nerve agents expand
-                  * Case Definition: Nerve Agents or Organophosphates
-                  * Toxic Syndrome Description: Nerve Agent and Organophosphate Pesticide Poisoning
-                  * Sarin
-                  * Soman
-                  * Tabun
-                  * VX
-                * Nicotine expand
-                  * Case Definition: Nicotine Poisoning
-                * Nitrogen mustard (HN-1, HN-2, HN-3) expand
-                  * Facts About Nitrogen Mustard
-                  * Case Definition: Vesicant (Mustards, Dimethyl Sulfate, and Lewisite)
-                  * Toxic Syndrome Description: Vesicant/Blister Agent Poisoning
-                * Opioids expand
-                  * Case Definition: Opioids (Fentanyl, Etorphine, or Others) Poisoning
-                * Organic solvents
-                * Osmium tetroxide
-                * Paraquat expand
-                  * Facts About Paraquat
-                  * Case Definition: Paraquat Poisoning
-                * Phosgene (CG) expand
-                  * Facts About Phosgene
-                  * Case Definition: Phosgene
-                * Phosgene oxime (CX) expand
-                  * Facts About Phosgene Oxime
-                  * Case Definition: Vesicant (Mustards, Dimethyl Sulfate, and Lewisite)
-                  * Toxic Syndrome Description: Vesicant/Blister Agent Poisoning
-                * Phosphine expand
-                  * Case Definition: Phosphine
-                * Phosphorus, elemental, white or yellow expand
-                  * Case Definition: Phosphorus
-                * Potassium cyanide (KCN)
-                * Pulmonary/choking/lung agents
-                * Ricin
-                * Riot control agents/tear gas expand
-                  * Facts About Riot Control Agents
-                  * Case Definition: Riot Control Agent Poisoning
-                  * Toxic Syndrome Description: Riot Control Agent Poisoning
-                * Sarin (GB) expand
-                  * Facts About Sarin
-                  * Case Definition: Nerve Agents or Organophosphates
-                * Saxitoxin expand
-                  * Case Definition: Saxitoxin
-                * Selenium
-                * Sodium azide expand
-                  * Facts About Sodium Azide
-                  * Case Definition: Sodium Azide
-                  * Toxic Syndrome Description: Sodium Azide Poisoning
-                * Sodium cyanide (NaCN)
-                * Sodium monofluoroacetate (compound 1080) expand
-                  * Case Definition: Sodium Monofluoroacetate Poisoning
-                * Soman(GD) sulfurylfluoride expand
-                  * Facts About Soman
-                  * Case Definition: Nerve Agents or Organophosphates
-                * Strychnine expand
-                  * Facts About Strychnine
-                  * Case Definition: Strychnine
-                * Sulfur mustard (H) (mustard gas) expand
-                  * Facts About Sulfur Mustard
-                  * Case Definition: Vesicant (Mustards, Dimethyl Sulfate, and Lewisite)
-                  * Toxic Syndrome Description: Vesicant/Blister Agent Poisoning
-                * Sulfuryl fluoride expand
-                  * Case Definition: Sulfuryl Fluoride Poisoning
-                * Super warfarin (long-acting anticoagulant) expand
-                  * Case Definition: âSuper Warfarinâ Poisoning
-                * Tabun (GA) expand
-                  * Facts About Tabun
-                  * Case Definition: Nerve Agents or Organophosphates
-                * Tetrodotoxin expand
-                  * Case Definition: Tetrodotoxin
-                * Thallium expand
-                  * Case Definition: Thallium
-                * Toxic alcohols expand
-                  * Case Definition: Toxic Alcohol Poisoning
-                  * Ethylene glycol
-                * Trichothecene expand
-                  * Case Definition: Trichothecene Mycotoxin Poisoning
-                * Unidentified chemical
-                * Vesicants/blister agents
-                * Vomiting agents
-                * VX expand
-                  * Facts About VX
-                  * Case Definition: Nerve Agents or Organophosphates
-                * White phosphorus
-              * List by Category
-              * Chemical-Specific Fact Sheets
-              * Toxicology FAQs
-              * Case Definitions
-              * Toxic Syndrome Descriptions
-              * Toxicological Profiles
-              * Training
-              * First Responders
-              * Medical Management
-              * Emergency Response Cards
-              * Lab Info
-              * Surveillance
-              * Preparation & Planning
+            * Learn How to Control Asthmaplus icon
+              * Asthma Care During an Emergency
+              * Asthma and Severe Weather
+              * Brochures, Fact Sheets, & Action Plans
+              * Guidance on Spirometry
+              * Parents
+              * Children
+              * Triggersplus icon
+                * Indoors
+                * In the Workplace
+                * Outdoors
+              * Managementplus icon
+                * Coronavirus (COVID-19)
+                * Asthma Action Plan
+                * Flu Shots
+                * How to Use your Asthma Inhaler
+                * Videos and Audio Podcasts
+                * Controlling Asthma in Schools
+                * Sample Newsletter
+                * Sample Press Release
+            * National Asthma Control Programplus icon
+              * America Breathing Easier
+              * CCARE
+              * Guide for State Programs
+              * Interventionsplus icon
+                * Community GuideâEvidence-based
+                * Potentially Effective Interventions
+                * Background
+                * Methodology
+                * Results
+                * Case Studies
+                * Bibliography
+                * Adults â Homeplus icon
+                  * Adults â Hospital Emergency Departments
+                  * Adults â Hospital Inpatients
+                  * Adults â Medical clinics/physiciansâ office
+                  * Adults â Pharmacies
+                  * Adults â Worksite
+                  * Adults â Other
+                * Children â Homeplus icon
+                  * Children â Hospital emergency departments
+                  * Children â Hospital inpatients
+                  * Children â Medical clinics/physiciansâ office
+                  * Children â Schools
+                  * Children â Other
+                * Mixed Age Groups â Homeplus icon
+                  * Mixed Age Groups â Medical clinics/physiciansâ office
+                  * Mixed Age Groups â Pharmacies
+                * Pregnant Women â Homeplus icon
+                  * Pregnant Women â Medical clinics/physiciansâ office
+                * Health care providers â Medical clinics/physiciansâ officeplus icon
+                  * Health care providers â Other
+                * Parents â Home
+            * Breathing Easier Success Stories
+            * State and City Asthma Contacts and Programs
+            * Historical Information:Â Asthma at a Glance 2002-2010plus icon
+              * 2010 At A Glanceplus icon
+                * Asthma Control
+                * CDCâs National Asthma Control Program
+                * Asthma Control Program Highlights
+                * Future Directions
+              * 2007 At A Glanceplus icon
+                * Asthma Control Overview
+                * CDCâs National Asthma Control Program
+                * Asthma Control Program Highlights
+                * FY 2006 Activity Highlights
+                * Future Directions
+              * 2005 At A Glanceplus icon
+                * Asthma Control Overview
+                * CDCâs National Asthma Control Program
+                * Asthma Control Program Highlights
+                * Activity Highlights
+                * Future Directions
+              * 2003 At A Glanceplus icon
+                * Asthma Control Overview
+                * CDCâs National Asthma Control Program
+                * Asthma Control Program Highlights
+                * State Activity Highlights
+                * Future Directions
+              * 2002 At A Glanceplus icon
+                * Asthma Control Overview
+                * CDCâs National Asthma Control Program
+                * Asthma Control Program Highlights
+                * State Activity Highlights
+                * Future Directions
+            * Evaluationplus icon
+              * Evaluation Guide
+              * Evaluation Webinarsplus icon
+                * 1\. Avoiding Evaluation Roadblocks
+                * 1A. Focus On: Walking Through the Steps and Standards
+                * 2\. Getting Started
+                * 3\. Describing and Focusing
+                * 3A. Focus On: Thinking About Design
+                * 4\. Gathering and Using Data
+                * 4A. Focus On: Data Collection Choices
+                * 4B. Focus on Using Mixed Methods
+                * 5\. Purpose Informs Design
+              * Other Evaluation Resourcesplus icon
+                * Tool for Assessing Asthma Referral Systems (TAARS)
+            * Resources for Health Professionals and Schoolsplus icon
+              * Health Care Professionalsplus icon
+                * Got asthma? Get your flu shots!
+              * Public Health Professionalsplus icon
+                * Asthma: A Presentation of Asthma Management and Prevention  
+plus icon
 
-Social_govd govD  Get Email Updates
-
-To receive email updates about this page, enter your email address:
-
-Email Address
-
-What's this?
-
-Submit
+                  * Preface
+                  * Glossary
+                  * Resources
+              * School and Childcare Providersplus icon
+                * Asthma Control for Preschoolers
+              * CDC Publications on Asthma
+            * Data, Statistics, and Surveillanceplus icon
+              * Data Visualizationsplus icon
+                * Asthma Prevalence
+                * Health Outcomes
+                * Healthcare Use
+                * Mortality
+              * Most Recent Asthma Dataplus icon
+                * Most Recent National Asthma Data
+                * Most Recent State or Territory Asthma Data
+                * Archived Most Recent Asthma Data
+              * Asthma Surveillance dataplus icon
+                * NHIS Asthma Prevalence Dataplus icon
+                  * 2018 Data
+                  * 2017 Data
+                  * 2016 Data
+                  * 2015 Data
+                  * 2014 Data
+                  * 2013 Data
+                  * 2012 Data
+                  * 2011 Data
+                  * 2010 Data
+                  * 2009 Data
+                  * 2008 Data
+                  * 2007 Data
+                  * 2006 Data
+                  * 2005 Data
+                  * 2004 Data
+                  * 2003 Data
+                  * 2002 Data
+                  * 2001 Data
+                * Health Care Use
+                * BRFSS Asthma Prevalence Data
+                * Asthma Call Back survey
+              * AsthmaStatsplus icon
+                * Asthma Attacks among People with Current Asthma, 2014â2017
+                * Uncontrolled Asthma among Adults, 2016
+                * Uncontrolled Asthma among Children, 2012â2014
+                * Asthma-related physician office visits
+                * Asthma and Fair or Poor Health
+                * Asthma as the Underlying Cause of Death
+                * Flu Vaccination among Adults with Current Asthma 
+                * Flu Vaccination among Children with Current Asthma
+                * Usual Place for Medical Care among Children
+                * Number of Visits to a Health Care Provider(s) among Children
+                * Health Care Coverage among Children
+                * Asthma-related Missed School Days among Children aged 5â17 Years
+                * Asthma Severity among Adults with Current Asthma
+                * Asthma Severity among Children with Current Asthma
+                * Overuse of quick-relief medication among persons with active asthma
+                * Use of long-term control medication among persons with active asthma
+                * Uncontrolled Asthma among Persons with Current Asthma
+                * Asthma and Obesity
+                * Percentage of People with Asthma who Smoke
+                * Insurance coverage and barriers to care for people with asthma
+              * NACP Grantee Profile
+              * Asthma Prevalence in the U.S.: Slide set [PPTX â 3.8 MB]
+              * Asthma Questions by Data Source
+              * Data Analysis Guidance
+              * Historical BRFSS Adult Asthma Moduleplus icon
+                * Adult Asthma Module 2007
+                * Adult Asthma Module 2006
+                * Adult Asthma Module 2005
+                * Adult Asthma Module 2004
+                * Adult Asthma Module 2003
+                * Adult Asthma Module 2002
+              * NCHS Asthma FastStats
+            * Agencies Working on Asthmaplus icon
+              * Legislation and Policy
+            * Reports and Publicationsplus icon
+              * Measures to Identify and Track Racial Disparities in Childhood Asthmaplus icon
+                * Control
+                * Asthma Control
+                * Management
+                * Prevalence and Outcome Measures
+                * Risk Factors
+                * Table 10: Examples of Some Possible Response Scenarios
+                * Technical Appendix
+                * Survey Resources
+                * Definition of Terms
+            * Multimedia Messages
+            * Asthma and Community Health Branch
 
 **HAVE QUESTIONS?**
 
@@ -408,7 +357,7 @@ CDC Website Exit Disclaimer external icon
 
 ![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
 
-PDF file_external
+SAS stats
 
 #### Exit Notification/Disclaimer Policy
 
@@ -426,5 +375,5 @@ Disclaimers.
 Cancel Continue
 
   *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[4 hrs]: Tuesday, April 7, 2020 at 2:56 PM
 

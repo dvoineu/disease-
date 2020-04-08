@@ -1,0 +1,396 @@
+https://www.cdc.gov/std/program/data-mgmt.htmLink: https://www.cdc.gov/std/program/data-mgmt.htm    
+                Description: STD Data Management &amp; Information Technology    
+                Keywords: STD,  STI,  sexually transmitted diseaseas,  data,  information technology, Sexually Transmitted Diseases (STDs)    
+                            
+
+Skip directly to site content Skip directly to page options Skip directly to
+A-Z link
+
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People Centers for Disease Control and Prevention. CDC
+twenty four seven. Saving Lives, Protecting People
+
+Search ____
+
+Ã
+
+Submit __
+
+For a full list of topics: A-Z Index
+
+Sexually Transmitted Diseases
+
+Section Navigation
+
+CDC Home
+
+                                                                                                                                                                                                                                                        * Facebook
+                                                                                                                                                                                                                                                        * Twitter
+                                                                                                                                                                                                                                                        * LinkedIn
+                                                                                                                                                                                                                                                        * Email
+                                                                                                                                                                                                                                                        * Syndicate
+
+# STD Data Management & Information Technology
+
+Minus
+
+Related Pages
+
+Timely access to quality data is one of the backbones of an effective STD
+prevention and control program. The ability to accurately collect and analyze
+data in a timely fashion is a key part of making correct decisions regarding
+individual patient care and case management and, on a broader level, making
+effective programmatic decisions on issues such as prioritizing intervention
+activities and allocating scarce resources. A key part of the data collection
+and management process falls into the area of informatics, i.e. the use of
+information systems and technology to perform the critical tasks of data
+collection, management, and analysis. This website provides access to
+information and resources designed to assist state and local STD prevention
+programs in their use of data and information systems.
+
+NETSS/NEDSS Guides
+
+NETSS Implementation Planpdf icon - ( **Effective January 2018** ) This
+document contains the procedures and record layouts that must be used by state
+and local health departments to electronically report cases of nationally
+notifiable STDs to CDC via the National Electronic Telecommunication System
+for Surveillance (NETSS).  
+Summarypdf icon - A summary of the latest changes to the NETSS Implementation
+Guide.
+
+Guidance on Reporting Case Status for STD Case Reports pdf icon[PDF - 177 KB]
+- This document contains background and guidance on reporting case status for
+cases of STDs sent to CDC. (Updated January 2019)
+
+Guidance for Reporting LGV Cases as Chlamydia to CDC pdf icon[PDF - 129 KB] -
+This document contains background and guidance on how LGV cases should be
+reported to CDC. (Updated January 2019)
+
+Guidance on Classifying STD Case Reports into MMWR Weekpdf icon - This
+document contains background and guidance on how jurisdictions should assign
+the MMWR week data element for STD case reports. (Updated January 2018)
+
+De-Duplication Guidance for Gonorrhea and Chlamydia Laboratory Reportspdf icon
+- This document contains background and guidance on the timeframe that
+jurisdictions should use to de-duplicate their gonorrhea and chlamydia
+laboratory reports before reporting these cases to CDC. (Updated June 2016)
+
+National Notifiable Diseases Surveillance System (NNDSS) Modernization
+Initiative (NMI) - NMI is enhancing NNDSS' ability to provide comprehensive,
+timely, and high quality data for public health decision making. Guidance on
+requirements for electronically reporting cases of nationally notifiable STDs
+to CDC is available, including message mapping guides (MMGs) for STDs and
+congenital syphilis.
+
+Requirements for STD Information Systems
+
+Requirements and other design-related materials are available for several
+existing STD Information Systems:
+
+                                                                                                                                                                                                                                                        * Generic STD Information System Requirements from CDC/DSTDP
+                                                                                                                                                                                                                                                        * Business Process Management Model from CDC/DSTDP - describes business processes, etc.
+
+### STD Information Systems Currently Available for Adoption by other States,
+Territories, and Project Areas
+
+This is a caption. **Systems, Developers, and Points of Contact**  
+---  
+Name | Developer | **Users** | Type | Capability | Contact  
+Sunquest Worldcare | Atlas Development Corporation | Multiple Counties and
+States within the U.S. and abroad | Web-based | Comprehensive disease
+surveillance, outbreak management, and case management for all communicable
+diseases. Supports immunization workflow and syndromic surveillance. Complete
+ELR solution. Facilitates HAI surveillance and reporting to NHSN. | Carl Hull,
+VP- Public Health Operations  
+carl.hull@sunquestinfo.com  
+PRISM ASD | Advanced Systems Design (ASD), Inc | Multiple U.S. States and
+Cities | Web-based | Web-based Disease Surveillance, Case Management, ELR,
+Reporting, Workflow, Outbreak management | Mary White, Software Engineer  
+mary.white@asd-web.com  
+PRISM-Based* | State customized versions of PRISM ASD | Multiple U.S. States |
+Web-based | Web-based Disease Surveillance, Case Management, ELR, Reporting,
+Workflow, Outbreak management | Mary White, Software Engineer  
+mary.white@asd-web.com  
+Maven | Conduent Public Health Solutions | Multiple U.S. States and Cities |
+Web-based | Web-based disease surveillance, outbreak management across all
+communicable diseases (including TB, STDs, HIV, GCDs, VPDs, Cancer, Lead
+Poisoning, Chronic Diseases) | Pamela Schwartz, Director - Public Health
+Consulting  
+pamela.schwartz@conduent.com  
+NEDSS Base System (NBS) | CDC/CSELS | Multiple local and state health
+departments | Web-Based | Web-based Disease Surveillance, Case Management,
+ELR, Reporting, Workflow Decision Support | Michael Wodajo (gue7@cdc.gov)  
+Marion Anandappa (dza4@cdc.gov)  
+EpiTrax | Collaborative Software Initiative | Multiple local and state health
+departments | Web-based | Surveillance, Case Management, Contact Management,
+Outbreak Management, disease-specific questionnaire development, ELR, AVR,
+support for all communicable diseases | JoDee Baker, Product Manager  
+jodeebaker@utah.gov  
+  
+Additionally, the Council of State and Territorial Epidemiologistsexternal
+icon (CSTE) also maintains information regarding electronic surveillance
+systems being used by its members.
+
+*PRISM-base systems are PRISM ASD databases that have been customized (by the states), reside at the state level, and are maintained by the states. All updates after the systems have been customized are handled by the states, and not Advanced Systems Design.
+
+##### Acronyms:
+
+AVR - Analysis, Visualization, and Reporting
+
+CDC - Centers for Disease Control and Prevention
+
+CSELS - Center for Surveillance, Epidemiology, and Laboratory Services
+
+ELR - Electronic Laboratory Reporting
+
+GCDs - General Communicable Diseases
+
+HAI - Healthcare-Associated Infections
+
+HIV - Human Immune Deficiency Virus
+
+NHSN - National Healthcare Safety Network
+
+TB - Tuberculosis
+
+STDs - Sexually Transmitted Diseases
+
+VPDs - Vaccine Preventable Diseases
+
+U.S. - United States
+
+Page last reviewed: November 16, 2019
+
+Content source: Division of STD Prevention, National Center for HIV/AIDS,
+Viral Hepatitis, STD, and TB Prevention, Centers for Disease Control and
+Prevention
+
+home Sexually Transmitted Diseases (STDs)
+
+                                                                                                                                                                                                                                                        * Diseases & Related Conditionsplus icon
+                                                                                                                                                                                                                                                          * Bacterial Vaginosis (BV)
+                                                                                                                                                                                                                                                          * Chlamydia
+                                                                                                                                                                                                                                                          * Gonorrhea
+                                                                                                                                                                                                                                                          * Hepatitis
+                                                                                                                                                                                                                                                          * Herpes
+                                                                                                                                                                                                                                                          * HIV/AIDS & STDs
+                                                                                                                                                                                                                                                          * Human Papillomavirus (HPV)
+                                                                                                                                                                                                                                                          * Pelvic Inflammatory Disease (PID)
+                                                                                                                                                                                                                                                          * STDs & Infertility
+                                                                                                                                                                                                                                                          * STDs during Pregnancyplus icon
+                                                                                                                                                                                                                                                            * Fact Sheet
+                                                                                                                                                                                                                                                            * Detailed Fact Sheet
+                                                                                                                                                                                                                                                            * Statistics
+                                                                                                                                                                                                                                                            * Treatment and Care
+                                                                                                                                                                                                                                                            * Archive
+                                                                                                                                                                                                                                                          * STD Risk and Oral Sex
+                                                                                                                                                                                                                                                          * Syphilis
+                                                                                                                                                                                                                                                          * Trichomoniasis
+                                                                                                                                                                                                                                                          * Other STDsplus icon
+                                                                                                                                                                                                                                                            * Archive
+                                                                                                                                                                                                                                                        * Laboratory Information
+                                                                                                                                                                                                                                                        * Life Stages and Populationsplus icon
+                                                                                                                                                                                                                                                          * Adolescents and Young Adultsplus icon
+                                                                                                                                                                                                                                                            * Adolescents and Technology
+                                                                                                                                                                                                                                                            * Adolescents and STDs Fact Sheet
+                                                                                                                                                                                                                                                          * Gay, Bisexual and Other MSMplus icon
+                                                                                                                                                                                                                                                            * Gay Men & STDs Fact Sheet
+                                                                                                                                                                                                                                                        * Preventionplus icon
+                                                                                                                                                                                                                                                          * Just Diagnosed?
+                                                                                                                                                                                                                                                          * Which STD Tests Should I Get?
+                                                                                                                                                                                                                                                          * STD Lowdown Infographic
+                                                                                                                                                                                                                                                        * Program Management & Evaluation Toolsplus icon
+                                                                                                                                                                                                                                                          * Effective Interventions
+                                                                                                                                                                                                                                                          * Gap Assessment Toolkit
+                                                                                                                                                                                                                                                          * Outbreak Response Resourcesplus icon
+                                                                                                                                                                                                                                                            * Congenital Syphilis HAN Template
+                                                                                                                                                                                                                                                            * Disseminated Gonococcal Infection HAN Template
+                                                                                                                                                                                                                                                            * Gonorrhea with Reduced SusceptibilityÂ HAN Template
+                                                                                                                                                                                                                                                            * LGV HAN Template
+                                                                                                                                                                                                                                                          * Practical Use of Program Evaluation
+                                                                                                                                                                                                                                                          * Program Operations Guidelines
+                                                                                                                                                                                                                                                          * S.P.A.C.E. Monkey
+                                                                                                                                                                                                                                                          * STD Data Management & Information Technologyplus icon
+                                                                                                                                                                                                                                                            * Generic Information Technology
+                                                                                                                                                                                                                                                            * BPMM
+                                                                                                                                                                                                                                                          * Partner Servicesplus icon
+                                                                                                                                                                                                                                                            * Internet Partner Services Toolkit
+                                                                                                                                                                                                                                                            * VCAmon
+                                                                                                                                                                                                                                                            * CS Webinar Questions
+                                                                                                                                                                                                                                                        * Projects & Initiativesplus icon
+                                                                                                                                                                                                                                                          * STD PCHDplus icon
+                                                                                                                                                                                                                                                            * Guidance
+                                                                                                                                                                                                                                                          * National Disease Intervention Specialist (DIS) Recognition Day
+                                                                                                                                                                                                                                                          * Gonococcal Isolate Surveillance Project (GISP)
+                                                                                                                                                                                                                                                          * STD Health Equityplus icon
+                                                                                                                                                                                                                                                            * Community Approaches to Reducing STDs
+                                                                                                                                                                                                                                                            * Archive
+                                                                                                                                                                                                                                                          * STD Surveillance Network (SSuN)
+                                                                                                                                                                                                                                                          * Archive
+                                                                                                                                                                                                                                                        * Statisticsplus icon
+                                                                                                                                                                                                                                                          * Indian Health Service Reports
+                                                                                                                                                                                                                                                          * SDMB Contacts
+                                                                                                                                                                                                                                                          * Archive
+                                                                                                                                                                                                                                                        * Tools & Materialsplus icon
+                                                                                                                                                                                                                                                          * Brochuresplus icon
+                                                                                                                                                                                                                                                            * The Facts Brochures
+                                                                                                                                                                                                                                                          * Fact Sheetsplus icon
+                                                                                                                                                                                                                                                            * ä¸­æ (Chinese)
+                                                                                                                                                                                                                                                            * KreyÃ²l (Haitian Creole)
+                                                                                                                                                                                                                                                            * Ð ÑÑÑÐºÐ¸Ð¹ (Russian)
+                                                                                                                                                                                                                                                            * Tiáº½ng ViÃªt (Vietnamese)
+                                                                                                                                                                                                                                                          * Infographics
+                                                                                                                                                                                                                                                          * Prevention Success Stories
+                                                                                                                                                                                                                                                          * Provider Pocket Guides
+                                                                                                                                                                                                                                                          * Syndicated Content
+                                                                                                                                                                                                                                                          * Videos and Podcastsplus icon
+                                                                                                                                                                                                                                                            * Letâs Talk About Sexual Health
+                                                                                                                                                                                                                                                            * Safe in the City
+                                                                                                                                                                                                                                                          * Webinars
+                                                                                                                                                                                                                                                          * Widgets
+                                                                                                                                                                                                                                                          * Archive
+                                                                                                                                                                                                                                                        * Trainingplus icon
+                                                                                                                                                                                                                                                          * STD Prevention Coursesplus icon
+                                                                                                                                                                                                                                                            * Passport to Partner Services
+                                                                                                                                                                                                                                                            * Advanced STD Intervention
+                                                                                                                                                                                                                                                            * Visual Case Analysis
+                                                                                                                                                                                                                                                            * Principles of STD Supervision
+                                                                                                                                                                                                                                                            * STD Intervention for Supervisors
+                                                                                                                                                                                                                                                            * Essentials of STD Supervision I
+                                                                                                                                                                                                                                                            * Tailored Training
+                                                                                                                                                                                                                                                          * Continuing Education Online
+                                                                                                                                                                                                                                                          * SASSI â SAS Training
+                                                                                                                                                                                                                                                          * STD 101 in a Boxplus icon
+                                                                                                                                                                                                                                                            * Home
+                                                                                                                                                                                                                                                            * Script for _Sex in the City_ Video
+                                                                                                                                                                                                                                                          * STD Clinical Slidesplus icon
+                                                                                                                                                                                                                                                            * STD Clinical Slides
+                                                                                                                                                                                                                                                          * STD Picture Cardsplus icon
+                                                                                                                                                                                                                                                            * STD Picture Cards
+                                                                                                                                                                                                                                                        * Treatment and Screeningplus icon
+                                                                                                                                                                                                                                                          * Drug Noticesplus icon
+                                                                                                                                                                                                                                                            * Gemifloxacin 
+                                                                                                                                                                                                                                                            * Procaine Penicillin G Shortage
+                                                                                                                                                                                                                                                            * Erythromycin (0.5%) Ophthalmic Ointment Shortage
+                                                                                                                                                                                                                                                          * Expedited Partner Therapyplus icon
+                                                                                                                                                                                                                                                            * Gonorrhea Guidance
+                                                                                                                                                                                                                                                            * Legal Status of EPT
+                                                                                                                                                                                                                                                            * Legal/Policy Toolkit
+                                                                                                                                                                                                                                                          * Prenatal Syphilis Screening Laws
+                                                                                                                                                                                                                                                          * STD QCS
+                                                                                                                                                                                                                                                          * Additional Resources
+                                                                                                                                                                                                                                                          * Archive
+                                                                                                                                                                                                                                                        * About the Division of STD Preventionplus icon
+                                                                                                                                                                                                                                                          * Fundingplus icon
+                                                                                                                                                                                                                                                            * Disease Intervention Training Centers (DITC)
+                                                                                                                                                                                                                                                            * National Network of STD Clinical Prevention Training Centers (NNPTC)
+                                                                                                                                                                                                                                                            * STD Surveillance Network (SSuN)plus icon
+                                                                                                                                                                                                                                                              * SSuN: Program and other NOFO Guidance
+                                                                                                                                                                                                                                                            * Funding Archive
+                                                                                                                                                                                                                                                          * Strategic Summary
+                                                                                                                                                                                                                                                          * Archive
+
+Follow STD
+
+                                                                                                                                                                                                                                                        * Social_round_twitter twitter STD on Twitter
+                                                                                                                                                                                                                                                        * Social_round_facebook facebook STD on Facebook
+
+**HAVE QUESTIONS?**
+
+Visit CDC-INFO
+
+Call 800-232-4636
+
+Email CDC-INFO
+
+Open 24/7
+
+**CDC INFORMATION**
+
+                                                                                                                                                                                                                                                        * About CDC
+                                                                                                                                                                                                                                                        * Jobs
+                                                                                                                                                                                                                                                        * Funding
+                                                                                                                                                                                                                                                        * Policies
+                                                                                                                                                                                                                                                        * File Viewers & Players
+
+                                                                                                                                                                                                                                                        * Privacy
+                                                                                                                                                                                                                                                        * FOIA
+                                                                                                                                                                                                                                                        * No Fear Act
+                                                                                                                                                                                                                                                        * OIG
+                                                                                                                                                                                                                                                        * Nondiscrimination
+                                                                                                                                                                                                                                                        * Accessibility
+
+**CONNECT WITH CDC**  
+
+                                                                                                                                                                                                                                                        * Facebook
+                                                                                                                                                                                                                                                        * Twitter
+                                                                                                                                                                                                                                                        * Youtube
+                                                                                                                                                                                                                                                        * Instagram
+  
+
+                                                                                                                                                                                                                                                        * Syndicate
+                                                                                                                                                                                                                                                        * CDC TV
+                                                                                                                                                                                                                                                        * RSS
+                                                                                                                                                                                                                                                        * Email
+
+U.S. Department of Health & Human Services
+
+USA.gov
+
+CDC Website Exit Disclaimer external icon
+
+                                                                                                                                                                                                                                                        * Facebook
+                                                                                                                                                                                                                                                        * Twitter
+                                                                                                                                                                                                                                                        * LinkedIn
+                                                                                                                                                                                                                                                        * Email
+
+![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+
+SAS stats
+
+#### Exit Notification/Disclaimer Policy
+
+Close
+
+**Links with this icon indicate that you are leaving the CDC website.**
+
+                                                                                                                                                                                                                                                        * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+                                                                                                                                                                                                                                                        * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+                                                                                                                                                                                                                                                        * You will be subject to the destination website's privacy policy when you follow the link.
+                                                                                                                                                                                                                                                        * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+For more information on CDC's web notification policies, see Website
+Disclaimers.
+
+Cancel Continue
+
+  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
+  *[4 hrs]: Tuesday, April 7, 2020 at 2:56 PM
+  *[9 hrs]: Tuesday, April 7, 2020 at 10:08 AM
+  *[12 hrs]: Tuesday, April 7, 2020 at 7:00 AM
+  *[Yesterday at 9:38 AM]: Monday, April 6, 2020 at 9:38 AM
+  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
+  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
+  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
+  *[ 11 hrs]: Tuesday, April 7, 2020 at 8:30 AM
+  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
+  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
+  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
+  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
+  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
+  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
+  *[11 hrs]: Tuesday, April 7, 2020 at 8:48 AM
+  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
+  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
+  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
+  *[PDF]: Portable Document Format
+  *[GTSS]: Global Tobacco Surveillance System
+  *[CDC]: Centers for Disease Control and Prevention
+  *[GATS]: Global Tobacco Surveillance System
+  *[PDF-2.96 MB]]: Portable Document Format
+  *[PDF-2.25 MB]]: Portable Document Format
+  *[PDF-6.14 MB]]: Portable Document Format
+  *[PDF-2.65MB]]: Portable Document Format
+  *[NTCP]: National Tobacco Control Program
+  *[OSH]: Office on Smoking and Health
+  *[5 hrs]: Tuesday, April 7, 2020 at 2:56 PM
+

@@ -1,926 +1,403 @@
-
+https://www.cdc.gov/tobacco/basic_information/e-cigarettes/severe-lung-disease.htmlLink: https://www.cdc.gov/tobacco/basic_information/e-cigarettes/severe-lung-disease.html    
+                Description: CDC is investigating an outbreak of e-cigarette, or vaping, product use associated lung injury (EVALI). Learn CDCâs recommendations, and the latest outbreak information.    
+                Keywords: aerosol, brands, bronchoalveolar lavage, BAL, cannabinoid, CBD oils, cases, CBD, chart, dank, deaths, e-cigarettes, e-hookahs, electronic nicotine delivery, systems, ENDS, EVALI, lung fluid samples, illness, injury, map, marijuana, mods, outbreak, patients, pens, products, sickness, symptoms, tank, testing, tetrahydrocannabinol, THC, vapes, vaping, vitamin E acetate, Smoking &amp; Tobacco Use, Cigarette Smoking, Smoking Cessation, Youth smoking, Electronic Cigarettes (e-cigarette), Electronic Cigarettes, Vaping    
+                            
 
 Skip directly to site content Skip directly to page options Skip directly to
 A-Z link
 
-Centros para el Control y la PrevenciÃ³n de Enfermedades. CDC 24/7: Salvamos
-vidas. Protegemos a la gente. Centros para el Control y la PrevenciÃ³n de
-Enfermedades. CDC 24/7: Salvamos vidas. Protegemos a la gente.â¢
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving
+Lives, Protecting People Centers for Disease Control and Prevention. CDC
+twenty four seven. Saving Lives, Protecting People
 
-Índice A-Z de los CDC
+Search ____
 
-Enviar
+Ã
 
-Buscar
+Submit __
 
-Enviar
+For a full list of topics: A-Z Index
 
-Lista de todos los temas: Índice A-Z de los CDC
-
-Buscar menu desplegable
-
-Enviar
-
-Índice A-Z de los CDC: Índice A-Z de los CD
-
-_Salmonella_
+Smoking & Tobacco Use
 
 Section Navigation
 
 CDC Home
 
-                    * Facebook
-                    * Twitter
-                    * LinkedIn
-                    * Email
-                    * Syndicate
+                      * Facebook
+                      * Twitter
+                      * LinkedIn
+                      * Email
+                      * Syndicate
 
-# Brote de infecciones por _Salmonella_ multirresistente vinculado a productos
-de pavo crudo
+# Outbreak of Lung Injury Associated with the Use of E-Cigarette, or Vaping,
+Products
 
-ActualizaciÃ³n final
-
-English (US)
+EspaÃ±ol (Spanish)
 
 Minus
 
-PÃ¡ginas relacionadas
-
-![Illustration with a microscope and text reading Investigation
-Notice](/salmonella/images/outbreaks/investigation-notice-banner-esp.jpg)
+Related Pages
+
+![Translucent human figure with lungs
+highlighted](/tobacco/basic_information/e-cigarettes/severe-lung-
+disease/images/lung-injury-wide-tall.jpg)
+
+CDC, the U.S. Food and Drug Administration (FDA), state and local health
+departments, and other clinical and public health partners are investigating a
+national outbreak of e-cigarette, or vaping, product use-associated lung
+injury (EVALI).
+
+For Healthcare Providers
+
+For Health Departments
+
+Frequently Asked Questions
+
+Resources
+
+Digital Press Kit
+
+**On This Page**
+
+                      * Overview
+                      * What We Know
+                      * What CDC Recommends
+                      * Key Facts about E-Cigarette Use, or Vaping
+                      * Key Facts about Vitamin E Acetate
+                      * Latest Information
+                      * Map of Reported Cases
+                      * Epi Chart of Reported Hospital Admissions
+                      * What CDC is Doing
+
+calendar alt icon **Updated February 25, 2020, at 1:00 PM EST**
+
+Overview
+
+                      * CDC, FDA, and state health authorities have made progress in identifying the cause of EVALI.
+                      * Emergency department (ED) visits related to e-cigarette, or vaping, products continue to decline, after sharply increasing in August 2019 and peaking in September.
+                      * National and state data from patient reports and product sample testing show tetrahydrocannabinol (THC)-containing e-cigarette, or vaping, products, particularly from informal sources like friends, family, or in-person or online dealers, are linked to most EVALI cases and play a major role in the outbreak.
+                      * Vitamin E acetate is strongly linked to the EVALI outbreak. Vitamin E acetate has been found in product samples tested by FDA and state laboratories and in patient lung fluid samples tested by CDC from geographically diverse states. Vitamin E acetate has not been found in the lung fluid of people that do not have EVALI.
+                      * Evidence is not sufficient to rule out the contribution of other chemicals of concern, including chemicals in either THC or non-THC products, in some of the reported EVALI cases.
 
-Publicado el 3 de mayo del 2019
+CDC will continue to update guidance related to EVALI as appropriate.
 
-Esta es la actualizacion final de la investigacion de este brote. La cantidad
-de nuevos casos de enfermedad notificados ha disminuido, pero las personas
-podrian continuar enfermandose. Las personas pueden contraer una infeccion por
-_Salmonella_ al comer pavo que no este bien cocido o al tocar pavo crudo,
-incluso los alimentos crudos para mascotas que estan envasados. Siempre cocine
-el pavo completamente. Vea los consejos de los CDC para prevenir que el pavo
-sea la causa de enfermedades transmitidas por alimentos. Los CDC continuan
-monitoreando la base de datos de la red PulseNet para encontrar casos de
-enfermedad y continuan colaborando con los estados para entrevistar a las
-personas enfermas. El Sistema Nacional de Monitoreo de la Resistencia a los
-Antibioticos (NARMS) de los CDC continua analizando colonias aisladas de
-_Salmonella_ para detectar patrones de resistencia a los antibioticos.
-
-**Los CDC, el Servicio de Inocuidad e Inspecci on de los Alimentos del
-Departamento de Agricultura de los EE. UU. (USDA-FSIS), y funcionarios de
-salud publica y reguladores en varios estados investigaron un brote
-multiestatal de infecciones por _Salmonella_ multirresistente vinculado a
-productos de pavo crudo. Los CDC continuaran monitoreando las notificaciones
-de personas enfermas porque esta cepa de _Salmonella_ parece estar
-generalizada en la industria de la carne de pavo.**
-
-Informacion final sobre el brote
-
-![Illustration of a megaphone.](/salmonella/images/outbreaks/megaphone.jpg)
-
-Vistazo general
-
-                    * Casos reportados: 358
-                    * Estados: 42
-                    * Hospitalizaciones: 133
-                    * Muertes: 1
-
-                    * La informacion disponible indica que la cepa de _Salmonella_ Reading del brote esta presente en pavos vivos y en muchos tipos de productos de pavo crudo. Los CDC y el USDA-FSIS compartieron esta informacion con representantes de la industria de la carne de pavo, incluida la Federacion Nacional de Productores de Pavo, y les han pedido que tomen medidas para reducir la contaminacion con _Salmonella_. 
-                      * Esta es la actualizacion final de la investigacion de este brote. La cantidad de nuevos casos de enfermedad notificados ha disminuido, pero las personas podrian continuar enfermandose.
-                      * Se preve que esta cepa del brote siga presente en pavos vivos y en productos de pavo crudo hasta que las medidas que tome la industria reduzcan efectivamente la contaminacion con _Salmonella_.
-                    * Cuarenta y dos estados notificaron un total de 358 personas infectadas por la cepa de _Salmonella_ Reading del brote. 
-                      * 133 personas fueron hospitalizadas. Se notifico una muerte.
-                      * El caso de enfermedad notificado mas recientemente comenzo el 31 de marzo del 2019.
-                    * Los hallazgos epidemiologicos y de laboratorio indicaron que muchos tipos de productos de pavo de una variedad de fuentes estan contaminados con _Salmonella_ Reading y estan causando enfermedad en las personas. 
-                      * La cepa del brote se identifico en muestras tomadas de productos de pavo crudo, alimento para mascotas con pavo crudo y pavos vivos.
-                      * Varios productos de pavo han sido retirados del mercado porque podrian haber estado contaminados con _Salmonella_. Vea a continuacion la lista de productos retirados del mercado.
-                      * La informacion disponible indica que estos productos retirados del mercado no son la causa del brote entero.
-                    * No se ha identificado un proveedor unico que los productos de pavo crudo o los pavos vivos tuvieran en comun.
-                    * La Agencia de Salud Publica de Canadaexternal icon ha identificado en ese pais a personas enfermas infectadas con bacterias _Salmonella_ Reading con la misma huella genetica.
-                    * Los CDC brindaran actualizaciones en el futuro si hay un aumento en la cantidad de nuevos casos notificados.
-
-Recomendaciones para los consumidores y minoristas
-
-![Illustration of a clipboard with check marks on
-it.](/salmonella/images/outbreaks/clipboard.jpg)
-
-#### Recomendaciones
-
-**Prepare siempre el pavo crudo con cuidado y coc inelo completamente para
-prevenir las intoxicaciones alimentarias. Los productos de pavo crudo pueden
-tener microbios que se propagan por las areas de preparacion de alimentos y
-pueden hacer que usted se enferme.**
-
-**Con la excepci on de los productos de pavo ****retirados del mercado**
-external icon **, los CDC no est an recomendando que los consumidores eviten
-comer productos de pavo cocinados adecuadamente ni que los minoristas dejen de
-vender productos de pavo crudo.**
-
-Los CDC recomiendan que los consumidores tomen estas medidas para ayudar a
-prevenir la infeccion por _Salmonella_ causada por pavo crudo:
-
-                    * **L avese las manos.** La infeccion por _Salmonella_ puede transmitirse de una persona a otra. Lavese las manos antes y despues de tocar productos de pavo crudos.
-                    * **Cocine completamente el pavo crudo para eliminar los microbios da ñinos.** Las pechugas de pavo, los pavos enteros y la carne de ave molida (incluidas las hamburguesas, los guisados y las salchichas de pavo) siempre se deben cocinar hasta que alcancen una temperatura interna de 165 °F para eliminar los microbios dañinos. Las sobras se deben recalentar hasta que alcancen los 165 °F. Use un termometro de alimentos para medir la temperatura e insertelo en la parte mas gruesa del alimentoexternal icon.
-                    * **No propague los microbios del pavo crudo por las areas de preparacion de alimentos.** No se recomienda lavar la carne cruda de ave antes de cocinarlaexternal icon. Los microbios que se encuentran en los jugos de estas carnes crudas pueden propagarse a otras areas y a otros alimentos. Lavese bien las manos, limpie los mesones, y lave las tablas de cortar y los utensilios con agua tibia jabonosa despues de que hayan estado en contacto con pavo crudo. Si es posible, para cortar el pavo crudo use una tabla diferente de la que use para cortar otras carnes crudas.
-                    * **Los CDC no recomiendan darles** **alimentos crudos a las mascotas**. Los microbios como las bacterias _Salmonella_ en el alimento crudo para mascotas pueden enfermarlas. Sus familiares tambien se pueden enfermar si manipulan el alimento crudo o cuidan a la mascota.
-
-#### Retiros del mercado
-
-No coma, venda ni sirva ningun producto de pavo retirado del mercado:
-
-**Pavo molido**
-
-                    * La empresa Jennie-O Turkey Store Sales, LLC, de Faribault, Minnesota, retiro del mercadoexternal icon aproximadamente 164 210 libras de productos de pavo molido crudo el 21 de diciembre del 2018. El pavo molido retirado del mercado se vendia en paquetes de 1 libra, 2.5 libras y 3 libras y en su etiqueta aparece el numero de establecimiento "P-579". Este numero se encuentra en el costado del envase del producto.
-                    * La empresa Jennie-O Turkey Store Sales, LLC, de Barron, Wisconsin, retiro del mercadoexternal icon aproximadamente 147 276 libras de productos de pavo molido crudo el 15 de noviembre del 2018. El pavo molido retirado del mercado se vendia en paquetes de una libra y en su etiqueta aparece el numero de establecimiento "P-190". Este numero se encuentra dentro del sello de inspeccion del USDA.
-
-**Alimento para mascotas**
-
-                    * La empresa Woody's Pet Food Deli, de Minnesota, retiro del mercadoexternal icon el alimento para mascotas que contenia pavo crudo el 28 de enero del 2019. El producto retirado del mercado se vendia en envases de plastico de 5 libras con una etiqueta que decia "Woody's Pet Food Deli Raw Free Range Turkey". Este producto se vendia en Minnesota.
-                    * La empresa Raws for Paws, de Minneapolis, Minnesota, retiro del mercadoexternal icon aproximadamente 4000 libras de sus envases de 1 y 5 libras de alimento para mascotas con pavo molido Ground Turkey Pet Food el 5 de febrero del 2018.
-
-Sintomas de la infeccion por _Salmonella_
-
-![Illustration of a person with stomach
-pain.](/salmonella/images/outbreaks/symptoms.jpg)
-
-                    * La mayoria de las personas con infeccion por _Salmonella_ presentan diarrea, fiebre y colicos estomacales 12 a 72 horas despues de haber estado expuestas a las bacterias.
-                    * La enfermedad generalmente dura de 4 a 7 dias y la mayoria de las personas se recuperan sin tratamiento.
-                    * En algunas personas la diarrea puede ser tan grave que necesitan ser hospitalizadas. La infeccion por _Salmonella_ se puede propagar de los intestinos al torrente sanguineo y despues a otras partes del cuerpo.
-                    * En casos raros, la infeccion por _Salmonella_ puede causar la muerte, a menos que la persona sea tratada pronto con antibioticos.
-                    * Los niños menores de 5 años, los adultos mayores de 65 y las personas con el sistema inmunitario debilitado tienen una probabilidad mayor de enfermarse gravemente.
-                    * Para obtener mas informacion, visite el sitio web de __Salmonella__ de los CDC.
-
-Detalles de la investigacion
-
-#### 3 de mayo de 2019
-
-Los CDC, el Servicio de Inocuidad e Inspeccion de los Alimentos del
-Departamento de Agricultura de los EE. UU. (USDA-FSIS), y funcionarios de
-salud publica y reguladores en varios estados investigaron un brote
-multiestatal de infecciones por _Salmonella_ Reading vinculado a productos de
-pavo crudo.
-
-Los investigadores de salud publica usaron el sistema PulseNet para
-identificar los casos de enfermedad que podrian haber sido parte de este
-brote. PulseNet es la red nacional de subtipificacion de los laboratorios de
-agencias de salud publica y agencias reguladoras de los alimentos, coordinada
-por los CDC. La identificacion genetica se realizo en las bacterias
-_Salmonella_ aisladas de personas enfermas usando tecnicas llamadas
-electroforesis en gel de campo pulsado (PFGE, por sus siglas en ingles) y
-secuenciacion del genoma completo (WGS, por sus siglas en ingles). La red
-PulseNet de los CDC administra la base de datos nacional de estas huellas
-geneticas a fin de identificar los posibles brotes. La secuenciacion del
-genoma completo da una huella genetica mas detallada que la electroforesis en
-gel de campo pulsado. La secuenciacion del genoma completo realizada en
-muestras de _Salmonella_ de personas enfermas en este brote mostro que las
-bacterias estan muy relacionadas geneticamente. Esto significa que las
-personas enfermas tenian mas probabilidades de tener una fuente en comun de
-infeccion.
-
-Hasta el 22 de abril del 2019, cuarenta y dos estados y el Distrito de
-Columbia habian notificado un total de 358 personas infectadas por la cepa de
-_Salmonella_ Reading del brote. En la pagina web del mapa de casos reportados
-se puede encontrar una lista de los estados y la cantidad de casos en cada
-uno.
-
-Los casos de enfermedad comenzaron entre el 20 de noviembre del 2017 y el 31
-de marzo del 2019. La edad de las personas enfermas vario desde menos de 1 año
-hasta los 101 años, con una mediana de edad de 42. El 48 % de las personas
-enfermas eran mujeres. De las 302 personas enfermas de las cuales se tiene
-informacion, 133 (el 44 %) fueron hospitalizadas. Se notifico una muerte en
-California.
-
-Con base en la secuenciacion del genoma completo, se determino que habia
-resistencia a los antibioticos prevista en 487 colonias aisladas. No hubo
-resistencia a los antibioticos prevista en 173 (el 36 %) colonias aisladas de
-86 personas enfermas y de 87 muestras ambientales, de alimentos y de animales.
-Las otras 314 colonias aisladas (180 de personas enfermas y 134 de muestras
-ambientales, de alimentos y de animales) contenian genes de resistencia o
-menor sensibilidad a algunos de los siguientes antibioticos o a todos ellos:
-la ampicilina (un 52 % de todas las 487 colonias aisladas), la estreptomicina
-(un 32 %), el sulfametoxazol (un 31 %), la tetraciclina (un 32 %), la
-kanamicina (un 3.4 %), la gentamicina (un 0.6 %), el acido nalidixico (un 0.4
-%), la ciprofloxacina (un 0.4 %), el trimetoprim con sulfametoxazol (un 0.4 %)
-y la fosfomicina (un 0.2 %). Los analisis de 20 colonias aisladas, realizados
-con pruebas estandar de sensibilidad a los antibioticos por el laboratorio del
-Sistema Nacional de Monitoreo de la Resistencia a los Antibioticos (NARMS), de
-los CDC, confirmaron estos resultados (no se hicieron pruebas con este metodo
-para la fosfomicina y la kanamicina). La mayoria (un 99 %) de los casos de
-infeccion en seres humanos en este brote tuvieron sensibilidad a los
-antibioticos que se usan comunmente para el tratamiento cuando los resultados
-sobre la sensibilidad no estan disponibles. Estos resultados significan que
-esta resistencia probablemente no afectara la seleccion de antibioticos que se
-usen para el tratamiento.
-
-#### Investigacion del brote
-
-Los departamentos de salud estatales y locales entrevistaron a personas
-enfermas acerca de los alimentos que consumieron y otras exposiciones que
-tuvieron la semana anterior a que se enfermaran. De las 200 personas enfermas
-entrevistadas, 130 (un 65 %) dijeron haber preparado o comido productos de
-pavo que se compraron crudos, incluidos pavo molido, trozos de pavo y pavo
-entero. Las personas enfermas reportaron haber comprado productos de pavo
-crudo de muchas marcas diferentes y de multiples tiendas. Ademas, 4 de las 200
-personas enfermas entrevistadas se enfermaron despues de que mascotas en su
-casa comieron alimento para mascotas con pavo molido crudoexternal icon. Cinco
-de las 200 personas enfermas entrevistadas trabajaban en un establecimiento de
-cria o procesamiento de pavos, o vivian con alguien que trabajaba alli. En
-febrero del 2019, cuarenta y siete personas se enfermaron despues de comer
-pavo que no habia sido manipulado de manera adecuada en un evento en Iowa.
-
-Funcionarios de salud publica de Arizona y Michigan recolectaron paquetes de
-pavo molido de la marca Jennie-O sin abrir de las casas de personas enfermas.
-Funcionarios en Minnesota tambien recolectaron alimento para mascotas con pavo
-crudo que se les habia dado a las mascotas en las casas de personas enfermas.
-La cepa de _Salmonella_ Reading del brote se identifico en muestras de carne
-de pavo molida y de alimento para mascotas con pavo crudo. La secuenciacion
-del genoma completo mostro que las bacterias _Salmonella_ aisladas de las
-personas enfermas, de carne de pavo molida y del alimento para mascotas con
-pavo crudo estaban muy relacionadas geneticamente. Estos resultados
-proporcionaron mas evidencia de que las personas afectadas en este brote se
-enfermaron por comer o manipular productos de pavo.
-
-Varios productos de carne de pavo molida de la marca Jennie-O se retiraron del
-mercado en noviembre y diciembre del 2018. Raws for Paws retiro del mercado
-alimento para mascotas con pavo crudo en febrero del 2018, y Woody's Pet Food
-Deli retiro del mercado alimento para mascotas con pavo crudo en enero del
-2019.
-
-La cepa del brote tambien fue identificada en muestras de productos de pavo
-crudo provenientes de 24 mataderos y 14 plantas de procesamiento. El Servicio
-de Inocuidad e Inspeccion de los Alimentos recolecto las muestras en estos
-mataderos y plantas de procesamiento como parte de sus pruebas de rutina
-conforme a los estandares de desempeño respecto de la _Salmonella_. Ademas, la
-secuenciacion del genoma completo mostro que la cepa de _Salmonella_ aislada
-de estas muestras esta muy relacionada geneticamente con la cepa de
-_Salmonella_ de las personas enfermas.
-
-Los datos disponibles indican que esta cepa de _Salmonella_ Reading esta
-presente en pavos vivos y en productos de pavo crudo. No se ha identificado un
-proveedor unico de productos de pavo crudo ni de pavos vivos, comun a todos
-los casos, que pudiera ser el responsable del brote entero.
-
-Esta es la actualizacion final de la investigacion de este brote. La cantidad
-de nuevos casos de enfermedad notificados ha disminuido, pero las personas
-podrian continuar enfermandose. Los CDC continuan monitoreando la base de
-datos de la red PulseNet para encontrar casos de enfermedad y continuan
-colaborando con los estados para entrevistar a las personas enfermas. El
-Sistema Nacional de Monitoreo de la Resistencia a los Antibioticos (NARMS) de
-los CDC continua analizando colonias aisladas de _Salmonella_ para detectar
-patrones de resistencia a los antibioticos. Los CDC brindaran actualizaciones
-en el futuro si hay un aumento en la cantidad de nuevos casos notificados.
-
-##### Actualizaciones anteriores >>
-
-Cifras del brote
-
-map icon
-
-Mapa de casos reportados
-
-chart icon
-
-Cronograma de los casos reportados
-
-Recursos importantes
-
-                    * Consejos sobre la seguridad de los alimentos
-                    * _La Salmonella y los alimentos_
-                    * Consejos sobre como preparar el pavo de manera segura para las fiestas
-                    * La carne de ave molida y la seguridad de los alimentosexternal icon
-                    * Departamento de Salud de Minnesota:external icon Casos de _Salmonella_ vinculados a alimento para perros con carne crudaexternal icon
-                    * Ayude a resolver los brotes de enfermedades transmitidas por alimentos
-                    * Como reportar una enfermedad transmitida por alimentos
-
-Esta pÃ¡gina fue revisada el: 3 de mayo de 2019
-
-Fuente del contenido: Centers for Disease Control and Prevention, National
-Center for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of
-Foodborne, Waterborne, and Environmental Diseases (DFWED)
-
-home _Salmonella_ Homepage
-
-                    * Questions & Answersplus icon
-                      * Additional Information
-                    * Prevention
-                    * Symptoms
-                    * Diagnosis & Treatmentplus icon
-                      * Diagnostic and Public Health Testing
-                    * Current Outbreaksplus icon
-                      * Reporting Timeline
-                      * _Salmonella_ Infections Linked to Small Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tortugas mascota pequeÃ±as
-                      * _Salmonella_ Infections Linked to Cut Fruitplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Ground Beefplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a la carne de res molida
-                      * _Salmonella_ Infections Linked to Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a turtugas mascota
-                      * _Salmonella_ Infections Linked to Pig Ear Dog Treatsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Papayasplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a papayas frescas enteras importadas de MÃ©xico
-                      * _Salmonella_ Infections Linked to Karawan brand Tahiniplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tahini de la marca Karawan
-                      * _Salmonella_ Infections Linked to Backyard Poultryplus icon
-                        * Map of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brotes de infecciones por _Salmonella_ vinculados a aves de corral domÃ©sticas
-                      * _Salmonella_ Infections Linked to Frozen Raw Tunaplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Newport vinculado a atÃºn crudo congelado
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                      * _Salmonella_ Infections Linked to Pre-Cut Melonplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Carrau vinculado a melÃ³n y sandÃ­a precortados
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                      * _Salmonella_ Infections Linked to Butterball Brand Ground Turkeyplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado al pavo molido de marca Butterball
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones de la investigaciÃ³n del brote, por fecha
-                      * _Salmonella_ Infections Linked to Pet Hedgehogsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a los erizos como mascota
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                    * Previous Outbreaksplus icon
-                      * 2018 Outbreaksplus icon
-                        * Multidrug-Resistant _Salmonella_ Infections Linked to Raw Turkey Productsplus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pavo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Tahini from Achdut Ltd., 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a tahini elaborado por Achdut Ltd.
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Raw Chicken Products, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Advice to Clinicians
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pollo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Recomendaciones para los mÃ©dicos
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Ground Beef, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a carne molida de res
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Agbeni Infections, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Gravel Ridge Farms Shell Eggs, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Chicken, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Hy-Vee Spring Pasta Salad, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella vinculado a la ensalada de pasta âHy-Vee Spring Pasta Saladâ
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Kelloggâs Honey Smacks Cereal, 2018plus icon
-                          * Salmonella Infections Linked to Kelloggâs Honey Smacks Cereal en EspaÃ±ol
-                          * Recall and Advice to Consumers, Restaurants and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pre-Cut Melon, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pre-Cut Melon en EspaÃ±ol
-                          * Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks, 2018plus icon
-                          * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Braenderup Infections Linked to Shell Eggs, 2018plus icon
-                          * _Salmonella_ Braenderup Infections Linked to Shell Eggs en EspaÃ±ol
-                          * Recalls and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Dried Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Dried Coconut en EspaÃ±ol
-                          * Recall and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Guinea Pigs, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pet Guinea Pigs en EspaÃ±ol
-                          * Case Count Maps
-                          * Case Count Maps en EspaÃ±ol
-                          * Signs & Symptoms
-                          * Signs & Symptoms en EspaÃ±ol
-                        * _Salmonella_ Infections Linked to Chicken Salad, 2018plus icon
-                          * _Salmonella_ Infections Linked to Chicken Salad en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Kratom, 2018plus icon
-                          * _Salmonella_ Infections Linked to Kratom en EspaÃ±ol
-                          * Recalls and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo Infections Linked to Raw Sprouts, 2018plus icon
-                          * _Salmonella_ Infections Linked to Raw Sprouts en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Shredded Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut en EspaÃ±ol
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut á» Viá»t Nam [PDF â 3 pages]
-                          * Recall and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2017 Outbreaksplus icon
-                        * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Turtles, 2017plus icon
-                          * _Salmonella_ Infections Linked to Small Turtles, 2017 en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Laboratory Exposure, 2017plus icon
-                          * Advice to Students & Employees in Microbiology Laboratories
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry in Backyard Flocksplus icon
-                          * Case Count Maps
-                          * Live Poultry FAQ
-                      * 2016 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Contact with Dairy Calves, 2016plus icon
-                          * Case Count Maps
-                          * Epi Curves
-                        * _Salmonella_ Oranienburg Infections Linked to Shell Eggs, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Reading and _Salmonella_ Abony Infections linked to Alfalfa Sprouts, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps 
-                          * Epi Curves 
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2016plus icon
-                          * Advice to Consumers and Retailers
-                          * Live Poultry FAQs
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo and _Salmonella_ Senftenberg Infections Linked to Wonderful Pistachios, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Alfalfa Sprouts from One Contaminated Seed Lot, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Virchow Infections Linked to Raw Meal Organic Shake and Meal Products, 2016plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2015 Outbreaksplus icon
-                        * _Salmonella_ Paratyphi B variant L(+) tartrate(+) Infections Linked to Sprouted Nut Butter Spreads, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2015plus icon
-                          * Human _Salmonella_ Infections Linked to Small Turtles en EspaÃ±ol
-                          * Advice to Pet Owners
-                          * Advice to Pet Owners en EspaÃ±ol
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * _Salmonella_ Poona Infections Linked to Imported Cucumbers, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Multidrug-Resistant _Salmonella_ I 4,[5],12:i:- and _Salmonella_ Infantis Infections Linked to Pork, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Aspen Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Drug-Resistant _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Barber Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2015plus icon
-                          * Advice to Backyard Flock Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Raw Tuna, 2015plus icon
-                          * Advice to Retailers & Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Crested Geckos, 2015plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2014 Outbreaksplus icon
-                        * Enteritidis Infections Linked to Bean Sprouts, 2014plus icon
-                          * Advice to Consumers & Retailers
-                          * Final Case Count Maps
-                          * Final Epi Curve
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Linked to Nut Butter, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human Typhimurium Infections Linked to Laboratory Exposure, 2014plus icon
-                          * Advice to Students & Employees in Labs
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Chia Powder, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Frozen Feeder Rodents, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Bearded Dragons, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Heidelberg Infections Linked to Tyson Brand Mechanically Separated Chicken, 2014plus icon
-                          * Recall & Advice to Institutions
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Stanley Infections Linked to Raw Cashew Cheese, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2013 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Foster Farms Brand Chicken, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * _Salmonella_ Mbandaka Infections Linked to Tahini Sesame Paste, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Live Poultry in Backyard Flocks, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Saintpaul Infections Linked to Imported Cucumbers, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Heidelberg Infections Linked to Chicken, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Typhimurium Infections Linked to Ground Beef, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2012 Outbreaksplus icon
-                        * Bredeney Infections Linked to Peanut Butter, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Hedgehogs, 2012plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Associated with Mangoes, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Typhimurium and Newport Infections Linked to Cantaloupe, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Enteritidis Infections Linked to Ground Beef, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Hadar Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Montevideo Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infantis Infections Linked to Dry Dog Food, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Information for Pet Owners
-                          * Information for Veterinarians
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Bareilly and Nchanga Infections Associated with a Raw Scraped Ground Tuna Product, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Outbreaks Diagram
-                          * Signs & Symptoms
-                          * Key Resource
-                        * Enteritidis Infections Linked to Restaurant Chain A, 2012
-                      * 2010 through 2011 Outbreaksplus icon
-                        * Typhimurium Infections Linked to Ground Beef
-                        * Heidelberg Infections Linked to Kosher Broiled Chicken Livers
-                        * Enteritidis Infections Linked to Turkish Pine Nuts
-                        * Heidelberg Infections Linked to Ground Turkey
-                        * Agona Infections Linked to Whole, Fresh Imported Papayas
-                        * Enteritidis Infections Linked to Alfalfa Sprouts and Spicy Sprouts
-                        * Altona and Johannesburg Infections Linked to Chicks and Ducklings
-                        * Typhimurium Infections Associated with Lab Exposure
-                        * Typhimurium Infections Linked to African Dwarf Frogs
-                        * Hadar Infections Associated with Turkey Burgers
-                        * Panama Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Alfalfa Sprouts
-                        * Enteritidis Infections Associated with Shell Eggs
-                        * Chester Infections Associated with Cheesy Chicken & Rice Frozen EntrÃ©e
-                        * Typhi (Typhoid Fever) Associated with Frozen Mamey Fruit Pulp
-                        * Hartford and Baildon Infections Associated with Restaurant Chain A
-                        * I 4,[5],12:i:- Linked to Frozen Rodents
-                        * Newport Infections Linked to Alfalfa Sprouts
-                        * Montevideo Infections Linked to Red and Black Pepper/Italian-Style Meats
-                      * 2006 through 2009 Outbreaksplus icon
-                        * Saintpaul Infections Linked to Alfalfa Sprouts
-                        * _Salmonella_ Infections Linked to Pistachio Nuts
-                        * Typhimurium Infections Linked to Peanut Butter
-                        * Saintpaul Infections Linked to Raw Produce
-                        * Agona Infections Linked to Rice & Wheat Puff Cereal
-                        * Litchfield Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Pot Pies
-                        * Human Schwarzengrund Infections Linked to Dry Pet Food
-                        * Wandsworth Infections Linked to Veggie Booty
-                        * Tennessee Infections Linked to Peanut Butter
-                        * Typhimurium Infections Linked to Tomatoes
-                    * For Health Professionals
-                    * Surveillanceplus icon
-                      * _Salmonella_ Atlasplus icon
-                        * 32 Individual Serotypes Reports
-                        * Importance of Serotyping
-                        * Snapshots of Serotypes
-                    * Communication Materials
-                    * Reports & Publicationsplus icon
-                      * MMWR Articles
-                      * References
-
-Related Links
-
-                    * Multistate Foodborne Outbreaks
-                    * Zoonotic Diseases (Diseases from Animals)
-                    * Foodborne Illness A-Z
-                    * Estimates of Foodborne Illness
-                    * Report a Foodborne Illness
-                    * Foodsafety.govExternal file_external 
-                    * U.S. Food and Drug Administration (FDA)External file_external 
-                    * USDA Food Safety and Inspection ServiceExternal file_external 
-
-Follow Salmonella
-
-![Sign up for RSS feed.](/salmonella/images/outbreaks/rss-icon.png)
-
-Sign up for RSS Feed
-
-**COMUN ÍQUESE CON CDC-INFO**
-
-phone
-
-¿Tiene preguntas? Tenemos respuestas. 1-800-CDC-INFO (800-232-4636) TTY:
-888-232-6348
-
-email
-
-ComunÃ­quese con CDC-INFO
-
-**INFORMACI ÓN DE LOS CDC**
-
-                    * Acerca de los CDC
-                    * Empleos
-                    * Financiamiento
-                    * Politicas
-                    * Visores de archivos y reproductores
-
-                    * Privacidad
-                    * Ley FOIA
-                    * Ley No Fear
-                    * OIG
-                    * Aviso de no discriminacion
-
-**CON ÉCTESE CON LOS CDC**  
-
-                    * Facebook
-                    * Twitter
-                    * Youtube
-                    * Instagram
+What We Know
+
+ _About the Outbreak:_
+
+                      * **As of February 18, 2020** , a total of 2,807 hospitalized EVALI cases or deaths have been reported to CDC from all 50 states, the District of Columbia, and two U.S. territories (Puerto Rico and U.S. Virgin Islands). 
+                        * Sixty-eight deaths have been confirmed in 29 states and the District of Columbia  **(as of February 18, 2020)**.
+                      * Emergency department (ED) visits related to e-cigarette, or vaping, products continue to decline, after sharply increasing in August 2019 and peaking in September. 
+                        * National ED data and active case reporting from state health departments around the country show a sharp rise in symptoms or cases of EVALI in August 2019, a peak in September 2019, and a gradual, but persistent decline since then.
+                        * Reasons for the decline are likely multifactorial and may be related to the following: 
+                          * Increased public awareness of the risk associated with THC-containing e-cigarette, or vaping, product use as a result of the rapid public health response.
+                          * Removal of vitamin E acetate from some products.
+                          * Law enforcement actions related to illicit products.
+                      * Laboratory data show that vitamin E acetate, an additive in some THC-containing e-cigarette, or vaping, products, is strongly linked to the EVALI outbreak. 
+                        * A recent studyexternal icon analyzed samples from 51 EVALI cases from 16 states and a comparison group of samples from 99 comparison individuals without EVALI for vitamin E acetate, plant oils, medium chain triglyceride (MCT) oil, coconut oil, petroleum distillates, and diluent terpenes.
+                        * Vitamin E acetate was identified in bronchoalveolar lavage (BAL) fluid samples (fluid samples collected from the lungs) from 48 of the 51 EVALI patients, but not in the BAL fluid from the healthy comparison group.
+                        * No other toxicants were found in BAL fluid from either group, except for coconut oil and limonene (1 EVALI patient each).
+                      * Due to continued declines in new EVALI cases since September 2019, and the identification of vitamin E acetate as a primary cause of EVALI, today's release is the final CDC update on the number of hospitalized EVALI cases and deaths nationally. CDC will continue to provide assistance to states, as needed, related to EVALI and will provide any updates at: www.cdc.gov/lunginjury.
+                      * What CDC Recommends
+
+                      * CDC and FDA recommend that people not use THC-containing e-cigarette, or vaping, products, particularly from informal sources like friends, family, or in-person or online dealers.
+                      * Vitamin E acetate should not be added to any e-cigarette, or vaping, products. Additionally, people should not add any other substances not intended by the manufacturer to products, including products purchased through retail establishments.
+                      * Adults using nicotine-containing e-cigarette, or vaping, products as an alternative to cigarettes should not go back to smoking; they should weigh all available information and consider using FDA-approved smoking cessation medicationsexternal icon. If they choose to use e-cigarettes as an alternative to cigarettes, they should completely switch from cigarettes to e-cigarettes and not partake in an extended period of dual use of both products that delays quitting smoking completely. They should contact their healthcare professional if they need help quitting tobacco products, including e-cigarettes, as well as if they have concerns about EVALI.
+                      * E-cigarette, or vaping, products (nicotine- or THC-containing) should never be used by youths, young adults, or women who are pregnant.
+                      * Adults who do not currently use tobacco products should not start using e-cigarette, or vaping, products.
+                      * THC use has been associated with a wide range of health effects, particularly with prolonged frequent use. The best way to avoid potentially harmful effects is to not use THC-containing e-cigarette, or vaping, products.
+                      * Persons engaging in ongoing cannabis use that leads to significant impairment or distress should seek evidence-based treatment by a healthcare professional.
+
+Top of Page
+
+Key Facts about Use of E-Cigarette, or Vaping, Products
+
+                      * Electronic cigarettes--or e-cigarettes--are also called vapes, e-hookahs, vape pens, tank systems, mods, and electronic nicotine delivery systems (ENDS).
+                      * Using an e-cigarette is commonly called vaping.
+                      * E-cigarettes work by heating a liquid to produce an aerosol that users inhale into their lungs.
+                      * The liquid can contain: nicotine, tetrahydrocannabinol (THC) and cannabinoid (CBD) oils, and other substances, flavorings, and additives. THC is the psychoactive mind-altering compound of marijuana that produces the "high."
+
+Key Facts about Vitamin E Acetate
+
+                      * Vitamin E acetate is used as an additive, most notably in THC-containing e-cigarette, or vaping, products.
+                      * Vitamin E is a vitamin found in many foods, including vegetable oils, cereals, meat, fruits, and vegetables. It is also available as a dietary supplement and in many cosmetic products, like skin creams.
+                      * Vitamin E acetate usually does not cause harm when ingested as a vitamin supplement or applied to the skin. However, previous research suggests that when vitamin E acetate is inhaled, it may interfere with normal lung functioning.
+
+If you have questions about CDC's investigation into the lung injuries
+associated with use of e-cigarette, or vaping, products, contact CDC-INFO or
+call 1-800-232-4636.
+
+Latest Information
+
+                      * **As of December 3, 2019** , CDC is only reporting hospitalized EVALI cases and EVALI deaths regardless of hospitalization status. CDC has removed nonhospitalized cases from previously reported case counts. **See  ** **Public Health Reporting** **  for more information.**
+                      * **As of February 18, 2020** , a total of 2,807 hospitalized e-cigarette, or vaping, product use-associated lung injury (EVALI) cases or deaths have been reported to CDC from 50 states, the District of Columbia, and two U.S. territories (Puerto Rico and U.S. Virgin Islands).
+                      * Sixty-eight deaths have been confirmed in 29 states and the District of Columbia **(as of February 18, 2020)** : 
+                        * Alabama, California (4), Connecticut, Delaware, District of Columbia, Florida (2), Georgia (6), Illinois (5), Indiana (6), Kansas (2), Kentucky, Louisiana (2), Massachusetts (5), Michigan (3), Minnesota (3), Mississippi, Missouri (2), Montana, Nebraska, New Jersey, New York (4), Oregon (2), Pennsylvania, Rhode Island, South Carolina, Tennessee (2), Texas (4), Utah, Virginia and Washington (2).
+                        * The median age of deceased patients was 49.5 years and ranged from 15-75 years **(as of February 18, 2020)**.
+                      * Among the 2,668 hospitalized EVALI cases or deaths reported to CDC ( **as of January 14, 2020** ): 
+                        *                           * 66% were male
+                          * The median age of patients was 24 years and ranged from 13-85 years.
+                          * By age group category: 
+                            * 15% of patients were under 18 years old;
+                            * 37% of patients were 18 to 24 years old;
+                            * 24% of patients were 25 to 34 years old; and
+                            * 24% of patients were 35 years or older.
+                      * 2,022 hospitalized patients had data on substance use, of whom **(as of January 14, 2020)** : 
+                        * 82% reported using THC-containing products; 33% reported exclusive use of THC-containing products.
+                        * 57% reported using nicotine-containing products; 14% reported exclusive use of nicotine-containing products.
+                      * 50% of EVALI patients who reported using THC-containing products provided data on product source **(as of January 7, 2020)** : 
+                        * 16% reported acquiring products only from commercial sources (recreational and/or medical dispensaries, vape or smoke shops, stores, and pop-up shops).
+                        * 78% reported acquiring products only from informal sources (family/friends, dealers, online, or other sources).
+                        * 6% reported acquiring products from both commercial and informal sources.
+                      * 54% of EVALI patients who reported using nicotine-containing products provided data on product source **(as of January 7, 2020)** : 
+                        * 69% reported acquiring products only from commercial sources.
+                        * 17% reported acquiring products only from informal sources.
+                        * 15% reported acquiring products from both commercial and informal sources.
+
+Number of Hospitalized EVALI Cases or Deaths Reported to CDC as of February
+18, 2020
+
+Dates of symptom onset and hospital admission for patients with lung injury
+associated with e-cigarette use, or vaping -- United States, March 31,
+2019-February 15, 2020
+
+Top of Page
+
+For more information and resources for key stakeholders, visit For Healthcare
+Providers and For State and Local Health Departments. General resources are
+also available.
+
+Top of Page
+
+
+
+* * *
+
+### Multimedia
+
+CDCTobaccoFree
+
+                      * Social_round_facebook facebook
+                      * Social_round_twitter twitter
+                      * Social_round_youtube youtube
+
+Page last reviewed: February 25, 2020
+
+Content source: Office on Smoking and Health, National Center for Chronic
+Disease Prevention and Health Promotion
+
+homeHome
+
+                      * Office on Smoking and Health (OSH)plus icon
+                        * OSH Partners with States
+                        * National Tobacco Control Program Funding
+                        * National Tobacco Control Programs in Actionplus icon
+                          * Alabama
+                          * Indiana
+                          * Kentucky
+                          * Nebraska
+                          * New York
+                          * West Virginia
+                        * Personal Success Storiesplus icon
+                          * From Alabama: Tyler's Story
+                          * From Indiana: Anne's Story
+                        * State Fact Sheets
+                        * Funding Opportunity Announcements
+                        * Interagency Committee on Smoking and Healthplus icon
+                          * Overview
+                          * Membership Roster
+                          * Meeting Summaries
+                          * Meeting Themes
+                        * Newsroom
+                        * Stay Connected
+                        * Organization
+                      * Quit Smokingplus icon
+                        * How to Quitplus icon
+                          * Benefits of Quitting
+                        * Cessation Materials for State Tobacco Control Programsplus icon
+                          * 2019: OSH's _Year of Cessation_
+                          * National Quitline Data Warehouse
+                      * Basic Informationplus icon
+                        * Health Effectsplus icon
+                          * Cancer
+                          * Heart Disease and Stroke
+                          * Chronic Obstructive Pulmonary Disease (COPD)
+                          * Smoking During Pregnancy
+                          * Equality in Smoking & Disease: Nobody Wins!
+                        * Healthcare Provider Resourcesplus icon
+                          * Clinical Tools
+                          * Patient Resources
+                          * Quitlines and Other Cessation Support Resources
+                          * Education and Training
+                          * E-Cigarettes
+                        * Electronic Cigarettesplus icon
+                          * About Electronic Cigarettes (E-Cigarettes)
+                          * Quick Facts on the Risks of E-cigarettes for Kids, Teens, and Young Adults
+                          * Outbreak of Lung Injury Associated with E-cigarette Use, or Vapingplus icon
+                            * For Healthcare Providers
+                            * For State and Local Health Departments
+                            * Frequently Asked Questions
+                            * Resources
+                        * Heated Tobacco Products
+                        * Tobacco Productsplus icon
+                          * Menthol and Cigarettes
+                          * Tobacco Ingredient and Nicotine Reporting
+                        * Secondhand Smokeplus icon
+                          * Protect Our Children
+                          * Children in the Home
+                          * Going Smokefree Matters
+                        * Youth Tobacco Prevention
+                        * Related Resourcesplus icon
+                          * Government Departments, Agencies, and Resources
+                          * Other U.S. Organizations
+                          * International Organizations
+                      * Tobacco-Related Disparitiesplus icon
+                        * African Americans and Tobacco Use
+                        * American Indians/Alaska Natives and Tobacco Use
+                        * Asian Americans, Native Hawaiians, or Pacific Islanders and Tobacco Use
+                        * Hispanics/Latinos and Tobacco Use
+                        * Lesbian, Gay, Bisexual, and Transgender Persons and Tobacco Use
+                        * Cigarette Smoking and Tobacco Use Among People of Low Socioeconomic Status
+                        * Tobacco Use by Geographic Region
+                        * Tobacco Use and Quitting Among Individuals With Behavioral Health Conditionsplus icon
+                          * What We Know: Tobacco Use and Quitting Among Individuals With Behavioral Health Conditions
+                        * Promising Policies And Practices To Address Tobacco Use By Persons With Mental And Substance Use Disordersplus icon
+                          * New York Implements Tobacco-Free Campus Policies
+                          * Grant Funding in Oklahoma Changes Systems for Accessing and Addressing Tobacco Use
+                          * Provider Training Results in Hawaii Behavioral Health Facilities Providing Counseling to Help Clients Quit
+                          * Texas Provides NRT as Part of a Range of Tobacco Cessation Measures in Mental Health Treatment Settings
+                          * New York and Oklahoma Make it Easier for Persons with Behavior Health Conditions to Access Non-Nicotine Cessation Medications
+                          * Additional State Activities
+                      * Data and Statisticsplus icon
+                        * Fast Facts and Fact Sheets
+                        * Surveysplus icon
+                          * National Youth Tobacco Survey (NYTS)
+                          * National Adult Tobacco Survey (NATS)
+                          * Youth Tobacco Survey (YTS)
+                          * Alaska Native Adult Tobacco Survey Guidance Manual
+                          * American Indian Adult Tobacco Survey
+                        * Data Resources
+                        * Information by Topic
+                        * OSHData
+                        * STATE System
+                        * Morbidity and Mortality Weekly Reports (MMWR)
+                        * Vital Signs
+                        * Surgeon General's Reports on Smoking and Tobacco Useplus icon
+                          * 2020 SGR--Smoking Cessation
+                          * 2016 SGR--E-Cigarette Use Among Youth and Young Adults
+                          * Historical Reports
+                          * A Brief History
+                      * State and Community Resourcesplus icon
+                        * Tobacco Control Programsplus icon
+                          * National Tobacco Control Program
+                          * Program Development Resources
+                          * Surveillance and Evaluation Resources
+                          * Smoking & Tobacco Use Features
+                        * Best Practices for Comprehensive Tobacco Control Programsplus icon
+                          * Cessation User Guide
+                          * Health Communications User Guide
+                          * Health Equity User Guide
+                          * Program Infrastructure User Guide
+                          * Youth Engagement User Guide
+                        * The Community Guide
+                        * FDA Rules and Regulations
+                      * Global Tobacco Controlplus icon
+                        * About GTSS
+                        * The GATS Atlas
+                      * Multimedia & Toolsplus icon
+                        * Media Campaign Resource Center (MCRC)
+                        * Infographics
+                        * Shareable Media
+                        * Subscription Services
+                        * Publication Catalog
+
+Social_govd govD  Get Email Updates
+
+To receive email updates about Smoking & Tobacco Use, enter your email
+address:
+
+Email Address
+
+What's this
+
+Submit
+
+Quick Links
+
+                      * For help with quittingexternal
+                      * 1-800-QUIT-NOW  
+1-800-784-8669
+
+Related CDC Sites
+
+                      * Tips From Former  
+Smokers®
+
+                      * Division of Cancer  
+Prevention and Control
+
+                      * Lung Cancer
+                      * National Comprehensive  
+Cancer Control Program
+
+                      * Division of Reproductive  
+Health
+
+More CDC Sites
+
+**HAVE QUESTIONS?**
+
+Visit CDC-INFO
+
+Call 800-232-4636
+
+Email CDC-INFO
+
+Open 24/7
+
+**CDC INFORMATION**
+
+                      * About CDC
+                      * Jobs
+                      * Funding
+                      * Policies
+                      * File Viewers & Players
+
+                      * Privacy
+                      * FOIA
+                      * No Fear Act
+                      * OIG
+                      * Nondiscrimination
+                      * Accessibility
+
+**CONNECT WITH CDC**  
+
+                      * Facebook
+                      * Twitter
+                      * Youtube
+                      * Instagram
   
 
-                    * Syndicate
-                    * CDC TV
-                    * RSS
-                    * Email
+                      * Syndicate
+                      * CDC TV
+                      * RSS
+                      * Email
 
-HHS.Gov - Departamento de Salud y Servicios Humanos
+U.S. Department of Health & Human Services
 
-GobiernoUSA.gov
+USA.gov
 
-Descargo de responsabilidad para sitios externos a los CDC external icon
+CDC Website Exit Disclaimer external icon
 
-                    * Facebook
-                    * Twitter
-                    * LinkedIn
-                    * Email
+                      * Facebook
+                      * Twitter
+                      * LinkedIn
+                      * Email
 
 ![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
 
-map_03  chart_02  file_external
+SAS stats
 
 #### Exit Notification/Disclaimer Policy
 
@@ -928,15 +405,15 @@ Close
 
 **Links with this icon indicate that you are leaving the CDC website.**
 
-                    * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                    * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                    * You will be subject to the destination website's privacy policy when you follow the link.
-                    * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+                      * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+                      * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+                      * You will be subject to the destination website's privacy policy when you follow the link.
+                      * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
 For more information on CDC's web notification policies, see Website
 Disclaimers.
 
 Cancel Continue
 
   *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+  *[4 hrs]: Tuesday, April 7, 2020 at 2:56 PM
 
