@@ -1,116 +1,99 @@
+Link: https://medlineplus.gov/transplantationanddonation.html    
+                                Description: None    
+                                Keywords: Transplantation and Donation    
+                                            
 
+Skip navigation
 
-Skip directly to search Skip directly to A to Z list Skip directly to
-navigation Skip directly to page options Skip directly to site content
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Sign in
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-My Account {{main.$rootScope.syndList.listName}}
+Menu
 
-          * {{list.listName}} 
-{{main.$rootScope.syndList.listName}} Logout
+  * Health Topics
+  * Drugs & Supplements
+  * Videos & Tools
+  * About MedlinePlus
 
-New User
+Search
 
-![Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People](/TemplatePackage/3.0/images/masthead_subpage.svg)
-![Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People](/TemplatePackage/3.0/images/masthead_1-col.svg)
+Search MedlinePlus
 
-A-Z Topic Index
+GO
 
-          * MENU
-          * CDC A-Z
-          * SEARCH
+  * About MedlinePlus
+  * What's New
+  * Site Map
+  * Customer Support
 
-# Public Health Media Library
+  * Health Topics
+  * Drugs & Supplements
+  * Videos & Tools
 
-Note: Javascript is disabled or is not supported by your browser. For this
-reason, some items on this page will be unavailable. For more information
-about this message, please visit this page: About CDC.gov.
+EspaÃ±ol
 
-Recommend on Facebook Tweet
-![Share](/TemplatePackage/3.0/images/social/addthis-32.png)ShareCompartir
+You Are Here:
 
-×
+Home ->
 
-### Contact Us
+Health Topics ->
 
-          * For non-technical or general public health questions, contact CDC-INFO by phone 800-CDC-INFO (800-232-4636) or email.
-          * If you need technical help: Report a Problem
+Transplantation and Donation
 
-##### File Formats Help:
+URL of this page: https://medlineplus.gov/transplantationanddonation.html
 
-How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+# Transplantation and Donation
 
-          * Adobe PDF file
-          * Microsoft PowerPoint file
-          * Microsoft Word file
-          * Microsoft Excel file
-          * Audio/Video file
-          * Apple Quicktime file
-          * RealPlayer file
-          * Text file
-          * Zip Archive file
-          * SAS file
-          * ePub file
-          * RIS file
+To use the sharing features on this page, please enable JavaScript.
 
-          * Page last reviewed:{{main.CURRENT_DATE}}
-          * Page last updated:{{main.CURRENT_DATE}}
-          * Content source: 
-            * Centers for Disease Control and Prevention, 
-            * Office of the Associate Director for Communications, Division of Public Affairs
+  * Blood Donation _see_ Blood Transfusion and Donation
+  * Blood Transfusion and Donation
+  * Bone Grafts
+  * Bone Marrow Transplantation
+  * Bone Transplantation _see_ Bone Grafts
+  * Cord Blood _see_ Stem Cells
+  * Donors _see_ Organ Donation
+  * Heart Transplantation
+  * Hepatic Transplantation _see_ Liver Transplantation
+  * Islet Cell Transplantation
+  * Kidney Transplantation
+  * Liver Transplantation
+  * Lung Transplantation
+  * Organ Donation
+  * Organ Transplantation
+  * Pancreas Transplantation
+  * Renal Transplantation _see_ Kidney Transplantation
+  * Stem Cell Transplantation _see_ Stem Cells
+  * Stem Cells
+  * Tissue Donation _see_ Organ Donation
+  * Transfusion _see_ Blood Transfusion and Donation
+  * Transplantation _see_ Organ Transplantation
 
-###### Follow CDC
+  * About MedlinePlus
+  * What's New
+  * Site Map
+  * Customer Support
 
-          * Email
-          * Recommend
-          * Tweet
-          * Post
-          * RSS
+  * Get updates
+  * Subscribe to RSS
+  * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
 
-###### CDC Media
+  * Disclaimers
+  * Copyright
+  * Privacy
+  * Accessibility
+  * Guidelines for Links
+  * Viewers & Players
+  * MedlinePlus Connect for EHRs
+  * For Developers
 
-          * Listen
-          * Watch
-          * YouTube
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
 
-![Department of Health and Human
-Services](/TemplatePackage/3.0/images/hhs.png)
+Page last updated on 28 April 2015
 
-          * ###### About CDC
-
-            * Employment
-            * Newsroom
-            * Training/Education
-            * Funding
-            * CDC's Organization
-            * Mission and Vision
-            * Using this Site
-          * ###### Legal
-
-            * Link to Us
-            * Policies
-            * FOIA
-            * Accessibility
-            * Privacy
-            * No FEAR Act
-            * Inspector General
-            * USA.gov
-          *           * ###### Contact CDC
-
-Centers for Disease Control and Prevention
-
-1600 Clifton Road Atlanta, GA 30329-4027 USA
-
-800-CDC-INFO (800-232-4636)
-
-Contact CDC-INFO
-
-TOP
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-Version {{main.VERSION}}
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

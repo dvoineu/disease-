@@ -1,170 +1,140 @@
+Link: https://medlineplus.gov/ency/article/002110.htm    
+                                Description: Jet lag is a temporary sleep disorder.Â Â It occurs whenÂ your body    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip to main contentSkip to footer links
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-![chronicdata.cdc.gov](/api/assets/70C53E42-3717-431A-816E-647F961A1BC9)
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search Search
-
-Chronic Disease and Health Promotion Data & Indicators
-
-Health Areas
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * \- All Chronic Disease -
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * 500 Cities
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Alcohol-Related Disease Impact Data
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Behavioral Risk Factors
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Chronic Disease Indicators
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Healthy Aging
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Heart Disease & Stroke Prevention
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Maternal & Child Health
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Nutrition, Physical Activity, & Obesity
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Oral Health
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Tobacco Use
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Vision & Eye Health
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Youth Risk Behaviors
-
-DevelopersVideo Guides
-
-Sign In
+The navigation menu has been collapsed.
 
 Menu
 
-## Menu
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Show Search
 
-Close
+Search MedlinePlus
 
-Chronic Disease and Health Promotion Data & Indicators
+GO
 
-Health Areas\- All Chronic Disease -500 CitiesAlcohol-Related Disease Impact
-DataBehavioral Risk FactorsChronic Disease IndicatorsHealthy AgingHeart
-Disease & Stroke PreventionMaternal & Child HealthNutrition, Physical
-Activity, & ObesityOral HealthTobacco UseVision & Eye HealthYouth Risk
-Behaviors
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-DevelopersVideo Guides
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-Sign In
+EspaÃ±ol
 
-Search
+You Are Here:
 
-Recommend on Facebook Tweet
-![Share](/api/assets/B39623FC-D2EB-47EF-9436-BEBABFDA117F?addthis-32.png)
-Share Compartir
+Home ->
 
-## Getting Started
+Medical Encyclopedia ->
 
-### Video Guides
+Jet lag disorder
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * ![Find in Dataset](/stylesheets/images/video_thumbnails/find-in-dataset.png)
+URL of this page: //medlineplus.gov/ency/article/002110.htm
 
-#### Find in Dataset
+# Jet lag disorder
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * ![Creating a Bar Chart](/stylesheets/images/video_thumbnails/bar-chart.png)
+To use the sharing features on this page, please enable JavaScript.
 
-#### Creating a Bar Chart
+Jet lag is a temporary sleep disorder.Â Â It occurs whenÂ your body's
+biological clockÂ is not in syncÂ with theÂ local time zone you are in. The
+more time zones you pass through, the worse your jet lag can be. Also,
+traveling east can be harder to adjust to because you lose time.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * ![Basic Filtering](/stylesheets/images/video_thumbnails/basic-filtering.png)
+Jet lag can make you feel like going to bed several hours before bedtime. You
+also may have trouble falling asleep, feel tired during the day, feel confused
+and out of sorts, and generally not feel well.
 
-#### Basic Filtering
+There are steps you can take to help prevent jet lag, such as trying to adjust
+to the new time zone before you arrive.
 
-Learn the basics about interacting with the data in this site. View a series
-of video guides to get started.
+## Images
 
-### Unleash the Power of Data
+    * ![Jet lag prevention](//medlineplus.gov/ency/images/ency/tnails/9487t.jpg)Jet lag prevention
 
-![See How Open Data is Changing the
-World](/api/assets/6379CB64-8CD1-4578-B4F9-7AB043FCFE59) ![See How Open Data
-is Changing the World](/api/assets/DD916DD8-244F-4239-B834-1E9165483BB2)
+## References
 
-## Health Areas
+Drake CL, Wright KP. Shift work, shift-work disorder, and jet lag. In: Kryger
+M, Roth T, Dement WC, eds. _Principles and Practice of Sleep Medicine_. 6th
+ed. Philadelphia, PA: Elsevier; 2017:chap 75.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * 500 Cities
+## Review Date 4/15/2018
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Alcohol-Related Disease Impact
+Updated by: Linda J. Vorvick, MD, Clinical Associate Professor, Department of
+Family Medicine, UW Medicine, School of Medicine, University of Washington,
+Seattle, WA. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda
+Conaway, Editorial Director, and the A.D.A.M. Editorial team.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Behavioral Risk Factors
+![Traveler's
+Health](https://medlineplus.gov/images/TravelersHealth_thumb.jpg)Traveler's
+Health _Read more_
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Chronic Disease Indicators
+![NIH MedlinePlus
+Magazine](https://medlineplus.gov/images/ency_mag_card.jpg)NIH MedlinePlus
+Magazine _Read more_
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Healthy Aging
+![Health Topics
+A-Z](https://medlineplus.gov/images/ency_healthtopics_card.jpg)Health Topics
+A-Z _Read more_
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Heart Disease & Stroke Prevention
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Maternal & Child Health
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Nutrition, Physical Activity, and Obesity
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Oral Health
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Tobacco Use
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Vision & Eye Health
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Youth Risk Behaviors
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
 
-Skip back to header navigation.
+Page last updated: 23 March 2020
 
-1600 Clifton Road Atlanta, GA 30329-4027 USA
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * About CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Jobs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * U.S. Department of Health and Human Services
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * HHS / Open
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * USA.gov
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Email CDC-INFO
-
-(C) 2020
-
-Powered By ![Socrata](/socrata_site_chrome/images/socrata-logo-pb.png)
-
-![](/api/assets/50AE8DB1-0A2F-452B-846A-2A47B2E66D92?0.gif)
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
-  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
-  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
-  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
-  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
-  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
-  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
-  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
-  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
-  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
-  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
-  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
-  *[15 hrs]: Monday, April 6, 2020 at 9:38 AM
-  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
-  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
-  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
-  *[10 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[]: You have unseen notifications
-  *[April 3 at 5:08 AM]: Friday, April 3, 2020 at 5:08 AM
-  *[April 1 at 8:09 AM]: Wednesday, April 1, 2020 at 8:09 AM
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

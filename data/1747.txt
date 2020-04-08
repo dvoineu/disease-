@@ -1,358 +1,452 @@
+Link: https://medlineplus.gov/about/developers/webservices/    
+                                Description: Find information about the search-based Web service that provides access to MedlinePlus health topic data in XML format and learn how to use this service.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search ____
+Menu
 
-Ã
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Search
 
-Submit __
+Search MedlinePlus
 
-For a full list of topics: A-Z Index
+GO
 
-_E. coli (Escherichia coli)_
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-Section Navigation
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-CDC Home
+You Are Here:
 
-                                                                                                                                                                                                                                                                                                                                                                        * Facebook
-                                                                                                                                                                                                                                                                                                                                                                        * Twitter
-                                                                                                                                                                                                                                                                                                                                                                        * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                        * Email
-                                                                                                                                                                                                                                                                                                                                                                        * Syndicate
+Home ->
 
-# _E. coli (Escherichia coli)_
+About MedlinePlus ->
 
-Minus
+Information about MedlinePlus for Developers ->
 
-Related Pages
+MedlinePlus Web Service
 
-![Photo of clover sprouts in a bowl.](/ecoli/images/flexslider/clover-
-sprouts-2020-flex.jpg)
+URL of this page: https://medlineplus.gov/about/developers/webservices/
 
-### Learn about an outbreak linked to clover sprouts
+# MedlinePlus Web Service
 
-![Photo of raw chocolate chip cookie dough in a bowl.](/ecoli/images/raw-
-cookie-dough.jpg)
+To use the sharing features on this page, please enable JavaScript.
 
-### Learn about how raw dough can contain bacteria that cause disease
+MedlinePlus offers a search-based Web service that provides access to
+MedlinePlus health topic data in XML format. Using the Web service, software
+developers can build applications that utilize MedlinePlus health topic
+information. The service accepts keyword searches as requests and returns
+relevant health topics in ranked order. Keyword searches may be limited to
+specific fields. The service also returns health topic summaries, search
+result snippets, external links, and other associated data.
 
-![Man washing hand with a bar of soap](/ecoli/images/handwashing-1184px.jpg)
+To ensure that the latest information is readily available, the data in the
+Web service is updated daily, Tuesday-Saturday. The Web service is available
+for English and Spanish health topics. The Web service is free of charge and
+does not require registration or licensing. If you use data from the Web
+service or build an interface using the Web service, please indicate that the
+information is from MedlinePlus.gov but do not use the MedlinePlus logo or
+otherwise imply that MedlinePlus endorses your particular product. Please see
+NLMâs API page for further guidance. If you have questions about the
+MedlinePlus Web service, or if you would like to share an application that you
+have built using the service, please contact us.
 
-### Learn about _E. coli_ infections and how they can be prevented
+To receive notification when MedlinePlus releases enhancements to the service
+or updates the documentation, sign up for our Web service email updates:
 
-_Escherichia coli_ (abbreviated as _E. coli_ ) are bacteria found in the
-environment, foods, and intestines of people and animals. _E. coli_ are a
-large and diverse group of bacteria. Although most strains of _E. coli_ are
-harmless, others can make you sick. Some kinds of _E. coli_ can cause
-diarrhea, while others cause urinary tract infections, respiratory illness and
-pneumonia, and other illnesses.
+Sign up for MedlinePlus email updates
 
+GO
 
-
-More
-
-Questions & Answers
-
-Symptoms
-
-Prevention
-
-For Health Professionals
-
-Surveillance
-
-Publications
-
-Multistate Outbreaks
-
-                                                                                                                                                                                                                                                                                                                                                                        * Clover Sprouts - _E. coli_ O103
-                                                                                                                                                                                                                                                                                                                                                                        * Timeline for Reporting Cases of _E. coli_ O157 Infection
-
-Outbreaks
-
-Report a Foodborne Illness
-
-                                                                                                                                                                                                                                                                                                                                                                        * General Public
-                                                                                                                                                                                                                                                                                                                                                                        * Health Departments
-                                                                                                                                                                                                                                                                                                                                                                        * Health Professionals
-
-Some Kinds of _E. coli_
-
-                                                                                                                                                                                                                                                                                                                                                                        * Shiga toxin-producing _E. coli_ (STEC)
-                                                                                                                                                                                                                                                                                                                                                                        * Enterotoxigenic _E. coli_ (ETEC)
-                                                                                                                                                                                                                                                                                                                                                                        * Diarrheagenic _E. coli_
-
-_E. coli_ Prevention Features
-
-                                                                                                                                                                                                                                                                                                                                                                        * Say No to Raw Dough!
-                                                                                                                                                                                                                                                                                                                                                                        * Shiga Toxin-Producing _E.coli_ and Food Safety
-                                                                                                                                                                                                                                                                                                                                                                        * Prevent Food Poisoning
-
-Page last reviewed: February 26, 2020
-
-Content source: Centers for Disease Control and Prevention, National Center
-for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of Foodborne,
-Waterborne, and Environmental Diseases (DFWED)
-
-home _E.coli_ Homepage
-
-                                                                                                                                                                                                                                                                                                                                                                        * Questions & Answersplus icon
-                                                                                                                                                                                                                                                                                                                                                                          * Enterotoxigenic _E. coli_ (ETEC)
-                                                                                                                                                                                                                                                                                                                                                                        * Symptoms
-                                                                                                                                                                                                                                                                                                                                                                        * Prevention
-                                                                                                                                                                                                                                                                                                                                                                        * Outbreaksplus icon
-                                                                                                                                                                                                                                                                                                                                                                          * Timeline for Reporting Cases of _E. coli_ O157 Infection
-                                                                                                                                                                                                                                                                                                                                                                          * 2020 Outbreaksplus icon
-                                                                                                                                                                                                                                                                                                                                                                            * Outbreak of E. coli Infections Linked to Clover Sproutsplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Map of Reported Cases
-                                                                                                                                                                                                                                                                                                                                                                              * Timeline of Reported Cases
-                                                                                                                                                                                                                                                                                                                                                                              * Previous Outbreak Investigation Updates
-                                                                                                                                                                                                                                                                                                                                                                          * 2019 Outbreaksplus icon
-                                                                                                                                                                                                                                                                                                                                                                            * Outbreak of _E. coli_ Infections Linked to to Fresh Express Sunflower Crisp Chopped Salad Kitsplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Map of Reported Cases
-                                                                                                                                                                                                                                                                                                                                                                              * Timeline of Reported Cases
-                                                                                                                                                                                                                                                                                                                                                                              * Previous Outbreak Investigation Updates
-                                                                                                                                                                                                                                                                                                                                                                              * Cifras del brote
-                                                                                                                                                                                                                                                                                                                                                                              * CronologÃ­a de casos reportados
-                                                                                                                                                                                                                                                                                                                                                                              * Brote de infecciones por _E. coli_ vinculado a kits de ensalada cortada Sunflower Crisp de la marca Fresh Express
-                                                                                                                                                                                                                                                                                                                                                                            * Outbreak of _E. coli_ Infections Linked to Romaine Lettuceplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Map of Reported Cases
-                                                                                                                                                                                                                                                                                                                                                                              * Timeline of Reported Cases
-                                                                                                                                                                                                                                                                                                                                                                              * Previous Outbreak Investigation Updates
-                                                                                                                                                                                                                                                                                                                                                                              * Brote de infecciones por _E. coli_ vinculado a la lechuga romana _(romaine)_
-                                                                                                                                                                                                                                                                                                                                                                            * Outbreak of _E. coli_ Infections Linked to Northfork Ground Bisonplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Map of Reported Cases
-                                                                                                                                                                                                                                                                                                                                                                              * Timeline of Reported Cases
-                                                                                                                                                                                                                                                                                                                                                                              * Previous Outbreak Investigation Updates
-                                                                                                                                                                                                                                                                                                                                                                            * Outbreak of _E. coli_ Infections Linked to Flourplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Map of Reported Cases
-                                                                                                                                                                                                                                                                                                                                                                              * Timeline of Reported Cases
-                                                                                                                                                                                                                                                                                                                                                                              * Previous Outbreak Investigation Updates
-                                                                                                                                                                                                                                                                                                                                                                              * Brote de infecciones por _E. coli_ vinculado a la harina
-                                                                                                                                                                                                                                                                                                                                                                            * Outbreak of _E. coli_ Infections Linked to Ground Beefplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Map of Reported Cases
-                                                                                                                                                                                                                                                                                                                                                                              * Timeline of Reported Cases
-                                                                                                                                                                                                                                                                                                                                                                              * Previous Outbreak Investigation Updates
-                                                                                                                                                                                                                                                                                                                                                                              * Brote de infecciones por _E. coli_
-                                                                                                                                                                                                                                                                                                                                                                              * Mapa de casos reportados
-                                                                                                                                                                                                                                                                                                                                                                              * Cronograma de los casos reportados
-                                                                                                                                                                                                                                                                                                                                                                              * Actualizaciones anteriores de la investigaciÃ³n del brote
-                                                                                                                                                                                                                                                                                                                                                                          * 2018 Outbreaksplus icon
-                                                                                                                                                                                                                                                                                                                                                                            * Outbreak of _E. coli_ Infections Linked to Romaine Lettuceplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * _E. coli_ O157:H7 Infections Linked to Romaine Lettuce en EspaÃ±ol
-                                                                                                                                                                                                                                                                                                                                                                              * Map of Reported Cases
-                                                                                                                                                                                                                                                                                                                                                                              * Timeline of Reported Cases
-                                                                                                                                                                                                                                                                                                                                                                              * Previous Outbreak Investigation Updates
-                                                                                                                                                                                                                                                                                                                                                                              * Map of Reported Cases en EspaÃ±ol
-                                                                                                                                                                                                                                                                                                                                                                              * Timeline of Reported Cases en EspaÃ±ol
-                                                                                                                                                                                                                                                                                                                                                                              * Previous Outbreak Investigation Updates en EspaÃ±ol
-                                                                                                                                                                                                                                                                                                                                                                            * Outbreak of _E. coli_ Infections Linked to Ground Beefplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Map of Reported Cases
-                                                                                                                                                                                                                                                                                                                                                                              * Timeline of Reported Cases
-                                                                                                                                                                                                                                                                                                                                                                              * Outbreak of _E. coli_ Infections Linked to Ground Beef en EspaÃ±ol
-                                                                                                                                                                                                                                                                                                                                                                              * Map of Reported Cases en EspaÃ±ol
-                                                                                                                                                                                                                                                                                                                                                                              * Timeline of Reported Cases en EspaÃ±ol
-                                                                                                                                                                                                                                                                                                                                                                            * _E. coli_ O157:H7 Infections Linked to Romaine Lettuceplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * _E. coli_ O157:H7 Infections Linked to Romaine Lettuce en EspaÃ±ol
-                                                                                                                                                                                                                                                                                                                                                                              * Advice to Consumers, Restaurants, Retailers, and Clinicians
-                                                                                                                                                                                                                                                                                                                                                                              * Case Count Maps
-                                                                                                                                                                                                                                                                                                                                                                              * Epi Curves
-                                                                                                                                                                                                                                                                                                                                                                              * Signs & Symptoms
-                                                                                                                                                                                                                                                                                                                                                                              * Key Resources
-                                                                                                                                                                                                                                                                                                                                                                          * 2017 Outbreaksplus icon
-                                                                                                                                                                                                                                                                                                                                                                            * O157:H7 Infections Linked to Leafy Greensplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Case Count Map
-                                                                                                                                                                                                                                                                                                                                                                              * Epi Curve
-                                                                                                                                                                                                                                                                                                                                                                              * Signs & Symptoms
-                                                                                                                                                                                                                                                                                                                                                                              * Key Resources
-                                                                                                                                                                                                                                                                                                                                                                            * O157:H7 Infections Linked to I.M. Healthy Brand SoyNut Butterplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Recall & Advice to Consumers
-                                                                                                                                                                                                                                                                                                                                                                              * Case Count Maps
-                                                                                                                                                                                                                                                                                                                                                                              * Epi Curves
-                                                                                                                                                                                                                                                                                                                                                                              * Signs & Symptoms
-                                                                                                                                                                                                                                                                                                                                                                              * Key Resources
-                                                                                                                                                                                                                                                                                                                                                                          * 2016 Outbreaksplus icon
-                                                                                                                                                                                                                                                                                                                                                                            * O157:H7 Infections Linked to Beef Products Produced by Adams Farmplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Recall & Advice to Consumers
-                                                                                                                                                                                                                                                                                                                                                                              * Case Count Maps
-                                                                                                                                                                                                                                                                                                                                                                              * Epi Curves
-                                                                                                                                                                                                                                                                                                                                                                              * Signs & Symptoms
-                                                                                                                                                                                                                                                                                                                                                                              * Key Resources
-                                                                                                                                                                                                                                                                                                                                                                            * O121 & O26 Infections Linked to Flourplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Recall & Advice to Consumers and Retailers
-                                                                                                                                                                                                                                                                                                                                                                              * Case Count Maps
-                                                                                                                                                                                                                                                                                                                                                                              * Epi Curves
-                                                                                                                                                                                                                                                                                                                                                                              * Signs & Symptoms
-                                                                                                                                                                                                                                                                                                                                                                              * Key Resources
-                                                                                                                                                                                                                                                                                                                                                                            * O157 Infections Linked to Jack & The Green Sprouts Alfalfa Sproutsplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Recall & Advice to Consumers & Retailers
-                                                                                                                                                                                                                                                                                                                                                                              * Case Count Maps
-                                                                                                                                                                                                                                                                                                                                                                              * Epi Curves
-                                                                                                                                                                                                                                                                                                                                                                              * Signs & Symptoms
-                                                                                                                                                                                                                                                                                                                                                                              * Key Resources
-                                                                                                                                                                                                                                                                                                                                                                          * 2015 Outbreaksplus icon
-                                                                                                                                                                                                                                                                                                                                                                            * O157:H7 Infections Linked to Costco Rotisserie Chicken Saladplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Recall & Advice to Consumers
-                                                                                                                                                                                                                                                                                                                                                                              * Case Count Maps
-                                                                                                                                                                                                                                                                                                                                                                              * Epi Curves
-                                                                                                                                                                                                                                                                                                                                                                              * Signs & Symptoms
-                                                                                                                                                                                                                                                                                                                                                                              * Key Resources
-                                                                                                                                                                                                                                                                                                                                                                            * O26 Infections Linked to Chipotle Mexican Grillplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Advice to Food Industries & Consumers
-                                                                                                                                                                                                                                                                                                                                                                              * Case Count Maps
-                                                                                                                                                                                                                                                                                                                                                                              * Epi Curves
-                                                                                                                                                                                                                                                                                                                                                                              * Signs & Symptoms
-                                                                                                                                                                                                                                                                                                                                                                              * Key Resources
-                                                                                                                                                                                                                                                                                                                                                                          * 2014 Outbreaksplus icon
-                                                                                                                                                                                                                                                                                                                                                                            * O121 Infections Linked to Raw Clover Sproutsplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Advice to Consumers & Retailers
-                                                                                                                                                                                                                                                                                                                                                                              * Case Count Maps
-                                                                                                                                                                                                                                                                                                                                                                              * Epi Curves
-                                                                                                                                                                                                                                                                                                                                                                              * Signs & Symptoms
-                                                                                                                                                                                                                                                                                                                                                                              * Key Resources
-                                                                                                                                                                                                                                                                                                                                                                            * O157:H7 Infections Linked to Ground Beefplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Recall & Advice to Consumers
-                                                                                                                                                                                                                                                                                                                                                                              * Case Count Maps
-                                                                                                                                                                                                                                                                                                                                                                              * Epi Curves
-                                                                                                                                                                                                                                                                                                                                                                              * Signs & Symptoms
-                                                                                                                                                                                                                                                                                                                                                                              * Key Resources
-                                                                                                                                                                                                                                                                                                                                                                          * 2013 Outbreaksplus icon
-                                                                                                                                                                                                                                                                                                                                                                            * O157:H7 Infections Linked to Ready-to-Eat Saladsplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Recall & Advice to Consumers
-                                                                                                                                                                                                                                                                                                                                                                              * Case Count Maps
-                                                                                                                                                                                                                                                                                                                                                                              * Epi Curves
-                                                                                                                                                                                                                                                                                                                                                                              * Signs & Symptoms
-                                                                                                                                                                                                                                                                                                                                                                              * Key Resources
-                                                                                                                                                                                                                                                                                                                                                                            * O121 Infections Linked to Farm Rich Brand Frozen Food Productsplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Recall & Advice to Consumers
-                                                                                                                                                                                                                                                                                                                                                                              * Case Count Maps
-                                                                                                                                                                                                                                                                                                                                                                              * Epi Curves
-                                                                                                                                                                                                                                                                                                                                                                              * Signs & Symptoms
-                                                                                                                                                                                                                                                                                                                                                                              * Key Resources
-                                                                                                                                                                                                                                                                                                                                                                          * 2012 Outbreaksplus icon
-                                                                                                                                                                                                                                                                                                                                                                            * O157:H7 Infections Linked to Organic Spinach and Spring Mix Blendplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Recall & Advice to Consumers
-                                                                                                                                                                                                                                                                                                                                                                              * Case Count Maps
-                                                                                                                                                                                                                                                                                                                                                                              * Epi Curves
-                                                                                                                                                                                                                                                                                                                                                                              * Signs & Symptoms
-                                                                                                                                                                                                                                                                                                                                                                              * Key Resources
-                                                                                                                                                                                                                                                                                                                                                                            * O145 Infections Linked to Unknown Sourceplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Advice to Consumers
-                                                                                                                                                                                                                                                                                                                                                                              * Case Count Maps
-                                                                                                                                                                                                                                                                                                                                                                              * Epi Curves
-                                                                                                                                                                                                                                                                                                                                                                              * Signs & Symptoms
-                                                                                                                                                                                                                                                                                                                                                                              * Key Resources
-                                                                                                                                                                                                                                                                                                                                                                            * O26 Infections Linked to Raw Clover Sprouts at Jimmy Johnâs Restaurantsplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Advice to Consumers
-                                                                                                                                                                                                                                                                                                                                                                              * Case Count Maps
-                                                                                                                                                                                                                                                                                                                                                                              * Epi Curves
-                                                                                                                                                                                                                                                                                                                                                                              * Signs & Symptoms
-                                                                                                                                                                                                                                                                                                                                                                              * Key Resources
-                                                                                                                                                                                                                                                                                                                                                                          * 2011 Outbreaksplus icon
-                                                                                                                                                                                                                                                                                                                                                                            * O157:H7 Infections Linked to Romaine Lettuce
-                                                                                                                                                                                                                                                                                                                                                                            * O104 (STEC O104:H4) Infections Linked to Travel to Germany
-                                                                                                                                                                                                                                                                                                                                                                            * O157:H7 Infections Linked to Lebanon Bologna
-                                                                                                                                                                                                                                                                                                                                                                            * O157:H7 Infections Linked to In-shell Hazelnuts
-                                                                                                                                                                                                                                                                                                                                                                          * 2010 Outbreaksplus icon
-                                                                                                                                                                                                                                                                                                                                                                            * O157:H7 Infections Linked to Bravo Farms Cheeses
-                                                                                                                                                                                                                                                                                                                                                                            * O145 Infections Linked to Shredded Romaine Lettuce from a Single Processing Facility
-                                                                                                                                                                                                                                                                                                                                                                            * O157:H7 Infections Linked to Beef from National Steak and Poultry
-                                                                                                                                                                                                                                                                                                                                                                          * 2006-2009 Outbreaksplus icon
-                                                                                                                                                                                                                                                                                                                                                                            * O157:H7 Infections Linked to Beef from Fairbank Farms
-                                                                                                                                                                                                                                                                                                                                                                            * O157:H7 Infections Linked to Beef from JBS Swift Beef Company
-                                                                                                                                                                                                                                                                                                                                                                            * O157:H7 Infections Linked to Prepackaged Cookie Dough
-                                                                                                                                                                                                                                                                                                                                                                            * O157:H7 Infections Linked to Beef from Kroger/Nebraska Ltd
-                                                                                                                                                                                                                                                                                                                                                                            * O157:H7 Infections Linked to Totinoâs/Jenoâs Pizza
-                                                                                                                                                                                                                                                                                                                                                                            * O157 Infections Linked to Toppâs Ground Beef Patties
-                                                                                                                                                                                                                                                                                                                                                                            * O157:H7 Infections Linked to Taco Bell
-                                                                                                                                                                                                                                                                                                                                                                            * O157:H7 Infections Linked to Fresh Spinach
-                                                                                                                                                                                                                                                                                                                                                                        * Publications
-                                                                                                                                                                                                                                                                                                                                                                        * Surveillanceplus icon
-                                                                                                                                                                                                                                                                                                                                                                          * Shiga toxin-producing _Escherichia coli_ (STEC) Annual Report, 2016plus icon
-                                                                                                                                                                                                                                                                                                                                                                            * Report Appendices
-                                                                                                                                                                                                                                                                                                                                                                            * Other Sources of Surveillance Data
-                                                                                                                                                                                                                                                                                                                                                                        * Resources for Clinicians and Laboratoriesplus icon
-                                                                                                                                                                                                                                                                                                                                                                          * Diarrheagenic _E. coli_
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-                                                                                                                                                                                                                                                                                                                                                                        * About CDC
-                                                                                                                                                                                                                                                                                                                                                                        * Jobs
-                                                                                                                                                                                                                                                                                                                                                                        * Funding
-                                                                                                                                                                                                                                                                                                                                                                        * Policies
-                                                                                                                                                                                                                                                                                                                                                                        * File Viewers & Players
-
-                                                                                                                                                                                                                                                                                                                                                                        * Privacy
-                                                                                                                                                                                                                                                                                                                                                                        * FOIA
-                                                                                                                                                                                                                                                                                                                                                                        * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                        * OIG
-                                                                                                                                                                                                                                                                                                                                                                        * Nondiscrimination
-                                                                                                                                                                                                                                                                                                                                                                        * Accessibility
-
-**CONNECT WITH CDC**  
-
-                                                                                                                                                                                                                                                                                                                                                                        * Facebook
-                                                                                                                                                                                                                                                                                                                                                                        * Twitter
-                                                                                                                                                                                                                                                                                                                                                                        * Youtube
-                                                                                                                                                                                                                                                                                                                                                                        * Instagram
   
 
-                                                                                                                                                                                                                                                                                                                                                                        * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                        * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                        * RSS
-                                                                                                                                                                                                                                                                                                                                                                        * Email
+Please note that the Web service only returns the subset of MedlinePlus health
+topic records that are relevant to the query in the request. If you need the
+full set of MedlinePlus health topics in XML format, see our XML files page.
+If you want to link patients or healthcare providers from electronic health
+record (EHR) systems to relevant MedlinePlus information, use MedlinePlus
+Connect.
 
-U.S. Department of Health & Human Services
+## Description
 
-USA.gov
+Returns MedlinePlus health topic search results in English or Spanish for an
+input query string.
 
-CDC Website Exit Disclaimer external icon
+## Acceptable Use Policy
 
-                                                                                                                                                                                                                                                                                                                                                                        * Facebook
-                                                                                                                                                                                                                                                                                                                                                                        * Twitter
-                                                                                                                                                                                                                                                                                                                                                                        * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                        * Email
+In order to avoid overloading the MedlinePlus servers, NLM requires that users
+of the MedlinePlus Web service send no more than 85 requests per minute per IP
+address. Requests that exceed this limit will not be serviced, and service
+will not be restored until the request rate falls beneath the limit. The
+MedlinePlus Web service is updated once per day, Tuesday-Saturday. To limit
+the number of requests that you send to the Web service, NLM recommends
+caching results for a 12-24 hour period.
 
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+This policy is in place to ensure that the service remains available and
+accessible to all users. NLM encourages all users of the MedlinePlus Web
+service to use the _email_ and _tool_ parameters (as described below). NLM may
+use this information to contact you if there are problems with your requests.
 
-SAS stats
+If you have a specific use case that requires you to send a large number of
+requests to the Web service, and thus exceed the request rate limit outlined
+in this policy, please contact us. NLM staff will evaluate your request and
+determine if an exception may be granted. Please also review the MedlinePlus
+XML files documentation. These XML files contain complete health topic records
+and can serve as an alternate method of accessing MedlinePlus data.
 
-#### Exit Notification/Disclaimer Policy
+## Base URL
 
-Close
+ **https** ://wsearch.nlm.nih.gov/ws/query
 
-**Links with this icon indicate that you are leaving the CDC website.**
+Please use **https** instead of **http**. If you are already using the
+MedlinePlus web service with http, please update your code to https.
 
-                                                                                                                                                                                                                                                                                                                                                                        * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                        * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                        * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                        * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
+## Parameters
 
-Cancel Continue
+### Required Parameters for Initial Search Request
 
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
+Required Parameters for Initial Search RequestParameter Name| Description  
+---|---  
+ _db_|  Database to search. Value must be a valid MedlinePlus Web service
+database name. Possible values are:  
+ **healthTopics** \- English health topics. Submit English-language queries
+when using this parameter.  
+ **healthTopicsSpanish** \- Spanish health topics. Submit Spanish-language
+queries when using this parameter.  
+ _term_|  Text query submitted to the Web service. All special characters must
+be URL encoded. Spaces may be replaced by '+' signs, which represent the AND
+operator. Represent the OR operator as +OR+. To send a query as a phrase,
+enclose the phrase in quotes using %22 to represent quotation marks.  
+  
+  
+
+ **Examples:**  
+https://wsearch.nlm.nih.gov/ws/query?db=healthTopics&term=asthma  
+https://wsearch.nlm.nih.gov/ws/query?db=healthTopics&term=%22diabetes+medicines%22+OR+%22diabetes+drugs%22  
+https://wsearch.nlm.nih.gov/ws/query?db=healthTopicsSpanish&term=asma
+
+### Field Searching
+
+The text for term can include limiters to restrict the search to a specific
+health topic field. The syntax is <fieldName>:<fieldValue>. Fields that can be
+searched in this way are:
+
+title  
+alt-title  
+mesh (only available for English-language searches)  
+full-summary  
+group
+
+See the Output Format section below for a description of each of these fields.
+Use field searching carefully, as it can have a significant impact on the
+order in which results are returned. Please note that when _group_ field
+searching is used by itself and with no other parameters, all documents will
+be returned with the same relevancy ranking (rank="0").
+
+ **Example:  
+** https://wsearch.nlm.nih.gov/ws/query?db=healthTopics&term=title:asthma
+
+### Required Parameters for Subsequent Requests
+
+Required Parameters for Subsequent RequestsParameter Name| Description  
+---|---  
+ _file_|  Name of the file containing the document references for the current
+search. This parameter is required when _retstart_ is being used. The value is
+obtained from the XML returned from the initial search. The file will expire
+after a certain period of inactivity, after which a new request must be
+initiated. If the file is expired, the XML output will contain an error
+message.  
+ _server_|  Name of the server with the file referenced by the _file_
+parameter. This is required when the _file_ parameter is being used.  
+ _retstart_|  Sequential index of the first document in the retrieved set to
+be shown in the XML output (default=0, corresponding to the first record of
+the entire set). This parameter can be used in conjunction with _retmax_ to
+download an arbitrary subset of documents retrieved from a search.  
+  
+  
+
+ **Example:**  
+https://wsearch.nlm.nih.gov/ws/query?file=viv_0Uu9LP&server=qvlbsrch04&retstart=20
+
+### Optional Parameters
+
+Optional ParametersParameter Name| Description  
+---|---  
+ _retmax_|  Total number of documents from the retrieved set to be shown in
+the XML output (default=10). By default, the web service only includes the
+first 10 documents retrieved in the XML output. Increasing _retmax_ allows
+more of the retrieved documents to be included in the XML output.  
+ _rettype_|  Retrieval type. This parameter specifies the format of the
+results. By default, results will be returned in _brief_ format if no
+_rettype_ is specified in the request. To specify a retrieval type, use one of
+the following possible values:  
+ **brief** \- Returns the health topics as search results with abbreviated
+health topic records, keyword-in-context highlighting, and snippets (default).  
+ **topic** \- Returns the health topics as full XML records with all
+associated vocabulary and links.  
+ **all** \- Returns health topics in both _brief_ and _topic_ format.  
+ _tool_|  A string with no internal spaces that identifies the resource which
+is using the Web service (e.g., tool=myservicename). This argument is used to
+help NLM provide better service to third parties using the Web service from
+programs. As with any query system, it is sometimes possible to ask the same
+question different ways, with different effects on performance. NLM requests
+that developers sending a large volume of requests include a constant 'tool'
+argument for all requests using the Web service.  
+ _email_|  Email address. If you choose to provide an email address, NLM may
+use it to contact you if there are problems with your queries. In addition to
+using the email address parameter, we encourage all Web service users to sign
+up for the email list referenced at the top of this page to receive general
+announcements and notifications of changes to the service.  
+  
+  
+
+ **ExamplesÂ** ( _retmax_ ) **:**  
+https://wsearch.nlm.nih.gov/ws/query?db=healthTopics&term=diabetes&retmax=50  
+https://wsearch.nlm.nih.gov/ws/query?file=viv_0Uu9LP&server=qvlbsrch04&retstart=30&retmax=20
+
+ **Examples** ( _rettype_ ):  
+https://wsearch.nlm.nih.gov/ws/query?db=healthTopics&term=asthma&rettype=brief  
+https://wsearch.nlm.nih.gov/ws/query?db=healthTopics&term=asthma&rettype=topic  
+https://wsearch.nlm.nih.gov/ws/query?db=healthTopics&term=asthma&rettype=all
+
+## Output
+
+### Output Type
+
+XML
+
+### XML Response Format
+
+The following is the basic structure of the XML returned:
+
+  
+
+<nlmSearchResult>
+
+  
+    </term>
+  
+    </file>
+  
+    </server>
+  
+    </count>
+  
+    </retstart>
+  
+    </retmax>
+  
+    </spellingCorrection>
+  
+    
+
+<list>
+
+  
+    
+
+<document>
+
+  
+    <content />
+  
+</document>
+
+  
+    </list>
+  
+</nlmSearchResult>
+
+  
+
+The _rettype_ parameter in the URL request determines the format and type of
+information contained within the <content> element. See below for more
+information on the content element.
+
+  
+
+### Descriptions of Elements
+
+Descriptions of ElementsElement Name| Description  
+---|---  
+ _nlmSearchResult_|  Basic XML node that contains the response (has no
+attributes)  
+ _term_|  Text query submitted to the Web service  
+ _file_|  Name of the file containing the document references for the current
+search  
+ _server_|  Name of the server with the file referenced by the file parameter  
+ _retstart_|  Sequential index of the first document in the retrieved set
+shown in the XML output  
+ _retmax_|  Total number of documents from the retrieved set shown in the XML
+output  
+ _count_|  The number of documents in the current result set (non-negative
+integer)  
+ _spellingCorrection_|  Suggested alternative search with a different spelling
+of the word(s) in the query term(s). This element is not always present.  
+ _list_|  The containing element for all of the retrieved documents  
+ _document_|  An individual document (MedlinePlus health topic record)  
+  
+  
+
+### Document Element Description
+
+Document Element DescriptionAttribute| Type| Description  
+---|---|---  
+ _url_|  Text| MedlinePlus health topic page URL  
+ _rank_|  Non-negative integer| Rank of the document in the results. The rank
+is based on the relevance score as determined by the search engine. Generally,
+the first document in the first results set will have a rank of zero, and the
+next document will have a rank of 1, 2, 3, etc. However, if the query string
+matches a health topic's title or altTitle, that topic will be boosted to the
+top, regardless of the rank. In these cases, the first document in the first
+results set may have a rank greater than zero.  
+ _content_|  Text| Â Specifies some text associated with its parent document,
+the MedlinePlus health topic record. The content nodes will vary depending on
+the value of the rettype URL parameter.  
+  
+  
+
+### Content Element Description for _brief_ Retrieval Type
+
+For rettype=brief, the value of content nodes will contain query term
+identification in the form of tags. The query term will be identified in the
+tag as qt0, qt1, qt2, etc.
+
+Â Content Element Description for _brief_ Retrieval TypeÂ Attribute| Type|
+Description  
+---|---|---  
+ _name_|  Text| The name of the content node. Allowed values are: title,
+organizationName, altTitle, fullSummary, mesh, groupName, snippet. (See below
+for a description of content node values.)  
+  
+  
+
+The content nodes are as follows:
+
+Content Name Attribute Value descriptionContent Name Attribute Value|
+Description  
+---|---  
+ _title_|  Name of the MedlinePlus health topic page  
+ _organizationName_|  Organization that produced the MedlinePlus topic page.
+Value will always be "National Library of Medicine" for English and
+"Biblioteca Nacional de Medicina" for Spanish.  
+ _altTitle_|  See reference(s) and synonym(s) for the topic. See references
+and synonyms are undifferentiated in the XML.  
+ _FullSummary_|  Text summary of the topic. HTML formatting will be present.  
+ _mesh_|  Medical Subject Heading(s) assigned to the topic.  
+ _groupName_|  Group(s) to which the topic belongs. A complete list of groups
+can be found on the MedlinePlus health topics landing page in English and
+Spanish.  
+ _snippet_|  Brief result summary generated by the search engine that provides
+a preview of the relevant content on the topic page.  
+  
+  
+
+ **Example:**
+
+â <document rank="0"Â url="https://medlineplus.gov/diabetesmedicines.html">
+
+Â <content name="title"><span class="qt0">Diabetes</span> <span
+class="qt1">Medicines</span></content>
+
+Â <content name="organizationName">National Library of Medicine</content>
+
+Â <content name="altTitle">Insulin</content>
+
+Â <content name="altTitle">Hypoglycemic <span
+class="qt1">Medicines</span></content>
+
+Â <content name="FullSummary"><p><span class="qt0">Diabetes</span> means your
+blood glucose, or blood sugar, is too high. If you can't control your <span
+class="qt0">diabetes</span> with wise food choices and physical activity, you
+may need <span class="qt0">diabetes</span> <span class="qt1">medicines. The
+kind of medicine</span> you take depends on your type of <span
+class="qt0">diabetes</span>, your schedule, and your other health conditions.
+</p><p>With Type 1 <span class="qt0">diabetes</span>, your pancreas does not
+make insulin. Insulin is a hormone that helps glucose get into your cells to
+give them energy. Without insulin, too much glucose stays in your blood. If
+you have type 1 <span class="qt0">diabetes</span>, you will need to take
+insulin. </p><p>Type 2 <span class="qt0">diabetes</span>, the most common
+type, can start when the body doesn't use insulin as it should. If your body
+can't keep up with the need for insulin, you may need to take pills. Some
+people need both insulin and pills. Along with meal planning and physical
+activity, <span class="qt0">diabetes</span> pills help people with type 2
+<span class="qt0">diabetes</span> or gestational <span
+class="qt0">diabetes</span> keep their blood glucose levels on target. Several
+kinds of pills are available. Each works in a different way. Many people take
+two or three kinds of pills. Some people take combination pills. Combination
+pills contain two kinds of <span class="qt0">diabetes</span> <span
+class="qt1">medicine</span> in one tablet. Some people take pills and
+insulin.</p><p>NIH: National Institute of <span class="qt0">Diabetes</span>
+and Digestive and Kidney Diseases</p></content>
+
+Â <content name="mesh">Hypoglycemic Agents</content>
+
+Â <content name="mesh">Insulin</content>
+
+Â <content name="groupName">Endocrine System</content>
+
+Â <content name="groupName">Drug Therapy</content>
+
+Â <content name="groupName"><span class="qt0">Diabetes
+Mellitus</span></content>
+
+Â <content name="snippet">... food choices and physical activity, you may need
+<span class="qt0">diabetes</span> <span class="qt1">medicines. The kind of
+medicine</span> you take depends on ... combination pills. Combination pills
+contain two kinds of <span class="qt0">diabetes</span> <span
+class="qt1">medicine</span> in one tablet. Some people take pills and
+...</content>
+
+Â </document>
+
+### Content Element Description for _topic_ and _all_ Retrieval Types
+
+For rettype=topic there will be one content node content@name=healthTopic.
+This content node will be followed by the health topic data in XML. For
+complete documentation on the MedlinePlus health topic XML format, see the
+MedlinePlus XML files page, DTD, and description.
+
+For rettype=all, all the above content nodes may be present, since this
+rettype returns both the _brief_ and _topic_ formats.
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated on 7 November 2019
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

@@ -1,862 +1,325 @@
+Link: https://medlineplus.gov/connect/application.html    
+                                Description: MedlinePlus Connect is available as a web application. Learn more about implementing the application and requesting information through MedlinePlus Connect.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link Skip directly to A-Z link Skip directly to A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search ____
+Menu
 
-Ã
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Search
 
-Submit __
+Search MedlinePlus
 
-For a full list of topics: A-Z Index
+GO
 
-_Salmonella_
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-Section Navigation
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-CDC Home
+You Are Here:
 
-                    * Facebook
-                    * Twitter
-                    * LinkedIn
-                    * Email
-                    * Syndicate
+Home ->
 
-# Case Count Maps (Final Update)
+MedlinePlus Connect ->
 
-Four Multistate Outbreaks of Human _Salmonella_ Infections Linked to Live
-Poultry in Backyard Flocks
+Web Application
 
-Minus
+URL of this page: https://medlineplus.gov/connect/application.html
 
-Related Pages
+# MedlinePlus Connect: Web Application
 
-Posted September 24, 2015 4:15 PM ET
+To use the sharing features on this page, please enable JavaScript.
 
-These investigations are over. However, live poultry, including those kept in
-backyard flocks, remain an important cause of human _Salmonella_ infections in
-the United States. More information about _Salmonella_ from live poultry and
-the steps people can take to reduce their risk of infection is available.
+MedlinePlus Connect is available as a Web application or Web service. Below
+are the technical details for implementing the Web application, which responds
+to requests based on:
 
-### Persons infected with the outbreak strains of Salmonella Enteritidis,
-Hadar, Indiana, Muenchen or Muenster, by state of residence, as of September
-23, 2015 (n=252)
+    * diagnosis (problem) codes 
+    * medication codes, 
+    * and lab test codes.
 
-![People infected with the outbreak strains of SalmonellaEnteritidis, Hadar,
-Indiana, Muenchen and Muenster by state of residence, as of September 23, 2015
-\(n=252\)](/salmonella/live-poultry-07-15/images/live-poultry-
-map-09-24-15.jpg)
+If you decide to use MedlinePlus Connect, sign up for the email list to keep
+up with developments and exchange ideas with your colleagues. Please tell us
+if you implement MedlinePlus Connect by contacting us. You are welcome to link
+to and display the data provided by MedlinePlus Connect. For more information
+on how to link to MedlinePlus content outside of this service, please see our
+guidelines and instructions on linking.
 
-**Total ill persons** | **252**  
----|---  
-State | Case Count  
-Alabama | 20  
-Arizona | 3  
-Arkansas | 4  
-California | 12  
-Colorado | 2  
-Delaware | 2  
-Georgia | 4  
-Hawaii | 1  
-Idaho | 1  
-Illinois | 1  
-Indiana | 5  
-Iowa | 1  
-Kentucky | 5  
-Louisiana | 2  
-Maine | 2  
-Maryland | 4  
-Massachusetts | 1  
-Michigan | 6  
-Minnesota | 8  
-Mississippi | 13  
-Missouri | 1  
-Montana | 4  
-Nevada | 4  
-New Hampshire | 3  
-New Jersey | 6  
-New Mexico | 2  
-New York | 12  
-North Carolina | 5  
-Ohio | 26  
-Oklahoma | 1  
-Oregon | 9  
-Pennsylvania | 13  
-South Carolina | 12  
-South Dakota | 2  
-Tennessee | 7  
-Texas | 5  
-Utah | 6  
-Vermont | 2  
-Virginia | 16  
-Washington | 9  
-West Virginia | 4  
-Wisconsin | 2  
-Wyoming | 4  
-  
-July 31, 2015
+## Web Application Overview
 
-## Persons infected with the outbreak strains of Salmonella Enteritidis,
-Hadar, Indiana, Muenchen or Muenster, by state of residence, as of July 29,
-2015 (n=218)
+The API for the Web application conforms to the HL7 Context-Aware Knowledge
+Retrieval (Infobutton) Knowledge Request URL-Based Implementation
+specification. The structure of the request indicates what type of code you
+are sending. In all cases, the base URL for the Web application is:
+https://connect.medlineplus.gov/application
 
-![People infected with the outbreak strains of SalmonellaEnteritidis, Hadar,
-Indiana, Muenchen and Muenster by state of residence, as of July 29, 2015
-\(n=218\)](/salmonella/live-poultry-07-15/images/live-poultry-map-07-31.jpg)
+MedlinePlus Connect uses HTTPS connections. HTTP requests will not be accepted
+and existing implementations using HTTP should update to HTTPS.
 
-**Total ill persons** | **218**  
----|---  
-State | Case Count  
-Alabama | 19  
-Arizona | 3  
-Arkansas | 4  
-California | 8  
-Colorado | 2  
-Delaware | 2  
-Georgia | 5  
-Indiana | 3  
-Iowa | 1  
-Illinois | 1  
-Kentucky | 5  
-Louisiana | 2  
-Maine | 2  
-Maryland | 4  
-Massachusetts | 1  
-Michigan | 6  
-Minnesota | 6  
-Mississippi | 13  
-Missouri | 1  
-Montana | 3  
-Nevada | 2  
-New Hampshire | 3  
-New Jersey | 5  
-New Mexico | 2  
-New York | 10  
-North Carolina | 5  
-Ohio | 19  
-Oklahoma | 1  
-Oregon | 5  
-Pennsylvania | 13  
-South Carolina | 11  
-South Dakota | 2  
-Tennessee | 6  
-Texas | 5  
-Utah | 4  
-Vermont | 2  
-Virginia | 14  
-Washington | 9  
-West Virginia | 3  
-Wisconsin | 2  
-Wyoming | 4  
-Total ill people | 218  
-  
-July 1, 2015
+## Requests for Diagnosis (Problem) Codes
 
-## People infected with the outbreak strains of _Salmonella_ Enteritidis,
-Hadar, Indiana, or Muenchen, by state*
+MedlinePlus Connect matches ICD-10-CM, ICD-9-CM or SNOMED CT codes to related
+MedlinePlus topic pages of consumer health information. For example, a patient
+diagnosed with ICD-9-CM code 493.12, Extrinsic asthma with exacerbation, could
+be presented a link in an electronic health record (EHR) that leads to the
+MedlinePlus page Asthma.
 
-![People infected with the outbreak strains of Salmonella Enteritidis, Hadar,
-Indiana and Muenchen, by state of residence, as of June 29, 2015
-\(n=182\)](/salmonella/live-poultry-07-15/images/map/map-07-01-2015-full.jpg)
+Clicking on the link brings the user to a MedlinePlus Connect response page
+displaying up to three MedlinePlus topic summaries and selected links, if
+available. From that page, a user may continue to the complete MedlinePlus
+health topic page, or to any of the individual links on the response page.
 
-* n=181 for whom information was reported as of June 29, 2015
+Some SNOMED CT and ICD-10-CM requests may also produce responses from Genetics
+Home Reference (GHR). Currently these GHR links are available only for English
+SNOMED CT and ICD-10-CM requests.
 
-**Total ill persons** | **181**  
----|---  
-State | Case Count  
-Alabama | 17  
-Arizona | 3  
-Arkansas | 4  
-California | 3  
-Colorado | 2  
-Delaware | 2  
-Georgia | 4  
-Indiana | 3  
-Iowa | 1  
-Kentucky | 4  
-Louisiana | 2  
-Maine | 2  
-Maryland | 4  
-Massachusetts | 1  
-Michigan | 3  
-Minnesota | 6  
-Mississippi | 13  
-Missouri | 1  
-Montana | 3  
-Nevada | 2  
-New Hampshire | 1  
-New Jersey | 3  
-New Mexico | 2  
-New York | 6  
-North Carolina | 3  
-Ohio | 15  
-Oklahoma | 1  
-Oregon | 5  
-Pennsylvania | 12  
-South Carolina | 10  
-South Dakota | 2  
-Tennessee | 6  
-Texas | 5  
-Utah | 4  
-Vermont | 2  
-Virginia | 11  
-Washington | 6  
-West Virginia | 2  
-Wisconsin | 1  
-Wyoming | 4  
-  
-Read the full Outbreak Investigation
+For requests by problem, the base URL of the application is:
+https://connect.medlineplus.gov/application
 
-Page last reviewed: July 31, 2015
+This link displays a page with an empty search box. There are two required
+parameters for any query to this application:
 
-Content source: Centers for Disease Control and Prevention, National Center
-for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of Foodborne,
-Waterborne, and Environmental Diseases (DFWED)
+    1. Identify the problem code system you will be using.  
 
-home _Salmonella_ Homepage
+For ICD-10-CM use:
 
-                    * Questions & Answersplus icon
-                      * Additional Information
-                    * Prevention
-                    * Symptoms
-                    * Diagnosis & Treatmentplus icon
-                      * Diagnostic and Public Health Testing
-                    * Current Outbreaksplus icon
-                      * Reporting Timeline
-                      * _Salmonella_ Infections Linked to Small Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tortugas mascota pequeÃ±as
-                      * _Salmonella_ Infections Linked to Cut Fruitplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Ground Beefplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a la carne de res molida
-                      * _Salmonella_ Infections Linked to Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a turtugas mascota
-                      * _Salmonella_ Infections Linked to Pig Ear Dog Treatsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Papayasplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a papayas frescas enteras importadas de MÃ©xico
-                      * _Salmonella_ Infections Linked to Karawan brand Tahiniplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tahini de la marca Karawan
-                      * _Salmonella_ Infections Linked to Backyard Poultryplus icon
-                        * Map of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brotes de infecciones por _Salmonella_ vinculados a aves de corral domÃ©sticas
-                      * _Salmonella_ Infections Linked to Frozen Raw Tunaplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Newport vinculado a atÃºn crudo congelado
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                      * _Salmonella_ Infections Linked to Pre-Cut Melonplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Carrau vinculado a melÃ³n y sandÃ­a precortados
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                      * _Salmonella_ Infections Linked to Butterball Brand Ground Turkeyplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado al pavo molido de marca Butterball
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones de la investigaciÃ³n del brote, por fecha
-                      * _Salmonella_ Infections Linked to Pet Hedgehogsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a los erizos como mascota
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                    * Previous Outbreaksplus icon
-                      * 2018 Outbreaksplus icon
-                        * Multidrug-Resistant _Salmonella_ Infections Linked to Raw Turkey Productsplus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pavo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Tahini from Achdut Ltd., 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a tahini elaborado por Achdut Ltd.
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Raw Chicken Products, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Advice to Clinicians
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pollo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Recomendaciones para los mÃ©dicos
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Ground Beef, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a carne molida de res
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Agbeni Infections, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Gravel Ridge Farms Shell Eggs, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Chicken, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Hy-Vee Spring Pasta Salad, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella vinculado a la ensalada de pasta âHy-Vee Spring Pasta Saladâ
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Kelloggâs Honey Smacks Cereal, 2018plus icon
-                          * Salmonella Infections Linked to Kelloggâs Honey Smacks Cereal en EspaÃ±ol
-                          * Recall and Advice to Consumers, Restaurants and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pre-Cut Melon, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pre-Cut Melon en EspaÃ±ol
-                          * Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks, 2018plus icon
-                          * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Braenderup Infections Linked to Shell Eggs, 2018plus icon
-                          * _Salmonella_ Braenderup Infections Linked to Shell Eggs en EspaÃ±ol
-                          * Recalls and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Dried Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Dried Coconut en EspaÃ±ol
-                          * Recall and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Guinea Pigs, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pet Guinea Pigs en EspaÃ±ol
-                          * Case Count Maps
-                          * Case Count Maps en EspaÃ±ol
-                          * Signs & Symptoms
-                          * Signs & Symptoms en EspaÃ±ol
-                        * _Salmonella_ Infections Linked to Chicken Salad, 2018plus icon
-                          * _Salmonella_ Infections Linked to Chicken Salad en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Kratom, 2018plus icon
-                          * _Salmonella_ Infections Linked to Kratom en EspaÃ±ol
-                          * Recalls and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo Infections Linked to Raw Sprouts, 2018plus icon
-                          * _Salmonella_ Infections Linked to Raw Sprouts en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Shredded Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut en EspaÃ±ol
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut á» Viá»t Nam [PDF â 3 pages]
-                          * Recall and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2017 Outbreaksplus icon
-                        * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Turtles, 2017plus icon
-                          * _Salmonella_ Infections Linked to Small Turtles, 2017 en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Laboratory Exposure, 2017plus icon
-                          * Advice to Students & Employees in Microbiology Laboratories
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry in Backyard Flocksplus icon
-                          * Case Count Maps
-                          * Live Poultry FAQ
-                      * 2016 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Contact with Dairy Calves, 2016plus icon
-                          * Case Count Maps
-                          * Epi Curves
-                        * _Salmonella_ Oranienburg Infections Linked to Shell Eggs, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Reading and _Salmonella_ Abony Infections linked to Alfalfa Sprouts, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps 
-                          * Epi Curves 
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2016plus icon
-                          * Advice to Consumers and Retailers
-                          * Live Poultry FAQs
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo and _Salmonella_ Senftenberg Infections Linked to Wonderful Pistachios, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Alfalfa Sprouts from One Contaminated Seed Lot, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Virchow Infections Linked to Raw Meal Organic Shake and Meal Products, 2016plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2015 Outbreaksplus icon
-                        * _Salmonella_ Paratyphi B variant L(+) tartrate(+) Infections Linked to Sprouted Nut Butter Spreads, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2015plus icon
-                          * Human _Salmonella_ Infections Linked to Small Turtles en EspaÃ±ol
-                          * Advice to Pet Owners
-                          * Advice to Pet Owners en EspaÃ±ol
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * _Salmonella_ Poona Infections Linked to Imported Cucumbers, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Multidrug-Resistant _Salmonella_ I 4,[5],12:i:- and _Salmonella_ Infantis Infections Linked to Pork, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Aspen Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Drug-Resistant _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Barber Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2015plus icon
-                          * Advice to Backyard Flock Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Raw Tuna, 2015plus icon
-                          * Advice to Retailers & Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Crested Geckos, 2015plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2014 Outbreaksplus icon
-                        * Enteritidis Infections Linked to Bean Sprouts, 2014plus icon
-                          * Advice to Consumers & Retailers
-                          * Final Case Count Maps
-                          * Final Epi Curve
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Linked to Nut Butter, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human Typhimurium Infections Linked to Laboratory Exposure, 2014plus icon
-                          * Advice to Students & Employees in Labs
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Chia Powder, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Frozen Feeder Rodents, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Bearded Dragons, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Heidelberg Infections Linked to Tyson Brand Mechanically Separated Chicken, 2014plus icon
-                          * Recall & Advice to Institutions
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Stanley Infections Linked to Raw Cashew Cheese, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2013 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Foster Farms Brand Chicken, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * _Salmonella_ Mbandaka Infections Linked to Tahini Sesame Paste, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Live Poultry in Backyard Flocks, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Saintpaul Infections Linked to Imported Cucumbers, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Heidelberg Infections Linked to Chicken, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Typhimurium Infections Linked to Ground Beef, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2012 Outbreaksplus icon
-                        * Bredeney Infections Linked to Peanut Butter, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Hedgehogs, 2012plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Associated with Mangoes, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Typhimurium and Newport Infections Linked to Cantaloupe, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Enteritidis Infections Linked to Ground Beef, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Hadar Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Montevideo Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infantis Infections Linked to Dry Dog Food, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Information for Pet Owners
-                          * Information for Veterinarians
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Bareilly and Nchanga Infections Associated with a Raw Scraped Ground Tuna Product, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Outbreaks Diagram
-                          * Signs & Symptoms
-                          * Key Resource
-                        * Enteritidis Infections Linked to Restaurant Chain A, 2012
-                      * 2010 through 2011 Outbreaksplus icon
-                        * Typhimurium Infections Linked to Ground Beef
-                        * Heidelberg Infections Linked to Kosher Broiled Chicken Livers
-                        * Enteritidis Infections Linked to Turkish Pine Nuts
-                        * Heidelberg Infections Linked to Ground Turkey
-                        * Agona Infections Linked to Whole, Fresh Imported Papayas
-                        * Enteritidis Infections Linked to Alfalfa Sprouts and Spicy Sprouts
-                        * Altona and Johannesburg Infections Linked to Chicks and Ducklings
-                        * Typhimurium Infections Associated with Lab Exposure
-                        * Typhimurium Infections Linked to African Dwarf Frogs
-                        * Hadar Infections Associated with Turkey Burgers
-                        * Panama Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Alfalfa Sprouts
-                        * Enteritidis Infections Associated with Shell Eggs
-                        * Chester Infections Associated with Cheesy Chicken & Rice Frozen EntrÃ©e
-                        * Typhi (Typhoid Fever) Associated with Frozen Mamey Fruit Pulp
-                        * Hartford and Baildon Infections Associated with Restaurant Chain A
-                        * I 4,[5],12:i:- Linked to Frozen Rodents
-                        * Newport Infections Linked to Alfalfa Sprouts
-                        * Montevideo Infections Linked to Red and Black Pepper/Italian-Style Meats
-                      * 2006 through 2009 Outbreaksplus icon
-                        * Saintpaul Infections Linked to Alfalfa Sprouts
-                        * _Salmonella_ Infections Linked to Pistachio Nuts
-                        * Typhimurium Infections Linked to Peanut Butter
-                        * Saintpaul Infections Linked to Raw Produce
-                        * Agona Infections Linked to Rice & Wheat Puff Cereal
-                        * Litchfield Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Pot Pies
-                        * Human Schwarzengrund Infections Linked to Dry Pet Food
-                        * Wandsworth Infections Linked to Veggie Booty
-                        * Tennessee Infections Linked to Peanut Butter
-                        * Typhimurium Infections Linked to Tomatoes
-                    * For Health Professionals
-                    * Surveillanceplus icon
-                      * _Salmonella_ Atlasplus icon
-                        * 32 Individual Serotypes Reports
-                        * Importance of Serotyping
-                        * Snapshots of Serotypes
-                    * Communication Materials
-                    * Reports & Publicationsplus icon
-                      * MMWR Articles
-                      * References
+    mainSearchCriteria.v.cs=2.16.840.1.113883.6.90
 
-Related Links
+For ICD-9-CM use:
 
-                    * Multistate Foodborne Outbreaks
-                    * Zoonotic Diseases (Diseases from Animals)
-                    * Foodborne Illness A-Z
-                    * Estimates of Foodborne Illness
-                    * Report a Foodborne Illness
-                    * Foodsafety.govExternal file_external 
-                    * U.S. Food and Drug Administration (FDA)External file_external 
-                    * USDA Food Safety and Inspection ServiceExternal file_external 
+    mainSearchCriteria.v.cs=2.16.840.1.113883.6.103
 
-Follow Salmonella
+For SNOMED CT use:
 
-![Sign up for RSS feed.](/salmonella/images/outbreaks/rss-icon.png)
+    mainSearchCriteria.v.cs=2.16.840.1.113883.6.96
+    2. Identify the actual code that you are trying to look up: mainSearchCriteria.v.c=250.33
 
-Sign up for RSS Feed
+### Optional Parameters
 
-**HAVE QUESTIONS?**
+Identify the name/title of the problem code. Sending no code will result in a
+query to the MedlinePlus search engine. If you specify a code and the
+name/title of the code, but MedlinePlus Connect has no results, the response
+page will display a MedlinePlus search box prepopulated with the name/title.
+mainSearchCriteria.v.dn=Diabetes mellitus with other coma type 1 uncontrolled
 
-Visit CDC-INFO
+Identify if you would like the request to be in English or Spanish.
+MedlinePlus Connect will assume English is the language if it is not
+specified.
 
-Call 800-232-4636
+If you wish the response to the problem code lookup to be in Spanish, use :
+informationRecipient.languageCode.c=es  
+(=sp also accepted)
 
-Email CDC-INFO
+To specify English, use the following: informationRecipient.languageCode.c=en
 
-Open 24/7
+### Examples of Requests for Problem Codes
 
-**CDC INFORMATION**
+A complete request for Diabetes Mellitus with other coma type 1 uncontrolled,
+ICD-9 code 250.33, for a Spanish speaking patient would have the following URL
+address:
+https://connect.medlineplus.gov/application?mainSearchCriteria.v.cs=2.16.840.1.113883.6.103&mainSearchCriteria.v.c;=250.33&mainSearchCriteria.v.dn;=Diabetes%20mellitus%20with%20other%20coma%20type%201%20uncontrolled&informationRecipient.languageCode.c;=es
 
-                    * About CDC
-                    * Jobs
-                    * Funding
-                    * Policies
-                    * File Viewers & Players
+A patient diagnosed with "Pneumonia due to Pseudomonas" using SNOMED CT code
+41381004:
+https://connect.medlineplus.gov/application?mainSearchCriteria.v.cs=2.16.840.1.113883.6.96&mainSearchCriteria.v.c;=41381004&mainSearchCriteria.v.dn;=Pneumonia%20due%20to%20Pseudomonas%20%28disorder%29&informationRecipient.languageCode.c;=en
 
-                    * Privacy
-                    * FOIA
-                    * No Fear Act
-                    * OIG
-                    * Nondiscrimination
-                    * Accessibility
+A freeform query, with no code system or problem code, will use the
+MedlinePlus search engine (English only):
+https://connect.medlineplus.gov/application?mainSearchCriteria.v.dn=Type+2+Diabetes
 
-**CONNECT WITH CDC**  
+## Requests for Drug Information
 
-                    * Facebook
-                    * Twitter
-                    * Youtube
-                    * Instagram
-  
+MedlinePlus Connect provides the best drug information matches when receiving
+an RXCUI. It also provides good results when receiving an NDC code.
+MedlinePlus Connect can provide responses to medication code requests in
+English or Spanish and will return a link to a results page with the best
+matches from the MedlinePlus drug information.
 
-                    * Syndicate
-                    * CDC TV
-                    * RSS
-                    * Email
+For requests for English medication information, if you do not send an NDC or
+RXCUI code or if we find no match based on the code, we will use the text
+string that you send to display the best drug information match. For requests
+for Spanish medication information, MedlinePlus Connect responds only to NDCs
+or RXCUIs; it does not use text strings. It is possible to have a response in
+English but no response in Spanish.
 
-U.S. Department of Health & Human Services
+There may be multiple responses to one medication request. There may not
+always be a match for each request. If MedlinePlus Connect finds a null
+response for a drug request, the program displays a search box for the
+MedlinePlus site. A user can type in a drug name and may get a good response.
 
-USA.gov
+For requests for drug information, the base URL is:
+https://connect.medlineplus.gov/application
 
-CDC Website Exit Disclaimer external icon
+Requests for English and Spanish medication information have different
+requirements. To send a request, include these pieces of information:
 
-                    * Facebook
-                    * Twitter
-                    * LinkedIn
-                    * Email
+    1. Identify the type of medication code you are sending. (Required for English and Spanish)  
 
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+For RXCUI use:
 
-#### Exit Notification/Disclaimer Policy
+    mainSearchCriteria.v.cs=2.16.840.1.113883.6.88
 
-Close
+For NDC use:
 
-**Links with this icon indicate that you are leaving the CDC website.**
+    mainSearchCriteria.v.cs=2.16.840.1.113883.6.69
+    2. Identify the actual code you are trying to look up. (Preferred for English, Required for Spanish) mainSearchCriteria.v.c=637188
+    3. Identify the name of the drug with a text string. (Optional for English, Not used for Spanish) mainSearchCriteria.v.dn=Chantix 0.5 MG Oral Tablet
 
-                    * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                    * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                    * You will be subject to the destination website's privacy policy when you follow the link.
-                    * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
+For English requests, you should identify at a minimum the code system and the
+code, or the code system and the name of the drug. Send all three for best
+results for English requests. For Spanish requests, you should identity the
+code system and the code.
 
-Cancel Continue
+### Optional Parameters
 
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+When sending a request for English information, you may include the optional
+parameter of the name of the medication. This is detailed in the above
+section. This parameter is not used for Spanish requests.
+
+Identify if you would like the request to be in English or Spanish.
+MedlinePlus Connect will assume English is the language if it is not
+specified.
+
+If you wish the response to the medication code lookup to be in Spanish, use:
+informationRecipient.languageCode.c=es (=sp also accepted)
+
+To specify English, use the following: informationRecipient.languageCode.c=en
+
+### Examples of Requests for Drug Codes
+
+Your drug information request should look like one of the following.
+
+To request information by an RXCUI, your request should look like this:
+https://connect.medlineplus.gov/application?mainSearchCriteria.v.cs=2.16.840.1.113883.6.88&mainSearchCriteria.v.c;=%20637188%20&mainSearchCriteria.v.dn;=Chantix%200.5%20MG%20Oral%20Tablet&informationRecipient.languageCode.c;=en
+
+To request information by an NDC for a Spanish speaker, your request should
+look like this:
+https://connect.medlineplus.gov/application?mainSearchCriteria.v.cs=2.16.840.1.113883.6.69&mainSearchCriteria.v.c;=%2000310-0751-39&informationRecipient.languageCode.c;=es
+
+To send a text string without a medication code, you must identify your query
+as an NDC-type request so MedlinePlus Connect knows you are looking for
+medication information. This will work for English only. Your request could
+look like this:
+https://connect.medlineplus.gov/application?mainSearchCriteria.v.cs=2.16.840.1.113883.6.69&mainSearchCriteria.v.dn;=Chantix%200.5%20MG%20Oral%20Tablet&informationRecipient.languageCode.c;=en
+
+## Requests for Lab Test Information
+
+MedlinePlus Connect provides matches to laboratory test information when
+receiving a LOINC request. MedlinePlus Connect can provide responses to lab
+test requests in English or Spanish and will return a link to a results page
+with the best matches from the MedlinePlus lab test information.
+
+For requests for lab test information, the base URL is:
+https://connect.medlineplus.gov/application
+
+These are two required parameters for any lab test query to this application:
+
+    1. Identify that you are using the LOINC code system.   
+
+For LOINC use:
+
+    mainSearchCriteria.v.cs=2.16.840.1.113883.6.1
+
+MedlinePlus Connect will also accept:
+
+    mainSearchCriteria.v.cs=2.16.840.1.113883.11.79
+    2. Identify the actual code you are trying to look up.  mainSearchCriteria.v.c=3187-2
+
+### Optional Parameters
+
+Identify the name/title of the lab test. However, this information does not
+impact the response. mainSearchCriteria.v.dn=Factor IX assay
+
+Identify if you would like the request to be in English or Spanish.
+MedlinePlus Connect will assume English is the language if it is not
+specified.
+
+If you wish the response to the problem code lookup to be in Spanish, use:
+informationRecipient.languageCode.c=es (=sp also accepted)
+
+To specify English, use the following: informationRecipient.languageCode.c=en
+
+A freeform query, with no code system or lab code, will use the MedlinePlus
+search engine. This approach is more effective with diagnoses (see the problem
+code information above) instead of lab test text strings. Your lab test
+information request should look like one of the following.
+
+### Examples of Requests for Lab Tests
+
+To request information for an English speaker, your request may look like one
+of the following:
+https://connect.medlineplus.gov/application?mainSearchCriteria.v.cs=2.16.840.1.113883.6.1&mainSearchCriteria.v.c;=3187-2&mainSearchCriteria.v.dn;=Factor%20IX%20assay&informationRecipient.languageCode.c;=en
+https://connect.medlineplus.gov/application?mainSearchCriteria.v.cs=2.16.840.1.113883.6.1&mainSearchCriteria.v.c;=3187-2&informationRecipient.languageCode.c;=en
+
+To request information for a Spanish speaker, your request may look like one
+of the following:
+https://connect.medlineplus.gov/application?mainSearchCriteria.v.cs=2.16.840.1.113883.6.1&mainSearchCriteria.v.c;=3187-2&mainSearchCriteria.v.dn;=Factor%20IX%20assay&informationRecipient.languageCode.c;=es
+https://connect.medlineplus.gov/application?mainSearchCriteria.v.cs=2.16.840.1.113883.6.1&mainSearchCriteria.v.c;=3187-2&informationRecipient.languageCode.c;=es
+
+## Acceptable Use Policy
+
+In order to avoid overloading the MedlinePlus servers, NLM requires that users
+of MedlinePlus Connect send no more than 100 requests per minute per IP
+address. Requests that exceed this limit will not be serviced, and service
+will not be restored for 300 seconds or until the request rate falls beneath
+the limit, whichever comes later. To limit the number of requests that you
+send to Connect, NLM recommends caching results for a 12-24 hour period.
+
+This policy is in place to ensure that the service remains available and
+accessible to all users. If you have a specific use case that requires you to
+send a large number of requests to MedlinePlus Connect, and thus exceed the
+request rate limit outlined in this policy, please contact us. NLM staff will
+evaluate your request and determine if an exception may be granted. Please
+also review the MedlinePlus XML files documentation. These XML files contain
+complete health topic records and can serve as an alternate method of
+accessing MedlinePlus data.
+
+## More Information
+
+    * How MedlinePlus Connect Works
+    * Demonstrations -- Web application and Web service
+    * Technical information for developers 
+    * Frequently Asked Questions (FAQs)
+    * MedlinePlus Connect email list
+    * Contact MedlinePlus Connect 
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated on 7 November 2019
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

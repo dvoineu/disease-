@@ -1,472 +1,223 @@
+Link: https://medlineplus.gov/ency/article/000679.htm    
+                                Description: Nocardial infection (nocardiosis) is a disorder that affects the lungs, brain, or skin. In otherwise healthy people, it may occur as a local infection. But in people with weakened immune systems, it may    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search ____
+The navigation menu has been collapsed.
 
-Ã
+Menu
 
-Submit __
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Show Search
 
-For a full list of topics: A-Z Index
+Search MedlinePlus
 
-Emergency Preparedness and Response
+GO
 
-Section Navigation
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-CDC Home
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Syndicate
+EspaÃ±ol
 
-# Update and Interim Guidance on Outbreak of 2019 Novel Coronavirus
-(2019-nCoV)
+You Are Here:
 
-Minus
+Home ->
 
-Related Pages
+Medical Encyclopedia ->
 
-![Health Alert Network logo.](/han/images/HAN-Logo240x116px.png)
+Nocardial infection
 
-![HAN Health Update](/han/images/HAN_badge_HEALTH_UPDATE_320x125.png)
+URL of this page: //medlineplus.gov/ency/article/000679.htm
 
-Distributed via the CDC Health Alert Network  
-February 1, 2020, 0900 ET (9:00 AM ET)  
-CDCHAN-00427
+# Nocardial infection
 
-**Summary**  
-The Centers for Disease Control and Prevention (CDC) continues to closely
-monitor an outbreak of respiratory illness caused by a novel coronavirus
-(2019-nCoV) that was initially detected in Wuhan City, Hubei Province, China
-in December 2019.
+To use the sharing features on this page, please enable JavaScript.
 
-This CDC Health Alert Network (HAN) Update provides a situational update and
-interim guidance to state and local health departments that supersedes
-guidance in CDC's HAN 426 distributed on January 17, 2020. It also adds
+Nocardial infection (nocardiosis) is a disorder that affects the lungs, brain,
+or skin. In otherwise healthy people, it may occur as a local infection. But
+in people with weakened immune systems, it may spread throughout the body.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * guidance for clinicians caring for patients with 2019-nCoV (https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html),
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * and for public health officials on the evaluation and testing of patients under investigation (PUIs) for 2019-nCoV (https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html), and
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * updated infection prevention and control guidance specific to 2019-nCoV (https://www.cdc.gov/coronavirus/2019-nCoV/hcp/infection-control.html).
+## Causes
 
-Early in the outbreak, many of the patients with respiratory illness caused by
-2019-nCoV in China had exposure to a large seafood and live animal market,
-suggesting animal-to-human transmission. More recently, cases have been
-confirmed with no exposure to animal markets, indicating that person-to-person
-spread of the virus has occurred. Chinese officials report that sustained
-person-to-person spread in the community is occurring in China.
+Nocardial infection is caused by a bacterium. It usually starts in the lungs.
+It may spread to other organs, most often the brain and the skin. It may also
+involve the kidneys, joints, heart, eyes, and bones.
 
-The first US case-patient was identified on January 21, 2020, and had recently
-traveled from Wuhan, China. Since that time, six additional cases have been
-confirmed in the United States, four among persons who traveled from Wuhan,
-and one a close contact of a confirmed case. Globally, reported illnesses in
-people with 2019-nCoV have ranged from mild (no or few signs and symptoms), to
-severe, including death. These findings are consistent with other
-coronaviruses, including Severe Acute Respiratory Syndrome (SARS)
-(https://www.cdc.gov/sars/) and Middle East Respiratory Syndrome (MERS)
-(https://www.cdc.gov/coronavirus/mers/index.html). Additional information
-about 2019-nCoV is needed to better understand transmission, disease severity,
-and risk to the general population. The goal of the ongoing US public health
-response is to identify and contain this outbreak and prevent sustained spread
-of 2019-nCoV in the United States.
+Nocardial bacteria are found in soil around the world. You can get the disease
+by breathing in dust that has the bacteria. You can also get the disease if
+soil containing nocardial bacteria gets into an open wound.
 
-**Recommendations for Screening of Patients for 2019-nCoV in Healthcare
-Facilities**  
-Recommendations for screening of patients for possible 2019-nCoV infection are
-based on (1) current knowledge of the characteristics of clinical illness
-observed in early cases, and (2) the geographic distribution of current cases.
-They reflect the current public health goal of rapidly containing and
-preventing transmission of 2019-nCoV illness.
+You are more likely to get this infection if you have long-term (chronic) lung
+disease or a weakened immune system, which can occur with transplants, cancer,
+HIV/AIDS, and long-term use of steroids.
 
-Patients presenting to healthcare facilities should be assessed for exposures
-associated with risk of 2019-nCoV infections (e.g., travel to China or close
-contact with a confirmed case) and for symptoms consistent with 2019-nCoV
-infection (https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-
-criteria.html). The assessment is intended to allow healthcare providers to
-make decisions about appropriate infection control and management of patients.
-Note that the signs and symptoms of 2019-nCoV overlap with those associated
-with other viral respiratory tract infections. Given the time of year, common
-respiratory illnesses, including influenza, should also be considered in
-patients who are screened. (Figure 1)
+## Symptoms
 
-Clinicians should ask:
+Symptoms vary and depend on the organs involved.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Does the person have fever or symptoms of lower respiratory infection, such as cough or shortness of breath?
-
-AND
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Has the patient traveled to mainland China within 14 days of symptom onset?
-
-OR
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Has the patient had close contact1 with a person confirmed with 2019-nCoV infection?
-
-Figure 1.
-
-![Flowchart to Identify and Assess 2019 Novel
-Coronavirus](https://emergency.cdc.gov/han/images/2019-nCoV-identify-assess-
-flowchart-2020-02-01-508.png)pdf icon
-
-If a patient meets these criteria:
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * To minimize the risk that other people will be exposed to individuals who may have 2019-nCoV, patients who report having these symptoms should be asked to wear a surgical mask as soon as they are identified and directed to a separate area, if possible, with at least 6 feet (2 meters) separation from other persons. Patients should be evaluated in a private room with the door closed, ideally an airborne infection isolation room (AIIR), if available. Healthcare personnel entering the room should use standard precautions, contact precautions, airborne precautions, and use eye protection (e.g., goggles or a face shield). For more information about this, see CDC's _Interim Infection Prevention and Control Recommendations for Patients with Known or Patients Under Investigation for 2019 Novel Coronavirus (2019-nCoV) in a Healthcare Setting_ (https://www.cdc.gov/coronavirus/2019-nCoV/hcp/infection-control.html).
-
-Clinicians should immediately notify the healthcare facility's infection
-control personnel and local health department. The health department will
-determine if this patient needs to be considered a PUI for 2019-nCoV and be
-tested for infection.
-
-**Criteria to Guide Evaluation and Testing of Patients Under Investigation
-(PUI) for 2019-nCoV**  
-Local health departments, in consultation with clinicians, should determine
-whether a patient is a PUI for 2019-nCoV. The CDC clinical criteria for
-2019-nCoV PUIs have been developed based on available information about this
-novel virus, as well as what is known about SARS and MERS. These criteria are
-subject to change as additional information becomes available.
-
-**Clinical Features**
-
-|
-
-**AND**
-
-|
-
-**Epidemiologic Risk**  
-  
----|---|---  
-Fever2 **or** signs/symptoms of lower respiratory illness (e.g. cough or
-shortness of breath) |
-
-**AND**
-
-| Any person, including health care workers, who has had close contact1 with a
-laboratory-confirmed3 2019-nCoV patient within 14 days of symptom onset  
-  
-Fever2 **and** signs/symptoms of a lower respiratory illness (e.g., cough or
-shortness of breath) |
-
-**AND**
-
-| A history of travel from **Hubei Province** , China within 14 days of
-symptom onset  
-Fever2 **and** signs/symptoms of a lower respiratory illness (e.g., cough or
-shortness of breath) requiring hospitalization4 |
-
-**AND**
-
-| A history of travel from mainland **China** within 14 days of symptom onset  
-  
-These criteria are intended to serve as guidance for evaluation and testing.
-Patients should be evaluated and discussed with public health departments on a
-case-by-case basis for possible 2019-nCoV infection.  Testing decisions might
-be further informed by the clinical presentation or exposure history (e.g.,
-uncertain travel or exposure), and the presence of an alternative diagnosis
-that explains their clinical presentation.
-
-**Recommendations for Reporting, Testing, and Specimen Collection**  
-Healthcare providers should **immediately** notify infection control personnel
-at their healthcare facility if a patient is classified a PUI for 2019-nCoV.
-State health departments that have identified a PUI should immediately contact
-CDC's Emergency Operations Center (EOC) at 770-488-7100 and complete a
-2019-nCoV PUI case investigation form
-(https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-
-criteria.html#reporting-testing-specimen-collection). CDC's EOC will assist
-local and state health departments with obtaining, storing, and shipping
-appropriate specimens to CDC, including afterhours or on weekends or holidays.
-Currently, diagnostic testing for 2019-nCoV can be done only at CDC. Testing
-for other respiratory pathogens should not delay specimen shipping to CDC.
-
-For initial diagnostic testing for 2019-nCoV, CDC recommends collecting and
-testing upper respiratory (nasopharyngeal _AND_ oropharyngeal swabs), and
-lower respiratory (sputum, if possible)) for those patients with productive
-coughs. Induction of sputum is not indicated. Specimens should be collected as
-soon as possible once a PUI is identified, regardless of the time of symptom
-onset. See _Interim Guidelines for Collecting, Handling, and Testing Clinical
-Specimens from Patients Under Investigation (PUIs) for 2019 Novel Coronavirus
-(2019-nCoV)_ (https://www.cdc.gov/coronavirus/2019-nCoV/lab/guidelines-
-clinical-specimens.html).
-
-**Recommendations for Healthcare Providers**  
-No vaccine or specific treatment for 2019-nCoV infection is available. At
-present, medical care for patients with 2019-nCoV is supportive.
-
-Persons with confirmed or suspected 2019-nCoV infection who are hospitalized
-should be evaluated and cared for in a private room with the door closed,
-ideally an airborne infection isolation room, if available. For more
-information, see _Interim Infection Prevention and Control Recommendations for
-Patients with Known or Patients Under Investigation for 2019 Novel Coronavirus
-(2019-nCoV) in a Healthcare Setting_
-(https://www.cdc.gov/coronavirus/2019-nCoV/hcp/infection-control.html).
-
-Home care and isolation may be an option, based on clinical and public health
-assessment, for some persons. Please see _Interim Guidance for Preventing the
-Spread of 2019 Novel Coronavirus (2019-nCoV) in Homes and Communities_
-(https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html).
-
-Those isolated at home should be monitored by public health officials to the
-extent possible. Refer to _Interim Guidance for Implementing_ _Home Care of
-People Not Requiring Hospitalization for 2019 Novel Coronavirus (2019-nCoV)_
-(https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-home-care.html) for
-more information.
-
-_Notes_  
-1Close contact is defined as:  
-a) being within approximately 6 feet (2 meters), or within the room or care
-area, of a 2019-nCoV case for a prolonged period of time while not wearing
-recommended personal protective equipment or PPE (e.g., gowns, gloves, NIOSH-
-certified disposable N95 respirator, eye protection); close contact can
-include caring for, living with, visiting, or sharing a health care waiting
-area or room with a 2019-nCoV case  
-- _or -_  
-b) having direct contact with infectious secretions of a 2019-nCoV case (e.g.,
-being coughed on) while not wearing recommended personal protective equipment.  
-2Fever may be subjective or confirmed
-
-See CDC's updated _Interim Infection Prevention and Control Recommendations
-for Patients with Known or Patients Under Investigation for 2019 Novel
-Coronavirus (2019-nCoV) in a Healthcare Setting_
-(https://www.cdc.gov/coronavirus/2019-ncov/infection-control.html).
-
-Data to inform the definition of close contact are limited. Considerations
-when assessing close contact include the duration of exposure (e.g., longer
-exposure time likely increases exposure risk) and the clinical symptoms of the
-person with 2019-nCoV (e.g., coughing likely increases exposure risk as does
-exposure to a severely ill patient). Special consideration should be given to
-those exposed in health care settings.  
-3 Documentation of laboratory-confirmation of 2019-nCoV may not be possible
-for travelers or persons caring for patients in other countries. __  
-4 Category also includes any member of a cluster of patients with severe acute
-lower respiratory illness (e.g., pneumonia, ARDS) of unknown etiology in which
-2019-nCoV is being considered that requires hospitalization. Such persons
-should be evaluated in consultation with state and local health departments
-regardless of travel history.
-
-**For More Information**  
-More information is available at the 2019 Novel Coronavirus website
-(https://www.cdc.gov/coronavirus/2019-ncov/index.html) or by  
-calling 800-CDC-INFO | (800-232-4636) | TTY: (888) 232-6348
-
-The Centers for Disease Control and Prevention (CDC) protects people's health
-and safety by preventing and controlling diseases and injuries; enhances
-health decisions by providing credible information on critical health issues;
-and promotes healthy living through strong partnerships with local, national
-and international organizations.
-
-### Department of Health and Human Services
-
-#### HAN Message Types
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * **Health Alert:** Conveys the highest level of importance; warrants immediate action or attention. 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * **Health Advisory:** Provides important information for a specific incident or situation; may not require immediate action. 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * **Health Update:** Provides updated information regarding an incident or situation; unlikely to require immediate action. 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * **Info Service:** Provides general information that is not necessarily considered to be of an emergent nature. 
-
-###  
-This message was distributed to state and local health officers, state and
-local epidemiologists, state and local laboratory directors, public
-information officers, HAN coordinators, and clinician organizations.  
-###
-
-__ Top of Page
-
-Additional Resources
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * HAN Archive By Year
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * HAN Types
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Sign Up for HAN Email Updates
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * HAN Jurisdictions
-
-Page last reviewed: February 1, 2020
-
-Content source: Center for Preparedness and Response (CPR)
-
-home Health Alert Network (HAN)
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * HAN Jurisdictions
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * HAN Message Types
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Sign Up for HAN Updates
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * HAN Archiveplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * 2020plus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00431
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00430
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00429
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00428
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00427
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00426
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00425
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00424
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * 2019plus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00423
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00422
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00421
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00420
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00419
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00418
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00417
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * 2018plus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00416
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00415
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00414
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00413
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00412
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00411
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00410
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * 2017plus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00409
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00408
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00407
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00406
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00405
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00404
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00403
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00402
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00401
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00400
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * 2016plus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00399
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00398
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00397
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00396
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00395
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00394
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00393
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00392
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00391
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00390
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00389
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00388
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00387
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00386
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00385
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * 2015plus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00384
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00383
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00382
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00381
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00380
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00379
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00378
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00377
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00376
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * HAN00375
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Prepare Your Health
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Coping with a Disaster or Traumatic Event
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Information on Specific Types of Emergencies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Information for Specific Groups
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Resources for Emergency Health Professionals
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Training & Education
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Social Media
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * What's New
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Preparation & Planning
-
-More on Preparedness
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * What CDC is Doing
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Blog: Public Health Matters
-
-![Ready: Prepare. Plan. Stay
-Informed.](https://emergency.cdc.gov/images/readygov/campaign-ready.png)
-
-![Social Media at CDC Emergency](https://emergency.cdc.gov/images/campaign-
-badges/localcampaign-socialmedia.png)
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * About CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Jobs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * File Viewers & Players
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Nondiscrimination
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Accessibility
-
-**CONNECT WITH CDC**  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Youtube
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Instagram
-  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
-
-U.S. Department of Health & Human Services
-
-USA.gov
-
-CDC Website Exit Disclaimer external icon
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-SAS stats
-
-#### Exit Notification/Disclaimer Policy
-
-Close
-
-**Links with this icon indicate that you are leaving the CDC website.**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:27 PM
+If in the lungs, symptoms may include:
+
+    * Chest pain when breathing (may occur suddenly or slowly)
+    * Coughing up blood
+    * Fevers
+    * Night sweats
+    * Weight loss 
+
+If in the brain, symptoms may include:
+
+    * Fever
+    * Headache
+    * Seizures
+    * Coma 
+
+If the skin is affected, symptoms may include:
+
+    * Skin breakdown and a draining tract (fistula)
+    * Ulcers or nodules with infection sometimes spreading along lymph nodes 
+
+Some people with nocardial infection have no symptoms.
+
+## Exams and Tests
+
+The health care provider will examine you and ask about your symptoms.
+
+Nocardial infection is diagnosed using tests that identify the bacteria.Â For
+example, for an infection in the lung, a sputum culture may be done.
+
+Depending on the part of the body infected, testing may involve taking a
+tissue sample by:
+
+    * Brain biopsy
+    * Lung biopsy
+    * Skin biopsy
+
+## Treatment
+
+You will need to take antibiotics for 6 months to a year or longer. You may
+need more than one antibiotic.
+
+Surgery may be done to drain pus that has collected in the skin or tissues
+(abscess).
+
+## Outlook (Prognosis)
+
+How well you do depends on your overall health and the parts of the body
+involved. Infection that affects many areas of the body is hard to treat, and
+some people may not be able to recover.
+
+## Possible Complications
+
+Complications of nocardial infections depend on how much of the body is
+involved.
+
+    * Certain lung infections may lead to scarring and long-term (chronic) shortness of breath.
+    * Skin infections may lead to scarring or disfigurement.
+    * Brain abscesses may lead to loss of neurological function. 
+
+## When to Contact a Medical Professional
+
+Call your provider if you have any symptoms of this infection. They are
+nonspecific symptoms that can have many other causes.
+
+## Alternative Names
+
+Nocardiosis
+
+## Images
+
+    * ![Antibodies](//medlineplus.gov/ency/images/ency/tnails/9069t.jpg)Antibodies
+
+## References
+
+Sorrell TC, Mitchell DH, Iredell JR, Chen SC-A. _Nocardia_ species. In:
+Bennett JE, Dolin R, Blaser MJ, eds. _Mandell, Douglas, and Bennettâs
+Principles and Practice of Infectious Diseases, Updated Edition_. 8th ed.
+Philadelphia, PA: Elsevier Saunders; 2015:chap 255.
+
+Southwick FS. Nocardiosis. In: Goldman L, Schafer AI, eds. _Goldman-Cecil
+Medicine_. 25th ed. Philadelphia, PA: Elsevier Saunders; 2016:chap 330.
+
+## Review Date 12/1/2018
+
+Updated by: Jatin M. Vyas, MD, PhD, Assistant Professor in Medicine, Harvard
+Medical School; Assistant in Medicine, Division of Infectious Disease,
+Department of Medicine, Massachusetts General Hospital, Boston, MA. Also
+reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial
+Director, and the A.D.A.M. Editorial team.
+
+![Bacterial
+Infections](https://medlineplus.gov/images/Bacterialnfection_thumb.jpg)Bacterial
+Infections _Read more_
+
+![NIH MedlinePlus
+Magazine](https://medlineplus.gov/images/ency_mag_card.jpg)NIH MedlinePlus
+Magazine _Read more_
+
+![Health Topics
+A-Z](https://medlineplus.gov/images/ency_healthtopics_card.jpg)Health Topics
+A-Z _Read more_
+
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
+
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
+
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
+
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated: 23 March 2020
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

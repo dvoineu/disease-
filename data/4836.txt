@@ -1,237 +1,233 @@
+Link: https://medlineplus.gov/ency/article/001532.htm    
+                                Description: Seasonal affective disorder (SAD) is a type of depression that occurs at a certain time of the year, usually in winter.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search ____
+The navigation menu has been collapsed.
 
-Ã
+Menu
 
-Submit __
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Show Search
 
-For a full list of topics: A-Z Index
+Search MedlinePlus
 
-Injury Prevention & Control
+GO
 
-Section Navigation
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-CDC Home
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Syndicate
+EspaÃ±ol
 
-# Help and Tools for Injury Data
+You Are Here:
 
-Minus
+Home ->
 
-Related Pages
+Medical Encyclopedia ->
 
-Help and User Guides
+Seasonal affective disorder
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Fatal Injury Data Help and Tutorial
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Nonfatal Injury Data Help and Tutorial
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Fatal Injury Mapping Help
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Cost of Injury Reports Help
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Child Abuse and Neglect Program Prevention Cost Calculator Help
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Learn more about NVDRS
+URL of this page: //medlineplus.gov/ency/article/001532.htm
 
-WISQARSTM (Web-based Injury Statistics Query and Reporting System) is the
-Injury Center's interactive, online database that provides customized injury-
-related mortality data and nonfatal injury data. This data is useful for
-research and for making informed public health decisions.
+# Seasonal affective disorder
 
-### Additional Data and Statistics Reports
+To use the sharing features on this page, please enable JavaScript.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Injury Data and Resources  
-Resources from CDC's National Center for Health Statistics.
+Seasonal affective disorder (SAD) is a type of depression that occurs at a
+certain time of the year, usually in winter.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * HP2020 Health Indicators Warehouse, including Injuries and Violenceexternal icon
+## Causes
 
-### Injury Coding and Data Systems
+SAD may begin during the teen years or in adulthood. Like other forms of
+depression, it occurs more often in women than in men.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * **ICD-10-CM External Cause of Injury Framework (Matrix)**
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * The ICD-10-CM External Cause of Injury Framework for Categorizing Mechanism and Intent of Injurypdf icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ICD-10-CM External Cause Matrix Excel files and SAS Formats
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Proposed ICD-10-CM External Cause of Injury Framework (for historical purposes)  
-Proposed Framework for Presenting Injury Data using ICD-10-CM External Cause
-of Injury Codespdf icon
+People who live in places with long winter nights are at high risk of
+developing SAD. A less common form of the disorder involves depression during
+the summer months.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Recommended Actions to Improve External-Cause-of-Injury Coding (E-Coding) in State Morbidity Data Systems
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * ICD-9/ICD-9-CM External Cause of Injury Matrix
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Recent Estimates of the Completeness of E-coding in State-based Hospital Discharge and Emergency Department Data Systems using AHRQ's Healthcare Cost and Utilization Project (HCUP) datapdf iconexternal icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Inventory of Injury Data Systems
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * ICARIS-2 Public Use Data Set Documentation MS Wordword icon PDFpdf icon
+## Symptoms
 
-WISQARS Infographic
+Symptoms usually build up slowly in the late autumn and winter months.
+Symptoms are often the same as with other forms of depression:
 
-![WISQARS infographic
-teaser](/injury/images/wisqars/wisqars_infographic_teaser245w245h.jpg)
+    * Hopelessness
+    * Increased appetite with weight gain (weight loss is more common with other forms of depression)
+    * Increased sleep (too little sleep is more common with other forms of depression)
+    * Less energy and ability to concentrate
+    * Loss of interest in work or other activities
+    * Sluggish movements
+    * Social withdrawal
+    * Unhappiness and irritability 
 
-More
+SAD can sometimes become long-term depression. Bipolar disorder or thoughts of
+suicide are also possible.
 
-WISQARS Fact Sheet
+## Exams and Tests
 
-![WISQARS fact sheet
-cover](/injury/images/wisqars/fact_sheet_cover200w242h.jpg)
+There is no test for SAD. Your health care provider can make a diagnosis by
+asking about your history of symptoms.
 
-More
+Your provider may also perform a physical exam and blood tests to rule out
+other disorders that are similar to SAD.
 
-Leading Causes of Death
+## Treatment
 
-![10 Leading Causes of Death by Age Group, United States -
-2013](/injury/images/lc-
-charts/leading_causes_of_death_by_age_group_2013_260w198h.gif)
+As with other types of depression, antidepressant medicines and talk therapy
+can be effective.
 
-More
+MANAGING YOUR DEPRESSION AT HOME
 
-Page last reviewed: January 7, 2020
+To manage your symptoms at home:
 
-Content source: Centers for Disease Control and Prevention, National Center
-for Injury Prevention and Control
+    * Get enough sleep.
+    * Eat healthy foods.
+    * Take medicines the right way. Ask your provider how to manage side effects.
+    * Learn to watch for early signs that your depression is getting worse. Have a plan if it does get worse.
+    * Try to exercise more often. Do activities that make you happy. 
 
-home Injury Center
+DO NOT use alcohol or illegal drugs. These can make depression worse. They can
+also cause you to think about suicide.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Data and Statistics (WISQARS)plus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Overviewplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Key Data and Statistics
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Cost of Injury
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Ten Leading Causes of Death and Injury Charts
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Help and Tools for Injury Data
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Fatal Injury Data
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Nonfatal Injury Data
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Violent Deaths (NVDRS)
+When you are struggling with depression, talk about how you are feeling with
+someone you trust. Try to be around people who are caring and positive.
+Volunteer or get involved in group activities.
 
-Get Email Updates
+LIGHT THERAPY
 
-To receive email updates about this page, enter your email address:
+Your provider may prescribe light therapy. Light therapy uses a special lamp
+with a very bright light that mimics light from the sun:
 
-Email Address
+    * Treatment is started in the fall or early winter, before the symptoms of SAD begin.
+    * Follow your provider's instructions about how to use light therapy. One way that may be recommended is to sit a couple of feet (60 centimeters) away from the light box for about 30 minutes each day. This is often done in the early morning, to mimic sunrise.
+    * Keep your eyes open, but do not look straight into the light source. 
 
-What's this
+If light therapy is going to help, symptoms of depression should improve
+within 3 to 4 weeks.
 
-Submit
+Side effects of light therapy include:
 
+    * Eye strain or headache
+    * Mania (rarely) 
 
+People who take medicines that make them more sensitive to light, such as
+certain psoriasis drugs, antibiotics, or antipsychotics, should not use light
+therapy.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Data & Statistics
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Home & Recreational Safety
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Motor Vehicle Safety
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Prescription Drug Overdose
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Traumatic Brain Injury
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Violence Prevention
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * About CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Jobs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * File Viewers & Players
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Nondiscrimination
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Accessibility
-
-**CONNECT WITH CDC**  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Youtube
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Instagram
-  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Email
-
-U.S. Department of Health & Human Services
-
-USA.gov
-
-CDC Website Exit Disclaimer external icon
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Email
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-SAS stats
-
-#### Exit Notification/Disclaimer Policy
-
-Close
-
-**Links with this icon indicate that you are leaving the CDC website.**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
-  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
-  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
-  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
-  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
-  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
-  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
-  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
-  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
-  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
-  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
-  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
-  *[15 hrs]: Monday, April 6, 2020 at 9:38 AM
-  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
-  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
-  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
-  *[10 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[]: You have unseen notifications
+A checkup with your eye doctor is recommended before starting treatment.
+
+With no treatment, symptoms usually get better on their own with the change of
+seasons. Symptoms can improve more quickly with treatment.
+
+## Outlook (Prognosis)
+
+The outcome is usually good with treatment. But some people have SAD
+throughout their lives.
+
+## When to Contact a Medical Professional
+
+Get medical help right away if you have thoughts of hurting yourself or anyone
+else.
+
+## Alternative Names
+
+Seasonal depression; Winter depression; Wintertime blues; SAD
+
+## Images
+
+    * ![Forms of depression](//medlineplus.gov/ency/images/ency/tnails/19300t.jpg)Forms of depression
+
+## References
+
+American Psychiatric Association. Depressive disorders. In: American
+Psychiatric Association. _Diagnostic and Statistical Manual of Mental
+Disorders_. 5th ed. Arlington, VA: American Psychiatric Publishing.
+2013:155-188.
+
+Fava M, Ãstergaard SD, Cassano P. Mood disorders: depressive disorders (major
+depressive disorder). In: Stern TA, Fava M, Wilens TE, Rosenbaum JF, eds.
+_Massachusetts General Hospital Comprehensive Clinical Psychiatry_. 2nd ed.
+Philadelphia, PA: Elsevier; 2016:chap 29.
+
+## Review Date 3/26/2018
+
+Updated by: Fred K. Berger, MD, addiction and forensic psychiatrist, Scripps
+Memorial Hospital, La Jolla, CA. Also reviewed by David Zieve, MD, MHA,
+Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M.
+Editorial team.
+
+![Seasonal Affective
+Disorder](https://medlineplus.gov/images/SeasonAffectiveDisorder_thumb.jpg)Seasonal
+Affective Disorder _Read more_
+
+![NIH MedlinePlus
+Magazine](https://medlineplus.gov/images/ency_mag_card.jpg)NIH MedlinePlus
+Magazine _Read more_
+
+![Health Topics
+A-Z](https://medlineplus.gov/images/ency_healthtopics_card.jpg)Health Topics
+A-Z _Read more_
+
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
+
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
+
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
+
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated: 23 March 2020
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

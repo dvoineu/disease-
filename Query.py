@@ -66,7 +66,7 @@ class Query:
             item_list.append((-item[1], item[0]))
         heapq.heapify(item_list)
         res = []
-        for i in range(20):
+        for i in range(10):
             if not item_list:
                 break
             dd = heapq.heappop(item_list)

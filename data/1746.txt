@@ -1,301 +1,190 @@
+Link: https://medlineplus.gov/xml.html    
+                                Description: None    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search ____
+Menu
 
-Ã
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Search
 
-Submit __
+Search MedlinePlus
 
-For a full list of topics: A-Z Index
+GO
 
-National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-Section Navigation
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-CDC Home
+You Are Here:
 
-                                                                                                                                                                                                                                                                                                                                                                        * Facebook
-                                                                                                                                                                                                                                                                                                                                                                        * Twitter
-                                                                                                                                                                                                                                                                                                                                                                        * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                        * Email
-                                                                                                                                                                                                                                                                                                                                                                        * Syndicate
+Home ->
 
-# NCHHSTP Home
+MedlinePlus XML Files
 
-Minus
+URL of this page: https://medlineplus.gov/xml.html
 
-Related Pages
+# MedlinePlus XML Files
 
-alert icon
+To use the sharing features on this page, please enable JavaScript.
 
-COVID-19 Information
+MedlinePlus produces XML data sets that you are welcome to download and use.
+If you have questions about the MedlinePlus XML files, please contact us. For
+additional sources of MedlinePlus data in XML format, visit our Web service
+page.
 
-Learn more about what you can do to protect yourself from Coronavirus Disease
-(COVID-19) with the CDC's **COVID-19 Friends & Family Guide**
+If you use data from MedlinePlus XML files or build an interface that utilizes
+the files, please indicate that the information is from MedlinePlus.gov.
+Please see NLM's API page for further guidance. To receive notification when
+MedlinePlus releases enhancements to its XML files or updates the
+documentation, sign up for our XML file email updates:
 
-![Ending the HIV Epidemic: A Plan for
-America](/nchhstp/images/2019/features/jumbotron-EHE-v1.png)
+Sign up for MedlinePlus email updates
 
-Ending the HIV Epidemic:
+GO
 
-A Plan for America
+## Health Topics
 
-Learn more
+MedlinePlus publishes three types of health topic XML files daily (Tuesday-
+Saturday):
 
-About NCHHSTP
+    * MedlinePlus Health Topic XML
+    * MedlinePlus Compressed Health Topic XML
+    * MedlinePlus Health Topic Group XML
 
-The National Center's vision is a future free of HIV/AIDS, viral hepatitis,
-STDs, and TB. NCHHSTP is responsible for:
+The six most recent files and their corresponding DTDs are linked at the
+bottom of this section.
 
-                                                                                                                                                                                                                                                                                                                                                                        * Public health surveillance
-                                                                                                                                                                                                                                                                                                                                                                        * Prevention research
-                                                                                                                                                                                                                                                                                                                                                                        * Programs to prevent and control HIV/AIDS, other STDs, viral hepatitis, TB
-                                                                                                                                                                                                                                                                                                                                                                        * Promoting school-based health and disease prevention among youth
+The MedlinePlus health topic XML files contain records for all English and
+Spanish health topics. Each health topic record includes data elements
+associated with that topic. This associated data includes:
 
-![COVID-19 virus image](/nchhstp/images/2020/covid19-highrisk-groups.png)
+    * basic metadata (health topic title, URL, language, date created, and ID),
+    * vocabulary (MeSH, "Also called" terms, and see references),
+    * full summary,
+    * group membership,
+    * related health topics,
+    * equivalent English or Spanish topics,
+    * related content in other languages,
+    * primary NIH institute, and
+    * all site records (links) assigned to a health topic page, including their names, URLs, organizations, category assignments, and standard descriptions.
 
-If you are at higher risk for COVID-19
+These XML files allow you to download and use virtually all text and links
+that appear on MedlinePlus health topic pages. For complete details on all
+elements and attributes in the MedlinePlus health topic XML, see the
+MedlinePlus XML file description.
 
-![STD Awareness Week April 12-18](/nchhstp/images/2020/STD-awareness-week.jpg)
+The MedlinePlus Compressed Health Topic XML contains the same information as
+the MedlinePlus Health Topic XML, but it is posted as a .zip file for easier
+downloading.
 
-STD Awareness Week April 12-18
+The MedlinePlus health topic group XML files contain information on all
+English and Spanish topic groups.
 
-![March - April 2020 Connections](/nchhstp/images/2020/march-april-
-Feb-2020-Connections.jpg)
+### Files generated on April 08, 2020
 
-March - April 2020 Connections
+MedlinePlus Health Topic XML (28110 K) (DTD, 5 K)  
+MedlinePlus Compressed Health Topic XML (4231 K)  
+MedlinePlus Health Topic Group XML (11 K) (DTD, 3 K)  
 
-medical icon
+### Files generated on April 07, 2020
 
-Sexual Health & Disease Prevention
+MedlinePlus Health Topic XML (28109 K) (DTD, 5 K)  
+MedlinePlus Compressed Health Topic XML (4231 K)  
+MedlinePlus Health Topic Group XML (11 K) (DTD, 3 K)  
 
-people icon
+### Files generated on April 04, 2020
 
-Health Disparities & Populations at Risk
+MedlinePlus Health Topic XML (28107 K) (DTD, 5 K)  
+MedlinePlus Compressed Health Topic XML (4230 K)  
+MedlinePlus Health Topic Group XML (11 K) (DTD, 3 K)  
 
-alert icon
+### Files generated on April 03, 2020
 
-About NCHHSTP
+MedlinePlus Health Topic XML (28104 K) (DTD, 5 K)  
+MedlinePlus Compressed Health Topic XML (4230 K)  
+MedlinePlus Health Topic Group XML (11 K) (DTD, 3 K)  
 
-bookmark icon
+### Files generated on April 02, 2020
 
-Sexual Orientation & Gender Identity
+MedlinePlus Health Topic XML (28107 K) (DTD, 5 K)  
+MedlinePlus Compressed Health Topic XML (4231 K)  
+MedlinePlus Health Topic Group XML (11 K) (DTD, 3 K)  
 
-people icon
+### Files generated on April 01, 2020
 
-Public Health Partners & Programs
+MedlinePlus Health Topic XML (28114 K) (DTD, 5 K)  
+MedlinePlus Compressed Health Topic XML (4232 K)  
+MedlinePlus Health Topic Group XML (11 K) (DTD, 3 K)  
 
-tools icon
+## Definitions of Health Terms
 
-Communication Center
+These files contain English definitions of health terms. The files contain
 
-Related Health Topics
+    * health terms 
+    * definitions 
+    * NIH sources for the definitions
 
-                                                                                                                                                                                                                                                                                                                                                                        * Healthy Youth
-                                                                                                                                                                                                                                                                                                                                                                        * HIV/AIDS
-                                                                                                                                                                                                                                                                                                                                                                        * STDs
-                                                                                                                                                                                                                                                                                                                                                                        * Tuberculosis
-                                                                                                                                                                                                                                                                                                                                                                        * Viral Hepatitis
-
-chart icon
-
-Archive
-
-Past features and resources
-
-NCHHSTP AtlasPlus
-
-![NCHHSTP AtlasPlus](/nchhstp/images/2019/AtlasPlusMap.jpg)
-
-Interactive mapping tool that provides rates & cases along with the ability to
-create maps and trend data.
-
-Learn More about AtlasPlus
-
-State Health Profiles
-
-![US states map](/nchhstp/images/2019/us-state-map.png)
-
-Reports of cases & health behaviors by state.
-
-Learn More about State Health Profiles
-
-Newsroom
-
-![newsroom microphones](/nchhstp/images/2019/newsroom-microphones-media.jpg)
-
-Latest news releases covering HIV HIV/AIDS, viral hepatitis, STDs, and TB
-
-Learn More about Newsroom
-
-![Get Tested, Find an HIV testing site near
-you](/lgbthealth/images/gettested.jpg)
-
-Get Tested  
-Find an HIV testing site near you
-
-![The NCHHSTP AtlasPlus is an interactive tool that provides CDC an effective
-way to disseminate HIV, Viral Hepatitis, STD,  TB data and Social Determinants
-of Health Data, while allowing users to observe trends and patterns by
-creating detailed reports, maps, and other graphics. Find out
-more!](/nchhstp/atlas/images/buttons/AtlasPlus-180x150.jpg)
-
-CDC's HIV, hepatitis, STD, &  
-TB data made interactive
-
-![CDC 24-7, Protecting America's Safety, Health, and
-Security](/nchhstp/images/cdc-24-7-logo-small-small.jpg)
-
-Page last reviewed: March 12, 2020
-
-Content source: National Center for HIV/AIDS, Viral Hepatitis, STD, and TB
-Prevention
-
-home NCHHSTP
-
-                                                                                                                                                                                                                                                                                                                                                                        * Sexual Health & Disease Preventionplus icon
-                                                                                                                                                                                                                                                                                                                                                                          * Condom Effectiveness
-                                                                                                                                                                                                                                                                                                                                                                          * Get Tested Locator
-                                                                                                                                                                                                                                                                                                                                                                          * Pregnancy
-                                                                                                                                                                                                                                                                                                                                                                          * Sexual Health
-                                                                                                                                                                                                                                                                                                                                                                        * Sexual Orientation & Gender Identityplus icon
-                                                                                                                                                                                                                                                                                                                                                                          * LGBT Health
-                                                                                                                                                                                                                                                                                                                                                                          * Gay & Bisexual Menâs Health
-                                                                                                                                                                                                                                                                                                                                                                          * Transgender Health
-                                                                                                                                                                                                                                                                                                                                                                        * Health Disparities & Populations at Riskplus icon
-                                                                                                                                                                                                                                                                                                                                                                          * Social Determinants of Health
-                                                                                                                                                                                                                                                                                                                                                                          * Health Disparities
-                                                                                                                                                                                                                                                                                                                                                                          * Correctional Health
-                                                                                                                                                                                                                                                                                                                                                                          * Persons Who Use Drugs
-                                                                                                                                                                                                                                                                                                                                                                          * Tuskegee Syphilis Study
-                                                                                                                                                                                                                                                                                                                                                                        * Data, Tools & Resources
-                                                                                                                                                                                                                                                                                                                                                                        * Partners & Programsplus icon
-                                                                                                                                                                                                                                                                                                                                                                          * High-Impact Prevention
-                                                                                                                                                                                                                                                                                                                                                                          * Economic Modeling
-                                                                                                                                                                                                                                                                                                                                                                          * Partnerships
-                                                                                                                                                                                                                                                                                                                                                                          * Partners
-                                                                                                                                                                                                                                                                                                                                                                          * Prevention Through Health Care
-                                                                                                                                                                                                                                                                                                                                                                          * Program Collaboration (PCSI)
-                                                                                                                                                                                                                                                                                                                                                                          * Legal Tools
-                                                                                                                                                                                                                                                                                                                                                                          * National Prevention Information Network (NPIN)
-                                                                                                                                                                                                                                                                                                                                                                        * Newsroom
-                                                                                                                                                                                                                                                                                                                                                                        * Communication Centerplus icon
-                                                                                                                                                                                                                                                                                                                                                                          * Connections Newsletter
-                                                                                                                                                                                                                                                                                                                                                                          * Dear Colleague Lettersplus icon
-                                                                                                                                                                                                                                                                                                                                                                            * 2020
-                                                                                                                                                                                                                                                                                                                                                                            * 2019
-                                                                                                                                                                                                                                                                                                                                                                            * 2018
-                                                                                                                                                                                                                                                                                                                                                                            * 2017
-                                                                                                                                                                                                                                                                                                                                                                            * 2016
-                                                                                                                                                                                                                                                                                                                                                                            * 2015
-                                                                                                                                                                                                                                                                                                                                                                            * 2014
-                                                                                                                                                                                                                                                                                                                                                                          * Feature Archiveplus icon
-                                                                                                                                                                                                                                                                                                                                                                            * 2019
-                                                                                                                                                                                                                                                                                                                                                                            * 2018
-                                                                                                                                                                                                                                                                                                                                                                            * 2017
-                                                                                                                                                                                                                                                                                                                                                                            * 2016
-                                                                                                                                                                                                                                                                                                                                                                            * 2015
-                                                                                                                                                                                                                                                                                                                                                                            * 2014
-                                                                                                                                                                                                                                                                                                                                                                          * Medscape Commentaries
-                                                                                                                                                                                                                                                                                                                                                                          * Publications
-                                                                                                                                                                                                                                                                                                                                                                          * Social Mediaplus icon
-                                                                                                                                                                                                                                                                                                                                                                            * Social Media Policy
-                                                                                                                                                                                                                                                                                                                                                                        * About NCHHSTPplus icon
-                                                                                                                                                                                                                                                                                                                                                                          * About the Director
-                                                                                                                                                                                                                                                                                                                                                                          * Budget
-                                                                                                                                                                                                                                                                                                                                                                          * Strategic Plan Through 2020plus icon
-                                                                                                                                                                                                                                                                                                                                                                            * Strategic Plan Indicator Dashboardplus icon
-                                                                                                                                                                                                                                                                                                                                                                              * Goal 1
-                                                                                                                                                                                                                                                                                                                                                                              * Goal 2
-                                                                                                                                                                                                                                                                                                                                                                              * Goal 3
-                                                                                                                                                                                                                                                                                                                                                                          * Divisions
-                                                                                                                                                                                                                                                                                                                                                                          * Epidemic Intelligence Serviceplus icon
-                                                                                                                                                                                                                                                                                                                                                                            * Division for Adolescent and School Health (DASH)
-                                                                                                                                                                                                                                                                                                                                                                            * Division of HIV/AIDS Prevention (DHAP)
-                                                                                                                                                                                                                                                                                                                                                                            * Division of Viral Hepatitis (DVH)
-                                                                                                                                                                                                                                                                                                                                                                            * Division of Sexually Transmitted Disease Prevention (DSTDP)
-                                                                                                                                                                                                                                                                                                                                                                            * Division of Tuberculosis Elimination (DTBE)
-                                                                                                                                                                                                                                                                                                                                                                          * Web Metrics Dashboard
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-                                                                                                                                                                                                                                                                                                                                                                        * About CDC
-                                                                                                                                                                                                                                                                                                                                                                        * Jobs
-                                                                                                                                                                                                                                                                                                                                                                        * Funding
-                                                                                                                                                                                                                                                                                                                                                                        * Policies
-                                                                                                                                                                                                                                                                                                                                                                        * File Viewers & Players
-
-                                                                                                                                                                                                                                                                                                                                                                        * Privacy
-                                                                                                                                                                                                                                                                                                                                                                        * FOIA
-                                                                                                                                                                                                                                                                                                                                                                        * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                        * OIG
-                                                                                                                                                                                                                                                                                                                                                                        * Nondiscrimination
-                                                                                                                                                                                                                                                                                                                                                                        * Accessibility
-
-**CONNECT WITH CDC**  
-
-                                                                                                                                                                                                                                                                                                                                                                        * Facebook
-                                                                                                                                                                                                                                                                                                                                                                        * Twitter
-                                                                                                                                                                                                                                                                                                                                                                        * Youtube
-                                                                                                                                                                                                                                                                                                                                                                        * Instagram
+These files are updated on an infrequent basis.  
   
+Definitions of Health Terms: Fitness XML (7 K)  
+Definitions of Health Terms: General Health XML (5 K)  
+Definitions of Health Terms: Minerals XML (9 K)  
+Definitions of Health Terms: Nutrition XML (14 K)  
+Definitions of Health Terms: Vitamins XML (9 K)  
+XML Schema Definition (XSD, 2 K)
 
-                                                                                                                                                                                                                                                                                                                                                                        * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                        * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                        * RSS
-                                                                                                                                                                                                                                                                                                                                                                        * Email
+## Health Services Vocabulary
 
-U.S. Department of Health & Human Services
+This file contains information on all of the Local Service Terms used for the
+Go Local Web site. The file contains
 
-USA.gov
+    * service terms
+    * definitions and see references
+    * service types for each service term
 
-CDC Website Exit Disclaimer external icon
+The National Library of Medicine ceased maintaining this file as of March 31,
+2010. This file is for reference only.
 
-                                                                                                                                                                                                                                                                                                                                                                        * Facebook
-                                                                                                                                                                                                                                                                                                                                                                        * Twitter
-                                                                                                                                                                                                                                                                                                                                                                        * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                        * Email
+Complete Local Service Terms Vocabulary (117 K) (DTD, 4K)
 
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
 
-SAS stats
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
 
-#### Exit Notification/Disclaimer Policy
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
 
-Close
+Page last updated on 7 November 2019
 
-**Links with this icon indicate that you are leaving the CDC website.**
-
-                                                                                                                                                                                                                                                                                                                                                                        * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                        * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                        * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                        * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

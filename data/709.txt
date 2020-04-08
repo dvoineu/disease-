@@ -1,299 +1,152 @@
+Link: https://medlineplus.gov/connect/technical.html    
+                                Description: Learn technical quick facts for MedlinePlus Connect, compare implementation options for the web application and web service, and see the Acceptable Use Policy.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search ____
+Menu
 
-Ã
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Search
 
-Submit __
+Search MedlinePlus
 
-For a full list of topics: A-Z Index
+GO
 
-About CDC 24-7
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-Section Navigation
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-CDC Home
+You Are Here:
 
-                    * Facebook
-                    * Twitter
-                    * LinkedIn
-                    * Email
-                    * Syndicate
+Home ->
 
-# Federal Advisory Committees
+MedlinePlus Connect ->
 
-Minus
+Technical Information
 
-Related Pages
+URL of this page: https://medlineplus.gov/connect/technical.html
 
-alert icon
+# MedlinePlus Connect: Technical Information
 
-As directed by the June 14, 2019, Executive Order on Evaluating and Improving
-the Utility of Federal Advisory Committees (EO 13875), CDC has ended the term
-of this committee. The information on this page is no longer being updated.
+To use the sharing features on this page, please enable JavaScript.
 
-### CDC Advisory Committees
+MedlinePlus Connect is available as a Web application or a Web service.
 
-Federal advisory committees are a key component of CDC's overall strategy to
-achieve stakeholder and public engagement in its efforts and commitment to
-improve people's health.
+Sign up for the MedlinePlus Connect email list to keep up with developments
+and exchange ideas with your colleagues. It's the best way for us to keep you
+informed of updates and enhancements. Please tell us if you implement
+MedlinePlus Connect by  contacting us.
 
-The Federal Advisory Committee Act (Public Law 92-463) provides a mechanism
-for experts and stakeholders to participate in the decision-making process,
-offering advice and recommendations to the Federal government as members of
-advisory committees. The important contribution made by Federal advisory
-committees is overseen at the highest levels of government: the Congress, the
-President of the United States and the General Services Administrator (through
-authority delegated by the President). At the CDC, advisory committee activity
-is overseen by the Management Analysis and Services Office.
+## Technical Quick Facts:
 
-Currently, twenty-four federal advisory committees provide advice and
-recommendations on a broad range of public health issues to help the agency
-achieve its mission to promote health and quality of life by preventing and
-controlling disease, injury, and disability. Among the program areas our
-committees deliberate on are occupational and environmental health, healthcare
-infection control and clinical laboratory standards, smoking, breast and
-cervical cancer, HIV, STDs and Tuberculosis, childhood and adult
-immunizations, and injury prevention and control.
+    * MedlinePlus Connect is an API provided by the National Library of Medicine. It is available as a Web application or a Web service. 
+    * MedlinePlus Connect will update and maintain the responses to code requests. The possible types of queries and reponses are described on the How it Works page. 
+      * Queries are URL-based. Connect uses the GET method not POST.
+      * Only one code can be submitted per request.
+    * Supports the HL7 Context-Aware Knowledge Retrieval (Infobutton) standard. 
+    * Connects using HTTPS connections. 
+    * A personal health record (PHR) or electronic health record (EHR) vendor may activate MedlinePlus Connect at an enterprise level so it is available to all users. 
+    * Health IT managers, such as at hospital systems or health care providers, may implement MedlinePlus Connect in their system if they have the administrative rights to make these adjustments. 
 
-### ACD Agency Advisory Committee (FACA Exempt)
+For detailed implementation instructions, request parameters, demonstrations,
+and examples, go to the
 
-                    * CDC/ATSDR Tribal Advisory Committee (FACA Exempt)
+    * Web Application Technical Information Page
+    * Web Service Technical Information Page
 
-The purpose of the CDC Tribal Advisory Committee (TAC), a FACA Exempt Agency
-Advisory Committee, is to provide a complementary venue wherein tribal
-representatives and CDC staff will exchange information about public health
-issues in Indian country, identify urgent public health needs in AI/AN
-communities, and discuss collaborative approaches to addressing these issues
-and needs. The CDC TAC will support, and not supplant any other government-to-
-government consultation activities that CDC undertakes.
-
-#### The Intergovernmental Exemption to FACA
-
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to actions
-in support of intergovernmental communications where
-
-                    * (1) meetings are held exclusively between Federal officials and elected officers of State, local, and tribal governments (or their designated employees with authority to act on their behalf) acting in their official capacities; and
-                    * (2) such meetings are solely for the purposes of exchanging views, information, or advice relating to the management or implementation of Federal programs established pursuant to public law that explicitly or inherently share intergovernmental responsibilities or administration. (2 U.S.C. 1534(b)
-
-### Advisory Committee to the Director, Centers for Disease Control and
-Prevention (ACD, CDC)
-
-Designated Federal Officer - Ashley Knotts, MA
-
-The Advisory Committee to the Director, CDC, shall advise the Secretary, HHS,
-and the Director, CDC, on policy and broad strategies that will enable CDC to
-fulfill its mission of protecting health through health promotion, prevention,
-and preparedness. The committee recommends ways to prioritize CDC's
-activities, improve results, and address health disparities. It also provides
-guidance to help CDC work more effectively with its various private and public
-sector constituents to make health protection a practical reality.
-
-### Advisory Charter
-
-#### Authority
-
-The Advisory Committee to the Director, Centers for Disease Control and
-Prevention, was established under Section 222 of the Public Health Service Act
-(42 U.S.C. § 2l7a), as amended.  The committee is governed by the provisions
-of the Federal Advisory Committee Act, as amended, 5 U.S.C. App., which sets
-forth standards for the formation and use of advisory committees.
-
-#### Purpose
-
-The Secretary, Department of Health and Human Services (HHS); the Assistant
-Secretary for Health; and by delegation, the Director, Centers for Disease
-Control and Prevention (CDC), are authorized under Section 301 [42 U.S.C.
-Section 241] and Section 311 [42 U.S.C. Section 243] of the Public Health
-Service Act, as amended to:  (1) conduct, encourage, cooperate with, and
-assist other appropriate public authorities, scientific institutions, and
-scientists in the conduct of research, investigations, experiments,
-demonstrations, and studies relating to the causes, diagnosis, treatment,
-control, and prevention of physical and mental diseases, and other
-impairments; (2) assist States and their political subdivisions in the
-prevention of infectious diseases and other preventable conditions, and in the
-promotion of health and well-being; and (3) train State and local personnel in
-health work.
-
-#### Function
-
-The Advisory Committee to the Director, CDC, shall advise the Secretary, HHS,
-and the Director, CDC, on policy and broad strategies that will enable CDC to
-fulfill its mission of protecting health through health promotion, prevention,
-and preparedness.  The committee recommends ways to prioritize CDC's
-activities, improve results, and address health disparities.  It also provides
-guidance to help CDC work more effectively with its various private and public
-sector constituents to make health protection a practical reality.
-
-
-
-Page last reviewed: October 7, 2019
-
-Content source: Centers for Disease Control and Prevention
-
-home About CDC 24-7
-
-                    * Leadershipplus icon
-                      * Director
-                      * Principal Deputy Director
-                      * CDC Staff Officesplus icon
-                        * Office of the Associate Director for Communication (OADC) 
-                        * Office of the Associate Director for Policy and Strategy (OADPS)
-                        * Chief Medical Officer
-                        * Office of the Chief of Staff (OCS)
-                        * Office of the Chief Operating Officer (OCOO)
-                        * CDC Washington Office
-                        * Office of Equal Employment Opportunity (OEEO)
-                      * National Institute for Occupational Safety and Health (NIOSH)
-                      * Public Health Service and Implementation Science (PHSIS)plus icon
-                        * Office of Minority Health and Health Equity (OMHHE)
-                        * Center for Global Health (CGH)
-                        * Center for Preparedness and Response (CPR) 
-                        * Center for State, Tribal, Local, and Territorial Support (CSTLTS)
-                      * Public Health Science and Surveillance (PHSS)plus icon
-                        * Office of Science (OS)
-                        * Office of Laboratory Science and Safety (OLSS)
-                        * Center for Surveillance, Epidemiology and Laboratory Services (CSELS)
-                        * National Center for Health Statistics (NCHS)
-                      * Non-Infectious Diseases (NID)plus icon
-                        * National Center on Birth Defects and Developmental Disabilities (NCBDDD)
-                        * National Center for Chronic Disease Prevention and Health Promotion (NCCDPHP)
-                        * National Center for Environmental Health/Agency for Toxic Substances and Disease Registry* (NCEH/ATSDR)
-                        * National Center for Injury Prevention and Control (NCIPC)
-                      * Infectious Diseases (ID)plus icon
-                        * National Center for Immunization and Respiratory Diseases (NCIRD)
-                        * National Center for Emerging and Zoonotic Infectious Diseases (NCEZID)
-                        * National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention (NCHHSTP)
-                      * Past Directors
-                    * Speakers Bureauplus icon
-                      * Request a Speaker
-                      * CDC Director: Speaker Request
-                      * Community & School Eventsplus icon
-                        * Community Relations
-                    * CDC Organizationplus icon
-                      * Mission, Role and Pledgeplus icon
-                        * Pledge to the American People
-                      * Organization Chart
-                      * Official Mission Statements & Organizational Charts
-                    * A Bold Promise to the Nationplus icon
-                      * CDC Strategic Frameworkplus icon
-                        * 2019 Progress Report
-                      * Securing Global Health
-                      * Eliminating Disease 
-                      * Ending Epidemics
-                      * 2019 CDC Funding
-                      * Watch CDC @Work
-                      * I Am CDC â Meet the Staff
-                    * Fact of the Weekplus icon
-                      * Fact of the Week Archives
-                    * Business Practicesplus icon
-                      * CDC Foundation
-                    * Laboratory Science & Safety
-                    * Diversity and Inclusion Management
-                    * History
-                    * More About CDCplus icon
-                      * Zika Response & Success Stories
-                      * 2014 Ebola Outbreak Responseplus icon
-                        * Ebola Report
-                      * CDC Archivesplus icon
-                        * Advisory Committees
-
-Features Media
-
-Social_round_rss RSS Sign up for Features
-
-Get Email Updates
-
-To receive email updates about this page, enter your email address:
-
-Email Address
-
-What's this?
-
-Submit
-
-Related Links
-
-                    * CDC Newsroom
-                    * CDC Timeline
-                    * Gateway to Health
-                    * Ethics Program
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-                    * About CDC
-                    * Jobs
-                    * Funding
-                    * Policies
-                    * File Viewers & Players
-
-                    * Privacy
-                    * FOIA
-                    * No Fear Act
-                    * OIG
-                    * Nondiscrimination
-                    * Accessibility
-
-**CONNECT WITH CDC**  
-
-                    * Facebook
-                    * Twitter
-                    * Youtube
-                    * Instagram
-  
-
-                    * Syndicate
-                    * CDC TV
-                    * RSS
-                    * Email
-
-U.S. Department of Health & Human Services
-
-USA.gov
-
-CDC Website Exit Disclaimer external icon
-
-                    * Facebook
-                    * Twitter
-                    * LinkedIn
-                    * Email
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-SAS stats
-
-#### Exit Notification/Disclaimer Policy
-
-Close
-
-**Links with this icon indicate that you are leaving the CDC website.**
-
-                    * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                    * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                    * You will be subject to the destination website's privacy policy when you follow the link.
-                    * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+## MedlinePlus Connect Implementation Options
+
+### Web Application
+
+**How does it work?**
+
+    * Responds to requests with an on-demand, formatted MedlinePlus Connect Web page 
+    * The page is responsively-designed, has a toggle button for Spanish/English (when appropriate), and includes images for most problem code responses. 
+    * Web Application demonstration
+
+**Technical Details and Demonstrations**
+
+    * Web Application Technical Information page -- Includes implementation instructions and information. 
+    * Web Application demonstration page -- Includes examples of MedlinePlus Connect Web Application response pages. 
+
+### Web Service
+
+**How does it work?**
+
+    * Responds to requests with XML, JSON, or JSONP, which implementers can use to incorporate MedlinePlus information and links into any health IT interface 
+    * It is a REST-based Web Service 
+    * The implementer may select which MedlinePlus links and information to provide from within the system instead of automatically providing a link to the standard MedlinePlus Connect response page 
+    * Web Service demonstration
+
+**Technical Details and Demonstrations**
+
+    * Web Service Technical Information page -- Includes implementation instructions and information. 
+    * Web Service demonstration page -- Includes examples of responses generated by the Web service. 
+
+## Acceptable Use Policy
+
+In order to avoid overloading the MedlinePlus servers, NLM requires that users
+of MedlinePlus Connect send no more than 100 requests per minute per IP
+address. Requests that exceed this limit will not be serviced, and service
+will not be restored for 300 seconds or until the request rate falls beneath
+the limit, whichever comes later. To limit the number of requests that you
+send to Connect, NLM recommends caching results for a 12-24 hour period.
+
+This policy is in place to ensure that the service remains available and
+accessible to all users. If you have a specific use case that requires you to
+send a large number of requests to MedlinePlus Connect, and thus exceed the
+request rate limit outlined in this policy, please contact us. NLM staff will
+evaluate your request and determine if an exception may be granted. Please
+also review the MedlinePlus XML files documentation. These XML files contain
+complete health topic records and can serve as an alternate method of
+accessing MedlinePlus data.
+
+## More Information
+
+    * How MedlinePlus Connect Works
+    * Demonstrations -- Web application and Web service
+    * Technical information for developers 
+    * Frequently Asked Questions (FAQs)
+    * MedlinePlus Connect email list
+    * Contact MedlinePlus Connect 
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated on 5 June 2019
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

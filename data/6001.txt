@@ -1,443 +1,272 @@
+Link: https://medlineplus.gov/ency/article/000542.htm    
+                                Description: Acute myeloid leukemia (AML) is cancer that starts inside bone marrow. This is the soft tissue in the center of bones that helps form all blood cells. The cancer grows from cells that would normally turn    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link Skip directly to A-Z link Skip directly to A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centros para el Control y la PrevenciÃ³n de Enfermedades. CDC 24/7: Salvamos
-vidas. Protegemos a la gente. Centros para el Control y la PrevenciÃ³n de
-Enfermedades. CDC 24/7: Salvamos vidas. Protegemos a la gente.â¢
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Índice A-Z de los CDC
+The navigation menu has been collapsed.
 
-Enviar
+Menu
 
-Buscar
+      * Health Topics
+      * Drugs & Supplements
+      * Videos & Tools
+      * About MedlinePlus
+Show Search
 
-Enviar
+Search MedlinePlus
 
-Lista de todos los temas: Índice A-Z de los CDC
+GO
 
-Buscar menu desplegable
+      * About MedlinePlus
+      * What's New
+      * Site Map
+      * Customer Support
 
-Enviar
+      * Health Topics
+      * Drugs & Supplements
+      * Videos & Tools
 
-Índice A-Z de los CDC: Índice A-Z de los CD
+EspaÃ±ol
 
-Section Navigation
+You Are Here:
 
-CDC Home
+Home ->
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Syndicate
+Medical Encyclopedia ->
 
-# Aviso sobre la polÃ­tica de confidencialidad del sitio web de los CDC
+Acute myeloid leukemia - adult
 
-InglÃ©s (English)
-
-Minus
+URL of this page: //medlineplus.gov/ency/article/000542.htm
 
-Related Pages
-
-Gracias por visitar el sitio web de los Centros para el Control y la
-Prevencion de Enfermedades (CDC) y por revisar nuestra politica de
-confidencialidad. Los CDC tienen el compromiso de mantener la confidencialidad
-de su informacion personal. Respecto de la recoleccion, uso y divulgacion de
-informacion personal identificable (PII, por sus siglas en ingles), los CDC
-cumplen con la ley federal correspondiente.
-
-En esta pagina
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Informacion que se recolecta y guarda automaticamente
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Tecnologias de medicion y adaptacion en Internet
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Uso de _cookies_ (galletas)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Usted puede rechazar o desactivar las _cookies_
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Si usted nos envia informacion personal
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Deteccion de intrusion y seguridad
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Aplicaciones y sitios web externos
-
-Nuestra politica de confidencialidad es clara:
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Los CDC no recolectan ningun tipo de informacion personal identificable (PII) cuando visita nuestro sitio web a menos que usted decida proporcionarla.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Cualquier PII que usted decida proporcionar esta completamente protegida.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Es posible que la informacion que no sea PII, relacionada con su visita a nuestro sitio web, sea automaticamente recolectada y guardada de manera temporal.
-
-A continuacion se describe la manera en que manejamos la informacion acerca de
-su visita a nuestro sitio:
-
-## Informacion que se recolecta y guarda automaticamente
-
-Cuando usted navega por cualquier sitio web, hay cierta informacion acerca de
-su visita que se puede recolectar. Si durante su visita al sitio web de los
-CDC usted no hace nada aparte de navegar por el sitio, leer las paginas o
-descargar informacion, habra ciertos datos sobre la visita que seran agrupados
-y guardados de manera automatica. Esta informacion **no** lo identifica a
-usted personalmente. Nosotros recolectamos automaticamente y guardamos de
-manera temporal **solo** la siguiente informacion acerca de su visita:
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * el dominio de Internet (por ejemplo, "compañiax.com", si se utiliza una cuenta privada de acceso a Internet, o "nombredelaescuela.edu", si la conexion se hace desde el dominio de una universidad), asi como la direccion IP (una direccion IP es el numero que se asigna automaticamente a un computador cuando esta navegando en la web);
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * el sistema operativo y la informacion sobre el buscador utilizado para acceder al sitio web;
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * la fecha y hora de la visita;
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * las paginas especificas que visite;
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * si configuro www.cdc.gov como su pagina principal; y
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * la cantidad de informacion (medida en cantidad de _bytes_ ) transmitida desde CDC.gov a su computador.
-
-Utilizamos esta informacion en total para medir la cantidad de personas que
-visitan nuestro sitio y sus diversas secciones, para mejorar el funcionamiento
-del sitio y para mejorar el servicio al cliente en general al hacerlo mas
-util.
-
-Inicio de la pagina
-
-## Tecnologias de medicion y adaptacion en Internet
-
-Todo el uso de tecnologias de medicion y adaptacion en Internet cumplira con
-las normas existentes respecto de los estandares de privacidad y resguardo de
-informacion. Los sistemas de informacion que pertenecen a los CDC y son
-operados por ellos son sometidos a "evaluaciones del impacto en la privacidad"
-(Privacy Impact Assessments, PIAs) que se encuentran a disposicion del publico
-en el sitio web del Departamento de Salud y Servicios Humanos (HHS) en
-http://www.hhs.gov/pia/External. Los grupos de registros que contengan
-informacion acerca de una persona y que esten diseñados para ser recuperados
-por medio del nombre u otro dato personal identificable vinculado a la persona
-estan cubiertos por la Ley de Privacidad de 1974 y sus respectivas enmiendas
-(5 U.S.C. Seccion 552a). Para estos registros, los Sistemas de Notificacion de
-Registros de los CDC estan publicados en el Registro Federal y en el sitio web
-de los CDC en https://www.cdc.gov/SORNnotice/.
-
-El sitio web de los CDC utiliza una variedad de tecnologias de medicion y
-adaptacion en Internet para recolectar y analizar la informacion acerca de las
-visitas de los usuarios. Algunas paginas en CDC.gov pueden incluir contenido o
-funcionalidad en Internet de entidades externas. Por ejemplo, puede haber
-contenido o funcionalidad de las siguientes entidades externas en algunas
-paginas de CDC.gov:
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * 3ci
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * MotionPoint
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Omniture
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Socrata
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Twibbon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * UserZoomExternal
-
-Los CDC utilizan encuestas en linea para recolectar las opiniones o
-comentarios de una muestra aleatoria de visitas. CDC.gov utiliza la encuesta
-en linea American Customer Satisfaction Index (ACSI) de ForeSee Results para
-obtener opiniones y datos acerca de la satisfaccion de las personas que
-visitan el sitio web CDC.gov. Esta encuesta no recolecta informacion personal
-identificable. Aunque la invitacion a responder la encuesta aparece en una
-muestra aleatoria de visitas, la encuesta es optativa. Si usted rechaza la
-encuesta, tendra acceso de todas maneras a la misma informacion y recursos en
-el sitio CDC.gov que las personas que respondan la encuesta. El informe de la
-encuesta solo esta a disposicion del personal de CDC.gov, tales como expertos
-en la materia, especialistas en comunicacion de temas de salud y otros
-empleados designados que necesiten esta informacion para hacer su trabajo. Los
-CDC guardan la informacion de los resultados de la encuesta ACSI mientras sea
-necesario para respaldar la mision del sitio web CDC.gov, pero no por mas de
-un (1) año. La politica de confidencialidad de ForeSee se encuentra en  
-http://www.foreseeresults.com/privacy-policy.shtmlExternal.
-
-Los CDC utilizan GovDelivery para enviar boletines informativos electronicos,
-alertas y otros mensajes a las personas que se inscriben para recibirlos. Al
-inscribirse para recibir un producto de los CDC, usted debe proporcionar una
-direccion de correo electronico y expresar cuales son sus preferencias,
-incluidos los articulos que desea recibir. Las listas de correos electronicos
-de las personas inscritas son protegidas por GovDelivery por medio de
-contraseñas. Solo los administradores de los CDC que envian boletines
-informativos, alertas o memorandos a traves de GovDelivery y los miembros del
-personal que monitorean los resultados de las iniciativas de GovDelivery en
-correos electronicos tienen acceso a las listas de las personas inscritas.
-GovDelivery nunca permite el acceso a las listas de las personas inscritas a
-nadie fuera de los CDC por ningun motivo. GovDelivery recolecta y provee
-informacion no identificable acerca de la cantidad de mensajes enviados, clics
-y tasas de apertura de los mensajes. Esta informacion es protegida con
-contraseñas y solo esta disponible para los administradores de CDC.gov,
-miembros de los equipos de comunicaciones y del sitio web de CDC.gov y otros
-empleados designados que necesiten esta informacion para hacer su trabajo. La
-politica de confidencialidad de GovDelivery se encuentra en
-http://www.govdelivery.com/legal-privacyExternal.
-
-Inicio de la pagina
-
-## Uso de _cookies_ (galletas)
-
-El memorando de la Oficina de Gestion y Presupuesto de los EE. UU. (OMB, por
-sus siglas en ingles) M-10-22, _Directrices para el uso en l inea de
-tecnologias de medicion y adaptacion en Internet_ ( _Guidance for Online Use
-of Web Measurement and Customization Technologies_ ; 25 de junio del 2010),
-disponible en
-http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdfCdc-
-pdfExternal, permite que las agencias federales usen _cookies_ por sesion y
-persistentes. Cuando usted visita cualquier sitio web, es posible que se
-coloque en su computador un pequeño archivo de texto llamado _cookie_ que
-permite que el servidor "recuerde" informacion especifica acerca de su visita
-mientras usted este conectado a ese sitio web. Las _cookies_ hacen que sea mas
-facil para usted usar las aplicaciones dinamicas de las paginas web. Las
-_cookies_ de las paginas web de los CDC solo recolectan informacion acerca de
-la visita de su buscador a nuestro sitio; no recolectan su informacion
-personal.
-
-Los CDC utilizan dos tipos de _cookies_ en sus sitios web: para sesion unica
-(temporales) y para multiples sesiones (persistentes).
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * _Cookies_ por sesion: Usamos _cookies_ por sesion por motivos tecnicos para mejorar la experiencia del usuario mientras visite nuestro sitio web. Las _cookies_ por sesion son archivos de texto temporales que caducan cuando usted sale de nuestro sitio web. Una vez que usted cierra el buscador, las _cookies_ se destruyen y se borran automaticamente de su computador. Segun el memorando OMB M-10-22, nuestro uso de _cookies_ por sesion se define como de uso en sesion unica nivel 1 ( _Usage Tier 1 single session_ ). La norma establece que este nivel cubre cualquier uso de tecnologias de medicion y adaptacion en Internet de sesion unica.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Las _cookies_ persistentes se guardan en su computador por mas tiempo. Estas _cookies_ para multiples sesiones se guardan en su computador y caducan 1 año despues de su ultima visita a un sitio web. Despues de 1 año, se borran automaticamente de su computador. Sin embargo, usted puede borrar las _cookies_ persistentes en cualquier momento. Nosotros usamos _cookies_ persistentes para recolectar datos que no sean PII acerca de los usuarios que frecuentemente visitan nuestro sitio web, y para probar los cambios en el diseño y contenido de nuestro sitio a fin de optimizar nuestras paginas web. En las directrices del memorando 10-22 de la Oficina de Gestion y Presupuesto de los EE. UU. (OMB), nuestro uso de _cookies_ persistentes se define como de "uso en multiples sesiones nivel 2 sin informacion personal identificable" ( _Usage Tier 2 Multi-session without Personally Identifiable Information [PII]_ ), lo cual "cubre cualquier uso de tecnologias de medicion y adaptacion en Internet de multiples sesiones cuando no se recolecta PII".
-
-Inicio de la pagina
-
-## Usted puede rechazar o desactivar las _cookies_
-
-Si usted no quiere tener _cookies_ por sesion o persistentes en su computador,
-puede rechazar las del sitio web de los CDC cambiando la configuracion de su
-buscador. Si no acepta las _cookies_ , tendra acceso de todas maneras a toda
-la informacion y a los recursos de nuestro sitio web, iguales a los que
-reciben las personas que deciden aceptarlas. Las instrucciones para rechazar o
-desactivar las _cookies_ que usan algunos de los buscadores mas populares
-estan disponibles en http://www.usa.gov/optout_instructions.shtmlExternal.
-
-Inicio de la pagina
-
-## Si usted nos envia informacion personal
-
-Usted no tiene que darnos informacion personal para visitar el sitio web de
-los CDC. Si decide proporcionarnos informacion adicional acerca de usted a
-traves de nuestro sitio web --como en un mensaje de correo electronico,
-cuestionario, formulario, encuesta en linea u otra herramienta--, solo
-usaremos esa informacion para responder su mensaje.
-
-Mantendremos toda la informacion que usted nos proporcione en conformidad con
-la ley federal correspondiente. Los CDC no difundiran, entregaran, venderan ni
-transferiran ninguna informacion personal sobre los que visitan nuestro sitio
-web a menos que lo soliciten las autoridades o que sea requerido por la ley.
-Mas aun, nosotros no creamos perfiles individuales con la informacion que
-usted proporcione ni la entregamos a ninguna organizacion privada. Los CDC no
-recolectan informacion para hacer mercadeo comercial.
-
-Recuerde, sin embargo, que los mensajes de correo electronico pueden ser
-interceptados. Por lo tanto, si su mensaje es confidencial o incluye
-informacion personal, es posible que prefiera enviarlo a los CDC por correo
-postal.  
-Si decide proporcionarnos informacion personal identificable (PII) --o sea,
-informacion que es personal por naturaleza y que se puede usar para
-identificarlo --, como en un mensaje de correo electronico, cuestionario,
-formulario, encuesta en linea u otra herramienta, a traves de nuestro sitio
-web, mantendremos esa informacion por el tiempo que sea necesario para
-responder su pregunta o para satisfacer el proposito de su comunicacion. Si
-guardamos su informacion personal en un sistema de registro diseñado para
-recuperar la informacion de contacto de las personas por medio de un
-identificador personal (p. ej., nombre, direccion de correo electronico
-personal, direccion postal, numero de telefono movil o personal, etc.),
-resguardaremos su informacion en conformidad con la Ley de Privacidad de 1974
-y sus respectivas enmiendas (5 U.S.C. 552a).
-
-Si para lograr su mision los CDC operaran un sistema de registro del cual
-sacaran informacion que usted ingrese, aparecera un aviso bastante visible
-sobre la Ley de Privacidad en el sitio web para el publico en general o en el
-formulario que solicite su PII. Si corresponde, tal aviso debe mencionar los
-siguientes cinco criterios:
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * El motivo por el cual los CDC estan recolectando su informacion.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * La autorizacion legal de los CDC para recolectar su informacion.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Los usos rutinarios para los cuales su informacion sera divulgada fuera de los CDC.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Si proporcionar su informacion es un acto voluntario o legalmente obligatorio.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Las consecuencias, de haberlas, si no se divulga su informacion en caso de que usted decida no proporcionarla.
-
-Para obtener mas informacion acerca de la politica de confidencialidad de los
-CDC, envie un mensaje al funcionario de los CDC encargado de la
-confidencialidad (Senior Official for Privacy) a mailto:privacy@cdc.gov, o
-llame al 770-488-8660.
-
-Inicio de la pagina
-
-## Deteccion de intrusion y seguridad
-
-El gobierno de los Estados Unidos esta a cargo de este sitio que esta
-protegido por varias disposiciones del Titulo 18 del Codigo de los EE. UU. Las
-violaciones a dichas disposiciones estan sujetas a procesos penales en
-tribunales federales.
-
-Por motivos de seguridad del sitio y para garantizar que este servicio
-continue a disposicion de todos los usuarios, los CDC emplean programas
-informaticos que identifican intentos no autorizados para cargar o cambiar
-informacion o que, de alguna manera, podrian causar daños. Los intentos no
-autorizados para cargar o cambiar informacion en este sitio web estan
-estrictamente prohibidos y pueden ser sancionados por la ley, incluida la Ley
-de Fraude y Abuso Computacional de 1986 y la Ley Nacional de Proteccion de la
-Infraestructura Informatica de 1996.
-
-Inicio de la pagina
-
-## Aplicaciones y sitios web externos
-
-Ademas del sitio web oficial de los CDC en www.cdc.gov, los CDC utilizan
-medios sociales y sitios externos (que no son de los CDC) para compartir
-informacion y buscar la participacion del publico. Por ejemplo, es posible que
-haya aplicaciones o servicios externos vinculados o incorporados a www.cdc.gov
-para mejorar su funcionalidad. Del mismo modo, las aplicaciones creadas por
-los CDC pueden ser incorporadas a sitios web externos como una manera de
-aumentar la concientizacion del publico sobre las actividades de los CDC. La
-integracion de estos productos tiene el proposito de proveer al usuario una
-experiencia sin problemas y aumentar su capacidad para acceder a la
-informacion y comunicarse con los CDC.
-
-Lo que usted haga en esos sitios externos se rige por las politicas de
-confidencialidad y seguridad de esos sitios. Por consiguiente, deberia revisar
-las politicas de confidencialidad de los sitios externos antes de usarlos y
-asegurarse de que entienda la manera en que su informacion puede usarse.
-Tambien deberia modificar la configuracion de privacidad de su cuenta en todos
-los sitios externos para que coincida con sus preferencias.
-
-Es posible que algunas aplicaciones y sitios web externos pongan informacion
-personal identificable (PII) a disposicion del publico o de los CDC de acuerdo
-con la configuracion controlada por el usuario o las politicas de
-confidencialidad de las entidades externas. Los CDC no recolectaran,
-mantendran, usaran ni compartiran ninguna PII que se ponga a disposicion a
-traves del uso por parte de los CDC de aplicaciones o sitios web externos.
-
-Tenga en cuenta que es posible que la politica de confidencialidad de los
-medios sociales y los sitios web externos que no son parte del dominio de
-CDC.gov no sea igual a la politica de confidencialidad que se describe aqui.
-Es posible que entidades externas no gubernamentales tengan acceso a la PII o
-cualquier otra informacion que usted entregue a traves de los medios sociales
-o una aplicacion o sitio web externos. Como se menciona en las politicas de
-estos sitios web, usted se puede comunicar con los CDC sin involucrar a una
-entidad externa.
-
-Esta pÃ¡gina fue revisada el: 13 de agosto de 2014
-
-Fuente del contenido: Centros para el Control y la PrevenciÃ³n de Enfermedades
-
-home CDC en EspaÃ±ol
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Acerca de los CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * PolÃ­tica de confidencialidad expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * EnlÃ¡cese a CDC en EspaÃ±ol
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * InformaciÃ³n Ãºtil expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Consejos de bÃºsqueda
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Formatos de los archivos utilizados en el sitio web
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Descargos de responsabilidad para sitios web
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Actualizaciones por correo electrÃ³nico
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Canal de RSS en espaÃ±ol
-
-Reciba actualizaciones por correo electrÃ³nico
-
-Para recibir actualizaciones de esta pagina, ingrese su correo electronico:
-
-Email Address
-
-MÃ¡s informaciÃ³n
-
-Submit
-
-**COMUN ÍQUESE CON CDC-INFO**
-
-phone
-
-¿Tiene preguntas? Tenemos respuestas. 1-800-CDC-INFO (800-232-4636) TTY:
-888-232-6348
-
-email
-
-ComunÃ­quese con CDC-INFO
-
-**INFORMACI ÓN DE LOS CDC**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Acerca de los CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Empleos
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Financiamiento
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Politicas
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Visores de archivos y reproductores
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Privacidad
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Ley FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Ley No Fear
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Aviso de no discriminacion
-
-**CON ÉCTESE CON LOS CDC**  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Youtube
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Instagram
-  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Email
-
-HHS.Gov - Departamento de Salud y Servicios Humanos
-
-GobiernoUSA.gov
-
-Descargo de responsabilidad para sitios externos a los CDC external icon
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Email
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-PDF file_external
-
-#### Exit Notification/Disclaimer Policy
-
-Close
-
-**Links with this icon indicate that you are leaving the CDC website.**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
-  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
-  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
-  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
-  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
-  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
-  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
-  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
-  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
-  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
-  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
-  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
-  *[15 hrs]: Monday, April 6, 2020 at 11:01 AM
-  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
-  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
-  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
-  *[10 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[]: You have unseen notifications
-  *[April 3 at 5:08 AM]: Friday, April 3, 2020 at 5:08 AM
-  *[April 1 at 8:09 AM]: Wednesday, April 1, 2020 at 8:09 AM
-  *[12 hrs]: Monday, April 6, 2020 at 1:37 PM
+# Acute myeloid leukemia - adult
+
+To use the sharing features on this page, please enable JavaScript.
+
+Acute myeloid leukemia (AML) is cancer that starts inside bone marrow. This is
+the soft tissue in the center of bones that helps form all blood cells. The
+cancer grows from cells that would normally turn into white blood cells.
+
+Acute means the disease grows quickly and usually has an aggressive course.
+
+## Causes
+
+AML isÂ one of the most common types of leukemia among adults.
+
+AML is more common in men than women.
+
+The bone marrow helps the body fight infections and makes other blood
+components. People with AML have many abnormal immature cells inside their
+bone marrow. The cells grow very quickly, and replace healthy blood cells. As
+a result, people with AML are more likely to have infections. They also have
+an increased risk of bleeding as the numbers of healthy blood cells decrease.
+
+Most of the time, a health care provider cannot tell you what caused AML.
+However, the following thingsÂ can lead to some types of leukemia, including
+AML:
+
+      * Blood disorders, including polycythemia vera, essential thrombocythemia, and myelodysplasia 
+      * Certain chemicals (for example, benzene) 
+      * Certain chemotherapy drugs, including etoposide and drugs known as alkylating agents 
+      * Exposure to certain chemicals and harmful substances 
+      * Radiation 
+      * Weak immune system due to an organ transplant 
+
+Problems with your genes may also cause development of AML.
+
+## Symptoms
+
+AML does not have any specific symptoms. Symptoms seen are mainly due to the
+related conditions. Symptoms of AML may include any of the following:
+
+      * Bleeding from the nose
+      * Bleeding and swelling (rare) in the gums 
+      * Bruising
+      * Bone pain or tenderness
+      * Fever and fatigue 
+      * Heavy menstrual periods
+      * Pale skin
+      * Shortness of breath (gets worse with exercise)
+      * Weight loss 
+
+## Exams and Tests
+
+The provider will perform a physical exam. There may be signs of a swollen
+spleen, liver, or lymph nodes. Tests done include:
+
+      * A complete blood count (CBC) may show anemia and a low number of platelets. A white blood cell count (WBC) can be high, low, or normal.
+      * Bone marrow aspiration and biopsy will show if there are any leukemia cells.
+
+If your provider learns you do have this type of leukemia, further tests will
+be done to determine the specific type of AML. Subtypes are based on specific
+changes in genes (mutations) and how the leukemia cells appear under the
+microscope.
+
+## Treatment
+
+Treatment involves using medicines (chemotherapy) to kill the cancer cells.
+Most types of AML are treated the same way in the beginning, with more than
+one chemotherapy medicine.
+
+Chemotherapy kills normal cells, too. This may cause side effects such as:
+
+      * Increased risk of bleeding
+      * Increased risk for infection (your doctor may want to keep you away from other people to prevent infection)
+      * Weight loss (you will need to eat extra calories)
+      * Mouth sores
+
+Other supportive treatments for AML may include:
+
+      * Antibiotics to treat infection
+      * Red blood cell transfusions to fight anemia
+      * PlateletÂ transfusions to control bleeding 
+
+A bone marrow (stem cell) transplant may be tried. This decision is decided by
+several factors, including:
+
+      * Your age and overall health
+      * How high your white blood cell count was
+      * Certain genetic changes in the leukemia cells
+      * The availability of donors
+
+## Support Groups
+
+You can ease the stress of illness by joining a cancer support group. Sharing
+with others who have common experiences and problems can help you not feel
+alone.
+
+## Outlook (Prognosis)
+
+When a bone marrow biopsy shows no evidence of AML, you are said to be in
+remission. How well you do depends on your overall health and the genetic
+subtype of the AML cells.
+
+Remission is not the same as a cure. More therapy is usually needed, either in
+the form of more chemotherapy or a bone marrow transplant.
+
+With treatment, younger people with AML tend to do better than those who
+develop the disease at an older age. The 5-year survival rate is much lower in
+older adults than in younger people. Experts say this is partly due to the
+fact that younger people are better able to tolerate strong chemotherapy
+medicines. Also, leukemia in older people tends to be more resistant to
+current treatments.
+
+If the cancer does not come back (relapse) within 5 years of the diagnosis,
+you are likely cured.
+
+## When to Contact a Medical Professional
+
+Call for an appointment with your provider if you:
+
+      * Develop symptoms of AML
+      * Have AML and have a fever that will not go away or other signs of infection
+
+## Prevention
+
+If you work around radiation or chemicals linked to leukemia, always wear
+protective gear.
+
+## Alternative Names
+
+Acute myelogenous leukemia; AML; Acute granulocytic leukemia; Acute
+nonlymphocytic leukemia (ANLL); Leukemia - acute myeloid (AML); Leukemia -
+acute granulocytic; Leukemia - nonlymphocytic (ANLL)
+
+## Patient Instructions
+
+      * Bone marrow transplant - discharge
+
+## Images
+
+      * ![Auer rods](//medlineplus.gov/ency/images/ency/tnails/1441t.jpg)Auer rods
+      * ![Acute monocytic leukemia - skin](//medlineplus.gov/ency/images/ency/tnails/1942t.jpg)Acute monocytic leukemia - skin
+      * ![Blood cells](//medlineplus.gov/ency/images/ency/tnails/9123t.jpg)Blood cells
+
+## References
+
+Appelbaum FR. Acute leukemias in adults. In: Niederhuber JE, Armitage JO,
+Doroshow JH, Kastan MB, Tepper JE, eds. _Abeloff's Clinical Oncology_. 5th ed.
+Philadelphia, PA: Elsevier Saunders; 2014:chap 98.
+
+Faderl S, Kantarjian HM. Clinical manifestations and treatment of acute
+myeloid leukemia. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds.
+_Hematology: Basic Principles and Practice_. 7th ed. Philadelphia, PA:
+Elsevier; 2018:chap 59.
+
+National Cancer Institute website. Adult acute myeloid leukemia treatment
+(PDQ) â health professional version. www.cancer.gov/types/leukemia/hp/adult-
+aml-treatment-pdq. Updated February 7, 2018. Accessed June 11, 2018.
+
+## Review Date 5/14/2018
+
+Updated by: Preeti Sudheendra, MD, oncologist at the MD Anderson Cancer Center
+at Cooper, Camden, NJ. Review provided by VeriMed Healthcare Network. Also
+reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial
+Director, and the A.D.A.M. Editorial team.
+
+![white blood
+cells](https://medlineplus.gov/images/LeukemiaWhiteBloodCell_thumb.jpg)Acute
+Myeloid Leukemia _Read more_
+
+![NIH MedlinePlus
+Magazine](https://medlineplus.gov/images/ency_mag_card.jpg)NIH MedlinePlus
+Magazine _Read more_
+
+![Health Topics
+A-Z](https://medlineplus.gov/images/ency_healthtopics_card.jpg)Health Topics
+A-Z _Read more_
+
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
+
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
+
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
+
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
+
+      * About MedlinePlus
+      * What's New
+      * Site Map
+      * Customer Support
+      * Get updates
+      * Subscribe to RSS
+      * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+      * Disclaimers
+      * Copyright
+      * Privacy
+      * Accessibility
+      * Guidelines for Links
+      * Viewers & Players
+      * MedlinePlus Connect for EHRs
+      * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated: 23 March 2020
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

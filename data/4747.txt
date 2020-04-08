@@ -1,187 +1,341 @@
+Link: https://medlineplus.gov/ency/article/001558.htm    
+                                Description: Myelomeningocele is a birth defect in which the backbone and spinal canal do not close before birth.     
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link Skip directly to A-Z link Skip directly to A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-A-Z Index
+The navigation menu has been collapsed.
 
-Submit
+Menu
 
-Search
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Show Search
 
-Submit
+Search MedlinePlus
 
-For a full list of topics: A-Z Index
+GO
 
-Search Dropdown
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-Submit
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-For a full list of topics: A-Z Index
+EspaÃ±ol
 
-home4 Office of the Chief Information Officer
+You Are Here:
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Syndicate
+Home ->
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Home
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Search
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Data
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Code
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * APIs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Events
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * About
+Medical Encyclopedia ->
 
-![CDC Open Technology](/assets/img/site-logo.svg)
+Myelomeningocele
 
-# Join a developer community with CDC Open Technology to explore open source
-data, code and APIs
+URL of this page: //medlineplus.gov/ency/article/001558.htm
 
-![hero api image](/assets/img/img-hero-intro.svg)
+# Myelomeningocele
 
-## Open Technology
+To use the sharing features on this page, please enable JavaScript.
 
-As the nation's health protection agency, CDC saves lives and protects people
-from health threats. We also strive to be open with our public health data
-sets, APIs and code repositories. By sharing CDC resources, we hope to foster
-innovation and increase the health security of our nation.
+Myelomeningocele is a birth defect in which the backbone and spinal canal do
+not close before birth.
 
-## What is your background?
+The condition is a type of spina bifida.
 
-![Healthcare](/assets/img/ico-health.svg)
+## Causes
 
-#### Healthcare
+Normally, during the first month of a pregnancy, the two sides of the baby's
+spine (or backbone) join together to cover the spinal cord, spinal nerves, and
+meninges (the tissues covering the spinal cord). The developing brain and
+spine at this point are called the neural tube. Spina bifida refers to any
+birth defect in which the neural tube in the area of the spine fails to close
+completely.
 
-![Developer](/assets/img/ico-dev.svg)
+Myelomeningocele is a neural tube defect in which the bones of the spine do
+not completely form. This results in an incomplete spinal canal. The spinal
+cord and meninges (the tissues covering the spinal cord) protrude from the
+child's back.
 
-#### Developer
+Myelomeningocele may affect as many as 1 out of every 4,000 infants.
 
-![Government](/assets/img/ico-gov.svg)
+The rest of spina bifida cases are most commonly:
 
-#### Government
+    * Spina bifida occulta, a condition in which the bones of the spine do not close. The spinal cord and meninges remain in place and skin usually covers the defect.
+    * Meningoceles, a condition where the meninges protrude from the spinal defect. The spinal cord remains in place. 
 
-![Educator](/assets/img/ico-edu.svg)
+Other congenital disorders or birth defects may also be present in a child
+with myelomeningocele. Eight out of ten children with myelomeningocele have
+hydrocephalus.
 
-#### Educator
+Other disorders of the spinal cord or musculoskeletal system may be seen,
+including:
 
-![Media](/assets/img/ico-media.svg)
+    * Syringomyelia (a fluid-filled cyst within the spinal cord)
+    * Hip dislocation 
 
-#### Media
+The cause of myelomeningocele is not known. However, low levels of folic acid
+in a woman's body before and during early pregnancy appear to play a part in
+this type of birth defect. Folic acid (or folate) is important for development
+of brain and spinal cord.
 
-![Non-Profit](/assets/img/ico-ngo.svg)
+If a child is born with myelomeningocele, future children in that family have
+a higher risk than the general population. However, in many cases, there is no
+family connection. Factors such as diabetes, obesity, and the use of anti-
+seizure medicines in the mother may increase the risk of this defect.
 
-#### Non-Profit
+## Symptoms
 
-Open CDC is a collaboration resource provided by the Office of the Chief
-Information Officer as part of CDC's Digital Transformation. Suggest a Site
-Change | Code of Conduct | Disclaimer
+A newborn with this disorder will have an open area or a fluid-filled sac on
+the mid to lower back.
 
-**CONTACT CDC-INFO**
+Symptoms may include:
 
-Have questions? We have answers. 1-800-CDC-INFO (800-232-4636) TTY:
-888-232-6348
+    * Loss of bladder or bowel control
+    * Partial or complete lack of sensation
+    * Partial or complete paralysis of the legs
+    * Weakness of the hips, legs, or feet of a newborn 
 
-Email CDC-INFO
+Other signs and/or symptoms may include:
 
-**CDC INFORMATION**
+    * Abnormal feet or legs, such as clubfoot
+    * Buildup of fluid inside the skull (hydrocephalus) 
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * About CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Jobs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * File Viewers & Players
+## Exams and Tests
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Nondiscrimination
+Prenatal screening can help detect this condition. During the second
+trimester, pregnant women can have a blood test called the quadruple screen.
+This test screens for myelomeningocele, Down syndrome, and other congenital
+diseases in the baby. Most women carrying a baby with spina bifida will have
+an increased level of a protein called maternal alpha fetoprotein (AFP).
 
-**CONNECT WITH CDC**  
+If the quadruple screen test is positive, further testing is needed to confirm
+the diagnosis.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Youtube
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Instagram
-  
+Such tests may include:
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Email
+    * Pregnancy ultrasound
+    * Amniocentesis
 
-U.S. Department of Health & Human Services
+Myelomeningocele can be seen after the child is born. A neurologic exam may
+show that the child has loss of nerve-related functions below the defect. For
+example, watching how the infant responds to pinpricks at various locations
+may tell where the baby can feel the sensations.
 
-USA.gov
+Tests done on the baby after birth may include x-rays, ultrasound, CT, or MRI
+of the spinal area.
 
-CDC Website Exit Disclaimer
+## Treatment
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Email
+The health care provider may suggest genetic counseling. In some cases where a
+severe defect is detected early in the pregnancy, termination (abortion) may
+be considered. However, intrauterine surgery to close the defect (before the
+baby is born) may reduce the risk of some later complications.
 
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+After your baby is born, surgery to repair the defect is most often suggested
+within the first few days of life. Before surgery, the infant must be handled
+carefully to reduce damage to the exposed spinal cord. This may include:
 
-PDF
+    * Special care and positioning
+    * Protective devices
+    * Changes in the methods of handling, feeding, and bathing
 
-##### Exit Notification/Disclaimer Policy
+Children who also have hydrocephalus may need a ventriculoperitoneal shunt
+placed. This will help drain the extra fluid from the ventricles (in the
+brain) to the peritoneal cavity (in the abdomen).
 
-Close
+Antibiotics may be used to treat or prevent infections such as meningitis or
+urinary tract infections.
 
-**Links with this icon indicate that you are leaving the CDC website.**
+Most children will need lifelong treatment for problems that result from
+damage to the spinal cord and spinal nerves.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
+This includes:
 
-Cancel Continue
+    * Bladder and bowel problems -- Gentle downward pressure over the bladder may help drain the bladder. Drainage tubes, called catheters, may be needed as well. Bowel training programs and a high fiber diet may improve bowel function.
+    * Muscle and joint problems -- Orthopedic or physical therapy may be needed to treat musculoskeletal symptoms. Braces may be needed. Many people with myelomeningocele primarily use a wheelchair.
 
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
-  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
-  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
-  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
-  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
-  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
-  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
-  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
-  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
-  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
-  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
-  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
-  *[15 hrs]: Monday, April 6, 2020 at 9:38 AM
-  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
-  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
-  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
-  *[10 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[]: You have unseen notifications
+Follow-up exams generally continue throughout the child's life. These are done
+to:
+
+    * Check the developmental progressÂ 
+    * Treat any intellectual, neurological, or physical problems
+
+Visiting nurses, social services, support groups, and local agencies can
+provide emotional support and assist with the care of a child with a
+myelomeningocele who has significant problems or limitations.
+
+## Support Groups
+
+Taking part in a spina bifida support group may be helpful.
+
+## Outlook (Prognosis)
+
+A myelomeningocele can most often be surgically corrected, but the affected
+nerves may still not function normally. The higher the location of the defect
+on the baby's back, the more nerves will be affected.
+
+With early treatment, length of life is not severely affected. Kidney problems
+due to poor drainage of urine are the most common cause of death.
+
+Most children with myelomeningocele will have normal intelligence. However,
+because of the risk of hydrocephalus and meningitis, more of these children
+will have learning problems and seizure disorders.
+
+New problems within the spinal cord can develop later in life, especially
+after the child begins growing rapidly during puberty. This can lead to more
+loss of function as well as orthopedic problems such as scoliosis, foot or
+ankle deformities, dislocated hips, and joint tightness or contractures.
+
+Many people with myelomeningocele primarily use a wheelchair.
+
+## Possible Complications
+
+Complications of spina bifida may include:
+
+    * Traumatic birth and difficult delivery of the baby
+    * Frequent urinary tract infections
+    * Fluid buildup on the brain (hydrocephalus)
+    * Loss of bowel or bladder control
+    * Brain infection (meningitis)
+    * Permanent weakness or paralysis of legs
+
+This list may not be all-inclusive.
+
+## When to Contact a Medical Professional
+
+Call your provider if:
+
+    * A sac or open area is visible on the spine of a newborn infant
+    * The child is late in walking or crawling
+    * Symptoms of hydrocephalus develop, including bulging soft spot, irritability, extreme sleepiness, and feeding difficulties
+    * Symptoms of meningitis develop, including fever, stiff neck, irritability, and a high-pitched cry 
+
+## Prevention
+
+Folic acid supplements may help reduce the risk of neural tube defects such as
+myelomeningocele. It is recommended that any woman considering becoming
+pregnant take 0.4 mg of folic acid a day. Pregnant women with high risk need
+higher dosage.
+
+It is important to remember that folic acid deficiencies must be corrected
+before becoming pregnant, because the defects develop very early.
+
+Women who plan to become pregnant may be screened to determine the amount of
+folic acid in their blood.
+
+## Alternative Names
+
+Meningomyelocele; Spina bifida; Cleft spine; Neural tube defect (NTD); Birth
+defect - myelomeningocele
+
+## Patient Instructions
+
+    * Ventriculoperitoneal shunt - discharge
+
+## Images
+
+    * ![Spina bifida](//medlineplus.gov/ency/images/ency/tnails/19086t.jpg)Spina bifida
+    * ![Spina bifida \(degrees of severity\)](//medlineplus.gov/ency/images/ency/tnails/19087t.jpg)Spina bifida (degrees of severity)
+
+## References
+
+Cohen AR, Couto J, Cummings JJ, et al. Position statement on fetal
+myelomeningocele repair. _Am J Obstet Gynecol_. 2014;210(2):107-111. PMID:
+24055581 www.ncbi.nlm.nih.gov/pubmed/24055581.
+
+Committee on Obstetric Practice, Society for Maternal-Fetal Medicine. American
+College of Obstetricians and Gynecologists. ACOG Committee opinion no. 720:
+maternal-fetal surgery for myelomeningocele. _Obstet Gynecol_.
+2017;130(3):e164-e167. PMID:28832491 www.ncbi.nlm.nih.gov/pubmed/28832491.
+
+Copp AJ, Adzink NS, Chitty LS, Fletcher JM, Holmbeck GN, Shaw GM. Spina
+bifida. _Nat Rev Dis Primers_. 2015;1:15007. PMID: 27189655
+www.ncbi.nlm.nih.gov/pubmed/27189655.
+
+Kinsman SL, Johnston MV. Congenital anomalies of the central nervous system.
+In: Kliegman RM, Stanton BF, St. Geme JW, Schor NF, eds. _Nelson Textbook of
+Pediatrics_. 20th ed. Philadelphia, PA: Elsevier; 2016:chap 591.
+
+Wilson P, Stewart J. Meningomyelocele (spina bifida). In: Kliegman RM, Stanton
+BF, St. Geme JW, Schor NF, eds. _Nelson Textbook of Pediatrics_. 20th ed.
+Philadelphia, PA: Elsevier; 2016:chap 715.
+
+## Review Date 12/13/2017
+
+Updated by: Kimberly G. Lee, MD, MSc, IBCLC, Associate Professor of
+Pediatrics, Division of Neonatology, Medical University of South Carolina,
+Charleston, SC. Review provided by VeriMed Healthcare Network. Also reviewed
+by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director,
+and the A.D.A.M. Editorial team.
+
+![Spina Bifida](https://medlineplus.gov/images/SpinaBifida_thumb.jpg)Spina
+Bifida _Read more_
+
+![NIH MedlinePlus
+Magazine](https://medlineplus.gov/images/ency_mag_card.jpg)NIH MedlinePlus
+Magazine _Read more_
+
+![Health Topics
+A-Z](https://medlineplus.gov/images/ency_healthtopics_card.jpg)Health Topics
+A-Z _Read more_
+
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
+
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
+
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
+
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated: 23 March 2020
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

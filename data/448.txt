@@ -1,736 +1,250 @@
+Link: https://medlineplus.gov/eyemovementdisorders.html    
+                                Description: Learn about eye movement disorders, such as strabismus, where the eyes point in different directions, and nystagmus, which causes rapid eye movements.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centros para el Control y la PrevenciÃ³n de Enfermedades. CDC 24/7: Salvamos
-vidas. Protegemos a la gente. Centros para el Control y la PrevenciÃ³n de
-Enfermedades. CDC 24/7: Salvamos vidas. Protegemos a la gente.â¢
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Índice A-Z de los CDC
+Menu
 
-Enviar
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Search
 
-Buscar
+Search MedlinePlus
 
-Enviar
+GO
 
-Lista de todos los temas: Índice A-Z de los CDC
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-Buscar menu desplegable
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-Enviar
+EspaÃ±ol
 
-Índice A-Z de los CDC: Índice A-Z de los CD
+You Are Here:
 
-_Salmonella_
+Home ->
 
-Section Navigation
+Health Topics ->
 
-CDC Home
+Eye Movement Disorders
 
-                    * Facebook
-                    * Twitter
-                    * LinkedIn
-                    * Email
-                    * Syndicate
+URL of this page: https://medlineplus.gov/eyemovementdisorders.html
 
-# Mapa de casos reportados
+#  Eye Movement Disorders
 
-English (US)
+On this page
 
-Minus
+### Basics
 
-PÃ¡ginas relacionadas
+    * Summary
+    * Start Here
+    * Diagnosis and Tests
+    * Treatments and Therapies
 
-Publicada el 14 de mayo del 2019
+### Learn More
 
-Todo parece indicar que este brote termino. Las personas siempre deben
-manipular y cocinar la carne de pavo de forma segura. Vea los consejos de los
-CDC para prevenir que el pavo sea la causa de enfermedades transmitidas por
-alimentos.
+    * Related Issues
+    * Specifics
+    * Genetics
 
-### Personas infectadas por la cepa de _Salmonella_ Schwarzengrund del brote,
-por estado de residencia, hasta el 3 de mayo del 2019 (n=7)
+### See, Play and Learn
 
-![Personas infectadas por la cepa de Salmonella Schwarzengrund del brote, por
-estado de residencia, hasta el 3 de mayo del 2019
-\(n=7\)](/salmonella/schwarzengrund-03-19/images/map-5-3-19-esp.png)
+    * Videos and Tutorials
 
-Table showing the number of ill people arranged by state of residence. Estado
-| Personas enfermas  
----|---  
-Minnesota | 1  
-Carolina del Norte | 2  
-Wisconsin | 4  
-**Total** | **7**  
-  
-### Mapas anteriores
+### Research
 
-March 14, 2019 Map
+    * Clinical Trials
+    * Journal Articles
 
-## Personas infectadas por la cepa de _Salmonella_ Schwarzengrund del brote,
-por estado de residencia, hasta el 14 de marzo del 2019 (n=6)
+### Resources
 
-![Personas infectadas por la cepa del brote de Salmonella Newport, por estado
-de residencia,
-3-14-2019](/salmonella/schwarzengrund-03-19/images/map-3-14-19-esp.jpg)
+    * Reference Desk
+    * Find an Expert
 
-Table showing the number of ill people arranged by state of residence. Estado
-| Personas enfermas  
----|---  
-Minnesota | 1  
-Carolina del Norte | 1  
-Wisconsin | 4  
-**Total** | **6**  
-  
-Lea toda la informacion de la alerta de seguridad de los alimentos
+### For You
 
-Esta pÃ¡gina fue revisada el: 14 de mayo de 2019
+    * Adults
+    * Patient Handouts
 
-Fuente del contenido: Centers for Disease Control and Prevention, National
-Center for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of
-Foodborne, Waterborne, and Environmental Diseases (DFWED)
+## Summary
 
-home _Salmonella_ Homepage
+When you look at an object, you're using several muscles to move both eyes to
+focus on it. If you have a problem with the muscles, the eyes don't work
+properly.
 
-                    * Questions & Answersplus icon
-                      * Additional Information
-                    * Prevention
-                    * Symptoms
-                    * Diagnosis & Treatmentplus icon
-                      * Diagnostic and Public Health Testing
-                    * Current Outbreaksplus icon
-                      * Reporting Timeline
-                      * _Salmonella_ Infections Linked to Small Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tortugas mascota pequeÃ±as
-                      * _Salmonella_ Infections Linked to Cut Fruitplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Ground Beefplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a la carne de res molida
-                      * _Salmonella_ Infections Linked to Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a turtugas mascota
-                      * _Salmonella_ Infections Linked to Pig Ear Dog Treatsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Papayasplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a papayas frescas enteras importadas de MÃ©xico
-                      * _Salmonella_ Infections Linked to Karawan brand Tahiniplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tahini de la marca Karawan
-                      * _Salmonella_ Infections Linked to Backyard Poultryplus icon
-                        * Map of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brotes de infecciones por _Salmonella_ vinculados a aves de corral domÃ©sticas
-                      * _Salmonella_ Infections Linked to Frozen Raw Tunaplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Newport vinculado a atÃºn crudo congelado
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                      * _Salmonella_ Infections Linked to Pre-Cut Melonplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Carrau vinculado a melÃ³n y sandÃ­a precortados
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                      * _Salmonella_ Infections Linked to Butterball Brand Ground Turkeyplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado al pavo molido de marca Butterball
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones de la investigaciÃ³n del brote, por fecha
-                      * _Salmonella_ Infections Linked to Pet Hedgehogsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a los erizos como mascota
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                    * Previous Outbreaksplus icon
-                      * 2018 Outbreaksplus icon
-                        * Multidrug-Resistant _Salmonella_ Infections Linked to Raw Turkey Productsplus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pavo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Tahini from Achdut Ltd., 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a tahini elaborado por Achdut Ltd.
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Raw Chicken Products, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Advice to Clinicians
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pollo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Recomendaciones para los mÃ©dicos
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Ground Beef, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a carne molida de res
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Agbeni Infections, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Gravel Ridge Farms Shell Eggs, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Chicken, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Hy-Vee Spring Pasta Salad, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella vinculado a la ensalada de pasta âHy-Vee Spring Pasta Saladâ
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Kelloggâs Honey Smacks Cereal, 2018plus icon
-                          * Salmonella Infections Linked to Kelloggâs Honey Smacks Cereal en EspaÃ±ol
-                          * Recall and Advice to Consumers, Restaurants and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pre-Cut Melon, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pre-Cut Melon en EspaÃ±ol
-                          * Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks, 2018plus icon
-                          * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Braenderup Infections Linked to Shell Eggs, 2018plus icon
-                          * _Salmonella_ Braenderup Infections Linked to Shell Eggs en EspaÃ±ol
-                          * Recalls and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Dried Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Dried Coconut en EspaÃ±ol
-                          * Recall and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Guinea Pigs, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pet Guinea Pigs en EspaÃ±ol
-                          * Case Count Maps
-                          * Case Count Maps en EspaÃ±ol
-                          * Signs & Symptoms
-                          * Signs & Symptoms en EspaÃ±ol
-                        * _Salmonella_ Infections Linked to Chicken Salad, 2018plus icon
-                          * _Salmonella_ Infections Linked to Chicken Salad en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Kratom, 2018plus icon
-                          * _Salmonella_ Infections Linked to Kratom en EspaÃ±ol
-                          * Recalls and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo Infections Linked to Raw Sprouts, 2018plus icon
-                          * _Salmonella_ Infections Linked to Raw Sprouts en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Shredded Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut en EspaÃ±ol
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut á» Viá»t Nam [PDF â 3 pages]
-                          * Recall and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2017 Outbreaksplus icon
-                        * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Turtles, 2017plus icon
-                          * _Salmonella_ Infections Linked to Small Turtles, 2017 en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Laboratory Exposure, 2017plus icon
-                          * Advice to Students & Employees in Microbiology Laboratories
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry in Backyard Flocksplus icon
-                          * Case Count Maps
-                          * Live Poultry FAQ
-                      * 2016 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Contact with Dairy Calves, 2016plus icon
-                          * Case Count Maps
-                          * Epi Curves
-                        * _Salmonella_ Oranienburg Infections Linked to Shell Eggs, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Reading and _Salmonella_ Abony Infections linked to Alfalfa Sprouts, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps 
-                          * Epi Curves 
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2016plus icon
-                          * Advice to Consumers and Retailers
-                          * Live Poultry FAQs
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo and _Salmonella_ Senftenberg Infections Linked to Wonderful Pistachios, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Alfalfa Sprouts from One Contaminated Seed Lot, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Virchow Infections Linked to Raw Meal Organic Shake and Meal Products, 2016plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2015 Outbreaksplus icon
-                        * _Salmonella_ Paratyphi B variant L(+) tartrate(+) Infections Linked to Sprouted Nut Butter Spreads, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2015plus icon
-                          * Human _Salmonella_ Infections Linked to Small Turtles en EspaÃ±ol
-                          * Advice to Pet Owners
-                          * Advice to Pet Owners en EspaÃ±ol
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * _Salmonella_ Poona Infections Linked to Imported Cucumbers, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Multidrug-Resistant _Salmonella_ I 4,[5],12:i:- and _Salmonella_ Infantis Infections Linked to Pork, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Aspen Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Drug-Resistant _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Barber Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2015plus icon
-                          * Advice to Backyard Flock Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Raw Tuna, 2015plus icon
-                          * Advice to Retailers & Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Crested Geckos, 2015plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2014 Outbreaksplus icon
-                        * Enteritidis Infections Linked to Bean Sprouts, 2014plus icon
-                          * Advice to Consumers & Retailers
-                          * Final Case Count Maps
-                          * Final Epi Curve
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Linked to Nut Butter, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human Typhimurium Infections Linked to Laboratory Exposure, 2014plus icon
-                          * Advice to Students & Employees in Labs
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Chia Powder, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Frozen Feeder Rodents, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Bearded Dragons, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Heidelberg Infections Linked to Tyson Brand Mechanically Separated Chicken, 2014plus icon
-                          * Recall & Advice to Institutions
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Stanley Infections Linked to Raw Cashew Cheese, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2013 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Foster Farms Brand Chicken, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * _Salmonella_ Mbandaka Infections Linked to Tahini Sesame Paste, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Live Poultry in Backyard Flocks, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Saintpaul Infections Linked to Imported Cucumbers, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Heidelberg Infections Linked to Chicken, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Typhimurium Infections Linked to Ground Beef, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2012 Outbreaksplus icon
-                        * Bredeney Infections Linked to Peanut Butter, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Hedgehogs, 2012plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Associated with Mangoes, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Typhimurium and Newport Infections Linked to Cantaloupe, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Enteritidis Infections Linked to Ground Beef, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Hadar Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Montevideo Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infantis Infections Linked to Dry Dog Food, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Information for Pet Owners
-                          * Information for Veterinarians
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Bareilly and Nchanga Infections Associated with a Raw Scraped Ground Tuna Product, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Outbreaks Diagram
-                          * Signs & Symptoms
-                          * Key Resource
-                        * Enteritidis Infections Linked to Restaurant Chain A, 2012
-                      * 2010 through 2011 Outbreaksplus icon
-                        * Typhimurium Infections Linked to Ground Beef
-                        * Heidelberg Infections Linked to Kosher Broiled Chicken Livers
-                        * Enteritidis Infections Linked to Turkish Pine Nuts
-                        * Heidelberg Infections Linked to Ground Turkey
-                        * Agona Infections Linked to Whole, Fresh Imported Papayas
-                        * Enteritidis Infections Linked to Alfalfa Sprouts and Spicy Sprouts
-                        * Altona and Johannesburg Infections Linked to Chicks and Ducklings
-                        * Typhimurium Infections Associated with Lab Exposure
-                        * Typhimurium Infections Linked to African Dwarf Frogs
-                        * Hadar Infections Associated with Turkey Burgers
-                        * Panama Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Alfalfa Sprouts
-                        * Enteritidis Infections Associated with Shell Eggs
-                        * Chester Infections Associated with Cheesy Chicken & Rice Frozen EntrÃ©e
-                        * Typhi (Typhoid Fever) Associated with Frozen Mamey Fruit Pulp
-                        * Hartford and Baildon Infections Associated with Restaurant Chain A
-                        * I 4,[5],12:i:- Linked to Frozen Rodents
-                        * Newport Infections Linked to Alfalfa Sprouts
-                        * Montevideo Infections Linked to Red and Black Pepper/Italian-Style Meats
-                      * 2006 through 2009 Outbreaksplus icon
-                        * Saintpaul Infections Linked to Alfalfa Sprouts
-                        * _Salmonella_ Infections Linked to Pistachio Nuts
-                        * Typhimurium Infections Linked to Peanut Butter
-                        * Saintpaul Infections Linked to Raw Produce
-                        * Agona Infections Linked to Rice & Wheat Puff Cereal
-                        * Litchfield Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Pot Pies
-                        * Human Schwarzengrund Infections Linked to Dry Pet Food
-                        * Wandsworth Infections Linked to Veggie Booty
-                        * Tennessee Infections Linked to Peanut Butter
-                        * Typhimurium Infections Linked to Tomatoes
-                    * For Health Professionals
-                    * Surveillanceplus icon
-                      * _Salmonella_ Atlasplus icon
-                        * 32 Individual Serotypes Reports
-                        * Importance of Serotyping
-                        * Snapshots of Serotypes
-                    * Communication Materials
-                    * Reports & Publicationsplus icon
-                      * MMWR Articles
-                      * References
+There are many kinds of eye movement disorders. Two common ones are
 
-Related Links
+    * Strabismus - a disorder in which the two eyes don't line up in the same direction. This results in "crossed eyes" or "walleye."
+    * Nystagmus - fast, uncontrollable movements of the eyes, sometimes called "dancing eyes"
 
-                    * Multistate Foodborne Outbreaks
-                    * Zoonotic Diseases (Diseases from Animals)
-                    * Foodborne Illness A-Z
-                    * Estimates of Foodborne Illness
-                    * Report a Foodborne Illness
-                    * Foodsafety.govExternal file_external 
-                    * U.S. Food and Drug Administration (FDA)External file_external 
-                    * USDA Food Safety and Inspection ServiceExternal file_external 
+Some eye movement disorders are present at birth. Others develop over time and
+may be associated with other problems, such as injuries. Treatments include
+glasses, patches, eye muscle exercises, and surgery. There is no cure for some
+kinds of eye movement disorders, such as most kinds of nystagmus.
 
-Follow Salmonella
+## Start Here
 
-![Sign up for RSS feed.](/salmonella/images/outbreaks/rss-icon.png)
+    * Nystagmus (American Academy of Ophthalmology) Also in Spanish
+    * Strabismus (Foundation of the American Academy of Ophthalmology) Also in Spanish
 
-Sign up for RSS Feed
+## Diagnosis and Tests
 
-**COMUN ÍQUESE CON CDC-INFO**
+    * Dilating Eye Drops (American Association for Pediatric Ophthalmology and Strabismus)
+    * Strabismus Measurements (American Association for Pediatric Ophthalmology and Strabismus)
+    * Videonystagmography (VNG) ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Library of Medicine) Also in Spanish
+    * Vision Screening ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Library of Medicine) Also in Spanish
 
-phone
+## Treatments and Therapies
 
-¿Tiene preguntas? Tenemos respuestas. 1-800-CDC-INFO (800-232-4636) TTY:
-888-232-6348
+    * Anesthesia for Adults Having Eye Surgery (American Association for Pediatric Ophthalmology and Strabismus)
+    * Eye muscle repair - slideshow (Medical Encyclopedia) Also in Spanish
+    * Strabismus Surgery (American Association for Pediatric Ophthalmology and Strabismus)
 
-email
+## Related Issues
 
-ComunÃ­quese con CDC-INFO
+    * Abnormal Head Position (American Association for Pediatric Ophthalmology and Strabismus)
+    * Progressive Supranuclear Palsy ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institute of Neurological Disorders and Stroke) \- Short Summary
 
-**INFORMACI ÓN DE LOS CDC**
+## Specifics
 
-                    * Acerca de los CDC
-                    * Empleos
-                    * Financiamiento
-                    * Politicas
-                    * Visores de archivos y reproductores
+    * Accommodative Esotropia (American Association for Pediatric Ophthalmology and Strabismus)
+    * Brown Syndrome (American Association for Pediatric Ophthalmology and Strabismus)
+    * Conjugate Gaze Palsies (Merck & Co., Inc.) Also in Spanish
+    * Convergence Insufficiency (American Association for Pediatric Ophthalmology and Strabismus)
+    * Dissociated Vertical Deviation (American Association for Pediatric Ophthalmology and Strabismus)
+    * Duane Syndrome (American Association for Pediatric Ophthalmology and Strabismus)
+    * Esotropia (American Association for Pediatric Ophthalmology and Strabismus)
+    * Exotropia (American Association for Pediatric Ophthalmology and Strabismus)
+    * Internuclear Ophthalmoplegia (Merck & Co., Inc.) Also in Spanish
+    * Microvascular Cranial Nerve Palsy (American Academy of Ophthalmology) Also in Spanish
+    * Monocular Elevation Deficiency - Double Elevator Palsy (American Association for Pediatric Ophthalmology and Strabismus)
+    * Oculomotor Apraxia (American Association for Pediatric Ophthalmology and Strabismus)
 
-                    * Privacidad
-                    * Ley FOIA
-                    * Ley No Fear
-                    * OIG
-                    * Aviso de no discriminacion
+## Genetics
 
-**CON ÉCTESE CON LOS CDC**  
+    * Genetics Home Reference: ataxia with oculomotor apraxia ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Library of Medicine)
+    * Genetics Home Reference: congenital fibrosis of the extraocular muscles ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Library of Medicine)
+    * Genetics Home Reference: Duane-radial ray syndrome ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Library of Medicine)
+    * Genetics Home Reference: horizontal gaze palsy with progressive scoliosis ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Library of Medicine)
+    * Genetics Home Reference: isolated Duane retraction syndrome ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Library of Medicine)
+    * Genetics Home Reference: progressive external ophthalmoplegia ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Library of Medicine)
+    * Genetics Home Reference: X-linked infantile nystagmus ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Library of Medicine)
+    * Learning about Duane Syndrome ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Human Genome Research Institute)
 
-                    * Facebook
-                    * Twitter
-                    * Youtube
-                    * Instagram
-  
+## Videos and Tutorials
 
-                    * Syndicate
-                    * CDC TV
-                    * RSS
-                    * Email
+    * Strabismus: Botox Treatment ![Video](https://medlineplus.gov/images/videocamera.gif) (American Academy of Ophthalmology)
 
-HHS.Gov - Departamento de Salud y Servicios Humanos
+## Clinical Trials
 
-GobiernoUSA.gov
+    * ClinicalTrials.gov: Nystagmus, Pathologic ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institutes of Health)
+    * ClinicalTrials.gov: Ocular Motility Disorders ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institutes of Health)
+    * ClinicalTrials.gov: Strabismus ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institutes of Health)
 
-Descargo de responsabilidad para sitios externos a los CDC external icon
+## Journal Articles References and abstracts from MEDLINE/PubMed (National
+Library of Medicine)
 
-                    * Facebook
-                    * Twitter
-                    * LinkedIn
-                    * Email
+    * Article: Strabismus in Unicoronal Craniosynostosis: Effect of Orbital Dysmorphology and Fronto-Orbital Advancement...
+    * Article: Efficacy of horizontal muscle augmentation combined inferior oblique muscle shortening for...
+    * Article: Eye Movement Disorders and the Cerebellum.
+    * Eye Movement Disorders -- see more articles
 
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+## Reference Desk
 
-#### Exit Notification/Disclaimer Policy
+    * Anatomy of the Eye (American Association for Pediatric Ophthalmology and Strabismus)
+    * Diagram of the Eye ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Eye Institute) Also in Spanish
+    * Glossary of Terms (Foundation of the American Academy of Ophthalmology)
+    * Overview of the Cranial Nerves (Merck & Co., Inc.) Also in Spanish
 
-Close
+## Find an Expert
 
-**Links with this icon indicate that you are leaving the CDC website.**
+    * American Association for Pediatric Ophthalmology and Strabismus
+    * Finding an Eye Doctor ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Eye Institute) Also in Spanish
+    * National Eye Institute ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png)
 
-                    * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                    * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                    * You will be subject to the destination website's privacy policy when you follow the link.
-                    * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
+## Adults
 
-Cancel Continue
+    * Adult Strabismus (American Association for Pediatric Ophthalmology and Strabismus)
 
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+## Patient Handouts
+
+    * Cranial mononeuropathy III (Medical Encyclopedia) Also in Spanish
+    * Cranial mononeuropathy VI (Medical Encyclopedia) Also in Spanish
+    * Eye muscle repair (Medical Encyclopedia) Also in Spanish
+    * Nystagmus (Medical Encyclopedia) Also in Spanish
+    * Strabismus (Medical Encyclopedia) Also in Spanish
+    * Supranuclear ophthalmoplegia (Medical Encyclopedia) Also in Spanish
+
+## Topic Image
+
+![Eye Movement
+Disorders](https://medlineplus.gov/images/EyeMovementDisorders.jpg)
+
+## Stay Connected
+
+Sign up for the My MedlinePlus newsletter What's this?
+
+GO
+
+## MEDICAL ENCYCLOPEDIA
+
+    * Cranial mononeuropathy III
+    * Cranial mononeuropathy VI
+    * Extraocular muscle function testing
+    * Eye muscle repair
+    * Eye muscle repair - slideshow
+    * Eye muscle repair - discharge
+    * Nystagmus
+    * Strabismus
+    * Supranuclear ophthalmoplegia
+
+## National Institutes of Health
+
+The primary NIH organization for research on Eye Movement Disorders is the
+National Eye Institute
+
+## Disclaimers
+
+MedlinePlus links to health information from the National Institutes of Health
+and other federal government agencies. MedlinePlus also links to health
+information from non-government Web sites. See our disclaimer about external
+links and our quality guidelines.
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated on 27 January 2020 Topic last reviewed: 13 October 2016
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

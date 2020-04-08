@@ -1,201 +1,222 @@
+Link: https://medlineplus.gov/lab-tests/prenatal-cell-free-dna-screening/    
+                                Description: A prenatal cell-free DNA (cfDNA) screening is a blood test for pregnant women. It checks to see if an unborn baby is more likely to have Down syndrome or another chromosome disorder. Learn more.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search ____
+Menu
 
-Ã
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Search
 
-Submit __
+Search MedlinePlus
 
-For a full list of topics: A-Z Index
+GO
 
-NCHHSTP AtlasPlus
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-Section Navigation
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-CDC Home
+EspaÃ±ol
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Syndicate
+You Are Here:
 
-# NCHHSTP AtlasPlus
+Home ->
 
-Minus
+Medical Tests ->
 
-Related Pages
+Prenatal Cell-Free DNA Screening
 
-Direct access to AtlasPlus (508 compliant).
+URL of this page: https://medlineplus.gov/lab-tests/prenatal-cell-free-dna-
+screening/
 
-Direct access to AtlasPlus (508 compliant).
+# Prenatal Cell-Free DNA Screening
 
-Direct access to AtlasPlus (508 compliant).
+To use the sharing features on this page, please enable JavaScript.
 
-Direct access to AtlasPlus (508 compliant).
+## What is a prenatal cell-free DNA (cfDNA) screening?
 
-Direct access to AtlasPlus (508 compliant)
+Prenatal cell-free DNA (cfDNA) screening is a blood test for pregnant women.
+During pregnancy, some of an unborn baby's DNA circulates in the mother's
+bloodstream. A cfDNA screening checks this DNA to find out if the baby is more
+likely to have Down syndrome or another disorder caused by a trisomy.
 
-Disease Slide Sets
+A trisomy is a disorder of the chromosomes. Chromosomes are the parts of your
+cells that contain your genes. Genes are parts of DNA passed down from your
+mother and father. They carry information that determines your unique traits,
+such as height and eye color.
 
-Presentation-ready slides of common queries
+    * People normally have 46 chromosomes, divided into 23 pairs, in each cell.
+    * If one of these pairs has an extra copy of a chromosome, it's called a trisomy. A trisomy causes changes in the way the body and brain develop.
+    * In Down syndrome, there is an extra copy of chromosome 21. This is also known as trisomy 21. Down syndrome is the most common chromosome disorder in the United States.
+    * Other trisomy disorders include Edwards syndrome (trisomy 18), where there is an extra copy of chromosome 18, and Patau syndrome (trisomy 13), where there is an extra copy of chromosome 13. These disorders are rare but more serious than Down syndrome. Most babies with trisomy 18 or trisomy 13 die within the first year of life.
 
-![NCHHSTP Atlas Presentation Slides](/nchhstp/atlas/images/presentation-ready-
-slides.jpg)
+A cfDNA screening has very little risk to you and your baby, but it can't tell
+you for sure whether your baby has a chromosome disorder. Your health care
+provider will need to order other tests to confirm or rule out a diagnosis.
 
-Separate downloadable files for each disease and a combined set for all
-diseases.
+Other names: cell-free fetal DNA, cffDNA, non-invasive prenatal test, NIPT
 
-Social Determinants of Health Slide Sets
+## What is used for?
 
-County-level data on poverty, income, education, housing and other social
-factors tied to health.
+A cfDNA screening is most often used to show if your unborn baby has an
+increased risk for one of the following chromosome disorders:
 
-![Social Determinants of Health Slides](/nchhstp/atlas/images/SDH-Slides.png)
+    * Down syndrome (trisomy 21)
+    * Edwards syndrome (trisomy 18)
+    * Patau syndrome (trisomy 13)
 
-About Atlas Plus
+The screening may also be used to:
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * About AtlasPlus
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * What's New
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Add Buttons to your website or blog
+    * Determine a baby's gender (sex). This may be done if an ultrasound shows that a baby's genitals are not clearly male or female. This may be caused by a disorder of the sex chromosomes.
+    * Check Rh blood type. Rh is a protein found on red blood cells. If you have the protein, you are considered Rh positive. If you don't, you are Rh negative. If you are Rh negative and your unborn baby is Rh positive, your body's immune system may attack your baby's blood cells. If you find out you are Rh negative early in pregnancy, you can take medicines to protect your baby from dangerous complications.
 
-![AtlasPlus Buttons](/nchhstp/atlas/images/AtlasPlus-btn-home-page.jpg)
+A cfDNA screening can be done as early as the 10th week of pregnancy.
 
-Disease Surveillance Reports and Tools
+## Why do I need a prenatal cfDNA screening?
 
-These reports and tools provide additional information and technical details
-about the AtlasPlus data and other data.
+Many health care providers recommend this screening to pregnant women who are
+at higher risk of having a baby with a chromosome disorder. You may be at
+higher risk if:
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Hepatitis
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * HIV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * STD
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * TB
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * DASH
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Youth Online
+    * You are age 35 or older. A mother's age is the primary risk factor for having a baby with Down syndrome or other trisomy disorders. The risk increases as a woman gets older.
+    * You've had another baby with a chromosome disorder.
+    * Your fetal ultrasound didn't look normal.
+    * Other prenatal test results were not normal.
 
-**Citing AtlasPlus Materials**
-
-We are pleased to make these materials available, and ask that you please cite
-the NCHHSTP AtlasPlus. The recommended citation for any of the resources
-accessed is:
-
-Centers for Disease Control and Prevention. NCHHSTP AtlasPlus. Updated 2019.
-https://www.cdc.gov/nchhstp/atlas/index.htm. Accessed on [insert date].
-
-System Requirements
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Pop-up enabled
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * JavaScript enabled
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Windows platform
-
-Page last reviewed: December 11, 2019
-
-Content source: National Center for HIV/AIDS, Viral Hepatitis, STD, and TB
-Prevention
-
-home NCHHSTP AtlasPlus
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * About the AtlasPlus
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Whatâs New
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Presentation Slides expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * New Diagnoses Slideset
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Viral Hepatitis Slideset
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * HIV Slideset
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * STD Slideset
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Tuberculosis Slideset
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Social Determinants of Health Slideset
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Buttons
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * AtlasPlus Application
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * About CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Jobs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * File Viewers & Players
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Nondiscrimination
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Accessibility
-
-**CONNECT WITH CDC**  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Youtube
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Instagram
-  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
-
-U.S. Department of Health & Human Services
-
-USA.gov
-
-CDC Website Exit Disclaimer external icon
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-SAS stats
-
-#### Exit Notification/Disclaimer Policy
-
-Close
-
-**Links with this icon indicate that you are leaving the CDC website.**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
+Some health care providers recommend screening to all pregnant women. This is
+because the screening has almost no risk and has a high rate of accuracy
+compared with other prenatal screening tests.
+
+You and your health care provider should discuss if a cfDNA screening is right
+for you.
+
+## What happens during a prenatal cfDNA screening?
+
+A health care professional will take a blood sample from a vein in your arm,
+using a small needle. After the needle is inserted, a small amount of blood
+will be collected into a test tube or vial. You may feel a little sting when
+the needle goes in or out. This usually takes less than five minutes.
+
+## Will I need to do anything to prepare for this test?
+
+You may want to speak to a genetic counselor before you get tested. A genetic
+counselor is a specially trained professional in genetics and genetic testing.
+He or she can explain the possible results and what they might mean to you and
+your baby.
+
+## Are there any risks to the test?
+
+There is no risk to your unborn baby and very little risk to you. You may have
+slight pain or bruising at the spot where the needle was put in, but most
+symptoms go away quickly.
+
+## What do the results mean?
+
+If your results were negative, it's unlikely that your baby has Down syndrome
+or another trisomy disorder. If your results were positive, it means there is
+an increased risk that your baby has one of these disorders. But it can't tell
+you for sure if your baby is affected. For a more confirmed diagnosis you'll
+need other tests, such as amniocentesis and chorionic villus sampling (CVS).
+These tests are usually very safe procedures, but they do have a slight risk
+of causing a miscarriage.
+
+If you have questions about your results, talk to your health care provider
+and/or a genetic counselor.
+
+Learn more about laboratory tests, references ranges, and understanding
+results.
+
+## Is there anything else I need to know about a prenatal cfDNA screening?
+
+cfDNA screenings are not as accurate in women who are pregnant with more than
+one baby (twins, triplets, or more).
+
+## References
+
+    1. ACOG: The American Congress of Obstetricians and Gynecologists [Internet]. Washington D.C.: American Congress of Obstetricians and Gynecologists; c2019. Cell-Free Prenatal DNA Screening Test; [cited 2019 Nov 1]; [about 3 screens]. Available from: https://www.acog.org/Patients/FAQs/Cell-free-DNA-Prenatal-Screening-Test-Infographic
+    2. ACOG: The American Congress of Obstetricians and Gynecologists [Internet]. Washington D.C.: American Congress of Obstetricians and Gynecologists; c2019. The Rh Factor: How It Can Affect Your Pregnancy; 2018 Feb [cited 2019 Nov 1]; [about 3 screens]. Available from: https://www.acog.org/Patients/FAQs/The-Rh-Factor-How-It-Can-Affect-Your-Pregnancy#what
+    3. Centers for Disease Control and Prevention [Internet]. Atlanta: U.S. Department of Health and Human Services; Genetic Counseling; [cited 2019 Nov 1]; [about 2 screens]. Available from: https://www.cdc.gov/genomics/gtesting/genetic_counseling.htm
+    4. Lab Tests Online [Internet]. Washington D.C.: American Association for Clinical Chemistry; c2001â2019. Cell-Free Fetal DNA; [updated 2019 May 3; cited 2019 Nov 1]; [about 2 screens]. Available from: https://labtestsonline.org/tests/cell-free-fetal-dna
+    5. March of Dimes [Internet]. Arlington (VA): March of Dimes; c2019. Down Syndrome; [cited 2019 Nov 1]; [about 3 screens]. Available from: https://www.marchofdimes.org/complications/down-syndrome.aspx
+    6. March of Dimes [Internet]. Arlington (VA): March of Dimes; c2019. Prenatal Tests; [cited 2019 Nov 1]; [about 3 screens]. Available from: https://www.marchofdimes.org/pregnancy/prenatal-tests.aspx
+    7. Mayo Clinic [Internet]. Mayo Foundation for Medical Education and Research; c1998â2019. Prenatal cell-free DNA screening: Overview; 2018 Sep 27 [cited 2019 Nov 1]; [about 3 screens]. Available from: https://www.mayoclinic.org/tests-procedures/noninvasive-prenatal-testing/about/pac-20384574
+    8. Merck Manual Consumer Version [Internet]. Kenilworth (NJ): Merck & Co. Inc.; c2019. Prenatal Diagnostic Testing; [updated 2017 Jun; cited 2019 Nov 1]; [about 3 screens]. Available from: https://www.merckmanuals.com/home/women-s-health-issues/detection-of-genetic-disorders/prenatal-diagnostic-testing
+    9. National Down Syndrome Society [Internet].Washington D.C.: National Down Syndrome Society; c2019. Understanding a Diagnosis of Down Syndrome; [cited 2019 Nov 1]; [about 2 screens]. Available from: https://www.ndss.org/resources/understanding-a-diagnosis-of-down-syndrome
+    10. National Heart, Lung, and Blood Institute [Internet]. Bethesda (MD): U.S. Department of Health and Human Services; Blood Tests; [cited 2019 Nov 1]; [about 3 screens]. Available from: https://www.nhlbi.nih.gov/health-topics/blood-tests
+    11. National Society of Genetic Counselors [Internet]. Chicago: National Society of Genetic Counselors; c2019. Before and During Pregnancy; [cited 2019 Nov 1]; [about 4 screens]. Available from: http://aboutgeneticcounselors.com/Genetic-Conditions/Prenatal-Conditions
+    12. Rafi I, Chitty L. Cell-free fetal DNA and non-invasive prenatal diagnosis. Br J Gen Pract. [Internet]. 2009 May 1 [cited 2019 Nov 1]; 59(562):e146â8. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2673181
+    13. University of Rochester Medical Center [Internet]. Rochester (NY): University of Rochester Medical Center; c2019. Health Encyclopedia: First Trimester Screening; [cited 2019 Nov 1]; [about 2 screens]. Available from: https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=90&contentid=P08568
+    14. University of Rochester Medical Center [Internet]. Rochester (NY): University of Rochester Medical Center; c2019. Health Encyclopedia: Trisomy 13 and Trisomy 18 in Children; [cited 2019 Nov 1]; [about 2 screens]. Available from: https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=90&contentid=P02419
+    15. UW Health [Internet]. Madison (WI): University of Wisconsin Hospitals and Clinics Authority; c2019. Health Information: Genetics: Prenatal Screening and Testing; [updated 2019 Apr 1; cited 2019 Nov 1]; [about 4 screens]. Available from: https://www.uwhealth.org/health/topic/special/genetics/tv7695.html#tv7700
+    16. UW Health [Internet]. Madison (WI): University of Wisconsin Hospitals and Clinics Authority; c2019. Health Information: Genetics: Topic Overview [updated 2019 Apr 1; cited 2019 Nov 1]; [about 2 screens]. Available from: https://www.uwhealth.org/health/topic/special/genetics/tv7695.html
+
+## Related Health Topics
+
+    * Birth Defects
+    * Down Syndrome
+    * Genetic Counseling
+    * Genetic Disorders
+    * Genetic Testing
+    * Pregnancy
+    * Prenatal Care
+    * Prenatal Testing
+    * Ultrasound
+
+## Related Lab Test Information
+
+    * 17-Hydroxyprogesterone
+    * Alpha-Fetoprotein (AFP) Test
+    * Anti-MÃ¼llerian Hormone Test
+    * Down Syndrome Tests
+    * How to Understand Your Lab Results
+    * Karyotype Genetic Test
+    * Red Blood Cell Antibody Screen
+    * Sonogram
+
+The medical information provided is for informational purposes only, and is
+not to be used as a substitute for professional medical advice, diagnosis or
+treatment. Please contact your health care provider with questions you may
+have regarding medical conditions or the interpretation of test results.
+
+In the event of a medical emergency, call 911 immediately.
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated on 19 February 2020
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

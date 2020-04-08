@@ -1,362 +1,111 @@
+Link: https://medlineplus.gov/about/developers/    
+                                Description: Find technical information for web developers, including MedlinePlus Web Service, XML files, RSS feeds, and MedlinePlus Connect for electronic health records.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search __ Search Icon Close Icon
+Menu
 
-Ã NIOSH
+  * Health Topics
+  * Drugs & Supplements
+  * Videos & Tools
+  * About MedlinePlus
 
-NIOSH All CDC
+Search
 
-Submit __
+Search MedlinePlus
 
-For a full list of topics: All A-Z Topics
+GO
 
-The National Institute for Occupational Safety and Health (NIOSH)
+  * About MedlinePlus
+  * What's New
+  * Site Map
+  * Customer Support
 
-Section Navigation
+  * Health Topics
+  * Drugs & Supplements
+  * Videos & Tools
 
-CDC Home
+You Are Here:
 
-          * Facebook
-          * Twitter
-          * LinkedIn
-          * Email
-          * Syndicate
+Home ->
 
-![Corona virus banner
-image](/niosh/homepage/features/Coronavirus_banner_4_6.jpg)
+About MedlinePlus ->
 
-![NIOSH logo and tagline](/niosh/images/si-no-left-vp4.png)
+Information about MedlinePlus for Developers
 
-# The National Institute for Occupational Safety and Health (NIOSH)
+URL of this page: https://medlineplus.gov/about/developers/
 
-Minus
+# Information about MedlinePlus for Developers
 
-Related Pages
+To use the sharing features on this page, please enable JavaScript.
 
-Supply of PPE
+Find technical information for web developers, including our web service, data
+files, RSS feed, and MedlinePlus Connect for electronic health records (EHRs).
 
-![Collection of Personal Protective
-Equipment](/niosh/homepage/images/mockimages/SupplyofPPE.png)
+MedlinePlus Connect
 
-Healthcare Supply of Personal Protective Equipment
+API for use with EHR systems and patient portals
 
-Stockpiled N95 Respirators
+Web Service
 
-![Warehouse with stockpile of N95
-respirators](/niosh/homepage/images/mockimages/StockpiledN95.png)
+Search-based health topic data in XML format
 
-Release of Stockpiled N95 Filtering Facepiece Respirators: Considerations for
-the COVID-19 Response
+XML Files
 
-PPE FAQs
+Downloadable records for all English & Spanish health topics
 
-![Personal Protective Equipment for Novel
-Coronavirus](/niosh/homepage/images/mockimages/PPEFAQs.png)
+RSS Feeds
 
-Frequently Asked Questions about Personal Protective Equipment
+Subscribe to general and topic-specific feeds
 
-Decontamination and Reuse
+## Related Information
 
-![Means of Disinfecting
-PPE](/niosh/homepage/images/mockimages/PPEDisinfection.png)
+What's New
 
-Decontamination and Reuse of Filtering Facepiece Respirators
+About MedlinePlus
 
-Research Programs
-
-![Two co-workers collaborating in a business
-meeting](/niosh/homepage/images/mockimages/research2.jpg)
-
-NIOSH Program Portfolio, leadership centers and offices, worker services and
-support programs
-
-Data and Statistics
-
-![An image of a bar chart](/niosh/homepage/images/mockimages/data.jpg)
-
-Centralized access to NIOSH data
-
-Publications & Products
-
-![An image of publications stacked
-vertically](/niosh/homepage/images/mockimages/publication2.jpg)
-
-NIOSH publications and reports, multimedia, press, regulatory information,
-other products
-
-email_03Subscribe to eNews
-
-Enter your email address to receive research updates, links to resources,
-practical tips, and news about upcoming events.
-
-Email Address
-
-What's this?
-
-Submit
-
-About NIOSH
-
-A to Z Index
-
-Grants & Funding
-
-Training Resources
-
-NIOSH Newsroom
-
-NIOSH Science Blog
+Using MedlinePlus
 
 * * *
 
-# Workplace Safety and Health Topics
+## Stay Connected
 
-![Construction worker hoisted in the air](/niosh/homepage/images/hazards.jpg)
+Sign up for the My MedlinePlus newsletter What's this?
 
-Hazards & Exposures
+GO
 
-![Hands working with a chemical valve](/niosh/homepage/images/chemical.jpg)
-
-Chemicals
-
-![Helicopter flying above a city](/niosh/homepage/images/emergency.jpg)
-
-Emergency Preparedness & Response
-
-![Night shift workers in hazmat suits](/niosh/homepage/images/industries.jpg)
-
-Industries & Occupations
-
-![An image of a work boot walking in the
-snow](/niosh/homepage/images/injury.jpg)
-
-Diseases & Injuries
-
-![Firefighter suit and helmet](/niosh/homepage/images/safety.jpg)
-
-Safety & Prevention
-
-* * *
-
-# More NIOSH Resources
-
-Top Resources
-
-          * Pocket Guide to Chemical Hazards
-          * Manual of Analytical Methods
-          * Health Hazard Evaluations (HHEs)
-          * NIOSH en Español
-          * Research Program One Page Summaries
-
-Learn More About NIOSH
-
-          * What's New on the NIOSH Website
-          * Conferences and Events
-          * NIOSH Contact Information
-          * NIOSH eNews
-
-Regulatory and Rulemaking
-
-          * NIOSH Docket
-          * Documents for Public Review
-          * Peer Review Agenda
-          * Regulations
-          * Regulatory Agenda
-
-Related Federal Agencies
-
-          * Occupational Safety and Health Administrationexternal icon
-          * Mine Safety and Health Administrationexternal icon
-
-Follow NIOSH
-
-fb icon Facebook insta icon Instagram  Pinterest   twitter icon Twitter
-youtube icon YouTube device icon more sites
-
-Page last reviewed: May 25, 2018
-
-Content source:
-
-National Institute for Occupational Safety and Health Office of the Director
-
-home NIOSH
-
-          * NIOSH A-Z Index
-          * Whatâs New on the NIOSH Websiteplus icon
-            * 2019
-            * 2018
-            * 2017
-            * 2016
-            * 2015
-            * 2014
-            * 2013
-            * 2012
-            * 2011
-            * 2009-2010
-            * 2008
-            * 2004-2007 
-            * 2002-2003
-            * 2000-2001
-            * 1998-1999
-            * 1996-1997
-          * Workplace Safety and Health Topics
-          * Publications and Productsplus icon
-            * NIOSH-Issued Publications
-            * Publication Typesplus icon
-              * Alerts
-              * Current Intelligence Bulletins
-              * Criteria Documents
-              * Fact Sheets
-              * Health Hazard Evaluations
-              * Hazard Controls
-              * Hazard IDs
-              * Impact Sheets
-              * Worker Health Study Summaries
-              * Workplace Solutions
-              * Engineering and Physical Hazards Reports
-            * Order Publications
-            * Search NIOSHTIC-2 Research Database
-            * Video
-            * Software
-            * NIOSH eNews
-            * NIOSH Research Rounds
-            * NIOSH Science Blog
-            * Press Releases/Updates
-            * Federal Register Noticesplus icon
-              * FRN Archive 2019
-              * FRN Archive 2018
-              * FRN Archive 2017
-              * FRN Archive 2016
-              * FRN Archive 2015
-              * FRN Archive 2014
-              * FRN Archive 2011-2013
-              * FRN Archive 2007-2010
-              * FRN Archive 2005-2006
-              * FRN Archive 2001-2004
-              * FRN Archive 1996-2000
-            * Docketplus icon
-              * Documents for Public Review
-              * Peer Review Agenda
-            * Regulatory Agenda
-            * Regulations
-          * NIOSH Programs
-          * Data & Statistics
-          * About NIOSHplus icon
-            * Milestones in NIOSH History
-            * NIOSH Offices and Key Personnel
-            * NIOSH Centers
-            * NIOSH Advisory Committees
-            * NIOSH Strategic Planplus icon
-              * How the Plan was Developed
-              * Research Goals
-              * Service Goals
-              * Appendix A. BNI Criteria
-            * Board of Scientific Counselorsplus icon
-              * About NIOSH BSC
-              * Membership
-              * Charter
-              * Meetings and Agendas
-              * Projects and Project Reports
-              * Contact BSC
-            * Diversity in NIOSHplus icon
-              * Goals
-              * Message
-              * Vision
-          * Grants & Funding
-          * Training and Workforce Developmentplus icon
-            * National Occupational Safety and Health Workforce Assessment
-          * Conferences & Events
-          * Employment
-          * Contact NIOSHplus icon
-            * Add a Meeting or Conference
-            * Ask an Occupational Safety and Health Question
-            * Email Webmaster
-            * Directory of Offices and Key Personnelplus icon
-              * Division of Compensation Analysis and Support (DCAS)
-              * Division of Field Studies and Engineering (DFSE)
-              * Division of Science Integration (DSI)
-              * Division of Safety Research (DSR)
-              * Health Effects Laboratory Division (HELD)
-              * Mining Program
-              * National Personal Protective Technology Laboratory (NPPTL)
-              * Respiratory Health Division (RHD)
-              * Western States Division
-              * World Trade Center Health Program
-          * NIOSH Awards
-          * Search the NIOSH Website
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-          * About CDC
-          * Jobs
-          * Funding
-          * Policies
-          * File Viewers & Players
-
-          * Privacy
-          * FOIA
-          * No Fear Act
-          * OIG
-          * Nondiscrimination
-          * Accessibility
-
-**CONNECT WITH CDC**  
-
-          * Facebook
-          * Twitter
-          * Youtube
-          * Instagram
   
 
-          * Syndicate
-          * CDC TV
-          * RSS
-          * Email
+  * About MedlinePlus
+  * What's New
+  * Site Map
+  * Customer Support
 
-U.S. Department of Health & Human Services
+  * Get updates
+  * Subscribe to RSS
+  * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
 
-USA.gov
+  * Disclaimers
+  * Copyright
+  * Privacy
+  * Accessibility
+  * Guidelines for Links
+  * Viewers & Players
+  * MedlinePlus Connect for EHRs
+  * For Developers
 
-CDC Website Exit Disclaimer external icon
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
 
-          * Facebook
-          * Twitter
-          * LinkedIn
-          * Email
+Page last updated on 7 November 2019
 
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-SAS stats
-
-#### Exit Notification/Disclaimer Policy
-
-Close
-
-**Links with this icon indicate that you are leaving the CDC website.**
-
-          * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-          * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-          * You will be subject to the destination website's privacy policy when you follow the link.
-          * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

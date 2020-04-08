@@ -1,191 +1,227 @@
+Link: https://medlineplus.gov/lab-tests/pdl1-immunotherapy-tests/    
+                                Description: A PDL1 test measures the amount of PDL1 protein on cancer cells. If you have high levels of PDL1, you may respond well to a treatment called immunotherapy. Immunotherapy works by boosting your immune system to fight cancer cells. Learn more.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link Skip directly to A-Z link Skip directly to A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search ____
+Menu
 
-Ã
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Search
 
-Submit __
+Search MedlinePlus
 
-For a full list of topics: A-Z Index
+GO
 
-Bovine Spongiform Encephalopathy (BSE), or Mad Cow Disease
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-Section Navigation
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-CDC Home
+EspaÃ±ol
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Syndicate
+You Are Here:
 
-# Bovine Spongiform Encephalopathy (BSE), or Mad Cow Disease
+Home ->
 
-Minus
+Medical Tests ->
 
-Related Pages
+PDL1 (Immunotherapy) Tests
 
-BSE (bovine spongiform encephalopathy) is a progressive neurological disorder
-of cattle that results from infection by an unusual transmissible agent called
-a prion. The nature of the transmissible agent is not well understood.
-Currently, the most accepted theory is that the agent is a modified form of a
-normal protein known as prion protein. For reasons that are not yet
-understood, the normal prion protein changes into a pathogenic (harmful) form
-that then damages the central nervous system of cattle.
+URL of this page: https://medlineplus.gov/lab-tests/pdl1-immunotherapy-tests/
 
-![Image of cows. ](/prions/bse/images/cows-370px.jpg)
+# PDL1 (Immunotherapy) Tests
 
-Mad Cow Disease is a neurological disorder of cattle.
+To use the sharing features on this page, please enable JavaScript.
 
-About BSE
+## What is a PDL1 test?
 
-BSE in North America
+This test measures the amount of PDL1 on cancer cells. PDL1 is a protein that
+helps keep immune cells from attacking nonharmful cells in the body. Normally,
+the immune system fights foreign substances like viruses and bacteria, and not
+your own healthy cells. Some cancer cells have high amounts of PDL1. This
+allows the cancer cells to "trick" the immune system, and avoid being attacked
+as foreign, harmful substances.
 
-Control Measures
+If your cancer cells have a high amount of PDL1, you may benefit from a
+treatment called immunotherapy. Immunotherapy is a therapy that boosts your
+immune system to help it recognize and fight cancer cells. Immunotherapy has
+been shown to be very effective in treating certain types of cancers. It also
+tends to have fewer side effects than other cancer therapies.
 
-Feed Bans
+Other names: programmed death-ligand 1, PD-LI, PDL-1 by immunohistochemistry
+(IHC)
 
-Prevalence
+## What is it used for?
 
-Prevention
+PDL1 testing is used to find out if you have a cancer that may benefit from
+immunotherapy.
 
-Strains of BSE
+## Why do I need a PDL1 test?
 
-Resources
+You may need PDL1 testing if you've been diagnosed with one of the following
+cancers:
 
-Related Links
+    * Non-small cell lung cancer
+    * Melanoma
+    * Hodgkin lymphoma
+    * Bladder cancer
+    * Kidney cancer
+    * Breast cancer
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * United States Department of Agriculture's (USDA) Animal and Plant Health Inspection Service: About BSEExternal
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * The National Prion Disease Pathology Surveillance CenterExternal
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * FDA, Bovine Spongiform EncephalopathyExternal
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Canadian Food Inspection Agency, Bovine Spongiform Encephalopathy (BSE) in North AmericaExternal
+High levels of PDL1 are often found in these, as well as some other types of
+cancer. Cancers that have high levels of PDL1 can often be treated effectively
+with immunotherapy.
 
-E-Mail Us
+## What happens during a PDL1 test?
 
-For Questions or Comments on Prions E-mail Us.
+Most PDL1 tests are done in a procedure called a biopsy. There are three main
+types of biopsy procedures:
 
-CDC Related Links
+    *  **Fine needle aspiration biopsy,** which uses a very thin needle to remove a sample of cells or fluid
+    *  **Core needle biopsy,** which uses a larger needle to remove a sample
+    *  **Surgical biopsy,** which removes a sample in a minor, outpatient procedure
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Prion Diseases
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Creutzfeldt-Jakob Disease, Classic (CJD)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Variant Creutzfeldt-Jakob Disease (vCJD)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Chronic Wasting Disease (CWD)
+ **Fine needle aspiration and core needle biopsies** usually include the
+following steps:
 
-Page last reviewed: October 9, 2018
+    * You will lay on your side or sit on an exam table.
+    * A health care provider will clean the biopsy site and inject it with an anesthetic so you won't feel any pain during the procedure.
+    * Once the area is numb, the provider will insert either a fine aspiration needle or core biopsy needle into the biopsy site and remove a sample of tissue or fluid.
+    * You may feel a little pressure when the sample is withdrawn.
+    * Pressure will be applied to the biopsy site until the bleeding stops.
+    * Your provider will apply a sterile bandage at the biopsy site.
 
-Content source: Centers for Disease Control and Prevention , National Center
-for Emerging and Zoonotic Infectious Diseases (NCEZID) , Division of High-
-Consequence Pathogens and Pathology (DHCPP)
+ **In a surgical biopsy,** a surgeon will make a small cut in your skin to
+remove all or part of a breast lump. A surgical biopsy is sometimes done if
+the lump can't be reached with a needle biopsy. Surgical biopsies usually
+include the following steps.
 
-home BSE
+    * You will lie on an operating table. An IV (intravenous line) may be placed in your arm or hand.
+    * You may be given medicine, called a sedative, to help you relax.
+    * You will be given local or general anesthesia so you won't feel pain during the procedure.
+      * For local anesthesia, a health care provider will inject the biopsy site with medicine to numb the area.
+      * For general anesthesia, a specialist called an anesthesiologist will give you medicine so you will be unconscious during the procedure.
+    * Once the biopsy area is numb or you are unconscious, the surgeon will make a small cut into the breast and remove part or all of a lump. Some tissue around the lump may also be removed.
+    * The cut in your skin will be closed with stitches or adhesive strips.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * About BSE
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * BSE in North America expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * BSE Cases Identified in the United States
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * BSE Cases Identified in Canadian-born Cattle
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Control Measures
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Feed Bans
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Prevalence
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Prevention of BSE
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Strains of BSE
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Resources
+There are different types of biopsies. The type of biopsy you get will depend
+on the location and size of your tumor.
 
-**HAVE QUESTIONS?**
+## Will I need to do anything to prepare for the test?
 
-Visit CDC-INFO
+You won't need any special preparations if you are getting local anesthesia
+(numbing of the biopsy site). If you are getting general anesthesia, you will
+probably need to fast (not eat or drink) for several hours before surgery.
+Your surgeon will give you more specific instructions. Also, if you are
+getting a sedative or general anesthesia, be sure to arrange for someone to
+drive you home. You may be groggy and confused after you wake up from the
+procedure.
 
-Call 800-232-4636
+## Are there any risks to the test?
 
-Email CDC-INFO
+You may have a little bruising or bleeding at the biopsy site. Sometimes the
+site gets infected. If that happens, you will be treated with antibiotics. A
+surgical biopsy may cause some additional pain and discomfort. Your health
+care provider may recommend or prescribe medicine to help you feel better.
 
-Open 24/7
+## What do the results mean?
 
-**CDC INFORMATION**
+If your results show your tumor cells have high levels of PDL1, you may be
+started on immunotherapy. If your results do not show high levels of PDL1,
+immunotherapy may not be effective for you. But you may benefit from another
+type of cancer treatment. If you have questions about your results, talk to
+your health care provider.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * About CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Jobs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * File Viewers & Players
+Learn more about laboratory tests, references ranges, and understanding
+results.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Nondiscrimination
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Accessibility
+## Is there anything else I need to know about a PDL1 test?
 
-**CONNECT WITH CDC**  
+Immunotherapy does not work for everyone, even if you have tumors with high
+levels of PDL1. Cancer cells are complex and often unpredictable. Health care
+providers and researchers are still learning about immunotherapy and how to
+predict who will benefit the most from this treatment.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Youtube
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Instagram
-  
+## References
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
+    1. Allina Health [Internet]. Minneapolis: Allina Health; c2018. Immunotherapy for cancer; [cited 2018 Aug 14]; [about 3 screens]. Available from: https://wellness.allinahealth.org/library/content/60/903
+    2. American Cancer Society [Internet]. Atlanta: American Cancer Society Inc.; c2018. Immune checkpoint inhibitors to treat cancer; [updated 2017 May 1; cited 2018 Aug 14]; [about 4 screens]. Available from: https://www.cancer.org/treatment/treatments-and-side-effects/treatment-types/immunotherapy/immune-checkpoint-inhibitors.html
+    3. American Cancer Society [Internet]. Atlanta: American Cancer Society Inc.; c2018. What Is Targeted Cancer Therapy?; [updated 2016 Jun 6; cited 2018 Aug 14]; [about 4 screens]. Available from: https://www.cancer.org/treatment/treatments-and-side-effects/treatment-types/targeted-therapy/what-is.html
+    4. American Cancer Society [Internet]. Atlanta: American Cancer Society Inc.; c2018. What's new in cancer immunotherapy research?; [updated 2017 Oct 31; cited 2018 Aug 14]; [about 4 screens]. Available from: https://www.cancer.org/treatment/treatments-and-side-effects/treatment-types/immunotherapy/whats-new-in-immunotherapy-research.html
+    5. Cancer.Net [Internet]. Alexandria (VA): American Society of Clinical Oncology; c2005-â2018. 9 Things to Know About Immunotherapy and Lung Cancer; 2016 Nov 8 [cited 2018 Aug 14]; [about 3 screens]. Available from: https://www.cancer.net/blog/2016-11/9-things-know-about-immunotherapy-and-lung-cancer
+    6. Dana-Farber Cancer Institute [Internet]. Boston: Dana-Farber Cancer Institute; c2018. What is a PDL-1 Test?; 2017 May 22 [updated 2017 Jun 23; cited 2018 Aug 14]; [about 3 screens]. Available from: https://blog.dana-farber.org/insight/2017/05/what-is-a-pd-l1-test
+    7. Integrated Oncology [Internet]. Laboratory Corporation of America, c2018. PDL1-1 by IHC, Opdivo; [cited 2018 Aug 14]; [about 3 screens]. Available from: https://www.integratedoncology.com/test-menu/pd-l1-by-ihc-opdivo%C2%AE/cec2cfcc-c365-4e90-8b79-3722568d5700
+    8. Lab Tests Online [Internet]. Washington D.C.: American Association for Clinical Chemistry; c2001â2018. Genetic Tests for Targeted Cancer Therapy; [updated 2018 Jun 18; cited 2018 Aug 14]; [about 2 screens]. Available from: https://labtestsonline.org/tests/genetic-tests-targeted-cancer-therapy
+    9. Mayo Clinic: Mayo Medical Laboratories [Internet]. Mayo Foundation for Medical Education and Research; c1995â2018. Test ID: PDL1: Programmed Death-Ligand 1 (PD-L1) (SP263), Semi-Quantitative Immunohistochemistry, Manual: Clinical and Interpretive; [cited 2018 Aug 14]; [about 4 screens]. Available from: https://www.mayomedicallaboratories.com/test-catalog/Clinical+and+Interpretive/71468
+    10. MD Anderson Cancer Center [Internet]. The University of Texas MD Anderson Cancer Center; c2018. This discovery may increase effectiveness of immunotherapy; 2016 Sep 7 [cited 2018 Aug 14]; [about 3 screens]. Available from: https://www.mdanderson.org/publications/cancer-frontline/2016/09/discovery-may-increase-immunotherapy-effectiveness.html
+    11. National Cancer Institute [Internet]. Bethesda (MD): U.S. Department of Health and Human Services; NCI Dictionary of Cancer Terms: immunotherapy; [cited 2018 Aug 14]; [about 3 screens]. Available from: https://www.cancer.gov/publications/dictionaries/cancer-terms/def/immunotherap
+    12. National Cancer Institute [Internet]. Bethesda (MD): U.S. Department of Health and Human Services; Tumor Markers; [cited 2018 Aug 14]; [about 4 screens]. Available from: https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet
+    13. The Sydney Kimmel Comprehensive Cancer Center [Internet]. Baltimore: The Johns Hopkins University; Breast Matters: Immune Therapy Promising for Breast Cancer; [cited 2018 Aug 14]; [about 3 screens]. Available from: https://www.hopkinsmedicine.org/news/publications/breast_matters/files/sebindoc/a/p/ca4831b326e7b9ff7ac4b8f6e0cea8ba.pdf
+    14. UW Health [Internet]. Madison (WI): University of Wisconsin Hospitals and Clinics Authority; c2018. Health Information: Immune System; [updated 2017 Oct 9; cited 2018 Aug 14]; [about 3 screens]. Available from: https://www.uwhealth.org/health/topic/ConditionCenter/Immune%20System/center1024.html
+    15. UW Health [Internet]. Madison (WI): University of Wisconsin Hospitals and Clinics Authority; c2018. News and Events: Teaching the Immune System to Fight Cancer; [updated 2017 Aug 7; cited 2018 Aug 14]; [about 3 screens]. Available from: https://www.uwhealth.org/news/the-immune-system-goes-to-school-to-learn-how-to-fight-cancer/51234
 
-U.S. Department of Health & Human Services
+## Related Health Topics
 
-USA.gov
+    * Biopsy
+    * Bladder Cancer
+    * Breast Cancer
+    * Cancer
+    * Cancer Chemotherapy
+    * Cancer Immunotherapy
+    * Hodgkin Disease
+    * Kidney Cancer
+    * Lung Cancer
+    * Melanoma
+    * Radiation Therapy
 
-CDC Website Exit Disclaimer external icon
+## Related Lab Test Information
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
+    * How to Understand Your Lab Results
+    * Tumor Marker Tests
 
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+The medical information provided is for informational purposes only, and is
+not to be used as a substitute for professional medical advice, diagnosis or
+treatment. Please contact your health care provider with questions you may
+have regarding medical conditions or the interpretation of test results.
 
-file_external
+In the event of a medical emergency, call 911 immediately.
 
-#### Exit Notification/Disclaimer Policy
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
 
-Close
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
 
-**Links with this icon indicate that you are leaving the CDC website.**
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
+Page last updated on 27 March 2020
 
-Cancel Continue
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:27 PM
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

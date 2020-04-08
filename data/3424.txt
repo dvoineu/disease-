@@ -1,237 +1,276 @@
+Link: https://medlineplus.gov/ency/article/007658.htm    
+                                Description: Heart block is a problem in the electrical signals in the heart.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-  My Pictures
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+The navigation menu has been collapsed.
 
-Search ____
+Menu
 
-Ã
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Show Search
 
-Submit __
+Search MedlinePlus
 
-For a full list of topics: A-Z Index
+GO
 
-Public Health Image Library (PHIL)
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Syndicate
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-#
+EspaÃ±ol
 
-PHIL Quick Search
+You Are Here:
 
-Photos  
-Illustrations
+Home ->
 
-**WARNING:** This library includes subject matter that might be unsuitable for
-children. Viewing discretion is advised.
+Medical Encyclopedia ->
 
-![This image shows a cleistothecium of the fungus Arthroderma
-incurvatum](images/home/KeyPhoto_01.jpg)
+Heart block
 
-### PHIL Content Dislaimer
+URL of this page: //medlineplus.gov/ency/article/007658.htm
 
-The imagery showcased in the PHIL is historic in nature; the contents
-depicted, though appropriate at the time a photograph was captured, may no
-longer be appropriate in the context of the current time period, and is not to
-be viewed as a source of the most current public health information.
+# Heart block
 
-Image of the Day
+To use the sharing features on this page, please enable JavaScript.
 
-![Phil Image 22247](https://phil.cdc.gov//PHIL_Images/22247/22247_lores.jpg)
+Heart block is a problem in the electrical signals in the heart.
 
-The Image of the Day is chosen from the PHIL database on a random basis, and
-is changed every 24 hours. Clicking on the thumbnail will reveal additional
-information about each respective image.
+Normally, the heart beat starts in an area in the top chambers of the heart
+(atria). This area is the heart's pacemaker. The electrical signals travel to
+the lower chambers of the heart (ventricles). This keeps the heart beat steady
+and regular.
 
-* * *
+Heart block occurs when the electrical signal is slowed down or does not reach
+the bottom chambers of the heart. Your heart may beat slowly, or it may skip
+beats. Heart block may resolve on its own, or it may be permanent and require
+treatment.
 
-### Featured PHIL Collections
+There are three degrees of heart block. First-degree heart block is the
+mildest type and third-degree is the most severe.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![Influenza](images/home/FeaturedCollection_01.jpg) Influenza
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![bioterrorism image](images/home/FeaturedCollection_04.jpg) Bioterrorism
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![healthy and safe people gallery image](images/home/FeaturedCollection_07.jpg) Health Behaviors
+ **First-degree heart block:**
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![Natural Disasters](images/home/FeaturedCollection_02.jpg) Natural Disasters
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![electron micrograph image](images/home/FeaturedCollection_05.jpg) EM Imagery
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![health practitioners gallery image](images/home/FeaturedCollection_08.jpg) Public Health in Action
+    * Rarely has symptoms or causes problems
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![environmental health gallery image](images/home/FeaturedCollection_03.jpg) Environmental Health
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![everyday activities gallery image](images/home/FeaturedCollection_06.jpg) Everyday Activities
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![laboratory science](images/home/Labsciences_01.jpg) Laboratory Science
+ **Second-degree heart block:**
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![developmental milestones](images/home/DevMileStns.jpg) Developmental  
-Milestones
+    * The electrical impulse may not reach the lower chambers of the heart.
+    * The heart may miss a beat or beats and may be slow and irregular.
+    * You may feel dizzy, faint, or have other symptoms.
+    * This may be serious in some cases.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![global health security image](images/home/Global_Health_Security.jpg) Global Health Security
+ **Third-degree heart block:**
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![strategic national stockpile image](images/home/Strat_Nat_Stock.jpg) Strategic National Stockpile
+    * The electrical signal does not move to the lower chambers of the heart. In this case, the lower chambers beat at a much slower rate, and the upper and lower chambers do not beat sequentially (one after the other) as they do normally.
+    * The heart fails to pump enough blood to the body. This can lead to fainting and shortness of breath.
+    * This is an emergency that needs medical help right away.
 
-How PHIL Benefits YOU
+## Causes
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * **Health Care Providers**
+Heart block may be caused by:
 
-Practicing physicians, psychiatrists, psychologists, dentists, nurses, or
-veterinarians
+    * Side effects of medicines. Heart block can be a side effect of digitalis, beta-blockers, calcium channel blockers, and other medicines.
+    * A heart attack that damages the electrical system in the heart.
+    * Heart diseases, such as heart valve disease and cardiac sarcoidosis.
+    * Some infections, such as Lyme disease.
+    * Heart surgery.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * **Teachers & Trainers**
+You may have heart block because you were born with it. You are more at risk
+for this if:
 
-Anyone engaged in educating or training the public or the public healthcare
-workforce
+    * You have a heart defect.
+    * Your mother has an autoimmune disease, such as lupus.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * **Photo Librarians & Researchers**
+Some normal people, will have a first degree block especially at rest or when
+asleep. This most often occurs in young healthy people.
 
-Those who facilitate the flow of information between providers and users
+## Symptoms
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * **Biomedical Researchers**
+Talk to your health care provider about your symptoms. The symptoms may be
+different for first, second, and third-degree heart block.
 
-Lab researchers at all levels
+You may not have any symptoms for first-degree heart block. You may not know
+you have heart block until it shows up on a test called an electrocardiogram
+(ECG).
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * **Public Relations / Communications**
+If you have second-degree or third-degree heart block, symptoms may include:
 
-Individuals who disseminate information about public health topics and events
+    * Chest pain.
+    * Dizziness.
+    * Feeling faint or fainting.
+    * Tiredness.
+    * Heart palpitations \-- Palpitations are when your heart feels like it is pounding, beating irregularly, or racing.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * **Students**
+## Exams and Tests
 
-Those studying at the primary, secondary, undergraduate, or graduate levels
+Your provider will most likely send you to a heart doctor (cardiologist) to
+check for or further evaluate heart block.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * **Public Health Practitioners**
+The cardiologist will talk to you about your medical history and the medicines
+you are taking. The cardiologist will also:
 
-Individuals working towards promoting better health on a community and global
-scale
+    * Do a complete physical exam. The provider will check you for signs of heart failure, such as swollen ankles and feet.
+    * Do an ECG test to check the electrical signals in your heart.
+    * You may need to wear a heart monitor for 24 to 48 hours or longer to check the electrical signals in your heart. 
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * **Consumers**
+## Treatment
 
-People from all around the world
+The treatment for heart block depends on the type of heart block you have and
+the cause.
 
-home PHIL
+If you do not have serious symptoms and have a milder type of heart block, you
+may need to:
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * What's New in PHIL
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Specific Audience plus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Health Care Providers
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Public Relations / Communications
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Teachers & Trainers
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Students
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Photo Librarians & Researchers
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Public Health Practitioners
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Biomedical Researchers
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Consumers
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * FAQs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Related Links
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Contact Us
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * About
-
-Search Links
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Quick Search
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Image ID Search
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Advanced Search
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Search Tips
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * About CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Jobs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * File Viewers & Players
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Nondiscrimination
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Accessibility
-
-**CONNECT WITH CDC**  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Youtube
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Instagram
-  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
-
-U.S. Department of Health & Human Services
-
-USA.gov
-
-CDC Website Exit Disclaimer external icon
-
-#### Exit Notification/Disclaimer Policy
-
-Close
-
-**Links with this icon indicate that you are leaving the CDC website.**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
-  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
-  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
-  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
-  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
-  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
-  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
-  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
-  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
-  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
-  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
-  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
-  *[15 hrs]: Monday, April 6, 2020 at 9:38 AM
-  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
-  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
-  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
+    * Have regular checkups with your provider.
+    * Learn how to check your pulse.
+    * Be aware of your symptoms and know when to call your provider if symptoms change. 
+
+If you have second- or third-degree heart block, you may need a pacemaker to
+help your heart beat regularly.
+
+    * A pacemaker is smaller than a deck of cards and may be as small as a wristwatch. It is put inside the skin on your chest. It gives off electrical signals to make your heart beat at a regular rate and rhythm.
+    * A newer type of pacemaker is very small (about the size of 2 to 3 capsule-pills)
+    * Sometimes, if the heart block is expected to resolve in a day or so, a temporary pacemaker will be used. This type of device is not implanted in the body. Instead a wire may be inserted through a vein and directed to the heart and connected to the pacemaker. A temporary pacemaker may also be used in an emergency before a permanent pacemaker can be implanted. People with a temporary pacemaker are monitored in an intensive care unit in a hospital.
+    * Heart block caused by a heart attack or heart surgery may go away as you recover.
+    * If medicine is causing heart block, changing medicines can fix the problem. DO NOT stop or change the way you take any medicine unless your provider tells you to do so. 
+
+## Outlook (Prognosis)
+
+With regular monitoring and treatment, you should be able to keep up with most
+of your usual activities.
+
+## Possible Complications
+
+Heart block may increase the risk for:
+
+    * Other kinds of heart rhythm problems (arrhythmias), such as atrial fibrillation. Talk to your provider about symptoms of other arrhythmias.
+    * Heart attack. 
+
+If you have a pacemaker, you cannot be near strong magnetic fields. You need
+to let people know that you have a pacemaker.
+
+    * DO NOT go through the usual security station at an airport, courthouse, or other place that requires people to walk through a security screening. Tell the security personnel you have a pacemaker and ask for an alternate type of security screening.
+    * DO NOT get an MRI without telling the MRI technician about your pacemaker. 
+
+## When to Contact a Medical Professional
+
+Call your provider if you feel:
+
+    * Dizzy
+    * Weak
+    * Faint
+    * Racing heart beat
+    * Skipped heart beat
+    * Chest pain
+
+Call your provider if you have signs of heart failure:
+
+    * Weakness
+    * Swollen legs, ankles, or feet
+    * Feel short of breath
+
+## Alternative Names
+
+AV Block; Arrhythmia; First-degree heart block; Second-degree heart block;
+Mobitz type 1; Wenckebach's block; Mobitz type II; Third-degree heart block;
+Pacemaker - heart block
+
+## References
+
+Kusumoto FM, Schoenfeld MH, Barrett C, Edgerton JR, et al. 2018 ACC/AHA/HRS
+guideline on the evaluation and management of patients with bradycardia and
+cardiac conduction delay. _Circulation_. 2018: CIR0000000000000628. PMID:
+30586772 www.ncbi.nlm.nih.gov/pubmed/30586772.
+
+Olgin JE, Zipes DP. Bradyarrhythmias and atrioventricular block. In: Zipes DP,
+Libby P, Bonow RO, Mann DL, Tomaselli GF, Braunwald E, eds. _Braunwald's Heart
+Disease: A Textbook of Cardiovascular Medicine_. 11th ed. Philadelphia, PA:
+Elsevier; 2019:chap 40.
+
+Swerdlow CD, Wang PJ, Zipes DP. Pacemakers and implantable cardioverter-
+defibrillators. In: Zipes DP, Libby P, Bonow RO, Mann DL, Tomaselli GF,
+Braunwald E, eds. _Braunwald's Heart Disease: A Textbook of Cardiovascular
+Medicine_. 11th ed. Philadelphia, PA: Elsevier; 2019:chap 41.
+
+## Review Date 4/14/2019
+
+Updated by: Michael A. Chen, MD, PhD, Associate Professor of Medicine,
+Division of Cardiology, Harborview Medical Center, University of Washington
+Medical School, Seattle, WA. Also reviewed by David Zieve, MD, MHA, Medical
+Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+
+![Arrhythmia](https://medlineplus.gov/images/Arrhythmia_thumb.jpg)Arrhythmia
+_Read more_
+
+![NIH MedlinePlus
+Magazine](https://medlineplus.gov/images/ency_mag_card.jpg)NIH MedlinePlus
+Magazine _Read more_
+
+![Health Topics
+A-Z](https://medlineplus.gov/images/ency_healthtopics_card.jpg)Health Topics
+A-Z _Read more_
+
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
+
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
+
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
+
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated: 23 March 2020
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

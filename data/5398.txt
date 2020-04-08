@@ -1,230 +1,293 @@
+Link: https://medlineplus.gov/ency/article/000606.htm    
+                                Description: Oral herpes is an infection of the lips, mouth, or gums due to the herpes simplex virus. It causes small, painful blisters commonly called cold sores or fever blisters. Oral herpes is also called herpes    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search ____
+The navigation menu has been collapsed.
 
-Ã
+Menu
 
-Submit __
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Show Search
 
-For a full list of topics: A-Z Index
+Search MedlinePlus
 
-Middle East Respiratory Syndrome (MERS)
+GO
 
-Section Navigation
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-CDC Home
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Syndicate
+EspaÃ±ol
 
-# CDC Laboratory Testing for Middle East Respiratory Syndrome Coronavirus
-(MERS-CoV)
+You Are Here:
 
-Minus
+Home ->
 
-Related Pages
+Medical Encyclopedia ->
 
-CDC works closely with state and local public health departments, travel
-industry partners, and others to identify and test people who may be infected
-with MERS-CoV. CDC conducts several different laboratory tests to detect MERS-
-CoV infection.
+Herpes - oral
 
-In general, these lab tests fall into two categories:
+URL of this page: //medlineplus.gov/ency/article/000606.htm
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Molecular tests, which look for evidence of active infection; and
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Serology tests, which look for previous infection by detecting antibodies to MERS-CoV. Serology tests are for surveillance or investigational purposes and not for diagnostic purposes.
+# Herpes - oral
 
-## Molecular Tests
+To use the sharing features on this page, please enable JavaScript.
 
-Molecular tests are used to diagnose **active infection** (presence of MERS-
-CoV) in people who are thought to be infected with MERS-CoV based on their
-clinical symptoms and having links to places where MERS has been reported.
+Oral herpes is an infection of the lips, mouth, or gums due to the herpes
+simplex virus. It causes small, painful blisters commonly called cold sores or
+fever blisters. Oral herpes is also called herpes labialis.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Real-time reverse-transcription polymerase chain reaction (rRT-PCR) assays are molecular tests that can be used to detect viral RNA in clinical samples. CDC's current case definition for laboratory confirmation of MERS-CoV infection requires either a positive rRT-PCR result for at least two specific genomic targets, or a single positive target with sequencing of a second target.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Most state laboratories in the United States are approved to test for MERS-CoV by using an rRT-PCR assay developed by CDC. This test is done under authority of an Emergency Use Authorization because there are no FDA-cleared/approved tests available for this purpose in the United States.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * The success of rRT-PCR testing depends on several factors, including the experience and expertise of laboratory personnel, laboratory environment (e.g., avoidance of contamination), and the type and condition of specimens being tested. For this rRT-PCR assay, CDC recommends collecting multiple specimens, including lower (bronchalveolar lavage, sputum and tracheal aspirates) and upper (e.g., nasopharyngeal and oropharyngeal swabs) respiratory samples, serum, and stool specimens.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * CDC considers a person under investigation to be negative for active MERS-CoV infection following one negative rRT-PCR test on the recommended specimens. Since a single negative result does not completely rule out MERS-CoV infection, in some circumstances additional specimens may be tested.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * CDC considers a known MERS patient to be negative for active MERS-CoV infection following two consecutive negative rRT-PCR tests on all specimens.
+## Causes
 
-## Serology Tests
+Oral herpes is a common infection of the mouth area. It is caused by the
+herpes simplex virus type 1 (HSV-1). Most people in the United States are
+infected with this virus by age 20.
 
-Serology testing is used to detect **previous infection** (antibodies to MERS-
-CoV) in people who may have been exposed to the virus. Antibodies are proteins
-produced by the body's immune system to attack and kill viruses, bacteria, and
-other microbes during infection. The presence of antibodies to MERS-CoV
-indicates that a person had been previously infected with the virus and
-developed an immune response.
+After the first infection, the virus goes to sleep (becomes dormant) in the
+nerve tissues in the face. Sometimes, the virus later wakes up (reactivates),
+causing cold sores.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Evidence to date suggests there may be a broader range of MERS disease than was initially thought. For example, public health investigators have identified individuals who are PCR-positive but have no MERS symptoms; we do not know if MERS-CoV can be spread by these people. For this reason, public health scientists are working to learn more about how the virus is transmitted. One way to do this is through voluntary testing of blood samples from people who had close contact with people known to have MERS.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * CDC has a two-phase approach for serology testing, using two screening tests and one confirmatory test to detect antibodies to MERS-CoV. 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * ELISA, or enzyme-linked immunosorbent assay, is a screening test used to detect the presence and concentration of specific antibodies that bind to a viral protein. CDC tests by ELISAS for antibodies against two different MERS-CoV proteins, the nucleocapsid (N) and spike (S). 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * If a clinical sample is determined to be antibody-positive by either ELISA, CDC then uses the microneutralization test to confirm the positive result.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * The microneutralization assay is a highly specific confirmatory test used to measure neutralizing antibodies, or antibodies that can neutralize virus. This method is considered a gold standard for detection of specific antibodies in serum samples. However, compared with the ELISA, the microneutralization assay is labor-intensive and time-consuming, requiring at least 5 days before results are available. 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * If a clinical sample is positive by either ELISA, and positive by microneutralization, the specimen is determined to be confirmed positive.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * If a clinical sample is positive by both ELISAs, and negative by microneutralization, the sample is determined to be indeterminate.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * If a clinical sample is positive by only one ELISA, and negative by microneutralization, the sample is determined to be negative.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * If a clinical sample is negative by both ELISAS, the sample is determined negative.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * In the end, a final determination of a confirmed positive serology result requires a positive ELISA test and confirmation by microneutralization assay.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * MERS-CoV serology tests are for surveillance or investigational purposes and not for diagnostic purposes--they are tools developed in response to the MERS-CoV outbreak.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Information is limited about MERS-CoV and how the virus is spread. As public health scientists learn more about MERS-CoV, the approach to conducting these types of laboratory tests might change.
+Herpes virus type 2 (HSV-2) most often causes genital herpes. However,
+sometimes HSV-2 is spread to the mouth during oral sex, causing oral herpes.
 
- Top of Page
+Herpes viruses spread most easily from individuals with an active outbreak or
+sore. You can catch this virus if you:
 
-Page last reviewed: August 2, 2019
+    * Have intimate or personal contact with someone who is infected
+    * Touch an open herpes sore or something that has been in contact with the herpes virus, such as infected razors, towels, dishes, and other shared items
 
-Content source: National Center for Immunization and Respiratory Diseases
-(NCIRD), Division of Viral Diseases
+Parents may spread the virus to their children during regular daily
+activities.
 
-home MERS Home
+## Symptoms
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * About MERS expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Symptoms & Complications
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Transmission
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Prevention & Treatment
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * People at Increased Risk for MERS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * FAQs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * MERS in the U.S.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Healthcare Professionals expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Interim Guidance for Health Professionals
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Clinical Features
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Preparedness expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Healthcare Provider Checklist
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Healthcare Facility Checklist
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Infection Prevention and Control
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Monitoring and Movement Guidance
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Home Care and Isolation or Quarantine expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Prevent Spreading in Homes and Communities
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Air Transport
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Laboratories expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Laboratory Testing for MERS-CoV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Guidelines for Clinical Specimens
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Lab Biosafety Guidelines
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Guidance for Travel
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Related Materials expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Photos
+Some people get mouth ulcers when they first come into contact with HSV-1
+virus. Others have no symptoms. Symptoms most often occur in kids between 1
+and 5 years old.
 
-Related Links
+Symptoms may be mild or severe. They most often appear within 1 to 3 weeks
+after you come into contact with the virus. They may last up to 3 weeks.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Coronavirus
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * SARS
+Warning symptoms include:
 
-**HAVE QUESTIONS?**
+    * Itching of the lips or skin around the mouth
+    * Burning near the lips or mouth area
+    * Tingling near the lips or mouth area 
 
-Visit CDC-INFO
+Before blisters appear, you may have:
 
-Call 800-232-4636
+    * Sore throat
+    * Fever
+    * Swollen glands
+    * Painful swallowing 
 
-Email CDC-INFO
+Blisters or a rash may form on your:
 
-Open 24/7
+    * Gums
+    * Lips
+    * Mouth
+    * Throat 
 
-**CDC INFORMATION**
+Many blisters are called an outbreak. You may have:
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * About CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Jobs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * File Viewers & Players
+    * Red blisters that break open and leak
+    * Small blisters filled with clear yellowish fluid
+    * Several smaller blisters that may grow together into a large blister
+    * Yellow and crusty blister as it heals, which eventually turns into pink skin 
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Nondiscrimination
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Accessibility
+Symptoms may be triggered by:
 
-**CONNECT WITH CDC**  
+    * Menstruation or hormone changes
+    * Being out in the sun
+    * Fever
+    * Stress 
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Youtube
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Instagram
-  
+If the symptoms return later, they are usually more mild in most cases.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Email
+## Exams and Tests
 
-U.S. Department of Health & Human Services
+Your health care provider can diagnose oral herpes by looking at your mouth
+area. Sometimes, a sample of the sore is taken and sent to a laboratory for
+closer examination. Tests may include:
 
-USA.gov
+    * Viral culture
+    * Viral DNA test
+    * Tzanck test to check for HSV 
 
-CDC Website Exit Disclaimer external icon
+## Treatment
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Email
+Symptoms may go away on their own without treatment in 1 to 2 weeks.
 
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+Your provider can prescribe medicines to fight the virus. This is called
+antiviral medicine. It can help reduce pain and make your symptoms go away
+sooner. Medicines used to treat mouth sores include:
 
-SAS stats
+    * Acyclovir
+    * Famciclovir
+    * Valacyclovir 
 
-#### Exit Notification/Disclaimer Policy
+These medicines work best if you take them when you have warning signs of a
+mouth sore, before any blisters develop. If you get mouth sores frequently,
+you may need to take these medicines all the time.
 
-Close
+    * Antiviral skin creams may also be used. However, they are expensive and often only shorten the outbreak by a few hours to a day. 
 
-**Links with this icon indicate that you are leaving the CDC website.**
+The following steps can also help make you feel better:
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
+    * Apply ice or a warm washcloth to the sores to help ease pain.
+    * Wash the blisters gently with germ-fighting (antiseptic) soap and water. This helps prevent spreading the virus to other body areas.
+    * Avoid hot beverages, spicy and salty foods, and citrus.
+    * Gargle with cool water or eat popsicles.
+    * Rinse with salt water.
+    * Take a pain reliever such as acetaminophen (Tylenol). 
 
-Cancel Continue
+## Outlook (Prognosis)
 
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
-  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
-  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
-  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
-  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
-  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
-  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
-  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
-  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
-  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
-  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
-  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
-  *[15 hrs]: Monday, April 6, 2020 at 9:38 AM
-  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
-  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
-  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
-  *[10 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[]: You have unseen notifications
-  *[April 3 at 5:08 AM]: Friday, April 3, 2020 at 5:08 AM
-  *[April 1 at 8:09 AM]: Wednesday, April 1, 2020 at 8:09 AM
+Oral herpes most often goes away by itself in 1 to 2 weeks. However, it may
+come back.
+
+Herpes infection may be severe and dangerous if:
+
+    * It occurs in or near the eye.
+    * You have a weakened immune system due to certain diseases and medicines.
+
+## Possible Complications
+
+Herpes infection of the eye is a leading cause of blindness in the United
+States. It causes scarring of the cornea.
+
+Other complications of oral herpes may include:
+
+    * Return of mouth sores and blisters
+    * Spread of the virus to other skin areas
+    * Bacterial skin infection
+    * Widespread body infection, which may be life threatening in people who have a weakened immune system due to atopic dermatitis, cancer, or HIV infection
+
+## When to Contact a Medical Professional
+
+Call your provider if you have:
+
+    * Symptoms that are severe or that don't go away after 2 weeks
+    * Sores or blisters near your eyes
+    * Herpes symptoms and a weakened immune system due to certain diseases or medicines 
+
+## Prevention
+
+Here are some tips to prevent mouth sores:
+
+    * Apply sunblock or lip balm containing zinc oxide to your lips before you go outside.
+    * Apply a moisturizing balm to prevent the lips from becoming too dry.
+    * Avoid direct contact with herpes sores.
+    * Wash items such as towels and linens in boiling hot water after each use.
+    * Do not share utensils, straws, glasses, or other items if someone has oral herpes. 
+
+Do not have oral sex if you have oral herpes, especially if you have blisters.
+You can spread the virus to the genitals. Both oral and genital herpes viruses
+can sometimes be spread, even when you do not have mouth sores or blisters.
+
+## Alternative Names
+
+Cold sore; Fever blister; Oral herpes simplex; Herpes labialis; Herpes simplex
+
+## Images
+
+    * ![Herpes simplex - close-up](//medlineplus.gov/ency/images/ency/tnails/2161t.jpg)Herpes simplex - close-up
+
+## References
+
+Habif TP. Warts, herpes simplex, and other viral infections. In: Habif TP, ed.
+_Clinical Dermatology_. 6th ed. Philadelphia, PA: Elsevier; 2016:chap 12.
+
+Hupp WS. Diseases of the mouth. In: Kellerman RD, Rakel DP, eds. _Conn's
+Current Therapy 2019_. Philadelphia, PA: Elsevier; 2019:969-975.
+
+Lingen MW. Head and neck. In: Kumar V, Abbas AK, Aster JC, eds. _Robbins and
+Cotran Pathologic Basis of Disease_. 9th ed. Philadelphia, PA: Elsevier
+Saunders; 2015:chap 16.
+
+Whitley RJ, Gnann JW. Herpes simplex virus infections. In: Goldman L, Schafer
+AI, eds. _Goldman-Cecil Medicine_. 26th ed. Philadelphia, PA: Elsevier;
+2020:chap 350.
+
+## Review Date 7/11/2019
+
+Updated by: Linda J. Vorvick, MD, Clinical Associate Professor, Department of
+Family Medicine, UW Medicine, School of Medicine, University of Washington,
+Seattle, WA. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda
+Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+
+![Cold Sores](https://medlineplus.gov/images/ColdSores_thumb.jpg)Cold Sores
+_Read more_
+
+![NIH MedlinePlus
+Magazine](https://medlineplus.gov/images/ency_mag_card.jpg)NIH MedlinePlus
+Magazine _Read more_
+
+![Health Topics
+A-Z](https://medlineplus.gov/images/ency_healthtopics_card.jpg)Health Topics
+A-Z _Read more_
+
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
+
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
+
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
+
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated: 23 March 2020
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

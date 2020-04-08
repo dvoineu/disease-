@@ -1,849 +1,354 @@
+Link: https://medlineplus.gov/alcoholusedisorderaud.html    
+                                Description: An alcohol use disorder (AUD) is drinking that causes distress and harm. AUD can range from mild to severe (alcoholism). Learn the signs that you may have a problem with drinking.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link Skip directly to A-Z link Skip directly to A-Z link
-
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
-
-Search ____
-
-Ã
-
-Submit __
-
-For a full list of topics: A-Z Index
-
-_Salmonella_
-
-Section Navigation
-
-CDC Home
-
-                    * Facebook
-                    * Twitter
-                    * LinkedIn
-                    * Email
-                    * Syndicate
-
-# Human _Salmonella_ Typhimurium Infections Associated with Exposure to
-Clinical and Teaching Microbiology Laboratories (Final Update)
-
-Minus
-
-Related Pages
-
-NOTICE: This outbreak is over. The information on this page has been archived
-for historical purposes only and will not be updated.
-
-Posted January 17, 2012
-
-### Outbreak Summary
-
-On October 30, 2010, PulseNet, the national molecular subtyping network for
-foodborne disease surveillance, detected a multistate cluster of _Salmonella_
-Typhimurium infections with a particular pulsed-field gel electrophoresis
-(PFGE) pattern and other genetic characteristics, referred to here as strain
-X. In December, the New Mexico Department of Health identified 3 ill persons
-infected with strain X. One was a student and the 2 others were children of
-students in microbiology courses held at two different community college
-campuses. CDC collaborated with public health officials in several states to
-investigate this multistate cluster of _Salmonella_ Typhimurium infections
-associated with exposure to clinical and teaching microbiology laboratories.
-Investigators used DNA analysis of _Salmonella_ bacteria obtained through
-diagnostic testing to identify cases of illness that might be related.
-
-Between August 20, 2010 and June 29, 2011, a total of 109 individuals infected
-with strain X of _Salmonella_ Typhimurium were reported from 38 states: AK
-(2), AL (4), AZ (4), CA (3), CO (1), FL (1), GA (6), IA (1), ID (2), IL (4),
-IN (2), KS (4), KY (4), MA (4), MD (3), MI (3), MN (9), MO (2), NC (1), ND
-(1), NE (2), NH (1), NJ (3), NM (3), NV (1), NY (4), OH (3), OK (1), OR (1),
-PA (9), SC (2), SD (1), TN (2), TX (1), UT (4), WA (5), WI (4), and WY (1).
-Among persons with available information, illness onset dates range from
-August 20, 2010 to June 14, 2011, 2011. Infected individuals ranged in age
-from less than 1 year to 91 years old, and the median age was 21 years. Sixty-
-one percent of patients were female. Twelve percent of patients were
-hospitalized. One death was reported.
-
-The timeline of infections can be visually described with a chart showing the
-number of persons who became ill each day. This chart is called an epidemic
-curve or epi curve. Please see the Timeline for Reporting Cases of
-_Salmonella_ Infection for more details. The expected baseline for strain X in
-PulseNet is approximately 0 to 4 cases reported per week. Beyond these cases,
-_Salmonella_ is an important cause of human illness in the United States.
-
-### Investigation of the Outbreak
-
-In an epidemiologic study conducted during February and March 2011, 32 ill
-persons answered questions about exposures during the days before becoming
-ill. Investigators compared their responses with those of 64 persons of
-similar age previously reported to state health departments with other
-illnesses (controls). Preliminary analysis of this study suggested that
-exposure to clinical and teaching microbiology laboratories was a possible
-source of illness. Illnesses were identified among students in microbiology
-teaching laboratories and employees in clinical microbiology laboratories. Ill
-persons (60%) were significantly more likely than control persons (2%) to
-report exposure to a microbiology laboratory in the week before illness began.
-Additionally, multiple ill persons reported working specifically with
-_Salmonella_ bacteria in microbiology laboratories. The New Mexico Department
-of Health found that the strain isolated from patients was indistinguishable
-by PFGE pattern from a commercially available _Salmonella_ Typhimurium strain
-used in laboratory settings. This commercially available strain was known to
-be present in several teaching or clinical laboratories associated with ill
-students or employees infected with the outbreak strain. These data suggest
-this strain was the source of some of these illnesses. Additionally, several
-children who live in households with a person who worked or studied in a
-microbiology laboratory became ill with the outbreak strain.
-
-The investigation then focused on potential risk factors in microbiology
-laboratories that work with infectious agents like strain X of _Salmonella_
-Typhimurium. CDC collaborated with state and local health departments, the
-American Society for MicrobiologyExternal , and the Association of Public
-Health LaboratoriesExternal to conduct a survey to identify areas where
-improvements in biosafety and laboratory safety training can be made to
-prevent future illnesses. The survey was conducted with two groups in May
-2011: staff from laboratories that had been associated with illness, and staff
-from laboratories that were not associated with illness.
-
-Laboratory practices and settings appear to be largely similar across both
-groups, but several differences were found. Staff working at laboratories that
-were associated with illness were less likely to have knowledge of biosafety
-training materials. In comparison, staff working in laboratories that were not
-associated with illness were more likely to train students and staff on the
-signs and symptoms of infection with _Salmonella_ when conducting safety
-training. Similar safety policies were in place across the different
-laboratories. However, some policies appeared to be more difficult to monitor
-and enforce, such as not allowing the use of handheld devices (e.g., cell
-phones or music players) at the laboratory work space.
-
-Findings of this survey indicate that teaching and clinical microbiology
-laboratory instructors should enhance training of students and staff on
-biosafety measures necessary in the laboratory. For more specific information,
-see the Biosafety in Microbiological and Biomedical Laboratories manual, the
-Guidelines for Biosafety Laboratory Competency MMWR Supplement, or the
-Guidelines for Safe Work Practices in Human and Animal Medical Diagnostic
-Laboratories MMWR Supplement.
-
-### Clinical Features/Signs and Symptoms
-
-Most persons infected with _Salmonella_ develop diarrhea, fever, and abdominal
-cramps 12 to 72 hours after infection. The illness usually lasts 4 to 7 days,
-and most persons recover without treatment. However, in some persons, the
-diarrhea may be so severe that the patient needs to be hospitalized.
-_Salmonella_ infection may spread from the intestines to the blood stream, and
-then to other body sites and can cause death unless the person is treated
-promptly with antibiotics. The elderly, infants, and those with impaired
-immune systems are more likely to have a severe illness from _Salmonella_
-infection.
-
-### Advice to Students and Employees in Clinical and Teaching Microbiology
-Laboratories
-
-                    * Be aware that bacteria used in microbiology laboratories can make you or others who live in your household sick, especially young children, even if they have never visited the laboratory. 
-                      * If you work in a laboratory, it is possible for you to bring bacteria home through contaminated lab coats, pens, notebooks, and other items that you use in the microbiology laboratory.
-                      * Avoid taking laboratory supplies outside of the laboratory to limit contamination.
-                    * Persons working with any infectious agents, including _Salmonella_ bacteria, must be aware of potential hazards, and must be trained and proficient in biosafety practices and techniques required for handling such agents safely, in particular, to: 
-                      * Wash hands frequently while working in and immediately before leaving the microbiology laboratory and follow proper hand washing practices. This is especially important to do before preparing food or baby bottles, before eating and before contact with young children.
-                      * Leave food, drinks or personal items like car keys, cell phones and mp3 players outside of the laboratory. These items may become contaminated if you bring them into the laboratory or touch them while working in the laboratory.
-                    * Wear a lab coat or other protective garment over personal clothing when working in a microbiology laboratory. Remove protective garment before leaving for non-laboratory areas (e.g., cafeteria, library, or administrative offices). Dispose of protective garment appropriately or deposit it for laundering. Lab coats should be removed from the laboratory only when they are to be laundered by the institution.
-                    * If you work with _Salmonella_ bacteria in a microbiology laboratory, be aware that these bacteria can make you sick. Watch for symptoms of _Salmonella_ infection, such as diarrhea, fever, and abdominal cramps. Call your health care provider if you or a family member has any of these symptoms.
-
-### Advice to Laboratory Directors, Managers, and Faculty Involved with
-Clinical and Teaching Microbiology Laboratories
-
-                    * A comprehensive set of biosafety guidelines for work with _Salmonella_ and other similar human pathogens can be found in the Biosafety Level 2 section of the CDC/NIH Biosafety in Microbiological and Biomedical Laboratories manual, the Guidelines for Safe Work Practices in Human and Animal Medical Diagnostic Laboratories MMWR Supplement, and the Guidelines for Biosafety Laboratory Competency MMWR Supplement.
-                    * Either non-pathogenic or attenuated bacterial strains should be used when possible, especially in teaching laboratories. This practice will help reduce the risk of students and/or their family members becoming ill.
-                    * Persons working with infectious agents, including _Salmonella_ bacteria, must be aware of potential hazards and trained and proficient in the practices and techniques required for handling such agents safely.
-                    * Advise all persons working in the laboratory to watch for symptoms of _Salmonella_ infection, such as diarrhea, fever, and abdominal cramps, and to call their health care provider if they or a family member have any of these symptoms.
-                    * All students and employees using the laboratory should be trained in biosafety practices.
-                    * Ensure that handwashing sinks have soap and paper towels. Require students and employees to wash their hands before leaving the laboratory.
-                    * Do not allow lab coats to leave the microbiology laboratory, except to be cleaned by the institution.
-                    * Do not allow food, drinks or personal items like car keys, cell phones and mp3 players to be used while working in the laboratory or placed on laboratory work surfaces.
-                    * Provide students with dedicated writing utensils, paper, and other supplies at each laboratory station. These items should not be allowed to leave the laboratory.
-
-### Key Resources
-
-                    * Guidelines for Biosafety Laboratory Competency, MMWR Supplement
-                    * Guidelines for Safe Work Practices in Human and Animal Medical Diagnostic Laboratories
-                    * Biosafety in Microbiological and Biomedical Laboratories (BMBL) 5th Edition
-                    * Hand Hygiene in Healthcare Settings
-                    * Handwashing: Hand Hygiene Saves Lives
-
-### Final Case Count Map
-
-#### Persons infected with the outbreak strain of _Salmonella_ Typhimurium, by
-state, as of June 29, 2011 (n=109)
-
-![Final Case Count Map: Persons infected with the outbreak strain of
-Salmonella Typhimurium, by state, as of June 29,
-2011](/salmonella/2011/images/lab-011712-map.jpg)
-
-Between August 20, 2010 and June 29, 2011, a total of 109 individuals infected
-with strain X of _Salmonella_ Typhimurium were reported from 38 states: AK
-(2), AL (4), AZ (4), CA (3), CO (1), FL (1), GA (6), IA (1), ID (2), IL (4),
-IN (2), KS (4), KY (4), MA (4), MD (3), MI (3), MN (9), MO (2), NC (1), ND
-(1), NE (2), NH (1), NJ (3), NM (3), NV (1), NY (4), OH (3), OK (1), OR (1),
-PA (9), SC (2), SD (1), TN (2), TX (1), UT (4), WA (5), WI (4), and WY (1).
-
-### Final Epi Curve
-
-#### Persons infected with the laboratory strain of _Salmonella_ Typhimurium,
-by month of illness onset*
-
-![Final Epi Curve: Persons infected with the laboratory strain of Salmonella
-Typhimurium, by month of illness
-onset](/salmonella/2011/images/lab-011712-epi.jpg)
-
-*n=99 for whom information was available as of June 29, 2011. Onset data not currently available for all persons with reported illness.
-
-Page last reviewed: January 11, 2012
-
-Content source: Centers for Disease Control and Prevention, National Center
-for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of Foodborne,
-Waterborne, and Environmental Diseases (DFWED)
-
-home _Salmonella_ Homepage
-
-                    * Questions & Answersplus icon
-                      * Additional Information
-                    * Prevention
-                    * Symptoms
-                    * Diagnosis & Treatmentplus icon
-                      * Diagnostic and Public Health Testing
-                    * Current Outbreaksplus icon
-                      * Reporting Timeline
-                      * _Salmonella_ Infections Linked to Small Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tortugas mascota pequeÃ±as
-                      * _Salmonella_ Infections Linked to Cut Fruitplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Ground Beefplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a la carne de res molida
-                      * _Salmonella_ Infections Linked to Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a turtugas mascota
-                      * _Salmonella_ Infections Linked to Pig Ear Dog Treatsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Papayasplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a papayas frescas enteras importadas de MÃ©xico
-                      * _Salmonella_ Infections Linked to Karawan brand Tahiniplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tahini de la marca Karawan
-                      * _Salmonella_ Infections Linked to Backyard Poultryplus icon
-                        * Map of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brotes de infecciones por _Salmonella_ vinculados a aves de corral domÃ©sticas
-                      * _Salmonella_ Infections Linked to Frozen Raw Tunaplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Newport vinculado a atÃºn crudo congelado
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                      * _Salmonella_ Infections Linked to Pre-Cut Melonplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Carrau vinculado a melÃ³n y sandÃ­a precortados
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                      * _Salmonella_ Infections Linked to Butterball Brand Ground Turkeyplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado al pavo molido de marca Butterball
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones de la investigaciÃ³n del brote, por fecha
-                      * _Salmonella_ Infections Linked to Pet Hedgehogsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a los erizos como mascota
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                    * Previous Outbreaksplus icon
-                      * 2018 Outbreaksplus icon
-                        * Multidrug-Resistant _Salmonella_ Infections Linked to Raw Turkey Productsplus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pavo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Tahini from Achdut Ltd., 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a tahini elaborado por Achdut Ltd.
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Raw Chicken Products, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Advice to Clinicians
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pollo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Recomendaciones para los mÃ©dicos
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Ground Beef, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a carne molida de res
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Agbeni Infections, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Gravel Ridge Farms Shell Eggs, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Chicken, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Hy-Vee Spring Pasta Salad, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella vinculado a la ensalada de pasta âHy-Vee Spring Pasta Saladâ
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Kelloggâs Honey Smacks Cereal, 2018plus icon
-                          * Salmonella Infections Linked to Kelloggâs Honey Smacks Cereal en EspaÃ±ol
-                          * Recall and Advice to Consumers, Restaurants and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pre-Cut Melon, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pre-Cut Melon en EspaÃ±ol
-                          * Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks, 2018plus icon
-                          * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Braenderup Infections Linked to Shell Eggs, 2018plus icon
-                          * _Salmonella_ Braenderup Infections Linked to Shell Eggs en EspaÃ±ol
-                          * Recalls and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Dried Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Dried Coconut en EspaÃ±ol
-                          * Recall and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Guinea Pigs, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pet Guinea Pigs en EspaÃ±ol
-                          * Case Count Maps
-                          * Case Count Maps en EspaÃ±ol
-                          * Signs & Symptoms
-                          * Signs & Symptoms en EspaÃ±ol
-                        * _Salmonella_ Infections Linked to Chicken Salad, 2018plus icon
-                          * _Salmonella_ Infections Linked to Chicken Salad en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Kratom, 2018plus icon
-                          * _Salmonella_ Infections Linked to Kratom en EspaÃ±ol
-                          * Recalls and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo Infections Linked to Raw Sprouts, 2018plus icon
-                          * _Salmonella_ Infections Linked to Raw Sprouts en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Shredded Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut en EspaÃ±ol
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut á» Viá»t Nam [PDF â 3 pages]
-                          * Recall and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2017 Outbreaksplus icon
-                        * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Turtles, 2017plus icon
-                          * _Salmonella_ Infections Linked to Small Turtles, 2017 en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Laboratory Exposure, 2017plus icon
-                          * Advice to Students & Employees in Microbiology Laboratories
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry in Backyard Flocksplus icon
-                          * Case Count Maps
-                          * Live Poultry FAQ
-                      * 2016 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Contact with Dairy Calves, 2016plus icon
-                          * Case Count Maps
-                          * Epi Curves
-                        * _Salmonella_ Oranienburg Infections Linked to Shell Eggs, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Reading and _Salmonella_ Abony Infections linked to Alfalfa Sprouts, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps 
-                          * Epi Curves 
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2016plus icon
-                          * Advice to Consumers and Retailers
-                          * Live Poultry FAQs
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo and _Salmonella_ Senftenberg Infections Linked to Wonderful Pistachios, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Alfalfa Sprouts from One Contaminated Seed Lot, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Virchow Infections Linked to Raw Meal Organic Shake and Meal Products, 2016plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2015 Outbreaksplus icon
-                        * _Salmonella_ Paratyphi B variant L(+) tartrate(+) Infections Linked to Sprouted Nut Butter Spreads, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2015plus icon
-                          * Human _Salmonella_ Infections Linked to Small Turtles en EspaÃ±ol
-                          * Advice to Pet Owners
-                          * Advice to Pet Owners en EspaÃ±ol
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * _Salmonella_ Poona Infections Linked to Imported Cucumbers, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Multidrug-Resistant _Salmonella_ I 4,[5],12:i:- and _Salmonella_ Infantis Infections Linked to Pork, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Aspen Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Drug-Resistant _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Barber Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2015plus icon
-                          * Advice to Backyard Flock Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Raw Tuna, 2015plus icon
-                          * Advice to Retailers & Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Crested Geckos, 2015plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2014 Outbreaksplus icon
-                        * Enteritidis Infections Linked to Bean Sprouts, 2014plus icon
-                          * Advice to Consumers & Retailers
-                          * Final Case Count Maps
-                          * Final Epi Curve
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Linked to Nut Butter, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human Typhimurium Infections Linked to Laboratory Exposure, 2014plus icon
-                          * Advice to Students & Employees in Labs
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Chia Powder, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Frozen Feeder Rodents, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Bearded Dragons, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Heidelberg Infections Linked to Tyson Brand Mechanically Separated Chicken, 2014plus icon
-                          * Recall & Advice to Institutions
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Stanley Infections Linked to Raw Cashew Cheese, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2013 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Foster Farms Brand Chicken, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * _Salmonella_ Mbandaka Infections Linked to Tahini Sesame Paste, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Live Poultry in Backyard Flocks, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Saintpaul Infections Linked to Imported Cucumbers, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Heidelberg Infections Linked to Chicken, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Typhimurium Infections Linked to Ground Beef, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2012 Outbreaksplus icon
-                        * Bredeney Infections Linked to Peanut Butter, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Hedgehogs, 2012plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Associated with Mangoes, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Typhimurium and Newport Infections Linked to Cantaloupe, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Enteritidis Infections Linked to Ground Beef, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Hadar Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Montevideo Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infantis Infections Linked to Dry Dog Food, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Information for Pet Owners
-                          * Information for Veterinarians
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Bareilly and Nchanga Infections Associated with a Raw Scraped Ground Tuna Product, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Outbreaks Diagram
-                          * Signs & Symptoms
-                          * Key Resource
-                        * Enteritidis Infections Linked to Restaurant Chain A, 2012
-                      * 2010 through 2011 Outbreaksplus icon
-                        * Typhimurium Infections Linked to Ground Beef
-                        * Heidelberg Infections Linked to Kosher Broiled Chicken Livers
-                        * Enteritidis Infections Linked to Turkish Pine Nuts
-                        * Heidelberg Infections Linked to Ground Turkey
-                        * Agona Infections Linked to Whole, Fresh Imported Papayas
-                        * Enteritidis Infections Linked to Alfalfa Sprouts and Spicy Sprouts
-                        * Altona and Johannesburg Infections Linked to Chicks and Ducklings
-                        * Typhimurium Infections Associated with Lab Exposure
-                        * Typhimurium Infections Linked to African Dwarf Frogs
-                        * Hadar Infections Associated with Turkey Burgers
-                        * Panama Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Alfalfa Sprouts
-                        * Enteritidis Infections Associated with Shell Eggs
-                        * Chester Infections Associated with Cheesy Chicken & Rice Frozen EntrÃ©e
-                        * Typhi (Typhoid Fever) Associated with Frozen Mamey Fruit Pulp
-                        * Hartford and Baildon Infections Associated with Restaurant Chain A
-                        * I 4,[5],12:i:- Linked to Frozen Rodents
-                        * Newport Infections Linked to Alfalfa Sprouts
-                        * Montevideo Infections Linked to Red and Black Pepper/Italian-Style Meats
-                      * 2006 through 2009 Outbreaksplus icon
-                        * Saintpaul Infections Linked to Alfalfa Sprouts
-                        * _Salmonella_ Infections Linked to Pistachio Nuts
-                        * Typhimurium Infections Linked to Peanut Butter
-                        * Saintpaul Infections Linked to Raw Produce
-                        * Agona Infections Linked to Rice & Wheat Puff Cereal
-                        * Litchfield Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Pot Pies
-                        * Human Schwarzengrund Infections Linked to Dry Pet Food
-                        * Wandsworth Infections Linked to Veggie Booty
-                        * Tennessee Infections Linked to Peanut Butter
-                        * Typhimurium Infections Linked to Tomatoes
-                    * For Health Professionals
-                    * Surveillanceplus icon
-                      * _Salmonella_ Atlasplus icon
-                        * 32 Individual Serotypes Reports
-                        * Importance of Serotyping
-                        * Snapshots of Serotypes
-                    * Communication Materials
-                    * Reports & Publicationsplus icon
-                      * MMWR Articles
-                      * References
-
-Related Links
-
-                    * Multistate Foodborne Outbreaks
-                    * Zoonotic Diseases (Diseases from Animals)
-                    * Foodborne Illness A-Z
-                    * Estimates of Foodborne Illness
-                    * Report a Foodborne Illness
-                    * Foodsafety.govExternal file_external 
-                    * U.S. Food and Drug Administration (FDA)External file_external 
-                    * USDA Food Safety and Inspection ServiceExternal file_external 
-
-Follow Salmonella
-
-![Sign up for RSS feed.](/salmonella/images/outbreaks/rss-icon.png)
-
-Sign up for RSS Feed
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-                    * About CDC
-                    * Jobs
-                    * Funding
-                    * Policies
-                    * File Viewers & Players
-
-                    * Privacy
-                    * FOIA
-                    * No Fear Act
-                    * OIG
-                    * Nondiscrimination
-                    * Accessibility
-
-**CONNECT WITH CDC**  
-
-                    * Facebook
-                    * Twitter
-                    * Youtube
-                    * Instagram
-  
-
-                    * Syndicate
-                    * CDC TV
-                    * RSS
-                    * Email
-
-U.S. Department of Health & Human Services
-
-USA.gov
-
-CDC Website Exit Disclaimer external icon
-
-                    * Facebook
-                    * Twitter
-                    * LinkedIn
-                    * Email
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-file_external
-
-#### Exit Notification/Disclaimer Policy
-
-Close
-
-**Links with this icon indicate that you are leaving the CDC website.**
-
-                    * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                    * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                    * You will be subject to the destination website's privacy policy when you follow the link.
-                    * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
+
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
+
+Menu
+
+  * Health Topics
+  * Drugs & Supplements
+  * Videos & Tools
+  * About MedlinePlus
+
+Search
+
+Search MedlinePlus
+
+GO
+
+  * About MedlinePlus
+  * What's New
+  * Site Map
+  * Customer Support
+
+  * Health Topics
+  * Drugs & Supplements
+  * Videos & Tools
+
+EspaÃ±ol
+
+You Are Here:
+
+Home ->
+
+Health Topics ->
+
+Alcohol Use Disorder (AUD)
+
+URL of this page: https://medlineplus.gov/alcoholusedisorderaud.html
+
+#  Alcohol Use Disorder (AUD)
+
+Also called: Alcohol Abuse, Alcohol dependence, Alcoholism
+
+On this page
+
+### Basics
+
+  * Summary
+  * Start Here
+  * Symptoms
+  * Diagnosis and Tests
+  * Prevention and Risk Factors
+  * Treatments and Therapies
+
+### Learn More
+
+  * Living With
+  * Related Issues
+  * Genetics
+
+### See, Play and Learn
+
+  * Health Check Tools
+
+### Research
+
+  * Statistics and Research
+  * Clinical Trials
+  * Journal Articles
+
+### Resources
+
+  * Find an Expert
+
+### For You
+
+  * Teenagers
+  * Men
+  * Women
+  * Older Adults
+  * Patient Handouts
+
+## Summary
+
+### What is alcohol use disorder (AUD)?
+
+For most adults, moderate alcohol use is probably not harmful. However, about
+18 million adult Americans have an alcohol use disorder (AUD). This means that
+their drinking causes distress and harm. AUD can range from mild to severe,
+depending on the symptoms. Severe AUD is sometimes called alcoholism or
+alcohol dependence.
+
+AUD is a disease that causes
+
+  * Craving - a strong need to drink
+  * Loss of control - not being able to stop drinking once you've started
+  * Negative emotional state - feeling anxious and irritable when you are not drinking
+
+### What is binge drinking?
+
+Binge drinking is drinking so much at once that your blood alcohol
+concentration (BAC) level is 0.08% or more. For a man, this usually happens
+after having 5 or more drinks within a few hours. For a woman, it is after
+about 4 or more drinks within a few hours. Not everyone who binge drinks has
+an AUD, but they are at higher risk for getting one.
+
+### What are the dangers of too much alcohol?
+
+Too much alcohol is dangerous. Heavy drinking can increase the risk of certain
+cancers. It may lead to liver diseases, such as fatty liver disease and
+cirrhosis. It can also cause damage to the brain and other organs. Drinking
+during pregnancy can harm your baby. Alcohol also increases the risk of death
+from car crashes, injuries, homicide, and suicide.
+
+### How do I know if I have an alcohol use disorder (AUD)?
+
+You may have an AUD if you can answer yes to two or more of these questions:
+
+In the past year, have you
+
+  * Ended up drinking more or for a longer time than you had planned to?
+  * Wanted to cut down or stop drinking, or tried to, but couldn't?
+  * Spent a lot of your time drinking or recovering from drinking?
+  * Felt a strong need to drink?
+  * Found that drinking - or being sick from drinking - often interfered with your family life, job, or school?
+  * Kept drinking even though it was causing trouble with your family or friends?
+  * Given up or cut back on activities that you enjoyed just so you could drink?
+  * Gotten into dangerous situations while drinking or after drinking? Some examples are driving drunk and having unsafe sex.
+  * Kept drinking even though it was making you feel depressed or anxious? Or when it was adding to another health problem?
+  * Had to drink more and more to feel the effects of the alcohol?
+  * Had withdrawal symptoms when the alcohol was wearing off? They include trouble sleeping, shakiness, irritability, anxiety, depression, restlessness, nausea, and sweating. In severe cases, you could have a fever, seizures, or hallucinations.
+
+If you have any of these symptoms, your drinking may already be a cause for
+concern. The more symptoms you have, the more serious the problem is.
+
+### What should I do if I think that I might have an alcohol use disorder
+(AUD)?
+
+If you think you might have an AUD, see your health care provider for an
+evaluation. Your provider can help make a treatment plan, prescribe medicines,
+and if needed, give you treatment referrals.
+
+NIH: National Institute on Alcohol Abuse and Alcoholism
+
+## Start Here
+
+  * Alcohol Use Disorder ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institute on Alcohol Abuse and Alcoholism)
+  * Drinking to Excess: Recognize and Treat Alcohol Problems ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institutes of Health) Also in Spanish
+  * Faces of Change: Do I Have a Problem with Alcohol or Drugs? (Substance Abuse and Mental Health Services Administration) \- PDF
+  * Rethinking Drinking: Questions and Answers ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institute on Alcohol Abuse and Alcoholism)
+
+## Symptoms
+
+  * What Are Symptoms of Alcohol Use Disorder? ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institute on Alcohol Abuse and Alcoholism)
+
+## Diagnosis and Tests
+
+  * Blood Alcohol Level ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Library of Medicine) Also in Spanish
+  * Screening Tests ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institute on Alcohol Abuse and Alcoholism)
+  * Signs of Alcohol Misuse ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) ![Easy-to-Read](https://medlineplus.gov/images/easyreadgreen.gif) (National Institute on Alcohol Abuse and Alcoholism) Also in Spanish
+
+## Prevention and Risk Factors
+
+  * Drinking Levels Defined ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institute on Alcohol Abuse and Alcoholism)
+
+## Treatments and Therapies
+
+  * Alcohol Use Disorder (AUD) Treatment: MedlinePlus Health Topic ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Library of Medicine) Also in Spanish
+  * NIAAA Alcohol Treatment Navigator ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institute on Alcohol Abuse and Alcoholism)
+
+## Living With
+
+  * Children of Alcoholics (American Academy of Child and Adolescent Psychiatry) \- PDF Also in Spanish
+  * Intervention: Help a Loved One Overcome Addiction (Mayo Foundation for Medical Education and Research) Also in Spanish
+  * Support for Quitting: Choose Your Approach ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institute on Alcohol Abuse and Alcoholism)
+  * Taking Medicines Safely After Alcohol or Drug Abuse Recovery (American Academy of Family Physicians) Also in Spanish
+
+## Related Issues
+
+  * Alcohol Poisoning (Mayo Foundation for Medical Education and Research) Also in Spanish
+  * Alcohol's Effects on the Body ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institute on Alcohol Abuse and Alcoholism)
+  * Minority Health and Health Disparities ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institute on Alcohol Abuse and Alcoholism)
+  * PTSD and Problems with Alcohol Use (National Center for PTSD)
+  * Smoking Cessation in Recovering Alcoholics (American Academy of Family Physicians) Also in Spanish
+  * The Truth About Holiday Spirits ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institute on Alcohol Abuse and Alcoholism)
+  * Wernicke-Korsakoff Syndrome ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institute of Neurological Disorders and Stroke)
+  * What People Recovering from Alcoholism Need to Know about Osteoporosis ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institute of Arthritis and Musculoskeletal and Skin Diseases)
+
+## Genetics
+
+  * Alcohol Alert: Genetics of Alcoholism ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institute on Alcohol Abuse and Alcoholism)
+  * Genetics Home Reference: alcohol use disorder ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Library of Medicine)
+
+## Health Check Tools
+
+  * Alcohol Use Screening (Department of Veterans Affairs)
+  * Calculators ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institute on Alcohol Abuse and Alcoholism)
+  * Interactive Worksheets and More ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institute on Alcohol Abuse and Alcoholism)
+
+## Statistics and Research
+
+  * Alcohol Facts and Statistics ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institute on Alcohol Abuse and Alcoholism)
+  * Biology of Addiction: Drugs and Alcohol Can Hijack Your Brain ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institutes of Health) Also in Spanish
+  * CDC Vital Signs: Alcohol Poisoning Deaths (Centers for Disease Control and Prevention) Also in Spanish
+  * CDC Vital Signs: Alcohol Screening and Counseling (Centers for Disease Control and Prevention) Also in Spanish
+  * Increases in Problem Drinking ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institutes of Health) Also in Spanish
+  * US Adults Drink 17 Billion Binge Drinks a Year (Centers for Disease Control and Prevention) Also in Spanish
+
+## Clinical Trials
+
+  * ClinicalTrials.gov: Alcohol Withdrawal Delirium ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institutes of Health)
+  * ClinicalTrials.gov: Alcoholism ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institutes of Health)
+  * ClinicalTrials.gov: Binge Drinking ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institutes of Health)
+
+## Journal Articles References and abstracts from MEDLINE/PubMed (National
+Library of Medicine)
+
+  * Article: Possible increased risk of colonic diverticular disease from alcohol intoxication or...
+  * Article: A randomized controlled efficacy trial of an electronic screening and brief...
+  * Article: Management of insomnia in alcohol use disorder.
+  * Alcohol Use Disorder (AUD) -- see more articles
+
+## Find an Expert
+
+  * Behavioral Health Treatment Services Locator (Substance Abuse and Mental Health Services Administration)
+  * Getting Help ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institute on Alcohol Abuse and Alcoholism)
+  * National Institute on Alcohol Abuse and Alcoholism ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png)
+
+## Teenagers
+
+  * Coping with an Alcoholic Parent (Nemours Foundation) Also in Spanish
+
+## Men
+
+  * Excessive Alcohol Use and Risks to Men's Health (Centers for Disease Control and Prevention)
+
+## Women
+
+  * Excessive Alcohol Use and Risks to Women's Health (Centers for Disease Control and Prevention)
+
+## Older Adults
+
+  * Facts About Aging and Alcohol ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) ![Easy-to-Read](https://medlineplus.gov/images/easyreadgreen.gif) (National Institute on Aging) Also in Spanish
+
+## Patient Handouts
+
+  * Alcohol use disorder (Medical Encyclopedia) Also in Spanish
+  * Alcohol withdrawal (Medical Encyclopedia) Also in Spanish
+  * Alcoholic ketoacidosis (Medical Encyclopedia) Also in Spanish
+  * Alcoholic liver disease (Medical Encyclopedia) Also in Spanish
+  * Alcoholic neuropathy (Medical Encyclopedia) Also in Spanish
+  * Deciding to quit drinking alcohol (Medical Encyclopedia) Also in Spanish
+  * Health risks of alcohol use (Medical Encyclopedia) Also in Spanish
+  * Helping a loved one with a drinking problem (Medical Encyclopedia) Also in Spanish
+  * When you are drinking too much - tips for cutting back (Medical Encyclopedia) Also in Spanish
+
+## Topic Image
+
+![Alcoholism and Alcohol Abuse](https://medlineplus.gov/images/Alcohol2.jpg)
+
+## Stay Connected
+
+Sign up for the My MedlinePlus newsletter What's this?
+
+GO
+
+## MEDICAL ENCYCLOPEDIA
+
+  * Alcohol use disorder
+  * Alcohol withdrawal
+  * Alcoholic ketoacidosis
+  * Alcoholic liver disease
+  * Alcoholic neuropathy
+  * Beriberi
+  * Central pontine myelinolysis
+  * Deciding to quit drinking alcohol
+  * Delirium tremens
+  * Diet and substance abuse recovery
+
+  * Health risks of alcohol use
+  * Helping a loved one with a drinking problem
+  * How to stop drinking
+  * Myths about drinking alcohol
+  * Pellagra
+  * Serum ketones test
+  * Wernicke-Korsakoff syndrome
+  * When you are drinking too much - tips for cutting back
+
+Show More Show Less
+
+## Related Health Topics
+
+  * Alcohol
+  * Alcohol Use Disorder (AUD) Treatment
+  * Cirrhosis
+  * Fatty Liver Disease
+  * Fetal Alcohol Spectrum Disorders
+  * Impaired Driving
+  * Underage Drinking
+
+## National Institutes of Health
+
+The primary NIH organization for research on Alcohol Use Disorder (AUD) is the
+National Institute on Alcohol Abuse and Alcoholism
+
+## Other Languages
+
+Find health information in languages other than English on _Alcohol Use
+Disorder (AUD)_
+
+## NIH MedlinePlus Magazine
+
+  * How Much Is Too Much? 5 Things You Need to Know about Binge Drinking
+
+## Disclaimers
+
+MedlinePlus links to health information from the National Institutes of Health
+and other federal government agencies. MedlinePlus also links to health
+information from non-government Web sites. See our disclaimer about external
+links and our quality guidelines.
+
+  * About MedlinePlus
+  * What's New
+  * Site Map
+  * Customer Support
+
+  * Get updates
+  * Subscribe to RSS
+  * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+  * Disclaimers
+  * Copyright
+  * Privacy
+  * Accessibility
+  * Guidelines for Links
+  * Viewers & Players
+  * MedlinePlus Connect for EHRs
+  * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated on 24 March 2020 Topic last reviewed: 17 November 2017
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

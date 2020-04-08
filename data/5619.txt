@@ -1,220 +1,592 @@
+Link: https://medlineplus.gov/xmldescription.html    
+                                Description: MedlinePlus uses XML tags in health topic records. Review descriptions of tags and examples of their use on MedlinePlus.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link Skip directly to A-Z link Skip directly to A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search ____
+Menu
 
-Ã
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Search
 
-Submit __
+Search MedlinePlus
 
-For a full list of topics: A-Z Index
+GO
 
-Recommendations for the Laboratory-Based Detection of _Chlamydia trachomatis_
-and _Neisseria gonorrhoeae_ â 2014
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-Section Navigation
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-CDC Home
+You Are Here:
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Syndicate
+Home ->
 
-# Summary
+Health Topic XML File Description: MedlinePlus
 
-Minus
+URL of this page: https://medlineplus.gov/xmldescription.html
 
-Related Pages
+# Health Topic XML File Description: MedlinePlus
 
-![image for STD Surveillance,
-2012](/std/laboratory/images/ManWomanLab-228.jpg)
+To use the sharing features on this page, please enable JavaScript.
 
-PDF of this reportCdc-pdf (all pages and tables)
+## Description of XML Tags
 
-This report updates CDC's 2002 recommendations regarding screening tests to
-detect _Chlamydia trachomatis_ and _Neisseria gonorrhoeae_ infections (CDC.
-Screening tests to detect _Chlamydia trachomatis_ and _Neisseria gonorrhoeae_
-infections--2002Cdc-pdf. MMWR 2002;51[No. RR-15]) and provides new
-recommendations regarding optimal specimen types, the use of tests to detect
-rectal and oropharyngeal _C. trachomatis_ and _N. gonorrhoeae_ infections, and
-circumstances when supplemental testing is indicated. The recommendations in
-this report are intended for use by clinical laboratory directors, laboratory
-staff, clinicians, and disease control personnel who must choose among the
-multiple available tests, establish standard operating procedures for
-collecting and processing specimens, interpret test results for laboratory
-reporting, and counsel and treat patients.
+Definitions of every possible tag in the file, with examples and their use on
+MedlinePlus.
 
-The performance of nucleic acid amplification tests (NAATs) with respect to
-overall sensitivity, specificity, and ease of specimen transport is better
-than that of any of the other tests available for the diagnosis of chlamydial
-and gonococcal infections. Laboratories should use NAATs to detect chlamydia
-and gonorrhea except in cases of child sexual assault involving boys and
-rectal and oropharyngeal infections in prepubescent girls and when evaluating
-a potential gonorrhea treatment failure, in which case culture and
-susceptibility testing might be required. NAATs that have been cleared by the
-Food and Drug Administration (FDA) for the detection of _C. trachomatis_ and
-_N. gonorrhoeae_ infections are recommended as screening or diagnostic tests
-because they have been evaluated in patients with and without symptoms.
-Maintaining the capability to culture for both _N. gonorrhoeae_ and _C.
-trachomatis_ in laboratories throughout the country is important because data
-are insufficient to recommend nonculture tests in cases of sexual assault in
-prepubescent boys and extragenital anatomic site exposure in prepubescent
-girls. _N. gonorrhoeae_ culture is required to evaluate suspected cases of
-gonorrhea treatment failure and to monitor developing resistance to current
-treatment regimens. Chlamydia culture also should be maintained in some
-laboratories to monitor future changes in antibiotic susceptibility and to
-support surveillance and research activities such as detection of
-lymphogranuloma venereum or rare infections caused by variant or mutated _C.
-trachomatis_.
+    1. <health-topics>
 
-#### Corresponding preparer:
+The "root" element, or the base tag that all other tags/elements fall under.
+<health-topics> contains two attributes:
 
-John R. Papp, PhD  
-National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention, CDC  
-Telephone: 404-639-3785  
-E-mail: jwp6@cdc.gov
-
-#### Suggested Citations:
-
-CDC. Recommendations for the Laboratory-Based Detection of _Chlamydia
-trachomatis_ and _Neisseria gonorrhoeae_ -- 2014\. MMWR 2014;63(No. RR-2)
-
-Page last reviewed: March 31, 2017
-
-Content source: Division of STD Prevention, National Center for HIV/AIDS,
-Viral Hepatitis, STD, and TB Prevention, Centers for Disease Control and
-Prevention
-
-home Recommendations for the Laboratory-Based Detection of _C. trachomatis_
-and _N. gonorrhoeae_ â 2014
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Introduction
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Methods
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Recommendations
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Recommendations Continued
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Conclusion
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Appendix
-
-Follow STD
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Social_round_twitter twitter STD on Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Social_round_facebook facebook STD on Facebook
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * About CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Jobs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * File Viewers & Players
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Nondiscrimination
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Accessibility
-
-**CONNECT WITH CDC**  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Youtube
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Instagram
+      * total - the total number of MedlinePlus topics in the XML file
+      * date-generated - the date the file was generated in the format mm/dd/yyyy hh24:mi:ss   
+Example: <health-topics total="1800" dategenerated="04/02/2012 12:10:06">  
   
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Email
+    2. <health-topic>
 
-U.S. Department of Health & Human Services
+Each MedlinePlus topic represented by the file has its own <health-topic>
+element. This topic title is the value of the element. The attributes for this
+element include:
 
-USA.gov
+      * id - the unique internal identification number assigned to each topic by the MedlinePlus system
+      * date-created - The date the health topic was first available on the MedlinePlus site. There is one date-created per <health-topic>.  
+Example: date-created="01/07/2003"  
+Use on MedlinePlus: Not used for the public site.
 
-CDC Website Exit Disclaimer external icon
+      * language - the language of this topic. This can be either English or Spanish.
+      * meta-desc - a short description (200 characters maximum) summarizing the page content  
+Example: meta-desc="If you are being tested for Type 2 diabetes, your doctor
+gives you an A1C test. The test is also used to monitor your A1C levels."  
+Use on MedlinePlus: Provides a description of the page for social sharing and
+external search engines.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Email
+      * url - the topic URL. The URL for the corresponding health topic page on MedlinePlus.   
+Example: url="https://medlineplus.gov/abdominalpain.html"  
+Use on MedlinePlus: This is the URL link for every reference to this health
+topic on the alphabetical list of topics, topic groups page, the related
+topics shown on the left sidebar of topic pages and other pages. Example:
+<health-topic title="Abdominal Pain"
+url="https://medlineplus.gov/abdominalpain.html" id="3061" language="English"
+date-created="01/07/2003">.  
+  
 
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+    3. Tags under <health-topic>
+      1. <also-called>
 
-PDF
+Synonyms associated with the topic. It is not required. Some topics have no
+synonyms, while others may have multiple synonyms.  
+Example: <also-called>Gestational diabetes</also-called>  
+Use on MedlinePlus: These words or phrases are listed on the "Also called:"
+line appearing just beneath the health topic name on health topic pages.
 
-#### Exit Notification/Disclaimer Policy
+      2. <language-mapped-topic>
 
-Close
+For English topics, this is the equivalent Spanish health topic, For Spanish
+topics, this is the equivalent English health topic.  
+There is one or none <language-mapped-topic> per <health-topic>.  
+Example: <language-mapped-topic
+url="https://medlineplus.gov/spanish/abdominalpain.html" id="3062"
+language="Spanish">Dolor abdominal</language-mapped-topic>  
+Attribute id use on MedlinePlus: Not used for the public site.
 
-**Links with this icon indicate that you are leaving the CDC website.**
+      3. <full-summary>
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
+Full text of the health topic summary. There is one <full-summary> per
+<health-topic>.  
+Example: <full-summary><p>Parkinson's disease is a disorder that affects nerve
+cells, or neurons, in a part of the brain that controls muscle movement. In
+Parkinson's, neurons that make a chemical called dopamine die or do not work
+properly. Dopamine normally sends signals that help coordinate your movements.
+No one knows what damages these cells. Symptoms of Parkinson's disease may
+include</p> <ul> <li>Trembling of hands, arms, legs, jaw and face </li>
+<li>Stiffness of the arms, legs and trunk </li> <li>Slowness of movement </li>
+<li>Poor balance and coordination </li> </ul> <p>As symptoms get worse, people
+with the disease may have trouble walking, talking or doing simple tasks. They
+may also have problems such as depression, sleep problems or trouble chewing,
+swallowing or speaking. </p> <p>Parkinson's usually begins around age 60, but
+it can start earlier. It is more common in men than in women. There is no cure
+for Parkinson's disease. A variety of medicines sometimes help symptoms
+dramatically. </p></ full-summary>  
+Use on MedlinePlus: The topic summary appears at the top of the health topic
+page, beneath the title. Hyperlinks to other MedlinePlus topic pages may
+appear in topic summaries.
 
-Cancel Continue
+      4. <group>
 
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
-  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
-  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
-  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
-  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
-  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
-  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
-  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
-  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
-  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
-  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
-  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
-  *[15 hrs]: Monday, April 6, 2020 at 9:38 AM
-  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
-  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
-  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
-  *[10 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[]: You have unseen notifications
-  *[April 3 at 5:08 AM]: Friday, April 3, 2020 at 5:08 AM
-  *[April 1 at 8:09 AM]: Wednesday, April 1, 2020 at 8:09 AM
+Health topic group(s) of which the <health-topic> belongs to. A <health-topic>
+must have at least one group; it may have multiple groups.  
+Example: <group url="https://medlineplus.gov/digestivesystem.html"
+id="2">Digestive System</group>  
+For each group to which the <health-topic> belongs, the group name will be
+provided as <group> tag value, Example: "Digestive System". Additional
+information will be provided on 2 attributes:
+
+        * id \- Unique identification number for the health topic group.   
+Example: id="2"  
+Use on MedlinePlus: Not used for the public site.
+
+        * url \- URL of the health topic group page.   
+Example: url="https://medlineplus.gov/digestivesystem.html" .  
+Use on MedlinePlus: This is the URL for the health topic group. It is used on
+the health topics page landing page, where a complete listing of groups is
+found, and hyperlinked from the "Related Topics" box on health topic pages.  
+  
+
+      5. <see-reference>
+
+See references associated with the <health-topic>. Not every topic has an
+associated see reference. There may be more than one see reference.  
+Example: <see-reference>Bellyache</see-reference>  
+Use on MedlinePlus: Used on alphabetical list of topics to guide user to a
+health topic page; e.g., on the "Health Topics: S" page, "Shaking Palsy see
+Parkinson's Disease" appears as a see reference.
+
+      6. <mesh-heading>
+
+Medical Subject Headings (MeSH) associated with the topic. There may be more
+than one <mesh-heading> associated with a <health-topic>.  
+Example:  
+<mesh-heading>  
+<descriptor id="D015746">Abdominal Pain</descriptor>  
+</mesh-heading>
+
+The <mesh-heading> tag has <descriptor> element and id attribute:
+
+        * <descriptor> \- Refers to the Medical Subject Heading associated with the <health-topic>.   
+Example: <descriptor id="D015746">Abdominal Pain</descriptor>  
+Use on MedlinePlus: Used for linking to other databases. Not used for the
+public site.
+
+        * id - Unique identification number for the Medical Subject Heading.   
+Example: id="D015746"  
+Use on MedlinePlus: Used for linking to other databases. Not used for the
+public site.  
+  
+
+      7. <related-topic>
+
+The related health topics associated with this <health-topic>. Not every topic
+has an associated <related-topic>. There may be more than one <related-topic>.  
+Example: <related-topic url="https://medlineplus.gov/pain.html"
+id="351">Pain</related-topic>  
+The related topic title is the value of <related-topic>. The <related-topic>
+has id and url attributes.  
+Use on MedlinePlus: The id is not used, but the name of the related topic and
+url is used in the "Related Topics" box on MedlinePlus health topic pages.
+
+        * id \- Unique internal identification number assigned to each health topic by the MedlinePlus system. 
+        * url \- Related topic URL.   
+  
+
+      8. <other-language>
+
+The other-language associated with the <health-topic>. Not every topic has an
+associated other-language. There may be more than one other-language.  
+Example: <other-language vernacular-name="繁體中文"
+url="https://medlineplus.gov/languages/acne.html#Chinese \-
+Traditional">Chinese - Traditional</other-language>  
+The other-language element value contains the language name in English. The
+<other-language> tag has vernacular-name and url attributes.
+
+        * vernacular-name - Language name in the vernacular.    
+Example: vernacular-name="繁體中文"
+
+        * url \- URL to the Multiple Language topic page with the jump link to the appropriate language.   
+Example: url=https://medlineplus.gov/languages/acne.html#Chinese-Traditional.  
+  
+
+      9. <primary-institute>
+
+Health topic pages on MedlinePlus may have a primary National Institutes of
+Health institute assigned to them. It is not required.  
+Example: <primary-institute url="http://www.niaid.nih.gov/">National Institute
+of Allergy and Infectious Diseases</primary-institute>.  
+The primary-institute element value contains the primary institute name.  
+The <primary-institute> has url attribute. Example:
+url="http://www.niaid.nih.gov/".
+
+      10. <site>
+
+For every MedlinePlus health topic, there will be at least one site record.  
+Example: <site title="National Institute of Allergy and Infectious Diseases"
+url="http://www.niaid.nih.gov/Pages/default.aspx">  
+<information-category>Organizations</information-category>  
+<organization>National Institute of Allergy and Infectious
+Diseases</organization>  
+<standard-description>NIH</standard-description>  
+</site>
+
+The attributes for this element include:
+
+        * url \- The URL of the site record. 
+        * title - The site name of the site record. 
+        * language-mapped-url - URL of the mapped Spanish site for English sites or URL of the mapped English site for Spanish sites. There may be no language-mapped-url associated with a site record. 
+  
+
+The <site> element may contain the following elements:
+
+        * <standard-description> \- Descriptive information about the site record. Site records may have multiple standard description assigned. 
+        * <organization> \- The organization or agency that produced the information. Site records may have multiple organizations assigned, and some may have no organizations. 
+        * <information-category> Refers to the groupings of links that appear on MedlinePlus health topic pages. Site records may have multiple information categories assigned.   
+  
+
+## Example of a Full Health Topic Record
+
+A record for a MedlinePlus health topic containing most of the tags listed
+above.
+
+- <health-topic title="Acoustic Neuroma" url="https://medlineplus.gov/acousticneuroma.html" id="1624" language="English" date-created="04/22/2002">
+
+  <also-called>Acoustic neurilemmoma</also-called>
+
+  <also-called>Acoustic neurinoma</also-called>
+
+  <also-called>Auditory tumor</also-called>
+
+  <also-called>Vestibular schwannoma</also-called>
+
+  <full-summary><p>An acoustic neuroma is a <a
+href='https://medlineplus.gov/benigntumors.html'>benign tumor</a> that
+develops on the nerve that connects the ear to the brain. The tumor usually
+grows slowly. As it grows, it presses against the hearing and balance nerves.
+At first, you may have no symptoms or mild symptoms. They can include</p> <ul>
+<li> Loss of hearing on one side </li> <li> Ringing in ears</li> <li>
+Dizziness and balance problems</li> </ul> <p>The tumor can also eventually
+cause numbness or paralysis of the face. If it grows large enough, it can
+press against the brain, becoming life-threatening.</p> <p>Acoustic neuroma
+can be difficult to diagnose, because the symptoms are similar to those of
+middle ear problems. Ear exams, hearing tests, and scans can show if you have
+it.</p> <p>If the tumor stays small, you may only need to have it checked
+regularly. If you do need treatment, surgery and radiation are options.</p>
+<p>If the tumors affect both hearing nerves, it is often because of a genetic
+disorder called <a
+href='https://medlineplus.gov/neurofibromatosis.html'>neurofibromatosis</a>.</p>
+<p >NIH: National Institute on Deafness and Communication Disorders</p></full-
+summary>
+
+  <group url="https://medlineplus.gov/brainandnerves.html" id="14">Brain and
+Nerves</group>
+
+  <group url="https://medlineplus.gov/earnoseandthroat.html" id="16">Ear, Nose
+and Throat</group>
+
+  <language-mapped-topic
+url="https://medlineplus.gov/spanish/acousticneuroma.html" id="2251"
+language="Spanish">Neuroma acÃºstico</language-mapped-topic>
+
+- <mesh-heading>
+
+  <descriptor id="D009464">Neuroma, Acoustic</descriptor>
+
+  </mesh-heading>
+
+  <other-language vernacular-name="español"
+url="https://medlineplus.gov/spanish/acousticneuroma.html">Spanish</other-
+language>
+
+  <primary-institute url="http://www.nidcd.nih.gov/">National Institute on
+Deafness and Other Communication Disorders</primary-institute>
+
+  <related-topic url="https://medlineplus.gov/neurofibromatosis.html"
+id="1387">Neurofibromatosis</related-topic>
+
+  <see-reference>Auditory Tumor</see-reference>
+
+  <see-reference>Neuroma, Acoustic</see-reference>
+
+  <see-reference>Vestibular Schwannoma</see-reference>
+
+- <site title="Acoustic Neuroma" url="http://www.mayoclinic.org/diseases-conditions/acoustic-neuroma/basics/definition/CON-20023851?p=1">
+
+  <information-category>Start Here</information-category>
+
+  <organization>Mayo Foundation for Medical Education and
+Research</organization>
+
+  </site>
+
+- <site title="Acoustic neuroma" url="https://medlineplus.gov/ency/article/000778.htm" language-mapped-url="https://medlineplus.gov/spanish/ency/article/000778.htm">
+
+  <information-category>Patient Handouts</information-category>
+
+  <information-category>Encyclopedia</information-category>
+
+  </site>
+
+- <site title="Acoustic Neuroma" url="http://www.irsa.org/acoustic_neuroma.html">
+
+  <information-category>Treatments and Therapies</information-category>
+
+  <organization>International Radiosurgery Support Association</organization>
+
+  </site>
+
+- <site title="Acoustic Neuroma Educational Video" url="https://www.anausa.org/overview/educational-video">
+
+  <information-category>Videos and Tutorials</information-category>
+
+  <organization>Acoustic Neuroma Association</organization>
+
+  <standard-description>Video</standard-description>
+
+  </site>
+
+- <site title="Acoustic Neuroma Keywords" url="https://www.anausa.org/overview/acoustic-neuroma-keywords-2/Glossary-1/">
+
+  <information-category>Reference Desk</information-category>
+
+  <organization>Acoustic Neuroma Association</organization>
+
+  </site>
+
+- <site title="Acoustic Neuroma: Questions to Discuss with Your Doctor" url="http://www.health.harvard.edu/fhg/doctor/acousticNeuroma.shtml">
+
+  <information-category>Diagnosis and Tests</information-category>
+
+  <organization>Harvard Medical School</organization>
+
+  </site>
+
+- <site title="Centers of Excellence in Radiosurgery" url="http://www.irsa.org/CentersOfExcellence/CentersofExcellenceMenu.html">
+
+  <information-category>Find an Expert</information-category>
+
+  <organization>International Radiosurgery Support Association</organization>
+
+  </site>
+
+- <site title="ClinicalTrials.gov: Neuroma, Acoustic" url="http://clinicaltrials.gov/search/open/condition=%22Neuroma,+Acoustic%22">
+
+  <information-category>Clinical Trials</information-category>
+
+  <organization>National Institutes of Health</organization>
+
+  <standard-description>NIH</standard-description>
+
+  </site>
+
+- <site title="Computed Tomography (CT) -- Head" url="http://www.radiologyinfo.org/en/info.cfm?pg=headct" language-mapped-url="http://www.radiologyinfo.org/sp/info.cfm?pg=headct">
+
+  <information-category>Diagnosis and Tests</information-category>
+
+  <organization>American College of Radiology</organization>
+
+  <organization>Radiological Society of North America</organization>
+
+  <standard-description>Video</standard-description>
+
+  </site>
+
+- <site title="Cranial CT scan" url="https://medlineplus.gov/ency/article/003786.htm" language-mapped-url="https://medlineplus.gov/spanish/ency/article/003786.htm">
+
+  <information-category>Patient Handouts</information-category>
+
+  <information-category>Encyclopedia</information-category>
+
+  </site>
+
+- <site title="Directory of Organizations (Deafness and Communication Disorders)" url="http://www.nidcd.nih.gov/directory/">
+
+  <information-category>Find an Expert</information-category>
+
+  <organization>National Institute on Deafness and Other Communication
+Disorders</organization>
+
+  <standard-description>NIH</standard-description>
+
+  </site>
+
+- <site title="Gamma-Knife Radiosurgery" url="http://www.mayoclinic.org/tests-procedures/gamma-knife-radiosurgery/basics/definition/PRC-20014760?p=1">
+
+  <information-category>Treatments and Therapies</information-category>
+
+  <organization>Mayo Foundation for Medical Education and
+Research</organization>
+
+  </site>
+
+- <site title="Head MRI" url="https://medlineplus.gov/ency/article/003791.htm" language-mapped-url="https://medlineplus.gov/spanish/ency/article/003791.htm">
+
+  <information-category>Patient Handouts</information-category>
+
+  <information-category>Encyclopedia</information-category>
+
+  </site>
+
+- <site title="Identifying the Acoustic Neuroma" url="https://www.anausa.org/index.php?option=com_content&view=article&id=116&Itemid=114">
+
+  <information-category>Diagnosis and Tests</information-category>
+
+  <organization>Acoustic Neuroma Association</organization>
+
+  </site>
+
+- <site title="Magnetic Resonance Imaging (MRI) -- Head" url="http://www.radiologyinfo.org/en/info.cfm?pg=headmr" language-mapped-url="http://www.radiologyinfo.org/sp/info.cfm?pg=headmr">
+
+  <information-category>Diagnosis and Tests</information-category>
+
+  <organization>American College of Radiology</organization>
+
+  <organization>Radiological Society of North America</organization>
+
+  <standard-description>Video</standard-description>
+
+  </site>
+
+- <site title="National Institute on Deafness and Other Communication Disorders" url="http://www.nidcd.nih.gov/">
+
+  <information-category>Find an Expert</information-category>
+
+  <organization>National Institute on Deafness and Other Communication
+Disorders</organization>
+
+  <standard-description>NIH</standard-description>
+
+  </site>
+
+- <site title="NIDCD Glossary" url="http://www.nidcd.nih.gov/health/glossary/Pages/glossary.aspx">
+
+  <information-category>Reference Desk</information-category>
+
+  <organization>National Institute on Deafness and Other Communication
+Disorders</organization>
+
+  <standard-description>NIH</standard-description>
+
+  </site>
+
+- <site title="Post Treatment of Acoustic Neuroma" url="https://www.anausa.org/index.php?option=com_content&view=article&id=119&Itemid=117">
+
+  <information-category>Treatments and Therapies</information-category>
+
+  <organization>Acoustic Neuroma Association</organization>
+
+  </site>
+
+- <site title="Acoustic Neuroma" url="http://www.ncbi.nlm.nih.gov/pubmed?term=neuroma,acoustic[majr]+AND+english[la]+AND+humans[mh]+NOT+(letter[pt]+OR+editorial[pt])+AND+%22last+1+Year%22[edat]">
+
+  <information-category>Journal Articles</information-category>
+
+  </site>
+
+- <site title="Selecting a Medical Professional" url="https://www.anausa.org/resources/medical-resources/selecting-a-medical-professional">
+
+  <information-category>Treatments and Therapies</information-category>
+
+  <organization>Acoustic Neuroma Association</organization>
+
+  </site>
+
+- <site title="Stereotactic radiosurgery - discharge" url="https://medlineplus.gov/ency/patientinstructions/000131.htm" language-mapped-url="https://medlineplus.gov/spanish/ency/patientinstructions/000131.htm">
+
+  <information-category>Patient Handouts</information-category>
+
+  <information-category>Encyclopedia</information-category>
+
+  </site>
+
+- <site title="Stereotactic Radiosurgery - Gamma Knife" url="https://medlineplus.gov/ency/article/007577.htm" language-mapped-url="https://medlineplus.gov/spanish/ency/article/007577.htm">
+
+  <information-category>Patient Handouts</information-category>
+
+  <information-category>Encyclopedia</information-category>
+
+  </site>
+
+- <site title="Symptoms of Acoustic Neuroma" url="https://www.anausa.org/overview/symptoms">
+
+  <information-category>Symptoms</information-category>
+
+  <organization>Acoustic Neuroma Association</organization>
+
+  </site>
+
+- <site title="Ten Ways to Recognize Hearing Loss" url="http://www.nidcd.nih.gov/health/hearing/pages/10ways.aspx" language-mapped-url="http://www.nidcd.nih.gov/health/spanish/pages/10w_sp.aspx">
+
+  <information-category>Health Check Tools</information-category>
+
+  <organization>National Institute on Deafness and Other Communication
+Disorders</organization>
+
+  <standard-description>NIH</standard-description>
+
+  </site>
+
+- <site title="Treatment Options Summary" url="https://www.anausa.org/pretreatment/treatment-options-summary">
+
+  <information-category>Treatments and Therapies</information-category>
+
+  <organization>Acoustic Neuroma Association</organization>
+
+  </site>
+
+- <site title="Types of Post-Treatment Issues" url="https://www.anausa.org/post-treatments/types-post-treatment-issues">
+
+  <information-category>Related Issues</information-category>
+
+  <organization>Acoustic Neuroma Association</organization>
+
+  </site>
+
+- <site title="Vestibular Schwannoma (Acoustic Neuroma) and Neurofibromatosis" url="http://www.nidcd.nih.gov/health/hearing/Pages/acoustic_neuroma.aspx">
+
+  <information-category>Start Here</information-category>
+
+  <organization>National Institute on Deafness and Other Communication
+Disorders</organization>
+
+  <standard-description>NIH</standard-description>
+
+  </site>
+
+- <site title="What Is an Acoustic Neuroma" url="https://www.anausa.org/index.php?option=com_content&view=article&id=114&Itemid=112">
+
+  <information-category>Start Here</information-category>
+
+  <organization>Acoustic Neuroma Association</organization>
+
+  </site>
+
+  </health-topic>
+
+      * About MedlinePlus
+      * What's New
+      * Site Map
+      * Customer Support
+      * Get updates
+      * Subscribe to RSS
+      * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+      * Disclaimers
+      * Copyright
+      * Privacy
+      * Accessibility
+      * Guidelines for Links
+      * Viewers & Players
+      * MedlinePlus Connect for EHRs
+      * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated on 16 March 2018
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

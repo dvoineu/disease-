@@ -1,320 +1,330 @@
+Link: https://medlineplus.gov/ency/article/007462.htm    
+                                Description: You should visit your health care provider from time to time, even if you are healthy. The purpose of these visits is to:    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search ____
+The navigation menu has been collapsed.
 
-Ã
+Menu
 
-Submit __
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Show Search
 
-For a full list of topics: A-Z Index
+Search MedlinePlus
 
-Overweight & Obesity
+GO
 
-Section Navigation
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-CDC Home
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Syndicate
+EspaÃ±ol
 
-![Childhood Obesity Data Initiative](https://wcms-
-wp.cdc.gov/obesity/initiatives/codi/images/1-codi-banner.png)
+You Are Here:
 
-# Childhood Obesity Data Initiative
+Home ->
 
-Minus
+Medical Encyclopedia ->
 
-Related Pages
+Health screenings for women ages 18 to 39
 
-The Issue
+URL of this page: //medlineplus.gov/ency/article/007462.htm
 
-![Childhood obesity impacts almost 14 million children in the
-U.S.](/obesity/initiatives/codi/images/2-14M-children-small.png)
+# Health screenings for women ages 18 to 39
 
-#### Obesity Burden
+To use the sharing features on this page, please enable JavaScript.
 
-Childhood obesity impacts almost **14 million children in the U.S.** and is
-associated with serious immediate and long-term problems including poor mental
-and physical health outcomes and lower academic achievement.
+You should visit your health care provider from time to time, even if you are
+healthy. The purpose of these visits is to:
 
-* * *
+    * Screen for medical issues
+    * Assess your risk for future medical problems
+    * Encourage a healthy lifestyle
+    * Update vaccinations
+    * Help you get to know your provider in case of an illness 
 
-![Research that assesses childhood obesity interventions is limited because
-researchers cannot easily link pediatric health-related data stored across
-different health information systems to assess what interventions are
-effective.](/obesity/initiatives/codi/images/3-data-challenge.png)
+## Information
 
-#### The Data Challenge
+Even if you feel fine, you should still see your provider for regular
+checkups. These visits can help you avoid problems in the future. For example,
+the only way to find out if you have high blood pressure is to have it checked
+regularly. High blood sugar and high cholesterol levels also may not have any
+symptoms in the early stages. A simple blood test can check for these
+conditions.
 
-Research that assesses childhood obesity interventions is limited because
-researchers cannot easily link pediatric health-related data stored across
-different health information systems to assess what interventions are
-effective.
+There are specific times when you should see your provider. Below are
+screening guidelines for women ages 18 to 39.
 
-Child health data, including clinical information, social health determinants,
-weight management programs, and geographic markers are maintained throughout
-communities in many separate information systems operated by hospitals,
-provider networks, and clinical and community-based programs.
+BLOOD PRESSURE SCREENING
 
-The CODI Solution
+    * Have your blood pressure checked at least once every 2 years. If the top number (systolic number) is between 120 to 139, or the bottom number (diastolic number) is between 80 to 89 mm Hg, you should have it checked every year.
+    * If the top number is greater than 140 or the bottom number is greater than 90, schedule an appointment with your provider.
+    * If you have diabetes, heart disease, kidney problems, or certain other conditions, you may need to have your blood pressure checked more often, at least once a year.
+    * Watch for blood pressure screenings in your area. Ask your provider if you can stop in to have your blood pressure checked. 
 
-To improve data capacity for childhood obesity research, the U.S. Centers for
-Disease Control and Prevention (CDC) is leading the Childhood Obesity Data
-Initiative (CODI) to leverage existing information technology tools in
-innovative ways to facilitate access to childhood obesity data **across health
-systems and sectors.**
+CHOLESTEROL SCREENING
 
-![CODI will bring together data stored across different organizations to
-create an individual-level, linked longitudinal
-record.](/obesity/initiatives/codi/images/4-longitudinal-record.png)
+    * Recommended starting ages for cholesterol screening are between 20 to 45 for women.
+    * Women with normal cholesterol levels do not need to have the test repeated for 5 years.
+    * Repeat testing sooner than needed if changes occur in lifestyle (including weight gain and diet).
+    * If you have diabetes, heart disease, kidney problems, or certain other conditions, you may need to be monitored more closely. 
 
-CODI will bring together data stored across different organizations to create
-an **individual-level, linked longitudinal record** that includes individual
-and community-level risk factors, weight management interventions delivered in
-clinical and community settings, and clinical outcomes across health
-information systems.
+DIABETES SCREENING
 
-Building The Solution
+    * If your blood pressure is 140/80 mm Hg or above, your provider will test your blood sugar level for diabetes.
+    * If you have a body mass index (BMI) greater than 25 and have other risk factors for diabetes, you should be screened. Having a BMI over 25 means that you are overweight. Asian Americans should be screened if their BMI is greater than 23.Â 
+    * If you have other risk factors for diabetes, such as a first degree relative with diabetes or history of heart disease, your provider will likely screen you for diabetes.
+DENTAL EXAM
 
-#### Broader Access to Standardized Data
+    * Go to the dentist once or twice every year for an exam and cleaning. Your dentist will evaluate if you need more frequent visits. 
 
-CODI will build on the existing, clinically focused Patient-Centered Outcomes
-Research Network (PCORnet) **Common Data Model (CDM)** by piloting -through
-the addition of ancillary tables to the CDM-improved access to social
-determinants of health, geographic risk markers, and information about
-participation in clinical and community weigh management programs.
+EYE EXAM
 
-#### Privacy Preserving Record Linkage
+    * If you have vision problems, have an eye exam every 2 years or more often if recommended by your provider.
+    * Have an eye exam at least every year if you have diabetes. 
 
-CODI will allow researchers to link a child's records across health
-information systems and community-based programs while protecting individuals'
-personally-identifiable information. Through **Privacy Preserving Record
-Linkage (PPRL)** , a child's information is **encoded in a secure, private**
-format behind a firewall prior to sharing, through a process called data
-hashing. **CODI uses these hashed data to link records across systems and
-programs.**
-
-![CODI will build on the existing, clinically focused Patient-Centered
-Outcomes Research Network \(PCORnet\) Common Data Model \(CDM\) by piloting
--through the addition of ancillary tables to the CDM-improved access to social
-determinants of health, geographic risk markers, and information about
-participation in clinical and community weigh management
-programs.](/obesity/initiatives/codi/images/5-standardized-data.png)
-
-#### Distributed Data Network
-
-CODI will allow scientists and researchers to **query** information from
-multiple data sources across IT systems and sectors to create a more
-comprehensive **longitudinal record** about a child.
-
-![DI will allow scientists and researchers to query information from multiple
-data sources across IT systems and sectors to create a more comprehensive
-longitudinal record about a
-child.](/obesity/initiatives/codi/images/7-solution.png)
-
-Piloting The Solution
-
-CODI will be piloted in **Denver, Colorado** using the Colorado Health
-Observation Regional Data Service (CHORDS). CHORDS operates a PCORnet-
-compatible data model called the CHORDS Virtual Data Warehouse.
-
-Pilot participants include Denver Health, Children's Hospital Colorado, and
-Kaiser Permanente Colorado. Other potential clinical and community partners
-are being considered. The pilot is anticipated to **go live in late 2020.**
-
-View Page In:pdf icon PDF [687K]
-
-Page last reviewed: October 23, 2019
-
-Content source: Division of Nutrition, Physical Activity, and Obesity,
-National Center for Chronic Disease Prevention and Health Promotion
-
-home Overweight & Obesity
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * About Usplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Why It Matters
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * What CDC Is Doing
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Making A Difference
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Strategies to Prevent & Manage Obesityplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Community Efforts
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Early Care and Education (ECE)plus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Prior Funded Projects (ECE)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Salad Bars to School
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Healthy Food Service Guidelines
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Healthy Food Environments
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Healthy Hospitalsplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Healthy Hospital Practice to Practice Series (P2P)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Healthy Hospital Tool Kit
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Healthcareplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Childhood Obesity Research Demonstration (CORD) 1.0
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Childhood Obesity Research Demonstration (CORD) 2.0
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Childhood Obesity Research Demonstration (CORD) 3.0
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Childhood Obesity Data Initiative (CODI)plus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Childhood Obesity Data Initiative: Technical Information Sheet
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Childhood Obesity Management with MEND Implementation Teams (COMMIT!)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Adult Overweight and Obesityplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Defining Adult Obesity
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Adult Obesity Causes & Consequences
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Childrenplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Defining Childhood Obesity
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Childhood Obesity Causes & Consequences
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Data & Statisticsplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Adult Obesity Facts
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Childhood Obesity Facts
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Obesity Among WIC-Enrolled Young Children
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Data, Trends and Mapsplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Adult Obesity Maps
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Surveillance Systems
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Resources & Publicationsplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Reports
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Prevention Strategies & Guidelines
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Fact Sheets
-
-email_03Get Email Updates
-
-To receive email updates about this topic, enter your email address.
-
-Email Address
-
-What's this?
-
-Submit
-
-Division of Nutrition, Physical Activity, and Obesity
-
-![DNPAO logo](/nccdphp/dnpao/images/home/dnpao-links-logo_187px.png)
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * About Us
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Nutrition
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Physical Activity
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Overweight & Obesity
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Healthy Weight
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Breastfeeding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Micronutrient Malnutrition
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * State and Local Programs
-
-Related Topics
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Diabetes
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Nutrition
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * About CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Jobs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * File Viewers & Players
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Nondiscrimination
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Accessibility
-
-**CONNECT WITH CDC**  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Youtube
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Instagram
-  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Email
-
-U.S. Department of Health & Human Services
-
-USA.gov
-
-CDC Website Exit Disclaimer external icon
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Email
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-PDF
-
-#### Exit Notification/Disclaimer Policy
-
-Close
-
-**Links with this icon indicate that you are leaving the CDC website.**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
-  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
-  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
-  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
-  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
-  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
-  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
-  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
-  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
-  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
-  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
-  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
-  *[15 hrs]: Monday, April 6, 2020 at 9:38 AM
-  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
-  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
-  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
-  *[10 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[]: You have unseen notifications
-  *[April 3 at 5:08 AM]: Friday, April 3, 2020 at 5:08 AM
-  *[April 1 at 8:09 AM]: Wednesday, April 1, 2020 at 8:09 AM
+IMMUNIZATIONS
+
+    * You should get a flu shot every year.
+    * After age 19, you should have one tetanus-diphtheria and acellular pertussis (TdAP) vaccine as one of your tetanus-diphtheria vaccines if you did not receive it as an adolescent You should have a tetanus-diphtheria booster every 10 years.
+    * You should receive two doses of varicella vaccine if you never had chickenpox or the varicella vaccine.
+    * Your provider may recommend other immunizations if you are at high risk for certain conditions, such as pneumonia.Â 
+
+Ask your provider about the human papilloma virus (HPV) vaccine if you are
+between ages 18 to 26 and you have:
+
+    * Not received the HPV vaccine in the past
+    * Not completed the full vaccine series (you should catch up on this shot)
+
+PHYSICAL EXAM
+
+    * Your blood pressure should be checked at least every 1 to 2 years.
+    * Screening for cervical cancer should begin at age 21.
+    * Your height, weight, and BMI should be checked at every exam. 
+
+During your exam, your provider may ask you about:
+
+    * Depression
+    * Diet and exercise
+    * Alcohol and tobacco use
+    * Safety issues, such as using seat belts and smoke detectors 
+
+BREAST SELF-EXAM AND MAMMOGRAM
+
+    * Women may do a monthly breast self-exam. However, experts do not agree about the benefits of breast self-exams in finding breast cancer or saving lives. Talk to your provider about what is best for you.
+    * Screening mammogram is not recommended for most women under age 40.
+    * If you have a mother or sister who had breast cancer at a young age, consider yearly mammograms. They should begin earlier than the age at which their youngest family member was diagnosed.
+    * If you have other risk factors for breast cancer, your provider may recommend a mammogram, breast ultrasound, or MRI scan.
+    * Contact your provider right away if you notice a change in your breasts, whether or not you do breast self-exams.
+    * If you are between ages 20 to 40, your provider may do a clinical breast exam. 
+
+PELVIC EXAM AND PAP SMEAR
+
+    * Beginning at age 21, women should have a pelvic exam and Pap smear every 3 years to check for cervical cancer.
+    * If you are over age 30 and your Pap smear and HPV test are normal, you only need a Pap smear every 5 years.
+    * If you have had your uterus and cervix removed (total hysterectomy) and you have not been diagnosed with cervical cancer you may not need to have Pap smears.
+    * Women who are sexually active should be screened for chlamydia and gonorrhea up until age 25. Women 25 years and older should be screened if at high risk.
+    * Your provider will tell you how to prevent infections spread through sexual contact. These are called sexually transmitted infections (STIs).
+    * Your provider will ask you about alcohol and tobacco and may ask you about depression. 
+
+SKIN SELF-EXAM
+
+    * Your provider may check your skin for signs of skin cancer, especially if you're at high risk.
+    * People at high risk include those who have had skin cancer before, have close relatives with skin cancer, or have a weakened immune system. 
+
+OTHER SCREENING
+
+    * Talk with your provider about colon cancer screening if you have a strong family history of colon cancer or polyps, or if you have had inflammatory bowel disease or polyps yourself.
+    * Routine bone density screening of women under 40 is not recommended. 
+
+## Alternative Names
+
+Health maintenance visit - women - ages 18 to 39; Physical exam - women - ages
+18 to 39; Yearly exam - women - ages 18 to 39; Checkup - women - ages 18 to
+39; Women's health - ages 18 to 39; Preventive care - women - ages 18 to 39
+
+## References
+
+American Academy of Ophthalmology website. Policy statement: frequency of
+ocular examinations - 2015. www.aao.org/clinical-statement/frequency-of-
+ocular-examinations. Updated March 2015. Accessed June 1, 2018.
+
+American Cancer Society website. Breast cancer early detection and diagnosis.
+www.cancer.org/cancer/breastcancer/moreinformation/breastcancerearlydetection/breast-
+cancer-early-detection-toc. Updated October 9, 2017. Accessed June 1, 2018.
+
+American College of Obstetricians and Gynecologists (ACOG) website.
+Mammography and other screening tests for breast problems.
+www.acog.org/Patients/FAQs/Mammography-and-Other-Screening-Tests-for-Breast-
+Problems. Updated September 2017. Accessed June 1, 2018.
+
+American College of Obstetricians and Gynecologists. Committee opinion no.
+641: human papillomavirus vaccination. _Obstet Gynecol_. 2015;126(3):e38-e43.
+PMID: 26287792 www.ncbi.nlm.nih.gov/pubmed/26287792.
+
+American College of Obstetricians and Gynecologists. Practice bulletin no.
+168: cervical cancer screening and prevention. _Obstet Gynecol_.
+2016;128(4):e111-e130. PMID: 27661651 www.ncbi.nlm.nih.gov/pubmed/27661651.
+
+American Dental Association website. Your top 9 questions about going to the
+dentist -- answered. www.mouthhealthy.org/en/dental-care-concerns/questions-
+about-going-to-the-dentist. Accessed June 1, 2018.
+
+American Diabetes Association. Standards of medical care in diabetes -- 2018.
+_Diabetes Care_. 2018;41(Suppl 1):S1-S2. PMID: 29222369
+www.ncbi.nlm.nih.gov/pubmed/29222369.
+
+Atkins D, Barton M. The periodic health examination. In: Goldman L, Schafer
+AI, eds. _Goldman-Cecil Medicine_. 25th ed. Philadelphia, PA: Elsevier
+Saunders; 2016:chap 15.
+
+Committee on Adolescent Health Care of the American College of Obstetricians
+and Gynecologists; Immunization Expert Work Group of the American College of
+Obstetricians and Gynecologists. Committee opinion no. 704 summary: human
+papillomavirus vaccination. _Obstet Gynecol_. 2017;129(6):1155-1156. PMID:
+28538494 www.ncbi.nlm.nih.gov/pubmed/28538494.
+
+Cosman F, de Beur SJ, LeBoff MS, et al. Clinician's guide to prevention and
+treatment of osteoporosis. _Osteoporos Int_. 2014;25(10):2359-2381. PMID:
+25182228 www.ncbi.nlm.nih.gov/pubmed/25182228.
+
+James PA, Oparil S, Carter BL, et al. 2014 evidence-based guideline for the
+management of high blood pressure in adults: report from the panel members
+appointed to the Eighth Joint National Committee (JNC 8). _JAMA_.
+2014;311(5):507-520. PMID: 24352797 www.ncbi.nlm.nih.gov/pubmed/24352797.
+
+Kim DK, Riley LE, Harriman KH, Hunter P; Advisory Committee on Immunization
+Practices. Recommended immunization schedule for adults aged 19 years or
+older, United States, 2018. _Ann Intern Med_. 2018;168(3):210-220. PMID:
+29404596 www.ncbi.nlm.nih.gov/pubmed/29404596.
+
+Meschia JF, Bushnell C, Boden-Albala B; American Heart Association Stroke
+Council; et al. Guidelines for the primary prevention of stroke: a statement
+for healthcare professionals from the American Heart Association/American
+Stroke Association. _Stroke_. 2014;45(12):3754-3832. PMID: 25355838
+www.ncbi.nlm.nih.gov/pubmed/25355838.
+
+Ridker PM, Libby P, Buring JE. Risk markers and the primary prevention of
+cardiovascular disease. In: Zipes DP, Libby P, Bonow RO, Mann DL, Tomaselli
+GF, Braunwald E, eds. _Braunwald's Heart Disease: A Textbook of Cardiovascular
+Medicine_. 11th ed. Philadelphia, PA: Elsevier; 2019:chap 45.
+
+Siu AL; US Preventive Services Task Force. Screening for breast cancer: US
+Preventive Services Task Force recommendation statement. _Ann Intern Med_.
+2016;164(4):279-296. PMID: 26757170 www.ncbi.nlm.nih.gov/pubmed/26757170.
+
+Siu AL; US Preventive Services Task Force. Screening for high blood pressure
+in adults: US Preventive Services Task Force recommendation statement. _Ann
+Intern Med_. 2015;163(10):778-786. PMID: 26458123
+www.ncbi.nlm.nih.gov/pubmed/26458123.
+
+Smith RA, Andrews KS, Brooks D, et al. Cancer screening in the United States,
+2017: a review of current American Cancer Society guidelines and current
+issues in cancer screening. _CA Cancer J Clin_. 2017;67(2):100-121. PMID:
+28170086 www.ncbi.nlm.nih.gov/pubmed/28170086.
+
+Stone NJ, Robinson JG, Lichtenstein AH, et al; American College of
+Cardiology/American Heart Association Task Force on Practice Guidelines. 2013
+ACC/AHA Guideline on the treatment of blood cholesterol to reduce
+atherosclerotic cardiovascular risk in adults: a report of the American
+College of Cardiology/American Heart Association Task Force on Practice
+Guidelines. _Circulation_. 2014;129(25 Suppl 2):S1-S45. PMID: 24222016
+www.ncbi.nlm.nih.gov/pubmed/24222016.
+
+US Preventive Services Task Force website. Draft evidence review for cervical
+cancer: screening, October 2017.
+www.uspreventiveservicestaskforce.org/Page/Document/draft-evidence-
+review/cervical-cancer-screening2. Accessed June 1, 2018.
+
+US Preventive Services Task Force, Bibbins-Domingo K, Grossman DC, et al.
+Screening for colorectal cancer: US Preventive Services Task Force
+recommendation statement. _JAMA_. 2016;315(23):2564-2575. PMID: 27304597
+www.ncbi.nlm.nih.gov/pubmed/27304597.
+
+US Preventive Services Task Force, Bibbins-Domingo K, Grossman DC, et al.
+Screening for skin cancer: US Preventive Services Task Force recommendation
+statement. _JAMA_. 2016;316(4):429-435. PMID: 27458948
+www.ncbi.nlm.nih.gov/pubmed/27458948.
+
+## Review Date 5/12/2018
+
+Updated by: Laura J. Martin, MD, MPH, ABIM Board Certified in Internal
+Medicine and Hospice and Palliative Medicine, Atlanta, GA. Also reviewed by
+David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director,
+and the A.D.A.M. Editorial team.
+
+![Photograph of a female doctor discussing medication with a female
+patient](https://medlineplus.gov/images/doctorpatient3_thumb.jpg)Women's
+Health Checkup _Read more_
+
+![NIH MedlinePlus
+Magazine](https://medlineplus.gov/images/ency_mag_card.jpg)NIH MedlinePlus
+Magazine _Read more_
+
+![Health Topics
+A-Z](https://medlineplus.gov/images/ency_healthtopics_card.jpg)Health Topics
+A-Z _Read more_
+
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
+
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
+
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
+
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated: 23 March 2020
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

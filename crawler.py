@@ -5,8 +5,8 @@ from urllib.parse import urlparse
 import Query
 from collections import deque
 
-import time
 import threading
+
 
 
 
@@ -66,7 +66,7 @@ class Crawler:
                 links[i] = base + link
 
         # no except mail address
-        return set(links)
+        return set(filter(lambda x: 'mailto' not in x, links))
 
     def extract_metadata(self, url):
         html = self.extract_html(url)
@@ -79,7 +79,7 @@ class Crawler:
             curr_link = curr[0]
             curr_depth = curr[1]
 
-            if curr_depth >= 2:
+            if curr_depth > 2:
                 continue
 
             links = self.extract_links(curr_link)
@@ -87,31 +87,34 @@ class Crawler:
                 if link in self.visited:
                     continue
 
+                if 'spanish' in link:
+                    continue
+
+                if 'https://medlineplus.gov/' not in link:
+                    continue
+
                 meta = self.extract_metadata(link)
                 info = f"""Link: {link}    
-                Description: {meta.get('description')}    
-                Keywords: {meta.get('keywords')}    
-                            """
+                                Description: {meta.get('description')}    
+                                Keywords: {meta.get('keywords')}    
+                                            """
                 text = self.text_converter.handle(self.extract_html(link))
-
-                if not meta or not text or len(text) < 200 or 'cdc.gov' not in link:
-                    continue
 
                 print(info)
                 print(curr_depth)
 
-                file_name = 'small_data/' + str(self.count) + '.txt'
+                file_name = 'data/' + str(self.count) + '.txt'
                 output = open(file_name, 'w+')
 
-                output.write(link)
                 output.write(info)
                 output.write(text)
                 output.close()
 
-                self.q.append((link, curr_depth + 1))
+                if curr_depth < 2:
+                    self.q.append((link, curr_depth + 1))
                 self.visited.add(link)
 
-                print(self.count)
+                print("doc count:" + str(self.count))
                 self.index_to_html[self.count] = link
                 self.index_to_summary[self.count] = info
                 self.count += 1
@@ -142,79 +145,87 @@ class Crawler:
 
 
 
-class crawl_thread(threading.Thread):
-
-    def __init__(self, threadID, semaphore, q, crawler):
-        self.threadID = threadID
-        self.semaphore = semaphore
-        self.q = q
-        self.crawler = crawler
-        threading.Thread.__init__(self)
-
-    def run(self):
-
-        if not self.q:
-            time.sleep(30)
-
-
-        while self.q:
-            self.semaphore.acquire()
-            curr = self.q.popleft()
-            self.semaphore.release()
-            curr_link = curr[0]
-            curr_depth = curr[1]
-
-            if curr_depth >= 2:
-                continue
-
-            links = self.crawler.extract_links(curr_link)
-            for link in links:
-                if link in self.crawler.visited:
-                    continue
-
-                meta = self.crawler.extract_metadata(link)
-                info = f"""Link: {link}    
-                Description: {meta.get('description')}    
-                Keywords: {meta.get('keywords')}    
-                            """
-                text = self.crawler.text_converter.handle(self.crawler.extract_html(link))
-
-                if not meta or not text or len(text) < 200 or 'cdc.gov' not in link:
-                    continue
-
-                print("threadID: " + str(self.threadID))
-                print(info)
-
-                self.semaphore.acquire()
-
-                file_name = 'small_data/' + str(self.crawler.count) + '.txt'
-                output = open(file_name, 'w+')
-
-                output.write(link)
-                output.write(info)
-                output.write(text)
-                output.close()
-
-                self.q.append((link, curr_depth + 1))
-                self.crawler.visited.add(link)
-
-                print(self.crawler.count)
-                self.crawler.index_to_html[self.crawler.count] = link
-                self.crawler.index_to_summary[self.crawler.count] = info
-                self.crawler.count += 1
-
-                self.semaphore.release()
-                # add code to save all info into local storage
+# class crawl_thread(threading.Thread):
+#
+#     def __init__(self, threadID, semaphore, q, crawler):
+#         self.threadID = threadID
+#         self.semaphore = semaphore
+#         self.q = q
+#         self.crawler = crawler
+#         threading.Thread.__init__(self)
+#
+#     def run(self):
+#
+#         if not self.q:
+#             time.sleep(30)
+#
+#
+#         while self.q:
+#             self.semaphore.acquire()
+#             curr = self.q.popleft()
+#             self.semaphore.release()
+#             curr_link = curr[0]
+#             curr_depth = curr[1]
+#
+#             if curr_depth >= 2:
+#                 continue
+#
+#             links = self.crawler.extract_links(curr_link)
+#             for link in links:
+#                 if link in self.crawler.visited:
+#                     continue
+#
+#                 meta = self.crawler.extract_metadata(link)
+#                 info = f"""Link: {link}
+#                 Description: {meta.get('description')}
+#                 Keywords: {meta.get('keywords')}
+#                             """
+#                 text = self.crawler.text_converter.handle(self.crawler.extract_html(link))
+#
+#                 if 'spanish' in link:
+#                     continue
+#
+#                 if not meta or not text or len(text) < 200 or 'https://medlineplus.gov' not in link or 'spanish' in link:
+#                     continue
+#
+#                 print("threadID: " + str(self.threadID))
+#                 print(info)
+#
+#                 self.semaphore.acquire()
+#
+#                 file_name = 'data/' + str(self.crawler.count) + '.txt'
+#                 output = open(file_name, 'w+')
+#
+#                 output.write(link)
+#                 output.write(info)
+#                 output.write(text)
+#                 output.close()
+#
+#                 if curr_depth < 2:
+#                 self.q.append((link, curr_depth + 1))
+#                 self.crawler.visited.add(link)
+#
+#                 print(self.crawler.count)
+#                 self.crawler.index_to_html[self.crawler.count] = link
+#                 self.crawler.index_to_summary[self.crawler.count] = info
+#                 self.crawler.count += 1
+#
+#                 self.semaphore.release()
+#                 # add code to save all info into local storage
 
 
 
 if __name__ == "__main__":
-    # crawler = Crawler("https://www.cdc.gov/DiseasesConditions/")
-    # crawler.start()
-    search_engine = Query.Query("./small_data", True)
+    crawler = Crawler("https://medlineplus.gov/healthtopics.html")
+    crawler.start()
+    # search_engine = Query.Query("./small_data", True)
+    #
+    # # results = search_engine.query('fever weakness pain fatigue bleeding')
+    # # results = search_engine.query('trouble paying attention overly active')
+    # # for result in results:
+    # #     print(result)
+    #
+    # subprocess.run(['open', './small_data/1.txt'], check=True)
 
-    results = search_engine.query('fever weakness pain fatigue bleeding')
-    for result in results:
-        print(result)
 
 

@@ -1,386 +1,253 @@
+Link: https://medlineplus.gov/ency/article/002024.htm    
+                                Description: Vaccines are used to boost your immune system and prevent serious, life-threatening diseases.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link Skip directly to A-Z link Skip directly to A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search ____
+The navigation menu has been collapsed.
 
-Ã
+Menu
 
-Submit __
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Show Search
 
-For a full list of topics: A-Z Index
+Search MedlinePlus
 
-Methicillin-resistant _Staphylococcus aureus_ (MRSA)
+GO
 
-Section Navigation
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-CDC Home
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Syndicate
+EspaÃ±ol
 
-# Laboratory Testing
+You Are Here:
 
-Minus
+Home ->
 
-Related Pages
+Medical Encyclopedia ->
 
-On this Page
+Vaccines (immunizations) - overview
 
-What are the antibiotic susceptibility patterns of clinical _S. aureus_
-isolates?
+URL of this page: //medlineplus.gov/ency/article/002024.htm
 
-How should clinical laboratories test for MRSA?
+# Vaccines (immunizations) - overview
 
-Is it difficult to detect oxacillin/methicillin resistance?
+To use the sharing features on this page, please enable JavaScript.
 
-Can all susceptibility tests detect MRSA?
+Vaccines are used to boost your immune system and prevent serious, life-
+threatening diseases.
 
-Are there additional tests to detect oxacillin/methicillin resistance?
+## Information
 
-How is the _mecA_ gene involved in the mechanism of resistance?
+HOW VACCINES WORK
 
-What are the breakpoints for testing the susceptibility of staphylococci to
-oxacillin?
+Vaccines "teach" your body how to defend itself when germs, such as viruses or
+bacteria, invade it:
 
-Why are oxacillin and cefoxitin tested instead of methicillin?
+    * Vaccines expose you to a very small, very safe amount of viruses or bacteria that have been weakened or killed.
+    * Your immune system then learns to recognize and attack the infection if you are exposed to it later in life.
+    * As a result, you will not become ill, or you may have a milder infection. This is a natural way to deal with infectious diseases. 
 
-If oxacillin and cefoxitin are tested, why are the isolates called "MRSA"
-instead of "ORSA"?
+Four types of vaccines are currently available:
 
-What are the antibiotic susceptibility patterns of clinical _S. aureus_
-isolates?
+    *  **Live virus vaccines** use the weakened (attenuated) form of the virus. The measles, mumps, and rubella (MMR) vaccine and the varicella (chickenpox) vaccine are examples.
+    *  **Killed (inactivated) vaccines** are made from a protein or other small pieces taken from a virus or bacteria. The whooping cough (pertussis) vaccine is an example.
+    *  **Toxoid vaccines** contain a toxin or chemical made by the bacteria or virus. They make you immune to the harmful effects of the infection, instead of to the infection itself. Examples are the diphtheria and tetanus vaccines.
+    *  **Biosynthetic vaccines** contain manmade substances that are very similar to pieces of the virus or bacteria. The Hepatitis B vaccine is an example. 
 
-Approximately 10% of _S. aureus_ isolates in the United States are susceptible
-to penicillin. However, many _S._ _aureus_ strains, while resistant to
-penicillin, remain susceptible to penicillinase-stable penicillins, such as
-oxacillin and methicillin. Strains that are oxacillin and methicillin
-resistant, historically termed methicillin-resistant _S. aureus_ (MRSA), are
-resistant to all ß-lactam agents, including cephalosporins and carbapenems,
-although they may be susceptible to the newest class of MRSA-active
-cephalosporins (e.g, ceftaroline). Strains of MRSA causing healthcare-
-associated infections are often resistant to other commonly used antimicrobial
-agents, including erythromycin, clindamycin and fluoroquinolones, while
-strains causing community-associated infections are often resistant only to
-ß-lactam agents, erythromycin and occasionally to fluoroquinolones. Since
-1996, MRSA strains with decreased susceptibility to vancomycin (minimum
-inhibitory concentration [MIC], 4 - 8 μg/ml) and strains fully resistant to
-vancomycin (MIC ≥ 16 μg/ml) have been reported.
+WHY WE NEED VACCINES
 
-Top of Page
+For a few weeks after birth, babies have some protection from germs that cause
+diseases. This protection is passed from their mother through the placenta
+before birth. After a short period, this natural protection goes away.
 
-How should clinical laboratories test for MRSA?
+Vaccines help protect against many diseases that used to be much more common.
+Examples include tetanus, diphtheria, mumps, measles, pertussis (whooping
+cough), meningitis, and polio. Many of these infections can cause serious or
+life-threatening illnesses and may lead to life-long health problems. Because
+of vaccines, many of these illnesses are now rare.
 
-In addition to broth microdilution testing, the Clinical and Laboratory
-Standards Institute (CLSI), recommends the cefoxitin disk diffusion test or a
-plate containing 6 μg/ml of oxacillin in Mueller-Hinton agar supplemented with
-4% NaCl as alternative methods of testing for MRSA. For specific details on
-these methods, see CLSI Approved Standard M100. In addition, there are FDA-
-approved assays for molecular detection of the _mecA_ gene and commercially
-available chromogenic agars that can be used for MRSA detection. Finally,
-latex agglutination or immunochromatographic membrane tests for PBP2a can be
-used to detect MRSA.
+SAFETY OF VACCINES
 
-Top of Page
+Some people worry that vaccines are not safe and may be harmful, especially
+for children. They may ask their health care provider to wait or even choose
+not to have the vaccine. But the benefits of vaccines far outweigh their
+risks.
 
-**Laboratory Testing Resources**
+The American Academy of Pediatrics, the Centers for Disease Control and
+Prevention (CDC), and the Institute of Medicine all conclude that the benefits
+of vaccines outweigh their risks.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Use of an Inferred PFGE Algorithm, Emerging Infections Program/Active Bacterial Core (ABCs) Surveillance Invasive MRSA Project
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Laboratory Protocol for Molecular Typing of _S. aureus_ by PFGE Cdc-pdf[PDF - 24 pages]
+Vaccines, such as the measles, mumps, rubella, chickenpox, and nasal spray flu
+vaccines contain live, but weakened viruses:
 
-**CLSI Approved Standard**
+    * Unless a person's immune system is weakened, it is unlikely that a vaccine will give the person the infection. People with weakened immune systems should not receive these live vaccines.
+    * These live vaccines may be dangerous to the fetus of a pregnant woman. To avoid harm to the baby, pregnant women should not receive any of these vaccines. The provider can tell you the right time to get these vaccines. 
+
+Thimerosal is a preservative that was found in most vaccines in the past. But
+now:
 
-Performance standards for antibiotic susceptibility testing. CLSI approved
-standard M100External
+    * There are infant and child flu vaccines that have no thimerosal.
+    * NO other vaccines commonly used for children or adults contain thimerosal.
+    * Research done over many years has NOT shown any link between thimerosal and autism or other medical problems. 
 
-**Source**
+Allergic reactions are rare and are usually to some part (component) of the
+vaccine.
 
-Becker, K et al. 2019. Staphylococcus, Micrococcus, and Other Catalase-
-Positive Cocci. In James H. Jorgensen, Michael A. Pfaller, Karen C. Carroll,
-Guido Funke, Michael A. Pfaller, Marie Louise Landry, Robin Patel, Alexander
-J. McAdam, Sandra S. Richter, David W. Warnock (eds.) Manual of Clinical
-Microbiology 12th edition, ASM Press, Washington, D.C.External
-
-Is it difficult to detect oxacillin/methicillin resistance?
-
-MRSA is resistant to all β-lactams because of the presence of _mecA_ , a gene
-that produces a pencillin binding protein (PBP2a) with low affinity for
-β-lactam antibiotics. Mechanism of oxacillin resistance other than _mecA_ are
-rare. Accurate detection of oxacillin/methicillin resistance can be difficult
-due to the presence of two subpopulations (one susceptible and the other
-resistant) that may coexist within a culture of staphylococci (see Bannerman,
-TL. 2003). All cells in a culture may carry the genetic information ( _mecA_ )
-for resistance, but only a small number may express the resistance _in vitro_.
-This phenomenon is termed heteroresistance and occurs in staphylococci
-resistant to penicillinase-stable penicillins, such as oxacillin.
-
-Cells expressing heteroresistance grow more slowly than the oxacillin-
-susceptible population and may be missed at temperatures above 35°C. This is
-why CLSI recommends incubating isolates being tested against oxacillin at
-33-35°C (maximum of 35°C) for a full 24 hours before reading (see CLSI
-Approved Standard). Isolates tested against cefoxitin using either disk
-diffusion or broth microdilution should also be incubated at 33-35°C but can
-be read after 16-18 and 16-20 hours, respectively.
-
-Top of Page
-
-Can all susceptibility tests detect MRSA?
-
-When used correctly, broth-based and agar-based tests usually can detect MRSA.
-The cefoxitin disk diffusion method can be used in addition to routine
-susceptibility test methods or as a back-up method.
-
-Top of Page
-
-Are there additional tests to detect oxacillin/methicillin resistance?
-
-Nucleic acid amplification tests, such as the polymerase chain reaction (PCR),
-can be used for direct detection of _mecA_ , the most common gene mediating
-oxacillin resistance in staphylococci. However, _mecA_ PCR tests will not
-detect novel resistance mechanisms such as _mecC_ or uncommon phenotypes such
-as borderline-resistant oxacillin resistance. An alternative method for
-detection of MRSA is the use of anti-PBP2a monoclonal antibodies available as
-latex agglutination or immunochromatographic membrane assays. Finally, there
-are commercially available chromogenic agars that can be used for MRSA
-detection.
-
-Top of Page
-
-How is the _mecA_ gene involved in the mechanism of resistance?
-
-Staphylococcal resistance to oxacillin/methicillin occurs when an isolate
-produces an altered penicillin-binding protein, PBP2a, which is encoded by the
-_mecA_  gene. The variant penicillin-binding protein binds β-lactams with
-lower avidity, which results in resistance to this class of antibiotic agents.
-
-Top of Page
-
-What are the breakpoints for testing the susceptibility of staphylococci to
-oxacillin?
-
-The CLSI clinical breakpoints for _S. aureus_ are different than those for
-coagulase-negative staphylococci (CoNS) -- see CLSI approved standard M100.
-
-Oxacillin disk diffusion testing is not reliable for detecting oxacillin/
-methicillin resistance. Cefoxitin should be used as a surrogate for disk
-diffusion testing.
-
-#### Interpretive Criteria (in μg/ml) for Oxacillin MIC Tests
-
-Level of resistance of 2 pathogens to the Oxacillin MIC tests. Pathogen |
-Susceptible | Intermediate | Resistant  
----|---|---|---  
-  _S. aureus and S. lugdunensis_ |  ≤ 2 μg/ml |  N/A |  ≥ 4 μg/ml  
- CoNS |  ≤ 0.25 μg/ml |  N/A |  ≥ 0.5 μg/ml  
-  
-
-
-#### Interpretive Criteria (in μg/ml) for Cefoxitin MIC Tests
-
-Level of resistance of 2 pathogens to the  Cefoxitin MIC tests. Pathogen |
-Susceptible | Intermediate | Resistant  
----|---|---|---  
-  _S. aureus and S. lugdunensis_ |  ≤ 4 μg/ml |  N/A |  ≥ 8 μg/ml  
- CoNS |  N/A |  N/A |  N/A  
-  
-
-
-#### Interpretive Criteria (in mm) for Cefoxitin Disk Diffusion Test
-
-Level of resistance of 2 pathogens to the Cefoxitin disk diffusion test.
-Pathogen | Susceptible | Intermediate | Resistant  
----|---|---|---  
-  _S. aureus and S. lugdunensis_ |  ≥ 22 mm |  N/A |  ≤ 21 mm  
- CoNS |  ≥ 25 mm |  N/A |  ≤ 24 mm  
-  
-Top of Page
-
-Why are oxacillin and cefoxitin tested instead of methicillin?
-
-First, methicillin is no longer commercially available in the United States.
-Second, oxacillin maintains its activity during storage better than
-methicillin and is more likely to detect heteroresistant strains. However,
-cefoxitin is an even better inducer of the _mecA_ gene, and tests using
-cefoxitin give more reproducible and accurate results than tests with
-oxacillin.
-
-Top of Page
-
-If oxacillin and cefoxitin are tested, why are the isolates called "MRSA"
-instead of "ORSA"?
-
-When resistance was first described in 1961, methicillin was used to test and
-treat infections caused by _S._ _aureus._ However, oxacillin, which is in the
-same class of drugs as methicillin, was chosen as the agent of choice for
-testing staphylococci in the early 1990s, and this was modified to include
-cefoxitin later. The acronym MRSA is still used by many to describe these
-isolates because of its historic role.
-
-Top of Page
-
-Page last reviewed: February 6, 2019
-
-Content source: Centers for Disease Control and Prevention, National Center
-for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of Healthcare
-Quality Promotion (DHQP)
-
-home MRSA
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * General Information expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * For Patients
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * For School & Daycare
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * For Coaches & Athletic Directors
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * For Athletes
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Factsheets & Posters
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Healthcare Settings expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Outpatient Management
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Preventing Infections
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Cleaning & Disinfection expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Athletic Facilities
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Laundry
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Photos expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 1
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 2
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 3
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 4
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 5
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 6
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 7
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 8
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 9
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 10
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 11
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 12
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 13
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 14
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Laboratory Testing
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * What CDC is Doing
-
-Get Email Updates
-
-To receive email updates about this page, enter your email address:
-
-Email Address
-
-What's this?
-
-Submit
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * About CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Jobs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * File Viewers & Players
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Nondiscrimination
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Accessibility
-
-**CONNECT WITH CDC**  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Youtube
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Instagram
-  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Email
-
-U.S. Department of Health & Human Services
-
-USA.gov
-
-CDC Website Exit Disclaimer external icon
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Email
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-PDF file_external
-
-#### Exit Notification/Disclaimer Policy
-
-Close
-
-**Links with this icon indicate that you are leaving the CDC website.**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
-  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
-  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
-  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
-  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
-  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
-  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
-  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
-  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
-  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
-  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
-  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
-  *[15 hrs]: Monday, April 6, 2020 at 9:38 AM
-  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
-  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
-  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
-  *[10 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[]: You have unseen notifications
-  *[April 3 at 5:08 AM]: Friday, April 3, 2020 at 5:08 AM
-  *[April 1 at 8:09 AM]: Wednesday, April 1, 2020 at 8:09 AM
+VACCINE SCHEDULE
+
+The recommended vaccination (immunization) schedule is updated every 12 months
+by the US Centers for Disease Control and Prevention (CDC). Talk to your
+provider about specific immunizations for you or your child. Current
+recommendations are available at the CDC website:
+www.cdc.gov/vaccines/schedules.
+
+TRAVELERS
+
+The CDC website (www.cdc.gov/travel) has detailed information about
+immunizations and other precautions for travelers to other countries. Many
+immunizations should be received at least 1 month before travel.
+
+Bring your immunization record with you when you travel to other countries.
+Some countries require this record.
+
+COMMON VACCINES
+
+    * Chickenpox vaccine
+    * DTaP immunization (vaccine)
+    * Hepatitis A vaccine
+    * Hepatitis B vaccine
+    * Hib vaccine
+    * HPV vaccine
+    * Influenza vaccine
+    * Meningococcal vaccine
+    * MMR vaccine
+    * Pneumococcal conjugate vaccine
+    * Pneumococcal polysaccharide vaccine
+    * Polio immunization (vaccine)
+    * Rotavirus vaccine
+    * Shingles vaccine
+    * Tdap vaccine
+    * Tetanus vaccine 
+
+## Alternative Names
+
+Vaccinations; Immunizations; Immunize; Vaccine shots; Prevention - vaccine
+
+## Images
+
+    * ![Hepatitis A immunization \(vaccine\)](//medlineplus.gov/ency/images/ency/tnails/9394t.jpg)Hepatitis A immunization (vaccine)
+    * ![Immunizations](//medlineplus.gov/ency/images/ency/tnails/9447t.jpg)Immunizations
+    * ![Immunizations](//medlineplus.gov/ency/images/ency/tnails/9671t.jpg)Immunizations
+
+## References
+
+Bernstein, Kilinsky A, Orenstein WA. Immunization practices. In: Kliegman RM,
+St. Geme JW, Blum NJ, Shah SS, Tasker RC, Wilson KM, eds. _Nelson Textbook of
+Pediatrics._ 21st ed. Philadelphia, PA: Elsevier; 2020:chap 197.
+
+Centers for Disease Control and Prevention website. Frequently asked questions
+about thimerosal.
+www.cdc.gov/vaccinesafety/Concerns/thimerosal/thimerosal_faqs.html. Updated
+August 28, 2015. Accessed June 18, 2019.
+
+Kim DK, Hunter P. Advisory Committee on Immunization Practices recommended
+immunization schedule for adults aged 19 years or older - United States, 2019.
+_MMWR Morb Mortal Wkly Rep._ 2019;68(5):115-118. PMID: 30730868
+www.ncbi.nlm.nih.gov/pubmed/30730868.
+
+Kroger AT, Pickering LK, Mawle A, Hinman AR, Orenstein WA. Immunization. In:
+Bennett JE, Dolin R, Blaser MJ, eds. _Mandell, Douglas, and Bennett's
+Principles and Practice of Infectious Diseases._ 9th ed. Philadelphia, PA:
+Elsevier; 2020:chap 316.
+
+Robinson CL, Bernstein H, Romero JR, Szilagyi P. Advisory Committee on
+Immunization Practices recommended immunization schedule for children and
+adolescents aged 18 years or younger - United States, 2019. _MMWR Morb Mortal
+Wkly Rep._ 2019;68(5):112-114. PMID: 30730870
+www.ncbi.nlm.nih.gov/pubmed/30730870.
+
+Strikas RA, Orenstein WA. Immunization. In: Goldman L, Schafer AI, eds.
+_Goldman-Cecil Medicine._ 26th ed. Philadelphia, PA: Elsevier; 2020:chap 15.
+
+## Review Date 8/5/2018
+
+Updated by: Neil K. Kaneshiro, MD, MHA, Clinical Professor of Pediatrics,
+University of Washington School of Medicine, Seattle, WA. Internal review and
+update on 07/10/2019 by David Zieve, MD, MHA, Medical Director, Brenda
+Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+
+![Childhood
+Immunization](https://medlineplus.gov/images/ChildhoodImmunization_thumb.jpg)Childhood
+Immunization _Read more_
+
+![](https://medlineplus.gov/images/Flu-Shot_Topic_thumb.jpg)Flu Shot _Read
+more_
+
+![NIH MedlinePlus
+Magazine](https://medlineplus.gov/images/ency_mag_card.jpg)NIH MedlinePlus
+Magazine _Read more_
+
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
+
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
+
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
+
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated: 23 March 2020
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

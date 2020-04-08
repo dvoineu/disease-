@@ -1,142 +1,242 @@
+Link: https://medlineplus.gov/lab-tests/pten-genetic-test/    
+                                Description: A PTEN genetic test looks for a mutation in the gene called PTEN. If you have the mutation, you may get several noncancerous tumors called hamartomas. You may also be at higher risk for getting cancer. Learn more.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to search Skip directly to A to Z list Skip directly to
-navigation Skip directly to page options Skip directly to site content
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Sign in
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-My Account {{main.$rootScope.syndList.listName}}
+Menu
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * {{list.listName}} 
-{{main.$rootScope.syndList.listName}} Logout
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Search
 
-New User
+Search MedlinePlus
 
-![Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People](/TemplatePackage/3.0/images/masthead_subpage.svg)
-![Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People](/TemplatePackage/3.0/images/masthead_1-col.svg)
+GO
 
-A-Z Topic Index
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MENU
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * CDC A-Z
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * SEARCH
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-# Public Health Media Library
+EspaÃ±ol
 
-Note: Javascript is disabled or is not supported by your browser. For this
-reason, some items on this page will be unavailable. For more information
-about this message, please visit this page: About CDC.gov.
+You Are Here:
 
-Recommend on Facebook Tweet
-![Share](/TemplatePackage/3.0/images/social/addthis-32.png)ShareCompartir
+Home ->
 
-×
+Medical Tests ->
 
-### Contact Us
+PTEN Genetic Test
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * For non-technical or general public health questions, contact CDC-INFO by phone 800-CDC-INFO (800-232-4636) or email.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * If you need technical help: Report a Problem
+URL of this page: https://medlineplus.gov/lab-tests/pten-genetic-test/
 
-##### File Formats Help:
+# PTEN Genetic Test
 
-How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+To use the sharing features on this page, please enable JavaScript.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Adobe PDF file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Microsoft PowerPoint file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Microsoft Word file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Microsoft Excel file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Audio/Video file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Apple Quicktime file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * RealPlayer file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Text file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Zip Archive file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * SAS file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ePub file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * RIS file
+## What is a PTEN genetic test?
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Page last reviewed:{{main.CURRENT_DATE}}
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Page last updated:{{main.CURRENT_DATE}}
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Content source: 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Centers for Disease Control and Prevention, 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Office of the Associate Director for Communications, Division of Public Affairs
+A PTEN genetic test looks for a change, known as a mutation, in a gene called
+PTEN. Genes are the basic units of heredity passed down from your mother and
+father.
 
-###### Follow CDC
+The PTEN gene helps stop the growth of tumors. It's known as a tumor
+suppressor. A tumor suppressor gene is like the brakes on a car. It puts the
+"brakes" on cells, so they don't divide too quickly. If you have a PTEN
+genetic mutation, it can cause the growth of noncancerous tumors called
+hamartomas. Hamartomas can show up throughout the body. The mutation can also
+lead to the development of cancerous tumors.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Recommend
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Tweet
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Post
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * RSS
+A PTEN genetic mutation can be inherited from your parents, or acquired later
+in life from the environment or from a mistake that happens in your body
+during cell division.
 
-###### CDC Media
+An inherited PTEN mutation can cause a variety of health disorders. Some of
+these can start at infancy or early childhood. Others show up in adulthood.
+These disorders are often grouped together and called PTEN hamartoma syndrome
+(PTHS) and include:
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Listen
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Watch
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * YouTube
+    *  **Cowden syndrome,** a disorder that causes the growth of many hamartomas and increases the risk of several types of cancer, including cancers of the breast, uterus, thyroid, and colon. People with Cowden syndrome often have a larger than normal sized head (macrocephaly), developmental delays, and/or autism.
+    *  **Bannayan-Riley-Ruvalcaba syndrome** also causes hamartomas and macrocephaly. In addition, people with this syndrome may have learning disabilities and/or autism. Males with the disorder often have dark freckles on the penis.
+    *  **Proteus or Proteus-like syndrome** can cause an overgrowth of bones, skin, and other tissues, as well as hamartomas and macrocephaly.
 
-![Department of Health and Human
-Services](/TemplatePackage/3.0/images/hhs.png)
+Acquired (also known as somatic) PTEN genetic mutations are one of the
+commonly found mutations in human cancer. These mutations have been found in
+many different types of cancer, including prostate cancer, uterine cancer, and
+some types of brain tumors.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ###### About CDC
+Other names: PTEN gene, full gene analysis; PTEN sequencing and
+deletion/duplication
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Employment
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Newsroom
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Training/Education
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * CDC's Organization
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Mission and Vision
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Using this Site
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ###### Legal
+## What is it used for?
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Link to Us
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Accessibility
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * No FEAR Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Inspector General
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * USA.gov
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    *                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     * ###### Contact CDC
+The test is used to look for a PTEN genetic mutation. It is not a routine
+test. It is usually given to people based on family history, symptoms, or
+previous diagnosis of cancer, especially cancer of the breast, thyroid, or
+uterus.
 
-Centers for Disease Control and Prevention
+## Why do I need a PTEN genetic test?
 
-1600 Clifton Road Atlanta, GA 30329-4027 USA
+You or your child may need a PTEN genetic test if you have a family history of
+a PTEN genetic mutation and/or one or more of the following conditions or
+symptoms:
 
-800-CDC-INFO (800-232-4636)
+    * Multiple hamartomas, especially in the gastrointestinal area
+    * Macrocephaly (larger than normal sized head)
+    * Developmental delays
+    * Autism
+    * Dark freckling of the penis in males
+    * Breast cancer
+    * Thyroid cancer
+    * Uterine cancer in females
 
-Contact CDC-INFO
+If you've been diagnosed with cancer and don't have a family history of the
+disease, your health care provider may order this test to see if PTEN genetic
+mutation may be causing your cancer. Knowing whether you have the mutation can
+help your provider predict how your disease will develop and guide your
+treatment.
 
-TOP
+## What happens during a PTEN genetic test?
 
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+A PTEN test is usually a blood test. During a blood test, a health care
+professional will take a blood sample from a vein in your arm, using a small
+needle. After the needle is inserted, a small amount of blood will be
+collected into a test tube or vial. You may feel a little sting when the
+needle goes in or out. This usually takes less than five minutes.
 
-Version {{main.VERSION}}
+## Will I need to do anything to prepare for the test?
 
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:27 PM
-  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
-  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
-  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
+You usually don't need any special preparations for a PTEN test.
+
+## Are there any risks to the test?
+
+There is very little risk to having a blood test. You may have slight pain or
+bruising at the spot where the needle was put in, but most symptoms go away
+quickly.
+
+## What do the results mean?
+
+If your results show you have a PTEN genetic mutation, it does not mean you
+have cancer, but your risk is higher than most people. But more frequent
+cancer screenings can reduce your risk. Cancer is more treatable when found in
+the early stages. If you have the mutation, your health care provider may
+recommend one or more of the following screening tests:
+
+    * Colonoscopy, starting at age 35â40
+    * Mammogram, starting at age 30 for women
+    * Monthly breast self-exams for women
+    * Yearly uterine screening for women
+    * Yearly thyroid screening
+    * Yearly check of skin for growths
+    * Yearly kidney screening
+
+Yearly thyroid and skin screenings are also recommended for children with a
+PTEN genetic mutation.
+
+Learn more about laboratory tests, references ranges, and understanding
+results.
+
+## Is there anything else I need to know about a PTEN genetic test?
+
+If you've been diagnosed with a PTEN genetic mutation or are thinking about
+getting tested, it may help to speak to a genetic counselor. A genetic
+counselor is a specially trained professional in genetics and genetic testing.
+If you haven't yet been tested, the counselor can help you understand the
+risks and benefits of testing. If you have been tested, the counselor can help
+you understand the results and direct you to support services and other
+resources.
+
+## References
+
+    1. American Cancer Society [Internet]. Atlanta: American Cancer Society Inc.; c2018. Oncogenes and tumor suppressor genes [updated 2014 Jun 25; cited 2018 Jul 3]; [about 4 screens]. Available from: https://www.cancer.org/cancer/cancer-causes/genetics/genes-and-cancer/oncogenes-tumor-suppressor-genes.html
+    2. American Cancer Society [Internet]. Atlanta: American Cancer Society Inc.; c2018. Thyroid Cancer Risk Factors; [updated 2017 Feb 9; cited 2018 Jul 3]; [about 3 screens]. Available from: https://www.cancer.org/cancer/thyroid-cancer/causes-risks-prevention/risk-factors.html
+    3. Cancer.Net [Internet]. Alexandria (VA): American Society of Clinical Oncology; c2005â2018. Cowden Syndrome; 2017 Oct [cited 2018 Jul 3]; [about 2 screens]. Available from: https://www.cancer.net/cancer-types/cowden-syndrome
+    4. Cancer.Net [Internet]. Alexandria (VA): American Society of Clinical Oncology; c2005â2018. Genetic Testing for Cancer Risk; 2017 Jul [cited 2018 Jul 3]; [about 4 screens]. Available from: https://www.cancer.net/navigating-cancer-care/cancer-basics/genetics/genetic-testing-cancer-risk
+    5. Cancer.Net [Internet]. Alexandria (VA): American Society of Clinical Oncology; c2005â2018. Hereditary Breast and Ovarian Cancer; 2017 Jul [cited 2018 Jul 3]; [about 3 screens]. Available from: https://www.cancer.net/cancer-types/hereditary-breast-and-ovarian-cancer
+    6. Centers for Disease Control and Prevention [Internet]. Atlanta: U.S. Department of Health and Human Services; Cancer Prevention and Control: Screening Tests [updated 2018 May 2; cited 2018 Jul 3]; [about 3 screens]. Available from: https://www.cdc.gov/cancer/dcpc/prevention/screening.htm
+    7. Children's Hospital of Philadelphia [Internet]. Philadelphia: The Children's Hospital of Philadelphia; c2018. PTEN Hamartoma Tumor Syndrome [cited 2018 Jul 3]; [about 3 screens]. Available from: https://www.chop.edu/conditions-diseases/pten-hamartoma-tumor-syndrome
+    8. Dana-Farber Cancer Institute [Internet]. Boston: Dana-Farber Cancer Institute; c2018. Cancer Genetics and Prevention: Cowden Syndrome (CS); 2013 Aug [cited 2018 Jul 3]; [about 3 screens]. Available from: https://www.dana-farber.org/legacy/uploadedfiles/library/adult-care/treatment-and-support/centers-and-programs/cancer-genetics-and-prevention/cowden-syndrome.pdf
+    9. Mayo Clinic: Mayo Medical Laboratories [Internet]. Mayo Foundation for Medical Education and Research; c1995â2018. Test ID: BRST6: Hereditary Breast Cancer 6 Gene Panel: Clinical and Interpretive [cited 2018 Jul 3]; [about 4 screens]. Available from: https://www.mayomedicallaboratories.com/test-catalog/Clinical+and+Interpretive/64332
+    10. Mayo Clinic: Mayo Medical Laboratories [Internet]. Mayo Foundation for Medical Education and Research; c1995â2018. Test ID: PTENZ: PTEN Gene, Full Gene Analysis: Clinical and Interpretive [cited 2018 Jul 3]; [about 4 screens]. Available from: https://www.mayomedicallaboratories.com/test-catalog/Clinical+and+Interpretive/35534
+    11. MD Anderson Cancer Center [Internet]. The University of Texas MD Anderson Cancer Center; c2018. Hereditary Cancer Syndromes [cited 2018 Jul 3]; [about 4 screens]. Available from: https://www.mdanderson.org/prevention-screening/family-history/hereditary-cancer-syndromes.html
+    12. National Cancer Institute [Internet]. Bethesda (MD): U.S. Department of Health and Human Services; Genetic Testing for Hereditary Cancer Syndromes [cited 2018 Jul 3]; [about 3 screens]. Available from: https://www.cancer.gov/about-cancer/causes-prevention/genetics/genetic-testing-fact-sheet
+    13. National Cancer Institute [Internet]. Bethesda (MD): U.S. Department of Health and Human Services; NCI Dictionary of Cancer Terms: gene [cited 2018 Jul 3]; [about 3 screens]. Available from: https://www.cancer.gov/publications/dictionaries/cancer-terms/search?contains=false&q=gene
+    14. National Heart, Lung, and Blood Institute [Internet]. Bethesda (MD): U.S. Department of Health and Human Services; Blood Tests [cited 2018 Jul 3]; [about 3 screens]. Available from: https://www.nhlbi.nih.gov/health-topics/blood-tests
+    15. National Organization for Rare Disorders [Internet]. Danbury (CT): National Organization for Rare Disorders; c2018. PTEN Hamartoma Tumor Syndrome [cited 2018 Jul 3]; [about 3 screens]. Available from: https://rarediseases.org/rare-diseases/pten-hamartoma-tumor-syndrome
+    16. NeoGenomics [Internet]. Fort Myers (FL): NeoGenomics Laboratories Inc.; c2018. PTEN Mutation Analysis [cited 2018 Jul 3]; [about 3 screens]. Available from: https://neogenomics.com/test-menu/pten-mutation-analysis
+    17. NIH U.S. National Library of Medicine: Genetics Home Reference [Internet]. Bethesda (MD): U.S. Department of Health and Human Services; PTEN gene; 2018 Jul 3 [cited 2018 Jul 3]; [about 3 screens]. Available from: https://ghr.nlm.nih.gov/gene/PTEN
+    18. NIH U.S. National Library of Medicine: Genetics Home Reference [Internet]. Bethesda (MD): U.S. Department of Health and Human Services; What is a gene mutation and how do mutations occur?; 2018 Jul 3 [cited 2018 Jul 3]; [about 3 screens]. Available from: https://ghr.nlm.nih.gov/primer/mutationsanddisorders/genemutation
+    19. Quest Diagnostics [Internet]. Quest Diagnostics; c2000â2017. Test Center: PTEN Sequencing and Deletion/Duplication [cited 2018 Jul 3]; [about 3 screens]. Available from: https://www.questdiagnostics.com/testcenter/TestDetail.action?ntc=92566
+    20. St. Jude Children's Research Hospital [Internet]. Memphis (TN): St. Jude Children's Research Hospital; c2018. PTEN Hamartoma Tumor Syndrome [cited 2018 Jul 3]; [about 3 screens]. Available from: https://www.stjude.org/disease/pten-hamartoma-tumor-syndrome.html
+    21. University of Rochester Medical Center [Internet]. Rochester (NY): University of Rochester Medical Center; c2018. Health Encyclopedia: Breast Cancer: Genetic Testing [cited 2018 Jul 3]; [about 2 screens]. Available from: https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=34&contentid=16421-1
+
+## Related Health Topics
+
+    * Benign Tumors
+    * Breast Cancer
+    * Cancer
+    * Colonoscopy
+    * Colorectal Cancer
+    * Genetic Counseling
+    * Genetic Disorders
+    * Genetic Testing
+    * Health Screening
+    * Mammography
+    * Prostate Cancer
+    * Thyroid Cancer
+    * Uterine Cancer
+
+## Related Lab Test Information
+
+    * BRCA Test
+    * CA-125 Blood Test (Ovarian Cancer)
+    * How to Understand Your Lab Results
+    * Karyotype Genetic Test
+    * TP53 Genetic Test
+    * Tumor Marker Tests
+
+The medical information provided is for informational purposes only, and is
+not to be used as a substitute for professional medical advice, diagnosis or
+treatment. Please contact your health care provider with questions you may
+have regarding medical conditions or the interpretation of test results.
+
+In the event of a medical emergency, call 911 immediately.
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated on 26 February 2020
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

@@ -1,0 +1,267 @@
+Link: https://medlineplus.gov/ency/article/003694.htm    
+                                Description: Dexamethasone suppression test measures whether adrenocorticotrophic hormone (ACTH) secretion by the pituitary can be suppressed.    
+                                Keywords: None    
+                                            
+
+Skip navigation
+
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
+
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
+
+The navigation menu has been collapsed.
+
+Menu
+
+      * Health Topics
+      * Drugs & Supplements
+      * Videos & Tools
+      * About MedlinePlus
+Show Search
+
+Search MedlinePlus
+
+GO
+
+      * About MedlinePlus
+      * What's New
+      * Site Map
+      * Customer Support
+
+      * Health Topics
+      * Drugs & Supplements
+      * Videos & Tools
+
+EspaÃ±ol
+
+You Are Here:
+
+Home ->
+
+Medical Encyclopedia ->
+
+Dexamethasone suppression test
+
+URL of this page: //medlineplus.gov/ency/article/003694.htm
+
+# Dexamethasone suppression test
+
+To use the sharing features on this page, please enable JavaScript.
+
+Dexamethasone suppression test measures whether adrenocorticotrophic hormone
+(ACTH) secretion by the pituitary can be suppressed.
+
+## How the Test is Performed
+
+During this test, you will receive dexamethasone. This is a strong man-made
+(synthetic) glucocorticoid medicine. Afterward, your blood is drawn so that
+the cortisol level in your blood can be measured.
+
+There are two different types of dexamethasone suppression tests: low dose and
+high dose. Each type can either be done in an overnight (common) or standard
+(3-day) method (rare). There are different processes that may be used for
+either test. Examples of these are described below.
+
+Common:
+
+      * Low-dose overnight -- You will get 1 milligram (mg) of dexamethasone at 11 p.m., and a health care provider will draw your blood the next morning at 8 a.m. for a cortisol measurement.
+      * High-dose overnight -- The provider will measure your cortisol on the morning of the test. Then you will receive 8 mg of dexamethasone at 11 p.m. Your blood is drawn the next morning at 8 a.m. for a cortisol measurement. 
+
+Rare:
+
+      * Standard low-dose -- Urine is collected over 3 days (stored in 24-hour collection containers) to measure cortisol. On day 2, you will get a low dose (0.5 mg) of dexamethasone by mouth every 6 hours for 48 hours.
+      * Standard high-dose -- Urine is collected over 3 days (stored in 24-hour collection containers) for measurement of cortisol. On day 2, you will receive a high dose (2 mg) of dexamethasone by mouth every 6 hours for 48 hours.
+
+Read and follow the instructions carefully. The most common cause of an
+abnormal test result is when instructions are not followed.
+
+## How to Prepare for the Test
+
+The provider may tell you to stop taking certain medicines that can affect the
+test, including:
+
+      * Antibiotics
+      * Anti-seizure drugs
+      * Medicines that contain corticosteroids, such as hydrocortisone, prednisone
+      * Estrogen
+      * Oral birth control (contraceptives)
+      * Water pills (diuretics) 
+
+## How the Test will Feel
+
+When the needle is inserted to draw blood, some people feel moderate pain.
+Others feel only a prick or stinging. Afterward, there may be some throbbing
+or slight bruising. This soon goes away.
+
+## Why the Test is Performed
+
+This test is done when theÂ provider suspects that your body is producing too
+much cortisol. It is done to help diagnose Cushing syndrome and identify the
+cause.
+
+The low-dose test can help tell whether your body is producing too much ACTH.
+The high-dose test can help determine whether the problem is in the pituitary
+gland (Cushing disease).
+
+Dexamethasone is a man-made (synthetic) steroid that bids to the same receptor
+as cortisol. Dexamethasone reduces ACTH release in normal people. Therefore,
+taking dexamethasone should reduce ACTH level and lead to a decreased cortisol
+level.
+
+If your pituitary gland produces too much ACTH, you will have an abnormal
+response to the low-dose test. But you can have a normal response to the high-
+dose test.
+
+## Normal Results
+
+Cortisol level should decrease after you receive dexamethasone.
+
+Low dose:
+
+      * Overnight -- 8 a.m. plasma cortisol lower than 1.8 micrograms per deciliter (mcg/dL) or 50 nanomoles per liter (nmol/L)
+      * Standard -- Urinary free cortisol on day 3 lower than 10 micrograms per day (mcg/day) or 280 nmol/L
+
+High dose:
+
+      * Overnight -- greater than 50% reduction in plasma cortisol
+      * Standard -- greater than 90% reduction in urinary free cortisol 
+
+Normal value ranges may vary slightly among different laboratories. Some labs
+use different measurements or may test different specimens. Talk to your
+doctor about the meaning of your specific test results.
+
+## What Abnormal Results Mean
+
+An abnormal response to the low-dose test may mean that you have abnormal
+release of cortisol (Cushing syndrome). This could be due to:
+
+      * Adrenal tumor that produces cortisol
+      * Pituitary tumor that produces ACTH
+      * Tumor in the body that produces ACTH (ectopic Cushing syndrome) 
+
+The high-dose test can help tell a pituitary cause (Cushing disease) from
+other causes. An ACTH blood test may also help identify the cause of high
+cortisol.
+
+Abnormal results vary based on the condition causing the problem.
+
+Cushing syndrome caused by an adrenal tumor:
+
+      * Low-dose test -- no decrease in blood cortisol
+      * ACTH level -- low
+      * In most cases, the high-dose test is not needed 
+
+Ectopic Cushing syndrome:
+
+      * Low-dose test -- no decrease in blood cortisol
+      * ACTH level -- high
+      * High-dose test -- no decrease in blood cortisol 
+
+Cushing syndrome caused by a pituitary tumor (Cushing disease)
+
+      * Low-dose test -- no decrease in blood cortisol
+      * High-dose test -- expected decrease in blood cortisol 
+
+False test results can occur due to many reasons, including different
+medicines, obesity, depression, and stress. False results are more common in
+women than men.
+
+## Risks
+
+There is little risk involved with having your blood taken. Veins and arteries
+vary in size from one patient to another, and from one side of the body to the
+other. Taking blood from some people may be more difficult than from others.
+
+Other risks associated with having blood drawn are slight, but may include:
+
+      * Excessive bleeding
+      * Fainting or feeling lightheaded
+      * Multiple punctures to locate veins
+      * Hematoma (blood accumulating under the skin)
+      * Infection (a slight risk any time the skin is broken) 
+
+## Alternative Names
+
+DST; ACTH suppression test; Cortisol suppression test
+
+## References
+
+Chernecky CC, Berger BJ. Dexamethasone suppression test - diagnostic. In:
+Chernecky CC, Berger BJ, eds. _Laboratory Tests and Diagnostic Procedures_.
+6th ed. St Louis, MO: Elsevier Saunders; 2013:437-438.
+
+Guber HA, Farag AF. Evaluation of endocrine function. In: McPherson RA, Pincus
+MR, eds. _Henry's Clinical Diagnosis and Management by Laboratory Methods_.
+23rd ed. St Louis, MO: Elsevier; 2017:chap 24.
+
+Stewart PM, Newell-Price JDC. The adrenal cortex. In: Melmed S, Polonsky KS,
+Larsen PR, Kronenberg HM, eds. _Williams Textbook of Endocrinology_. 13th ed.
+Philadelphia, PA: Elsevier; 2016:chap 15.
+
+## Review Date 5/6/2019
+
+Updated by: Brent Wisse, MD, board certified in Metabolism/Endocrinology,
+Seattle, WA. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda
+Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+
+![Cushing's
+Syndrome](https://medlineplus.gov/images/Cushing'sSyndrome_thumb.jpg)Cushing's
+Syndrome _Read more_
+
+![NIH MedlinePlus
+Magazine](https://medlineplus.gov/images/ency_mag_card.jpg)NIH MedlinePlus
+Magazine _Read more_
+
+![Health Topics
+A-Z](https://medlineplus.gov/images/ency_healthtopics_card.jpg)Health Topics
+A-Z _Read more_
+
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
+
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
+
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
+
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
+
+      * About MedlinePlus
+      * What's New
+      * Site Map
+      * Customer Support
+      * Get updates
+      * Subscribe to RSS
+      * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+      * Disclaimers
+      * Copyright
+      * Privacy
+      * Accessibility
+      * Guidelines for Links
+      * Viewers & Players
+      * MedlinePlus Connect for EHRs
+      * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated: 23 March 2020
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
+

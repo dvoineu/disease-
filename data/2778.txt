@@ -1,265 +1,268 @@
+Link: https://medlineplus.gov/ency/article/000771.htm    
+                                Description: Wernicke-Korsakoff syndrome is a brain disorder due to vitamin B1 (thiamine) deficiency.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to search Skip directly to A to Z list Skip directly to site
-content Skip directly to page options
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-CDC Home
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-![CDC 24/7: Saving Lives. Protecting
-People.™](/TemplatePackage/images/cdcHeaderLogo.gif)CDC 24/7: Saving Lives.
-Protecting People.™
+The navigation menu has been collapsed.
 
-Search The CDC
+Menu
 
-Note: Javascript is disabled or is not supported by your browser. For this
-reason, some items on this page will be unavailable. For more information
-about this message, please visit this page: About CDC.gov.
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Show Search
 
-# 2009 H1N1 Flu
+Search MedlinePlus
 
-Content on this page was developed during the 2009-2010 H1N1 pandemic and _has
-not been updated_.
+GO
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * The H1N1 virus that caused that pandemic is now a regular human flu virus and continues to circulate seasonally worldwide.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * The English language content on this website is being archived for _historic and reference purposes only_.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * For current, updated information on seasonal flu, including information about H1N1, see the CDC Seasonal Flu website.
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-Site last updated August 11, 2010 1:00 PM ET
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-### Situation Update
+EspaÃ±ol
 
-![Map of flu activity in the
-U.S.](/flu/weekly/weeklyarchives2009-2010/images/h1n1usmap20_small_165x90.jpg)The
-U.S. Public Health Emergency for 2009 H1N1 Influenza expired on June 23, 2010.
-On August 10, 2010, the World Health Organization (WHO) International Health
-Regulations (IHR) Emergency Committee declared an end to the 2009 H1N1
-pandemic globally. For information about CDCâs response to the 2009 H1N1
-pandemic, visit The 2009 H1N1 Pandemic: Summary Highlights, April 2009-April
-2010. Â Internationally, 2009 H1N1 viruses and seasonal influenza viruses are
-co-circulating in many parts of the world.Â It is likely that the 2009 H1N1
-virus will continue to spread for years to come, like a regular seasonal
-influenza virus.  
-  
-**See More on Past H1N1 Updates Â»**
+You Are Here:
 
-### Vaccination
+Home ->
 
-CDC recommends a yearly flu vaccination as the first and most important step
-in protecting against the flu. The U.S. 2010-2011 seasonal influenza vaccine
-will protect against an H3N2 virus, an influenza B virus, and the 2009 H1N1
-virus that emerged last year to cause the first global pandemic in more than
-40 years and resulted in substantial illness, hospitalizations and deaths.
-Seasonal 2010-11 vaccine has begun shipping from manufacturers and CDC
-recommends that everyone 6 months and older get a 2010-2011 flu vaccine for
-the upcoming season as vaccine is available.Â
+Medical Encyclopedia ->
 
-  
+Wernicke-Korsakoff syndrome
 
-  
+URL of this page: //medlineplus.gov/ency/article/000771.htm
 
-### Current or New Information
+# Wernicke-Korsakoff syndrome
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * CDC Response: A Year In Review 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * CDC Estimates of Cases
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Antivirals/Flu Treatment 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * International Situation Update 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Information for Travelers 
+To use the sharing features on this page, please enable JavaScript.
 
-More
+Wernicke-Korsakoff syndrome is a brain disorder due to vitamin B1 (thiamine)
+deficiency.
 
-### Vaccination
+## Causes
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * General Information
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * For Clinicians/Healthcare Professionals
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Vaccine Safety
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Vaccine Supply Status
+Wernicke encephalopathy and Korsakoff syndrome are different conditions that
+often occur together. Both areÂ due to brain damage caused by a lack of
+vitamin B1.
 
-More
+Lack of vitamin B1 is common in people who have alcohol use disorder. It is
+also common in people whose bodies do not absorb food properly
+(malabsorption). This can sometimes occur with a chronic illness or after
+weight-loss (bariatric)Â surgery.
 
+Korsakoff syndrome, or Korsakoff psychosis, tends to develop as Wernicke
+symptoms go away. Wernicke encephalopathy causes brain damage in lower parts
+of the brain called the thalamus and hypothalamus. Korsakoff psychosis results
+from permanent damage to areas of the brain involved with memory.
 
+## Symptoms
 
-### Other 2009 H1N1 Flu Topics
+Symptoms of Wernicke encephalopathy include:
 
-##### Diagnosis
+    * Confusion and loss of mental activity that can progress to coma and death
+    * Loss of muscle coordination (ataxia) that can cause leg tremor
+    * Vision changes such as abnormal eye movements (back and forth movements called nystagmus), double vision,Â eyelid drooping
+    * Alcohol withdrawal
 
-How the illness is diagnosed, recommendations for lab testing…
+Symptoms of Korsakoff syndrome:
 
-##### Infection Control
+    * Inability to form new memories
+    * Loss of memory, can be severe
+    * Making up stories (confabulation)
+    * Seeing or hearing things that are not really there (hallucinations)
 
-Healthcare guidance, occupational safety, facemasks & respirators…
+## Exams and Tests
 
-##### Antivirals/Treatment
+Examination of the nervous/muscular system may show damage to many nerve
+systems:
 
-Use of Tamiflu and Relenza for treatment or prevention of H1N1 flu…
+    * Abnormal eye movement 
+    * Decreased or abnormal reflexes 
+    * Fast pulse (heart rate) 
+    * Low blood pressure 
+    * Low body temperature 
+    * Muscle weakness and atrophy (loss of tissue mass) 
+    * Problems with walk (gait) and coordination 
 
-##### Emergency Use Authorization
+The person may appear poorly nourished. The following tests are used to check
+a person's nutrition level:
 
-Info about CDC-requested & FDA-issued EUA drugs & devices…
+    * Serum albumin (relates to person's general nutrition)
+    * Serum vitamin B1 levels
+    * Transketolase activity in red blood cells (reduced in people with thiamine deficiency) 
 
-### What You Can Do to Stay Healthy
+Liver enzymes may be high in people with a history of long-term alcohol abuse.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * **Get vaccinated against seasonal and 2009 H1N1 flu.** Vaccination is the best protection we have against flu. CDC is now encouraging everyone to get vaccinated against 2009 H1N1. The vaccines to protect against 2009 H1N1 are widely available. Supplies of seasonal flu vaccine may be limited. Find a vaccine
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Influenza is thought to **spread mainly person-to-person** through coughing or sneezing of infected people. 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * **Take everyday actions to stay healthy.**
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Cover your nose and mouth with a tissue when you cough or sneeze. Throw the tissue in the trash after you use it. 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Wash your hands often with soap and water. If soap and water are not available, use an alcohol-based hand rub.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Avoid touching your eyes, nose and mouth. Germs spread that way.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Stay home if you get sick. CDC recommends that you stay home from work or school and limit contact with others to keep from infecting them. 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * **Follow public health advice** regarding school closures, avoiding crowds and other social distancing measures. 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * **Stay informed.** This website will be updated regularly as information becomes available. 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Call 1-800-CDC-INFO for more information.
+Other conditions that may causeÂ vitamin B1Â deficiency include:
 
-### Info for Specific Groups
+    * HIV/AIDS
+    * Cancers that have spread throughout the body
+    * Extreme nausea and vomiting during pregnancy (hyperemesis gravidarum)
+    * Heart failure (when treated with long-term diuretic therapy)
+    * Long periods of intravenous (IV) therapy without receiving thiamine supplements
+    * Long-term dialysis
+    * Very high thyroid hormone levels (thyrotoxicosis)
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Health Care Providers
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * State, Local & Tribal Health Officials
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Child Care Programs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * People 65 and Older
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * People with Asthma
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Parents & Caregivers
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Pregnant Women
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Travelers & Travel Industry
-
-More
-
-### Free Resources
-
-Brochures  
-Flyers  
-Podcasts  
-Other Resources
-
-More
-
-### Additional Resources
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Clinical & Public Health Guidance
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Social Media
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Tools
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Images of the Virus
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Audio & Video
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Press Updates
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Reports & Publications
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Related Links
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Other Flu Websites
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * What's New
-
-![For CDC Info, Text 'Health' to 87000.
-www.flu.gov](/images/campaigns/h1n1flu/texting4_150x125.gif)
-
-
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Print page
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Subscribe to RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Follow on Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Podcasts
-
-#### Get email updates
-
-To receive weekly email updates about this site, enter your email address:
-
-Enter Email Address Submit Button What's this?
-
-##### Contact Us:
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Centers for Disease Control and Prevention  
-1600 Clifton Rd  
-Atlanta, GA 30333
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * 800-CDC-INFO  
-(800-232-4636)  
-TTY: (888) 232-6348
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Contact CDC-INFO
-
-### File Formats Help:
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![Adobe PDF file](/TemplatePackage/images/icon_pdf.gif)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![Microsoft Word file](/TemplatePackage/images/icon_word.gif)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![Microsoft Excel file](/TemplatePackage/images/icon_excel.gif)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![Microsoft PowerPoint file](/TemplatePackage/images/icon_ppt.gif)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![Audio/Video file](/TemplatePackage/images/icon_wmv.gif)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![Zip Archive file](/TemplatePackage/images/icon_zip.gif)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![RealPlayer file](/TemplatePackage/images/icon_real.gif)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * ![Apple Quicktime file](/TemplatePackage/images/icon_qt.gif)
-
-How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
-![double arrows.](/TemplatePackage/images/btn_dblArrows.gif)
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Print
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Updates
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Subscribe
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Podcasts
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Content source: Centers for Disease Control and Prevention
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Home
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * A-Z Index
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Using this Site
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Link to Us
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Contact CDC
-
-![USA.gov: The U.S. Government's Official Web
-Portal](/TemplatePackage/images/logo_usagov.gif)![Department of Health and
-Human Services](/TemplatePackage/images/logo_dhhs.gif)
-
-Centers for Disease Control and Prevention   1600 Clifton Road Atlanta, GA
-30329-4027, USA  
-800-CDC-INFO (800-232-4636) TTY: (888) 232-6348 - Contact CDC-INFO
-
-A-Z Index
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    1. A
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    2. B
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    3. C
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    4. D
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    5. E
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    6. F
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    7. G
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    8. H
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    9. I
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    10. J
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    11. K
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    12. L
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    13. M
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    14. N
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    15. O
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    16. P
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    17. Q
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    18. R
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    19. S
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    20. T
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    21. U
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    22. V
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    23. W
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    24. X
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    25. Y
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    26. Z
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    27. #
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:27 PM
+A brain MRI may show changes in the tissue of the brain. But if Wernicke-
+Korsakoff syndrome is suspected, treatment should start immediately. Usually a
+brain MRI exam is not needed.
+
+## Treatment
+
+The goals of treatment are to control symptoms and to prevent the disorder
+from getting worse. Some people may need to stay in the hospital early in the
+condition to help control symptoms.
+
+Monitoring and special care may be needed if the person is:
+
+    * In a coma
+    * Lethargic
+    * Unconscious 
+
+Vitamin B1 is usually given by injection into a vein or a muscle as soon as
+possible. This may improve symptoms of:
+
+    * Confusion or delirium
+    * Difficulties with vision and eye movement
+    * Lack of muscle coordination 
+
+Vitamin B1 often does not improve loss of memory and intellect that occur with
+Korsakoff psychosis.
+
+Stopping alcohol use can prevent more loss of brain function and damage to
+nerves. A well-balanced, nourishing diet can help, but it is not a substitute
+for stopping alcohol use.
+
+## Outlook (Prognosis)
+
+Without treatment, Wernicke-Korsakoff syndrome gets steadily worse, and can be
+life threatening. With treatment, it is possible to control symptoms (such as
+uncoordinated movement and vision difficulties). This disorder canÂ also beÂ
+slowed or stopped.
+
+## Possible Complications
+
+Complications that may result include:
+
+    * Alcohol withdrawal
+    * Difficulty with personal or social interaction
+    * Injury caused by falls
+    * Permanent alcoholic neuropathy
+    * Permanent loss of thinking skills
+    * Permanent loss of memory
+    * Shortened life span
+
+## When to Contact a Medical Professional
+
+Call your health care provider or go to the emergency room if you have
+symptoms of Wernicke-Korsakoff syndrome, or if you have been diagnosed with
+the condition and your symptoms get worse or return.
+
+## Prevention
+
+Not drinking alcohol or drinking in moderation and getting enough nutrition
+reduce the risk of developing Wernicke-Korsakoff syndrome. If a heavy drinker
+will not quit, thiamine supplements and a good diet may reduce the chance of
+getting this condition, but the risk is not eliminated.
+
+## Alternative Names
+
+Korsakoff psychosis; Alcoholic encephalopathy; Encephalopathy - alcoholic;
+Wernicke's disease; Alcohol use - Wernicke; Alcoholism - Wernicke; Thiamine
+deficiency - Wernicke
+
+## Images
+
+    * ![Central nervous system and peripheral nervous system](//medlineplus.gov/ency/images/ency/tnails/8679t.jpg)Central nervous system and peripheral nervous system
+    * ![Brain](//medlineplus.gov/ency/images/ency/tnails/1074t.jpg)Brain
+    * ![Brain structures](//medlineplus.gov/ency/images/ency/tnails/19236t.jpg)Brain structures
+
+## References
+
+Koppel BS. Nutritional and alcohol-related neurologic disorders. In: Goldman
+L, Schafer AI, eds. _Goldman-Cecil Medicine_. 25th ed. Philadelphia, PA:
+Elsevier Saunders; 2016:chap 416.
+
+So YT. Deficiency diseases of the nervous system. In: Daroff RB, Jankovic J,
+Mazziotta JC, Pomeroy SL, eds. _Bradley's Neurology in Clinical Practice_. 7th
+ed. Philadelphia, PA: Elsevier; 2016:chap 85.
+
+## Review Date 2/27/2018
+
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper Medical
+School at Rowan University, Camden, NJ. Review provided by VeriMed Healthcare
+Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda
+Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+
+![Alcoholism and Alcohol
+Abuse](https://medlineplus.gov/images/Alcohol2_thumb.jpg)Alcohol Use Disorder
+(AUD) _Read more_
+
+![Brain Diseases](https://medlineplus.gov/images/BrainDiseases_thumb.jpg)Brain
+Diseases _Read more_
+
+![NIH MedlinePlus
+Magazine](https://medlineplus.gov/images/ency_mag_card.jpg)NIH MedlinePlus
+Magazine _Read more_
+
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
+
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
+
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
+
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated: 23 March 2020
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

@@ -1,158 +1,213 @@
+Link: https://medlineplus.gov/ency/article/007592.htm    
+                                Description: ADHD is a problem that most often affects children. Adults may be affected as well. People with ADHD may have problems with:     
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to search Skip directly to A to Z list Skip directly to
-navigation Skip directly to page options Skip directly to site content
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Sign in
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-My Account {{main.$rootScope.syndList.listName}}
+The navigation menu has been collapsed.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * {{list.listName}} 
-{{main.$rootScope.syndList.listName}} Logout
+Menu
 
-New User
+      * Health Topics
+      * Drugs & Supplements
+      * Videos & Tools
+      * About MedlinePlus
+Show Search
 
-![Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People](/TemplatePackage/3.0/images/masthead_subpage.svg)
-![Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People](/TemplatePackage/3.0/images/masthead_1-col.svg)
+Search MedlinePlus
 
-A-Z Topic Index
+GO
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * MENU
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * CDC A-Z
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * SEARCH
+      * About MedlinePlus
+      * What's New
+      * Site Map
+      * Customer Support
 
-# Public Health Media Library
+      * Health Topics
+      * Drugs & Supplements
+      * Videos & Tools
 
-Note: Javascript is disabled or is not supported by your browser. For this
-reason, some items on this page will be unavailable. For more information
-about this message, please visit this page: About CDC.gov.
+EspaÃ±ol
 
-Recommend on Facebook Tweet
-![Share](/TemplatePackage/3.0/images/social/addthis-32.png)ShareCompartir
+You Are Here:
 
-×
+Home ->
 
-### Contact Us
+Medical Encyclopedia ->
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * For non-technical or general public health questions, contact CDC-INFO by phone 800-CDC-INFO (800-232-4636) or email.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * If you need technical help: Report a Problem
+Medicines for ADHD
 
-##### File Formats Help:
+URL of this page: //medlineplus.gov/ency/article/007592.htm
 
-How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+# Medicines for ADHD
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Adobe PDF file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Microsoft PowerPoint file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Microsoft Word file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Microsoft Excel file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Audio/Video file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Apple Quicktime file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * RealPlayer file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Text file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Zip Archive file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * SAS file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * ePub file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * RIS file
+To use the sharing features on this page, please enable JavaScript.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Page last reviewed:{{main.CURRENT_DATE}}
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Page last updated:{{main.CURRENT_DATE}}
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Content source: 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Centers for Disease Control and Prevention, 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Office of the Associate Director for Communications, Division of Public Affairs
+ADHD is a problem that most often affects children. Adults may be affected as
+well. People with ADHD may have problems with:
 
-###### Follow CDC
+      * Being able to focus
+      * Being over active
+      * Impulsive behavior 
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Recommend
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Tweet
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Post
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * RSS
+Medicines can help improve symptoms of ADHD. Specific kinds of talk therapy
+can also help. Work closely with your health care providers to ensure that the
+treatment plan is successful.
 
-###### CDC Media
+TYPES OF MEDICINES
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Listen
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Watch
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * YouTube
+Stimulants are the most commonly used type of ADHD medicine. Other types of
+medicines are sometimes used instead. Some medicines are taken more than one
+time a day, while others are taken only once a day. Your provider will decide
+which medicine is best.
 
-![Department of Health and Human
-Services](/TemplatePackage/3.0/images/hhs.png)
+Know the name and dose of each medicine you take.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * ###### About CDC
+FINDING THE RIGHT MEDICINE AND DOSAGE
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Employment
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Newsroom
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Training/Education
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * CDC's Organization
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Mission and Vision
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Using this Site
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * ###### Legal
+It is important to work with your provider to make sure the right medicine is
+given at the right dose.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Link to Us
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Accessibility
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * No FEAR Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Inspector General
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * USA.gov
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                *                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 * ###### Contact CDC
+Always take your medicine the way it was prescribed. Talk to your provider if
+a medicine is not controlling symptoms, or if you are having side effects. The
+dose may need to be changed, or a new medicine may need to be tried.
 
-Centers for Disease Control and Prevention
+MEDICINE TIPS
 
-1600 Clifton Road Atlanta, GA 30329-4027 USA
+Some medicines for ADHD wear off over the day. Taking them before going to
+school or work may allow them to work when you need them the most. Your
+provider will advise you on this.
 
-800-CDC-INFO (800-232-4636)
+Other tips are:
 
-Contact CDC-INFO
+      * Refill your medicine before it runs out.
+      * Ask your provider whether your medicine should be taken with food or when there is no food in the stomach.
+      * If you are having problems paying for medicine, talk with your provider. There may be programs that provide medicines for free or at a lower cost. 
 
-TOP
+SAFETY TIPS FOR MEDICINE
 
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+Learn about the side effects of each medicine. Ask your provider what to do in
+case of side effects. Call your provider if you or your child notices side
+effects such as:
 
-Version {{main.VERSION}}
+      * Stomach pain
+      * Problems falling or staying asleep
+      * Eating less or weight-loss
+      * Tics or jerky movements
+      * Mood changes
+      * Unusual thoughts
+      * Hearing or seeing things that aren't there
+      * Fast heart beat 
 
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
-  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
-  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
-  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
-  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
-  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
-  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
-  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
-  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
-  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
-  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
-  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
-  *[15 hrs]: Monday, April 6, 2020 at 9:38 AM
-  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
-  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
-  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
-  *[10 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[]: You have unseen notifications
-  *[April 3 at 5:08 AM]: Friday, April 3, 2020 at 5:08 AM
-  *[April 1 at 8:09 AM]: Wednesday, April 1, 2020 at 8:09 AM
+DO NOT use supplements or herbal remedies without checking with your provider.
+DO NOT use street drugs. Any of these may cause your ADHD medicines not to
+work as well or have unexpected side effects.
+
+Check with your provider about whether any other medicines should not be taken
+at the same time as ADHD medicines.
+
+MEDICINE TIPS FOR PARENTS
+
+Regularly reinforce with your child the provider's treatment plan.
+
+Children with ADHD often forget to take their medicines. Have your child set
+up a system, such as using a pill organizer. This can remind your child to
+take medicine.
+
+Keep a close watch on possible side effects. Ask your child to tell you about
+any side effects. But be aware that your child may not understand when they
+are having side effects. Call the provider right away if your child does have
+side effects.
+
+Be aware of possible drug abuse. Stimulant-type ADHD medicines can be
+dangerous, especially in high doses. To ensure your child uses medicines
+safely:
+
+      * Talk to your child about the dangers of drug abuse.
+      * Teach your child not to share or sell their medicines.
+      * Monitor your child's medicines closely. 
+
+## References
+
+Feldman HM, Reiff MI. Clinical practice. Attention deficit-hyperactivity
+disorder in children and adolescents. _N Engl J Med_. 2014;370(9):838-846.
+PMID: 24571756 www.ncbi.nlm.nih.gov/pubmed/24571756.
+
+Prince JB, Wilens TE, Spencer TJ, Biederman J. Pharmacotherapy of attention-
+deficit/hyperactivity disorder across the life span. In: Stern TA, Fava M,
+Wilens TE, Rosenbaum JF, eds. _Massachusetts General Hospital Comprehensive
+Clinical Psychiatry_. 2nd ed. Philadelphia, PA: Elsevier; 2016:chap 49.
+
+## Review Date 2/24/2019
+
+Updated by: Ryan James Kimmel, MD, Medical Director of Hospital Psychiatry at
+the University of Washington Medical Center, Seattle, WA. Also reviewed by
+David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial Director,
+and the A.D.A.M. Editorial team.
+
+![Attention Deficit Hyperactivity
+Disorder](https://medlineplus.gov/images/AttentionDeficitHyperactivityDisorder_thumb.jpg)Attention
+Deficit Hyperactivity Disorder _Read more_
+
+![Medicines and
+Children](https://medlineplus.gov/images/MedicinesandChildren_thumb.jpg)Medicines
+and Children _Read more_
+
+![NIH MedlinePlus
+Magazine](https://medlineplus.gov/images/ency_mag_card.jpg)NIH MedlinePlus
+Magazine _Read more_
+
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
+
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
+
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
+
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
+
+      * About MedlinePlus
+      * What's New
+      * Site Map
+      * Customer Support
+      * Get updates
+      * Subscribe to RSS
+      * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+      * Disclaimers
+      * Copyright
+      * Privacy
+      * Accessibility
+      * Guidelines for Links
+      * Viewers & Players
+      * MedlinePlus Connect for EHRs
+      * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated: 23 March 2020
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

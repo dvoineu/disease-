@@ -1,208 +1,311 @@
+Link: https://medlineplus.gov/ency/article/001101.htm    
+                                Description: An arrhythmia is a disorder of the heart rate (pulse) or heart rhythm. The heart can beat too fast (tachycardia), too slow (bradycardia), or irregularly.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search ____
+The navigation menu has been collapsed.
 
-Ã
+Menu
 
-Submit __
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Show Search
 
-For a full list of topics: A-Z Index
+Search MedlinePlus
 
-CDC Laboratories
+GO
 
-Section Navigation
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-CDC Home
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Syndicate
+EspaÃ±ol
 
-# CDC Laboratories
+You Are Here:
 
-Minus
+Home ->
 
-Related Pages
+Medical Encyclopedia ->
 
-![Graphic: CDC Laboratories](/labs/images/labs-by-numbers_758px.png)
+Arrhythmias
 
-![Graphic: Biosafety in Microbiological and Biomedical
-Laboratories](/labs/images/biosafety-book_758px.jpg)
+URL of this page: //medlineplus.gov/ency/article/001101.htm
 
-CDC has more than 1700 scientists, working in more than 200 cutting-edge
-laboratories across the U.S. from Atlanta to Spokane, to Ft Collins, to
-Cincinnati, Pittsburgh, Morgantown, Anchorage, and San Juan. While CDC's
-laboratories are diverse in their functions and expertise, they play a vital
-role and are unified by a single mission: to protect the lives and health of
-the American public 24/7.
+# Arrhythmias
 
-More
+To use the sharing features on this page, please enable JavaScript.
 
-Protecting Americans
+An arrhythmia is a disorder of the heart rate (pulse) or heart rhythm. The
+heart can beat too fast (tachycardia), too slow (bradycardia), or irregularly.
 
-![CDC Lab Worker](/labs/images/PROTECTING-AMERICA.jpg)
+An arrhythmia can be harmless, a sign of other heart problems, or an immediate
+danger to your health.
 
-CDC laboratory scientists work across the U.S. on a range of critical work,
-including research, surveillance, and reference diagnostic testing.
+## Causes
 
-Enhancing Lab Science & Quality
+Normally, your heart works as a pump that brings blood to the lungs and the
+rest of the body.
 
-![CDC Lab Workers](/labs/images/KEEPING-CDC-LABS-SAFE.jpg)
+To help this happen, your heart has an electrical system that makes sure it
+contracts (squeezes) in an orderly way.
 
-Our laboratories follow CDC's pledge to produce the highest quality scientific
-data, while ensuring the safety of our staff and the nation.
+    * The electrical impulse that signals your heart to contract begins in an area of the heart called the sinoatrial node (also called the sinus node or SA node). This is your heartâs natural pacemaker.
+    * The signal leaves the SA node and travels through the heart along a set electrical pathway.
+    * Different nerve messages signal your heart to beat slower or faster. 
 
-Strengthening Lab Safety
+Arrhythmias are caused by problems with the heartâs electrical conduction
+system.
 
-![CDC Lab Worker](/labs/images/IMPROVING-CDC-LAB-SAFETY.jpg)
+    * Abnormal (extra) signals may occur.
+    * Electrical signals may be blocked or slowed.
+    * Electrical signals travel in new or different pathways through the heart. 
 
-As a result of ambitious efforts to strengthen and reform CDC's laboratory
-safety practices and oversight, CDC remains a model of scientific excellence
-and safety.
+Some common causes of abnormal heartbeats are:
 
-Who We Are
+    * Abnormal levels of potassium or other substances in the body
+    * Heart attack, or a damaged heart muscle from a past heart attack
+    * Heart disease that is present at birth (congenital)
+    * Heart failure or an enlarged heart
+    * Overactive thyroid gland 
 
-![Steve Monroe, PhD, ADLSS, CDC](/about/images/leadership/leaders/adlss.jpg)
+![Arrhythmias](//medlineplus.gov/ency/images/ency/tnails/200035t.gif)Watch
+this video about:Arrhythmias
 
-Steve Monroe, PhD  
-ADLSS, CDC
+Arrhythmias may also be caused by some substances or drugs, including:
 
-Steve Monroe, PhD, is the Associate Director for Laboratory Science and Safety
-(ADLSS) at CDC. He oversees the Office of Laboratory Science and Safety (OLSS)
-which provides high-level oversight and coordination of critical laboratory
-policies and operations, particularly those associated with laboratory safety
-and quality management programs at all CDC campuses.
+    * Alcohol, caffeine, or stimulant drugs
+    * Heart or blood pressure medicines
+    * Cigarette smoking (nicotine)
+    * Drugs that mimic the activity of your nervous system
+    * Medicines used for depression or psychosis 
 
-More
+Sometimes medicines used to treat one type of arrhythmia will cause another
+type of abnormal heart rhythm.
 
-Laboratory Science & Safety: Mission Critical
+Some of the more common abnormal heart rhythms are:
 
-pdf iconView Transcript media iconLow Resolution Video
+    * Atrial fibrillation or flutter
+    * Atrioventricular nodal reentry tachycardia (AVNRT)
+    * Heart block or atrioventricular block
+    * Multifocal atrial tachycardia
+    * Paroxysmal supraventricular tachycardia
+    * Sick sinus syndrome
+    * Ventricular fibrillation or ventricular tachycardia
+    * Wolff-Parkinson-White syndrome
 
-Page last reviewed: March 13, 2020
+## Symptoms
 
-Content source: Centers for Disease Control and Prevention
+When you have an arrhythmia, your heartbeat may be:
 
-home CDC Laboratories
+    * Too slow (bradycardia)
+    * Too quick (tachycardia)
+    * Irregular, uneven, possibly with extra or skipped beats 
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Protecting Americans
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Enhancing Lab Science & Quality
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Strengthening Lab Safety expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Biosafety in Microbiological & Biomedical Laboratories (BMBL) 5th Edition
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Historical Lab Safety Activities
+An arrhythmia may be present all of the time or it may come and go. You may or
+may not feel symptoms when the arrhythmia is present. Or, you may only notice
+symptoms when you are more active.
 
-**HAVE QUESTIONS?**
+Symptoms can be very mild, or they may be severe or even life threatening.
 
-Visit CDC-INFO
+Common symptoms that may occur when the arrhythmia is present include:
 
-Call 800-232-4636
+    * Chest pain
+    * Fainting
+    * Lightheadedness, dizziness
+    * Paleness
+    * Palpitations (feeling your heart beat fast or irregularly)
+    * Shortness of breath
+    * Sweating 
 
-Email CDC-INFO
+## Exams and Tests
 
-Open 24/7
+The health care provider will listen to your heart with a stethoscope and feel
+your pulse. Your blood pressure may be low or normal or even high as a result
+of being uncomfortable.
 
-**CDC INFORMATION**
+An ECG will be the first test done.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * About CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Jobs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * File Viewers & Players
+Heart monitoring devices are often used to identify the rhythm problem, such
+as a:
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Nondiscrimination
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Accessibility
+    * Holter monitor (where you wear a device that records and stores your heart rhythm for 24 hours)
+    * Event monitor or loop recorder (worn for 2 weeks or longer, where you record your heart rhythm when you feel an abnormal rhythm) 
+    * Other long-term monitoring options
 
-**CONNECT WITH CDC**  
+An echocardiogram is often ordered to examine the size or structure of your
+heart.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Youtube
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Instagram
-  
+Coronary angiography to see how blood flows through the arteries in your
+heart.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
+A special test, called an electrophysiology study (EPS), is done to take a
+closer look at the heart's electrical system.
 
-U.S. Department of Health & Human Services
+## Treatment
 
-USA.gov
+When an arrhythmia is serious, you may need urgent treatment to restore a
+normal rhythm. This may include:
 
-CDC Website Exit Disclaimer external icon
+    * Electrical "shock" therapy (defibrillation or cardioversion)
+    * Implanting a short-term heart pacemaker
+    * Medicines given through a vein or by mouth 
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
+Sometimes, better treatment for your angina or heart failure will lower your
+chance of having an arrhythmia.
 
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+Medicines called anti-arrhythmic drugs may be used:
 
-SAS stats
+    * To prevent an arrhythmia from happening again
+    * To keep your heart rate from becoming too fast or too slow 
 
-#### Exit Notification/Disclaimer Policy
+Some of these medicines can have side effects. Take them as prescribed by your
+provider. DO NOT stop taking the medicine or change the dose without first
+talking to your provider.
 
-Close
+Other treatments to prevent or treat abnormal heart rhythms include:
 
-**Links with this icon indicate that you are leaving the CDC website.**
+    * Cardiac ablation, used to destroy areas in your heart that may be causing your heart rhythm problems
+    * An implantable cardioverter defibrillator, placed in people who are at high risk of sudden cardiac death
+    * Permanent pacemaker, a device that senses when your heart is beating irregularly, too slowly, or too fast. It sends a signal to your heart that makes your heart beat at the correct pace. 
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
+## Outlook (Prognosis)
 
-Cancel Continue
+The outcome depends on several factors:
 
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
-  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
-  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
-  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
-  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
-  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
-  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
-  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
-  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
-  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
-  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
-  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
-  *[15 hrs]: Monday, April 6, 2020 at 9:38 AM
-  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
-  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
-  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
+    * The kind of arrhythmia you have. (Some abnormal heart rhythms may be life threatening if not treated right away, or DO NOT respond well to treatment.)
+    * Whether you have coronary artery disease, heart failure, or valvular heart disease.
+
+## When to Contact a Medical Professional
+
+Call your provider if:
+
+    * You develop any of the symptoms of a possible arrhythmia.
+    * You have been diagnosed with an arrhythmia and your symptoms worsen or DO NOT improve with treatment.
+
+## Prevention
+
+Taking steps to prevent coronary artery disease may reduce your chance of
+developing an arrhythmia.
+
+## Alternative Names
+
+Abnormal heart rhythms; Bradycardia; Tachycardia; Fibrillation
+
+## Patient Instructions
+
+    * Atrial fibrillation - discharge 
+    * Heart pacemaker - discharge
+    * Taking warfarin (Coumadin, Jantoven) - what to ask your doctor
+
+## Images
+
+    * ![Heart - section through the middle](//medlineplus.gov/ency/images/ency/tnails/1056t.jpg)Heart - section through the middle
+    * ![Heart - front view](//medlineplus.gov/ency/images/ency/tnails/1097t.jpg)Heart - front view
+    * ![Normal heart rhythm](//medlineplus.gov/ency/images/ency/tnails/18032t.jpg)Normal heart rhythm
+    * ![Bradycardia](//medlineplus.gov/ency/images/ency/tnails/18033t.jpg)Bradycardia
+    * ![Ventricular tachycardia](//medlineplus.gov/ency/images/ency/tnails/18034t.jpg)Ventricular tachycardia
+    * ![Atrioventricular block - ECG tracing](//medlineplus.gov/ency/images/ency/tnails/1429t.jpg)Atrioventricular block - ECG tracing
+    * ![Conduction system of the heart](//medlineplus.gov/ency/images/ency/tnails/18052t.jpg)Conduction system of the heart
+
+## References
+
+Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS guideline for
+management of patients with ventricular arrhythmias and the prevention of
+sudden cardiac death. _Heart Rhythm_. 2017. S1547-5271(17)31249-3. PMID:
+29097320 www.ncbi.nlm.nih.gov/pubmed/29097320.
+
+Olgin JE. Approach to the patient with suspected arrhythmia. In: Goldman L,
+Schafer AI, eds. _Goldman-Cecil Medicine_. 25th ed. Philadelphia, PA: Elsevier
+Saunders; 2016:chap 62.
+
+Tomaselli GF, Rubart M, Zipes DP. Mechanisms of cardiac arrhythmias. In: Zipes
+DP, Libby P, Bonow RO, Mann DL, Tomaselli GF, Braunwald E, eds. _Braunwald's
+Heart Disease: A Textbook of Cardiovascular Medicine_. 11th ed. Philadelphia,
+PA: Elsevier; 2019:chap 34.
+
+Tracy CM, Epstein AE, Darbar D, et al. 2012 ACCF/AHA/HRS focused update of the
+2008 guidelines for device-based therapy of cardiac rhythm abnormalities: a
+report of the American College of Cardiology Foundation/American Heart
+Association Task Force on Practice Guidelines. _J Am Coll Cardiol_.
+2012;60(14):1297-1313. PMID: 22975230 www.ncbi.nlm.nih.gov/pubmed/22975230.
+
+## Review Date 5/16/2018
+
+Updated by: Michael A. Chen, MD, PhD, Associate Professor of Medicine,
+Division of Cardiology, Harborview Medical Center, University of Washington
+Medical School, Seattle, WA. Also reviewed by David Zieve, MD, MHA, Medical
+Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+
+![Arrhythmia](https://medlineplus.gov/images/Arrhythmia_thumb.jpg)Arrhythmia
+_Read more_
+
+![NIH MedlinePlus
+Magazine](https://medlineplus.gov/images/ency_mag_card.jpg)NIH MedlinePlus
+Magazine _Read more_
+
+![Health Topics
+A-Z](https://medlineplus.gov/images/ency_healthtopics_card.jpg)Health Topics
+A-Z _Read more_
+
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
+
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
+
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
+
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated: 23 March 2020
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

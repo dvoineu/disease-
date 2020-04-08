@@ -1,344 +1,202 @@
+Link: https://medlineplus.gov/ency/article/003666.htm    
+                                Description: The sickle cell test looks for the abnormal hemoglobin in the blood that causes the disorder sickle cell disease.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link Skip directly to A-Z link Skip directly to A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search ____
+The navigation menu has been collapsed.
 
-Ã
+Menu
 
-Submit __
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Show Search
 
-For a full list of topics: A-Z Index
+Search MedlinePlus
 
-Methicillin-resistant _Staphylococcus aureus_ (MRSA)
+GO
 
-Section Navigation
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-CDC Home
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Syndicate
-
-# What CDC is Doing to Combat MRSA
-
-Minus
-
-Related Pages
-
-On This Page
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Tracking MRSA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * MRSA Research
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Spotlight on States 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Prevention Efforts with State Health Departments
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * More Information
-
-Reducing MRSA infections is a CDC priority. CDC and U.S. Department of Health
-and Human Services are working with healthcare facilities to meet the goals in
-the 2013 National Action Plan to Prevent Healthcare-Associated
-InfectionsExternal and reduce bloodstream infections caused by MRSA by 50% by
-2020 using the 2015 baseline.
-
-To protect people from MRSA, CDC works to
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * prevent infections;
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * prevent spread of the germ; and
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * improve antibiotic use, which can slow the development of resistance.
-
-Tracking MRSA
-
-CDC scientists track the number and kind of MRSA infections throughout the
-country using complementary systems. Together, these systems give CDC, other
-Federal agencies such as Centers for Medicare & Medicaid Services (CMS),
-health departments, and healthcare facilities information to better understand
-where MRSA infections are happening, the types (strains) of staph bacteria
-that are causing these, and where to put resources to help stop infections.
+EspaÃ±ol
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * National Healthcare Safety Network (NHSN) Reports  
-Information sent from healthcare facilities to NHSN allows CDC to determine
-how healthcare facilities overall are performing against national infection
-prevention goals. It also allows CDC, health departments and facilities the
-ability to identify, report, and help specific facilities and units with high
-infection rates.
+You Are Here:
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Emerging Infections Program (EIP)  
-Using information from several locations throughout the country, CDC estimates
-the national burden of MRSA and can identify people most at risk. This system
-includes MRSA infections that happen in both the communities and in healthcare
-facilities. CDC has previously reported on declines in invasive MRSA incidence
-and other reports have suggested that during this time US MRSA strain
-epidemiology has changed. The CDC Emerging Infections Program looked at
-invasive MRSA bloodstream infection trends by strain type and healthcare
-exposure in a subset of their surveillance region. They found that most of the
-decline in MRSA bloodstream infections was from decreases in strains that
-traditionally have been closely associated with healthcare exposure risk,
-whereas outside of the hospital no change was found in incidence of the
-dominant strain that causes infections in the community, called USA300. The
-authors concluded that methods to prevent MRSA bloodstream infections from the
-USA300 strain will be needed to further reduce burden from MRSA bloodstream
-infections.
+Home ->
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Electronic health records (EHR)  
-CDC collaborates with EHR databases from more than 400 U.S. acute care
-hospitals to describe infection trends and monitor progress.
+Medical Encyclopedia ->
 
-Top of Page
+Sickle cell test
 
-MRSA Research
+URL of this page: //medlineplus.gov/ency/article/003666.htm
 
-CDC supports activities to better understand how to detect, prevent, and
-respond to MRSA and protect people from MRSA infections. Some of the CDC-
-supported projects include:
+# Sickle cell test
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * **REDUCE MRSA**  
-CDC's Prevention Epicenters studied the use of decolonization with
-chlorohexidine and mupirocin, which can be used to reduce the amount of MRSA
-on patients carrying it, in intensive care units (ICUs) in 43 U.S. hospitals.
-The study found that universal use in these ICUs reduced MRSA by 37%. The
-study is continuing to investigate if other methods for decolonization can be
-as effective.
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * **ABATE Study**  
-CDC's Prevention Epicenters also studied the use of chlorohexidine in all
-patients and chlorohexidine and mupirocin for patients known to have MRSA and
-compared it with routine bathing. The chlorohexidine and chlorohexidine-and-
-mupirocin combination reduced MRSA by at least 30%.
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * **Project CLEAR**  
-Another CDC Prevention Epicenter randomized controlled clinical trial
-investigated infection rates in patients discharged from the hospital with
-hygiene education versus patients discharged from the hospital with hygiene
-education and serial decolonization over 6 months (an effort to reduce the
-amount of MRSA a person carries). Patients who were educated and decolonized
-had 30% fewer MRSA infections in the one year following discharge.
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * **The University of California Irvine**  
-Patients sometimes carry MRSA without showing signs of it (colonization) and
-may suffer infections from the strain later. This 2018 one-year study will
-evaluate what percent of MRSA carriers being discharged from hospitals have a
-community-associated strain. This study will also assess what percent of
-patients carrying the community MRSA variant develop infection within a year
-of discharge. Finally, this project will assess whether a repeated
-decolonization treatment can reduce post-discharge infections due to this
-strain.
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * **Rush University Medical Center**  
-In this 2018 one-year study, researchers will use whole genome sequencing
-(WGS) to examine historical MRSA clinical isolates from the Cook County Health
-and Hospitals System in Chicago, IL. The objective of this study is to use WGS
-along with epidemiologic data to better understand the spread of MRSA between
-healthcare and community settings, with an ultimate goal to identify potential
-interventions that can prevent infections.
-
-Top of Page
-
-Spotlight on States
+To use the sharing features on this page, please enable JavaScript.
 
-Through the Antibiotic Resistance (AR) Solutions Initiative, CDC supports
-every state, some large cities, and Puerto Rico to rapidly detect and prevent
-spread of infections, like MRSA. With 2017 funding:
+The sickle cell test looks for the abnormal hemoglobin in the blood that
+causes the disorder sickle cell disease.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * **Kentucky** supported the investigation of an outbreak of MRSA joint infections in patients who received injections at an outpatient orthopedic clinic. Recommendations were made to address observed breaches in infection control and concerns with medication combinations, and no further cases were identified.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * **New Mexico** responded to an increase in positive MRSA cultures in a NICU (a hospital unit that cares for newborns) by evaluating bed location and patient movement, testing isolates, providing comprehensive recommendations, launching an educational campaign, and conducting enhanced surveillance. Follow up showed no new cases.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * **Pennsylvania** collaborated with a local jurisdiction to respond to 9 cases of invasive MRSA related to injection-related infection control breaches in an outpatient clinic. Immediate remediation prevented further cases and led to improvements in infection control practices.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * **South Carolina** effectively responded to five cases of _Staphyloccocus aureus_ in a NICU. Facility infection control practices were observed and recommendations were made and implemented. No further cases were identified.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * **Virginia** responded to two fatal cases of invasive MRSA infections in a NICU by issuing recommendations for enhanced surveillance, screening staff, and increased environmental cleaning. This generated awareness of the mortality associated with invasive MRSA infections and the importance of reporting.
+## How the Test is Performed
 
-Top of Page
+A blood sample is needed.
 
-Prevention Efforts with State Health Departments
-
-CDC partners with state health departments to track MRSA infections, promote
-MRSA prevention, and respond to MRSA outbreaks in healthcare settings.
+## How the Test will Feel
 
-#### Tracking
+When the needle is inserted to draw blood, some people feel moderate pain.
+Others feel only a prick or stinging. Afterward, there may be some throbbing
+or a bruise. This soon goes away.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * MRSA Surveillance through the National Healthcare Safety Network
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Invasive _Staphylococcus_ (MRSA/ MSSA) Infection Tracking through the Emerging Infections Program
-
-#### Prevention
+## Why the Test is Performed
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * MRSA Baseline Prevention Practices Assessment Tool For States Establishing HAI Prevention Collaborative Cdc-pdf[PDF - 7 pages]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * State-based HAI Prevention Activities
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Healthcare-associated Infections Prevention Toolkits
-
-#### Outbreaks
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * HAI Outbreak Investigation Toolkit
+This test is done to tell if a person has abnormal hemoglobin that causes
+sickle cell disease and sickle cell trait. Hemoglobin is a protein in red
+blood cells that carries oxygen.
 
-Top of Page
+In sickle cell disease, a person hasÂ two abnormal hemoglobin S genes. A
+person with sickle cell trait has onlyÂ one of these abnormal genes and no
+symptoms, or only mild ones.
 
-More Information
+This test does not tell the difference between these two conditions. Another
+test, called hemoglobin electrophoresis, will be done to tell which condition
+someone has.
 
-More about CDC surveillance programs and reports related to MRSA:
+## Normal Results
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * CDC _Vital Signs:_ Making Healthcare Safer Cdc-pdf[PDF - 4 pages]
+A normal test result is called a negative result.
 
-Top of Page
+Normal value ranges may vary slightly among different laboratories. Some labs
+use different measurements or test different samples. Talk to your health care
+provider about the meaning of your specific test results.
 
-Page last reviewed: February 1, 2019
+## What Abnormal Results Mean
 
-Content source: Centers for Disease Control and Prevention, National Center
-for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of Healthcare
-Quality Promotion (DHQP)
+An abnormal test result indicates the person might haveÂ one of these:
 
-home MRSA
+    * Sickle cell disease
+    * Sickle cell trait 
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * General Information expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * For Patients
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * For School & Daycare
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * For Coaches & Athletic Directors
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * For Athletes
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Factsheets & Posters
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Healthcare Settings expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Outpatient Management
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Preventing Infections
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Cleaning & Disinfection expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Athletic Facilities
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Laundry
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Photos expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 1
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 2
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 3
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 4
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 5
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 6
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 7
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 8
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 9
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 10
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 11
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 12
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 13
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * MRSA Bacteria Photo 14
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Laboratory Testing
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * What CDC is Doing
-
-Get Email Updates
-
-To receive email updates about this page, enter your email address:
-
-Email Address
-
-What's this?
-
-Submit
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * About CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Jobs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * File Viewers & Players
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Nondiscrimination
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Accessibility
-
-**CONNECT WITH CDC**  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Youtube
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Instagram
-  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Email
-
-U.S. Department of Health & Human Services
-
-USA.gov
-
-CDC Website Exit Disclaimer external icon
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Email
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-PDF file_external
-
-#### Exit Notification/Disclaimer Policy
-
-Close
-
-**Links with this icon indicate that you are leaving the CDC website.**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
-  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
-  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
-  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
-  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
-  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
-  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
-  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
-  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
-  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
-  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
-  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
-  *[15 hrs]: Monday, April 6, 2020 at 9:38 AM
-  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
-  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
-  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
-  *[10 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[]: You have unseen notifications
-  *[April 3 at 5:08 AM]: Friday, April 3, 2020 at 5:08 AM
-  *[April 1 at 8:09 AM]: Wednesday, April 1, 2020 at 8:09 AM
+Iron deficiency or blood transfusions within the past 3 months can cause a
+false negative result. This means the person might have the abnormal
+hemoglobin for sickle cell, but these other factors are making their test
+results appear negative (normal).
+
+## Risks
+
+There is little risk involved with having your blood taken. Veins and arteries
+vary in size from one person to another, and from one side of the body to the
+other. Obtaining a blood sample from some people may be more difficult than
+from others.
+
+Other risks associated with having blood drawn are slight, but may include:
+
+    * Excessive bleeding
+    * Fainting or feeling lightheaded
+    * Multiple punctures to locate veins
+    * Hematoma (blood buildup under the skin)
+    * Infection (a slight risk any time the skin is broken) 
+
+## Alternative Names
+
+Sickledex; Hgb S test
+
+## Images
+
+    * ![Red blood cells, sickle cell](//medlineplus.gov/ency/images/ency/tnails/1212t.jpg)Red blood cells, sickle cell
+    * ![Red blood cells - multiple sickle cells](//medlineplus.gov/ency/images/ency/tnails/1223t.jpg)Red blood cells - multiple sickle cells
+    * ![Red blood cells - sickle cells](//medlineplus.gov/ency/images/ency/tnails/1494t.jpg)Red blood cells - sickle cells
+    * ![Red blood cells - sickle and Pappenheimer](//medlineplus.gov/ency/images/ency/tnails/1495t.jpg)Red blood cells - sickle and Pappenheimer
+
+## References
+
+Chernecky CC, Berger BJ. Sickle cell test - blood. In: Chernecky CC, Berger
+BJ, eds. _Laboratory Tests and Diagnostic Procedures_. 6th ed. St Louis, MO:
+Elsevier Saunders; 2013:1014.
+
+Saunthararajah Y, Vichinsky EP. Sickle cell disease: clinical features and
+management. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds. _Hematology:
+Basic Principles and Practice_. 7th ed. Philadelphia, PA: Elsevier; 2018:chap
+42.
+
+## Review Date 1/19/2018
+
+Updated by: Richard LoCicero, MD, private practice specializing in hematology
+and medical oncology, Longsteet Cancer Center, Gainesville, GA. Review
+provided by VeriMed Healthcare Network. Also reviewed by David Zieve, MD, MHA,
+Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M.
+Editorial team.
+
+![](https://medlineplus.gov/images/Sickle_Cell_Topic_thumb.jpg)Sickle Cell
+Disease _Read more_
+
+![NIH MedlinePlus
+Magazine](https://medlineplus.gov/images/ency_mag_card.jpg)NIH MedlinePlus
+Magazine _Read more_
+
+![Health Topics
+A-Z](https://medlineplus.gov/images/ency_healthtopics_card.jpg)Health Topics
+A-Z _Read more_
+
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
+
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
+
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
+
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated: 23 March 2020
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

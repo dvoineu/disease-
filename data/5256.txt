@@ -1,266 +1,241 @@
+Link: https://medlineplus.gov/ency/article/007348.htm    
+                                Description: A computed tomography (CT) scan of the leg makes cross-sectional pictures of the leg. It uses x-rays to create the images.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search ____
+The navigation menu has been collapsed.
 
-Ã
+Menu
 
-Submit __
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Show Search
 
-For a full list of topics: A-Z Index
+Search MedlinePlus
 
-Parasites - Hookworm
+GO
 
-Section Navigation
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-CDC Home
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Syndicate
+EspaÃ±ol
 
-# Parasites - Hookworm
+You Are Here:
 
-Minus
+Home ->
 
-Related Pages
+Medical Encyclopedia ->
 
-![hookworm](/parasites/images/hookworm/home_page_image_hookworm.jpg)
+Leg CT scan
 
-An estimated 576-740 million people in the world are infected with hookworm.
-Hookworm was once widespread in the United States, particularly in the
-southeastern region, but improvements in living conditions have greatly
-reduced hookworm infections. Hookworm, _Ascaris_ , and whipworm are known as
-soil-transmitted helminths (parasitic worms). Together, they account for a
-major burden of disease worldwide.
+URL of this page: //medlineplus.gov/ency/article/007348.htm
 
-Hookworms live in the small intestine. Hookworm eggs are passed in the feces
-of an infected person. If the infected person defecates outside (near bushes,
-in a garden, or field) of if the feces of an infected person are used as
-fertilizer, eggs are deposited on soil. They can then mature and hatch,
-releasing larvae (immature worms). The larvae mature into a form that can
-penetrate the skin of humans. Hookworm infection is mainly acquired by walking
-barefoot on contaminated soil. One kind of hookworm can also be transmitted
-through the ingestion of larvae.
+# Leg CT scan
 
-Most people infected with hookworms have no symptoms. Some have
-gastrointestinal symptoms, especially persons who are infected for the first
-time. The most serious effects of hookworm infection are blood loss leading to
-anemia, in addition to protein loss. Hookworm infections are treatable with
-medication prescribed by your health care provider.
+To use the sharing features on this page, please enable JavaScript.
 
-_Image: L: Filariform (L3) hookworm larva in a wet mount. R: Hookworm
-rhabditiform larva (wet preparation). Credit:DPDx_
+A computed tomography (CT) scan of the leg makes cross-sectional pictures of
+the leg. It uses x-rays to create the images.
 
-Clipboard_01
+## How the Test is Performed
 
-General Information
+You will lie on a narrow table that slides into the center of the CT scanner.
 
-Most common questions answered...
+Once you are inside the scanner, the machine's x-ray beam rotates around you.
+(Modern "spiral" scanners can perform the exam without stopping.)
 
-Search_02
+A computer creates separate images of the body area, called slices. These
+images can be stored, viewed on a monitor, or printed on film. Three-
+dimensional (3D) models of the leg can be created by adding the slices
+together.
 
-Epidemiology & Risk Factors
+You will need to lie still during the exam. Movement can cause blurred images.
+You may need to hold your breath for short periods of time.
 
-Who gets it and how...
+The scan should take only 10 to 15 minutes.
 
-Lab_04
+## How to Prepare for the Test
 
-Biology
+Some exams use a special dye, called contrast, that is put into your body
+before the test starts. Contrast helps certain areas show up better on the
+x-rays.
 
-Stages of parasite development...
+    * Contrast can be given through a vein (IV) in your hand or forearm. If contrast is used, you may also be asked not to eat or drink anything for 4 to 6 hours before the test.
+    * Let your health care provider know if you have ever had a reaction to contrast. You may need to take medicines before the test in order to avoid this problem.
+    * Before having the contrast, tell your provider if you take the diabetes medicine metformin (Glucophage). You may need to take extra steps before the test if you take this drug. 
 
-Medical_03
+Too much weight can cause damage to the scanner's working parts. Find out if
+the CT machine has a weight limit if you weigh more than 300 pounds (135
+kilograms).
 
-Disease
+You will wear a hospital gown during the study. You will need to take off all
+jewelry.
 
-Signs and symptoms of the disease...
+## How the Test will Feel
 
-Lab_05
+Some people may be uncomfortable lying on the hard table.
 
-Diagnosis
+Contrast given through an IV may cause a slight burning feeling, a metal taste
+in the mouth, and a warm flushing of the body. These feelings are normal and
+go away in a few seconds.
 
-Tests for infection...
+## Why the Test is Performed
 
-Lab_03
+CT scan makes detailed pictures of the body very quickly. The test may help
+look for:
 
-Treatment
+    * An abscess or infection
+    * A mass that is felt during a physical exam
+    * The cause of pain or other problems in the foot, ankle, or knee joints (usually when an MRI cannot be done)
+    * A broken bone
+    * The pattern of the fractures
+    * Masses and tumors, including cancer 
+    * Healing problems or scar tissue following surgery
 
-Medication and steps to take...
+A CT scan may also be used to guide a surgeon to the right area during a
+biopsy.
 
-Lab_02
+## Normal Results
 
-Prevention & Control
+Results are considered normal if the leg being examined looks OK.
 
-How to stay healthy or get better...
+## What Abnormal Results Mean
 
-Medical_04
+Abnormal results may be due to:
 
-Resources for Health Professionals
-
-What you need to know...
-
-Page last reviewed: January 10, 2013
-
-Content source: Global Health, Division of Parasitic Diseases
-
-home Hookworm
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * General Information expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Hookworm FAQs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Epidemiology & Risk Factors
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Biology
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Disease
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Diagnosis
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Treatment
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Prevention & Control
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Resources for Health Professionals
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Publications
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Additional Resources
-
-Social_govd govD  Get Email Updates
-
-To receive email updates about this page, enter your email address:
-
-Email Address
-
-What's this?
-
-Submit
-
-Information For
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Travelers
-
-Related Links
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Parasites A-Z Index
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Parasites Glossary
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Neglected Tropical Diseases
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Laboratory Diagnostic Assistance [DPDx]
-
-Contact Us
-
-For Health Care Providers, Emergency Consultations, and General Public.
-
-**Contact Us**
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * About CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Jobs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * File Viewers & Players
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Nondiscrimination
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Accessibility
-
-**CONNECT WITH CDC**  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Youtube
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Instagram
-  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Email
-
-U.S. Department of Health & Human Services
-
-USA.gov
-
-CDC Website Exit Disclaimer external icon
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Email
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-clipboard_01  search_02  lab_04  medical_03  lab_05  lab_03  lab_02
-medical_04
-
-#### Exit Notification/Disclaimer Policy
-
-Close
-
-**Links with this icon indicate that you are leaving the CDC website.**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
-  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
-  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
-  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
-  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
-  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
-  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
-  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
-  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
-  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
-  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
-  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
-  *[15 hrs]: Monday, April 6, 2020 at 9:38 AM
-  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
-  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
-  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
-  *[10 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[]: You have unseen notifications
-  *[April 3 at 5:08 AM]: Friday, April 3, 2020 at 5:08 AM
-  *[April 1 at 8:09 AM]: Wednesday, April 1, 2020 at 8:09 AM
+    * Degenerative changes due to age
+    * Abscess or infection
+    * Blood clot in the leg (deep venous thrombosis)
+    * Broken or fractured bone
+    * Cancer
+    * Damage to the knee, foot, or ankle joint
+    * Noncancerous bone tumor
+    * Healing problems or development of scar tissue after surgery
+
+## Risks
+
+Risks for CT scans include:
+
+    * Being exposed to radiation
+    * Allergic reaction to contrast dye 
+    * Birth defect if done during pregnancy
+
+CT scans expose you to more radiation than regular x-rays. Having many x-rays
+or CT scans over time may raise your risk for cancer, but the risk from any
+one scan is small. Talk to your provider about this risk against the benefits
+of the test.
+
+Some people have allergies to contrast dye. Let your provider know if you have
+ever had this type of reaction.
+
+    * The most common type of contrast given into a vein contains iodine. A person with an iodine allergy may have nausea or vomiting, sneezing, itching, or hives from this type of contrast.
+    * If you must have this type of contrast, you may get antihistamines (such as Benadryl) or steroids before the test.
+    * The kidneys help remove iodine out of the body. People with kidney disease or diabetes may need to get extra fluids after the test to help flush the iodine out of the body.
+
+The dye may cause a life-threatening allergic response called anaphylaxis.
+This is rare. Tell the scanner operator right away if you have any trouble
+breathing during the test. Scanners come with an intercom and speakers, so the
+operator can hear you at all times.
+
+## Alternative Names
+
+CAT scan - leg; Computed axial tomography scan - leg; Computed tomography scan
+- leg; CT scan - leg
+
+## References
+
+Kulaylat MN, Dayton MT. Surgical complications. In: Townsend CM Jr, Beauchamp
+RD, Evers BM, Mattox KL, eds. _Sabiston Textbook of Surgery_. 20th ed.
+Philadelphia, PA: Elsevier; 2017:chap 12.
+
+Shaw AS, Prokop M. Computed tomography. In: Adam A, Dixon AK, Gillard JH,
+Schaefer-Prokop CM, eds. _Grainger & Allison's Diagnostic Radiology: A
+Textbook of Medical Imaging_. 6th ed. Philadelphia, PA: Elsevier Churchill
+Livingstone; 2015:chap 4.
+
+Thomsen HS, Reimer P. Intravascular contrast media for radiography, CT, MRI
+and ultrasound. In: Adam A, Dixon AK, Gillard JH, Schaefer-Prokop CM, eds.
+_Grainger & Allison's Diagnostic Radiology: A Textbook of Medical Imaging_.
+6th ed. Philadelphia, PA: Elsevier Churchill Livingstone; 2015:chap 2.
+
+## Review Date 3/17/2019
+
+Updated by: C. Benjamin Ma, MD, Professor, Chief, Sports Medicine and Shoulder
+Service, UCSF Department of Orthopaedic Surgery, San Francisco, CA. Also
+reviewed by David Zieve, MD, MHA, Medical Director, Brenda Conaway, Editorial
+Director, and the A.D.A.M. Editorial team.
+
+![CT Scans](https://medlineplus.gov/images/CTScan_thumb.jpg)CT Scans _Read
+more_
+
+![Leg Injuries and
+Disorders](https://medlineplus.gov/images/LegInjuriesandDisorders_thumb.jpg)Leg
+Injuries and Disorders _Read more_
+
+![NIH MedlinePlus
+Magazine](https://medlineplus.gov/images/ency_mag_card.jpg)NIH MedlinePlus
+Magazine _Read more_
+
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
+
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
+
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
+
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated: 23 March 2020
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

@@ -1,239 +1,196 @@
+Link: https://medlineplus.gov/ency/article/001635.htm    
+                                Description: A glomus tympanum tumor is a tumor of the middle ear and bone behind the ear (mastoid).    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link Skip directly to A-Z link Skip directly to A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centros para el Control y la PrevenciÃ³n de Enfermedades. CDC 24/7: Salvamos
-vidas. Protegemos a la gente. Centros para el Control y la PrevenciÃ³n de
-Enfermedades. CDC 24/7: Salvamos vidas. Protegemos a la gente.â¢
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Índice A-Z de los CDC
+The navigation menu has been collapsed.
 
-Enviar
+Menu
 
-Buscar
+      * Health Topics
+      * Drugs & Supplements
+      * Videos & Tools
+      * About MedlinePlus
+Show Search
 
-Enviar
+Search MedlinePlus
 
-Lista de todos los temas: Índice A-Z de los CDC
+GO
 
-Buscar menu desplegable
+      * About MedlinePlus
+      * What's New
+      * Site Map
+      * Customer Support
 
-Enviar
+      * Health Topics
+      * Drugs & Supplements
+      * Videos & Tools
 
-Índice A-Z de los CDC: Índice A-Z de los CD
+EspaÃ±ol
 
-Section Navigation
+You Are Here:
 
-CDC Home
+Home ->
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Syndicate
+Medical Encyclopedia ->
 
-# RSS en espaÃ±ol de los CDC
+Glomus tympanum tumor
 
-Minus
+URL of this page: //medlineplus.gov/ency/article/001635.htm
 
-Related Pages
+# Glomus tympanum tumor
 
-## Ayuda para RSS
+To use the sharing features on this page, please enable JavaScript.
 
-Mantengase al tanto de la nueva informacion que generan los CDC. En esta
-pagina se puede suscribir a los canales RSS de los CDC o de otras agencias
-gubernamentales, o ver directamente desde aqui su contenido sin tener que
-utilizar un programa "agregador".
+A glomus tympanum tumor is a tumor of the middle ear and bone behind the ear
+(mastoid).
 
-Para suscribirse al canal de RSS de CDC en Español, copie y pegue en su
-programa lector el siguiente enlace:
-https://tools.cdc.gov/podcasts/createrss.asp?t=r&c=151
+## Causes
 
-### ¿Que es RSS?
+A glomus tympanum tumor grows in the temporal bone of the skull, behind the
+eardrum (tympanic membrane).
 
-RSS son las siglas en ingles de _Really Simple Syndication_ , y en español se
-conoce como distribucion realmente sencilla. Se trata de una manera sencilla
-de mantenerse al tanto de las noticias y la informacion de su interes, y no
-necesita de metodos convencionales para explorar y buscar informacion en los
-sitios web. Ahora usted puede recibir directamente el contenido que desea, sin
-que se llene de mensajes su buzon de correo electronico. Este contenido se
-llama "feed" o canal. El RSS esta escrito en el lenguaje codificador de
-Internet conocido como XML ( _Extensible Markup Language_ o lenguaje
-extensible de marcas) y por esta razon los botones de RSS a menudo tienen
-estas siglas en su etiqueta:
+This area contains nerve fibers (glomus bodies) that normally respond to
+changes in body temperature or blood pressure.
 
-![](/spanish/images/xml.gif)
+These tumors most often occur late in life, around age 60 or 70, but they can
+appear at any age.
 
-### ¿Que es un lector RSS?
+The cause of a glomus tympanum tumor is unknown. In most cases, there are no
+known risk factors. Glomus tumors have been associated with changes
+(mutations) in a gene responsible for the enzyme succinate dehydrogenase
+(SDHD).
 
-Un lector RSS es un pequeño programa informatico que recoge y muestra los
-canales RSS. Le permite explorar los titulares de varias fuentes noticiosas en
-un solo lugar.
+## Symptoms
 
-### ¿Donde puedo obtener un lector RSS?
+Symptoms may include:
 
-Algunos navegadores, tales como las ultimas versiones de Firefox y Safari,
-vienen con el lector RSS integrado. Si su navegador no tiene un lector RSS,
-usted puede descargar gratuitamente el unico lector en español disponible
-hasta este momento o descargar, tambien en forma gratuita, o comprar uno de la
-amplia variedad de lectores RSS disponibles en Internet en ingles.
+      * Hearing problems or loss
+      * Ringing in the ear (pulsatile tinnitus)
+      * Weakness or loss of movement in the face (facial nerve palsy) 
 
-### ¿Como se utilizan los canales RSS?
+## Exams and Tests
 
-Lo primero es elegir un lector RSS. Cada lector opera en forma ligeramente
-diferente al agregar un nuevo "feed" o canal. Siga las instrucciones de su
-lector aunque en la mayoria de los casos asi es como funciona:
+Glomus tympanum tumors are diagnosed by a physical exam. They may be seen in
+the ear or behind the eardrum.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Haga clic en el enlace o en el pequeño boton XML cerca del canal que va a seleccionar.  Despues de hacer clic aparecera una pagina que muestra un codigo XML. Por ejemplo: CDC en Español![](/spanish/images/xml.gif)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Desde la barra de direcciones de su navegador, copie la direccion electronica (URL). Por ejemplo, la URL de CDC en Español para copiar es la siguiente: https://tools.cdc.gov/podcasts/createrss.asp?t=r&c=151
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Inserte esta direccion en la seccion para el lector "Add New Channel" o "Add New Feed" (agregar un nuevo canal). El canal RSS comenzara a aparecer y a actualizar los titulares de noticias en forma constante.
+Diagnosis also involves scans, including:
 
-### ¿Que canales RSS ofrece CDC en Español?
+      * CT scan
+      * MRI scan
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Especiales de los CDC en Español
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Comunidados de prensa de los CDC en Español
+## Treatment
 
-### ¿Que otros canales RSS ofrece el gobierno?
+Glomus tympanum tumors are rarely cancerous and do not tend to spread to other
+parts of the body. However, treatment may be needed to relieve symptoms.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Otros canales RSS de los CDC (en ingles)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Otros canales RSS del gobiernoExternal
+## Outlook (Prognosis)
 
-* Los enlaces a sitios web pueden llevar a paginas en ingles o español.
+People who have surgery tend to do well. More than 90% of people with glomus
+tympanum tumors are cured.
 
-Esta pÃ¡gina fue revisada el: 14 de mayo de 2018
+## Possible Complications
 
-Fuente del contenido: Centros para el Control y la PrevenciÃ³n de Enfermedades
+The most common complication is hearing loss.
 
-home CDC en EspaÃ±ol
+Nerve damage, which may be caused by the tumor itself or damage during
+surgery, rarely occurs. Nerve damage can lead to facial paralysis.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Acerca de los CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * PolÃ­tica de confidencialidad expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * EnlÃ¡cese a CDC en EspaÃ±ol
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * InformaciÃ³n Ãºtil expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Consejos de bÃºsqueda
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Formatos de los archivos utilizados en el sitio web
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Descargos de responsabilidad para sitios web
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Actualizaciones por correo electrÃ³nico
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Canal de RSS en espaÃ±ol
+## When to Contact a Medical Professional
 
-Reciba actualizaciones por correo electrÃ³nico
+Call your health care provider if you notice:
 
-Para recibir actualizaciones de esta pagina, ingrese su correo electronico:
+      * Difficulty with hearing or swallowing
+      * Problems with the muscles in your face
+      * Pulsing sensation in your ear
 
-Email Address
+## Alternative Names
 
-MÃ¡s informaciÃ³n
+Paraganglioma - glomus tympanum
 
-Submit
+## References
 
-**COMUN ÍQUESE CON CDC-INFO**
+Marsh M, Jenkins HA. Temporal bone neoplasms and lateral cranial base surgery.
+In: Flint PW, Haughey BH, Lund V, et al, eds. _Cummings Otolaryngology: Head
+and Neck Surgery_. 6th ed. Philadelphia, PA: Elsevier Saunders; 2015:chap 176.
 
-phone
+Rucker JC, Thurtell MJ. Cranial neuropathies. In: Daroff RB, Jankovic J,
+Mazziotta JC, Pomeroy SL, eds. _Bradley's Neurology in Clinical Practice_. 7th
+ed. Philadelphia, PA: Elsevier; 2016:chap 104.
 
-¿Tiene preguntas? Tenemos respuestas. 1-800-CDC-INFO (800-232-4636) TTY:
-888-232-6348
-
-email
-
-ComunÃ­quese con CDC-INFO
-
-**INFORMACI ÓN DE LOS CDC**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Acerca de los CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Empleos
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Financiamiento
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Politicas
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Visores de archivos y reproductores
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Privacidad
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Ley FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Ley No Fear
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Aviso de no discriminacion
-
-**CON ÉCTESE CON LOS CDC**  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Youtube
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Instagram
-  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Email
-
-HHS.Gov - Departamento de Salud y Servicios Humanos
-
-GobiernoUSA.gov
-
-Descargo de responsabilidad para sitios externos a los CDC external icon
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Email
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-file_external
-
-#### Exit Notification/Disclaimer Policy
-
-Close
-
-**Links with this icon indicate that you are leaving the CDC website.**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
-  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
-  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
-  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
-  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
-  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
-  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
-  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
-  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
-  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
-  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
-  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
-  *[15 hrs]: Monday, April 6, 2020 at 9:38 AM
-  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
-  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
-  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
-  *[10 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[]: You have unseen notifications
-  *[April 3 at 5:08 AM]: Friday, April 3, 2020 at 5:08 AM
-  *[April 1 at 8:09 AM]: Wednesday, April 1, 2020 at 8:09 AM
+Zanotti B, Verlicchi A, Gerosa M. Glomus tumors. In: Winn HR, ed. Y _oumans
+and Winn Neurological Surgery_. 7th ed. Philadelphia, PA: Elsevier; 2017:chap
+156.
+
+## Review Date 10/17/2017
+
+Updated by: Josef Shargorodsky, MD, MPH, Johns Hopkins University School of
+Medicine, Baltimore, MD. Also reviewed by David Zieve, MD, MHA, Medical
+Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+
+![Ear Disorders](https://medlineplus.gov/images/EarDisorders_thumb.jpg)Ear
+Disorders _Read more_
+
+![NIH MedlinePlus
+Magazine](https://medlineplus.gov/images/ency_mag_card.jpg)NIH MedlinePlus
+Magazine _Read more_
+
+![Health Topics
+A-Z](https://medlineplus.gov/images/ency_healthtopics_card.jpg)Health Topics
+A-Z _Read more_
+
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
+
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
+
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
+
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
+
+      * About MedlinePlus
+      * What's New
+      * Site Map
+      * Customer Support
+      * Get updates
+      * Subscribe to RSS
+      * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+      * Disclaimers
+      * Copyright
+      * Privacy
+      * Accessibility
+      * Guidelines for Links
+      * Viewers & Players
+      * MedlinePlus Connect for EHRs
+      * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated: 23 March 2020
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

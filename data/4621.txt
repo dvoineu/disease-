@@ -1,156 +1,219 @@
+Link: https://medlineplus.gov/ency/article/003286.htm    
+                                Description: Subcutaneous emphysema occurs when air gets into tissues under the skin. This most often occurs in the skin covering the chest wall or neck, but can also occur in other parts of the body.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to search Skip directly to A to Z list Skip directly to
-navigation Skip directly to page options Skip directly to site content
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Sign in
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-My Account {{main.$rootScope.syndList.listName}}
+The navigation menu has been collapsed.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * {{list.listName}} 
-{{main.$rootScope.syndList.listName}} Logout
+Menu
 
-New User
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Show Search
 
-![Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People](/TemplatePackage/3.0/images/masthead_subpage.svg)
-![Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People](/TemplatePackage/3.0/images/masthead_1-col.svg)
+Search MedlinePlus
 
-A-Z Topic Index
+GO
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * MENU
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * CDC A-Z
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * SEARCH
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-# Public Health Media Library
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-Note: Javascript is disabled or is not supported by your browser. For this
-reason, some items on this page will be unavailable. For more information
-about this message, please visit this page: About CDC.gov.
+EspaÃ±ol
 
-Recommend on Facebook Tweet
-![Share](/TemplatePackage/3.0/images/social/addthis-32.png)ShareCompartir
+You Are Here:
 
-×
+Home ->
 
-### Contact Us
+Medical Encyclopedia ->
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * For non-technical or general public health questions, contact CDC-INFO by phone 800-CDC-INFO (800-232-4636) or email.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * If you need technical help: Report a Problem
+Subcutaneous emphysema
 
-##### File Formats Help:
+URL of this page: //medlineplus.gov/ency/article/003286.htm
 
-How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+# Subcutaneous emphysema
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Adobe PDF file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Microsoft PowerPoint file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Microsoft Word file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Microsoft Excel file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Audio/Video file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Apple Quicktime file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * RealPlayer file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Text file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Zip Archive file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * SAS file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * ePub file
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * RIS file
+To use the sharing features on this page, please enable JavaScript.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Page last reviewed:{{main.CURRENT_DATE}}
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Page last updated:{{main.CURRENT_DATE}}
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Content source: 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Centers for Disease Control and Prevention, 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Office of the Associate Director for Communications, Division of Public Affairs
+Subcutaneous emphysema occurs when air gets into tissues under the skin. This
+most often occurs in the skin covering the chest wall or neck, but can also
+occur in other parts of the body.
 
-###### Follow CDC
+## Considerations
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Recommend
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Tweet
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Post
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * RSS
+Subcutaneous emphysema can often be seen as a smooth bulging of the skin. When
+a health care provider feels (palpates) the skin, it produces an unusual
+crackling sensation (crepitus) as the gas is pushed through the tissue.
 
-###### CDC Media
+## Causes
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Listen
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Watch
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * YouTube
+This is a rare condition. When it does occur, possible causes include:
 
-![Department of Health and Human
-Services](/TemplatePackage/3.0/images/hhs.png)
+    * Collapsed lung (pneumothorax), often occurring with a rib fracture
+    * Facial bone fracture
+    * Ruptured bronchial tube
+    * Ruptured esophagus 
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * ###### About CDC
+This condition can happen due to:
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Employment
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Newsroom
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Training/Education
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * CDC's Organization
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Mission and Vision
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Using this Site
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * ###### Legal
+    * Blunt trauma.
+    * Blast injuries.
+    * Breathing in cocaine.
+    * Corrosives or chemical burns of the esophagus.
+    * Diving injuries.
+    * Forceful vomiting (Boerhaave syndrome).
+    * Gunshot wounds.
+    * Pertussis (whooping cough).
+    * Stabbing.
+    * Certain medical procedures that insert a tube into the body. These include endoscopy (tube into the esophagus and the stomach through the mouth), a central venous line (thin catheter into a vein close to the heart), endotracheal intubation (tube into the throat and trachea through the mouth or nose), and bronchoscopy (tube into the bronchial tubes through the mouth). 
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Link to Us
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Accessibility
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * No FEAR Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * Inspector General
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  * USA.gov
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                *                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 * ###### Contact CDC
+Air can also be found in between skin layers on the arms and legs or torso
+after certain infections, including gas gangrene, and after scuba diving.
+(Scuba divers with asthma are more likely to have this problem than other
+scuba divers.)
 
-Centers for Disease Control and Prevention
+## When to Contact a Medical Professional
 
-1600 Clifton Road Atlanta, GA 30329-4027 USA
+Most of the conditions that cause subcutaneous emphysema are very severe, and
+you are likely already being treated by a provider. Sometimes a hospital stay
+is needed. This is more likely if the problem is due to an infection.
 
-800-CDC-INFO (800-232-4636)
+If you feel subcutaneous air in relation to any of the situations described
+above, particularly after trauma, call 911 or your local emergency services
+number immediately.
 
-Contact CDC-INFO
+DO NOT administer any fluids. DO NOT move the person unless it is absolutely
+necessary to remove them from a hazardous environment. Protect the neck and
+back from further injury when doing so.
 
-TOP
+## What to Expect at Your Office Visit
 
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+The provider will measure and monitor the person's vital signs, including:
 
-Version {{main.VERSION}}
+    * Temperature
+    * Pulse
+    * Breathing rate
+    * Blood pressure 
 
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
-  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
-  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
-  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
-  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
-  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
-  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
-  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
-  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
-  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
-  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
-  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
-  *[15 hrs]: Monday, April 6, 2020 at 9:38 AM
-  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
-  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
-  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
-  *[10 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[]: You have unseen notifications
+Symptoms will be treated as needed. The person may receive:
+
+    * Breathing support, including oxygen, endotracheal intubation (tube through the nose or mouth into the trachea) and ventilator (breathing machine)
+    * Blood tests
+    * Chest tube -- tube through the skin and muscles between the ribs into the pleural space (space between the chest wall and the lung) if there is lung collapse
+    * CAT/CT scan (computerized axial tomography or advanced imaging) of the chest and abdomen or area with the subcutaneous air
+    * ECG (electrocardiogram or heart tracing)
+    * Fluids (intravenous or through the vein)
+    * Medicines to treat symptoms
+    * X-rays of chest and abdomen and other body parts that may have been injured 
+
+The prognosis depends on the cause of the subcutaneous emphysema. If
+associated with major trauma, a procedure or infection, the severity of those
+conditions will determine the outcome.
+
+Subcutaneous emphysema associated with scuba diving is most often less
+serious.
+
+## Alternative Names
+
+Crepitus; Subcutaneous air; Tissue emphysema
+
+## References
+
+Byyny RL, Shockley LW. Scuba diving and dysbarism. In: Walls RM, Hockberger
+RS, Gausche-Hill M, eds. _Rosen's Emergency Medicine: Concepts and Clinical
+Practice_. 9th ed. Philadelphia, PA: Elsevier; 2018:chap 135.
+
+Cheng G-S, Varghese TK, Park DR. Pneumomediastinum and mediastinitis. In:
+Broaddus VC, Mason RJ, Ernst JD, et al, eds. _Murray and Nadel's Textbook of
+Respiratory Medicine_. 6th ed. Philadelphia, PA: Elsevier Saunders; 2016:chap
+84.
+
+Raja AS. Thoracic trauma. In: Walls RM, Hockberger RS, Gausche-Hill M, eds.
+_Rosen's Emergency Medicine: Concepts and Clinical Practice_. 9th ed.
+Philadelphia, PA: Elsevier; 2018:chap 38.
+
+Kosowsky JM, Kimberly HH. Pleural disease. In: Walls RM, Hockberger RS,
+Gausche-Hill M, eds. _Rosen's Emergency Medicine: Concepts and Clinical
+Practice_. 9th ed. Philadelphia, PA: Elsevier; 2018:chap 67.
+
+## Review Date 6/24/2018
+
+Updated by: Jacob L. Heller, MD, MHA, Emergency Medicine, Emeritus, Virginia
+Mason Medical Center, Seattle, WA. Also reviewed by David Zieve, MD, MHA,
+Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M.
+Editorial team.
+
+![Skin
+Conditions](https://medlineplus.gov/images/SkinConditions2_thumb.jpg)Skin
+Conditions _Read more_
+
+![NIH MedlinePlus
+Magazine](https://medlineplus.gov/images/ency_mag_card.jpg)NIH MedlinePlus
+Magazine _Read more_
+
+![Health Topics
+A-Z](https://medlineplus.gov/images/ency_healthtopics_card.jpg)Health Topics
+A-Z _Read more_
+
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
+
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
+
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
+
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated: 23 March 2020
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

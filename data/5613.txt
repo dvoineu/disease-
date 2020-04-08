@@ -1,689 +1,130 @@
+Link: https://medlineplus.gov/index.html    
+                                Description: Find information on health conditions, wellness issues, and more in easy-to-read language on MedlinePlus, the up-to-date, trusted health information site from the NIH and the National Library of Medicine.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link Skip directly to A-Z link Skip directly to A-Z link
-
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
-
-Search ____
-
-Ã
-
-Submit __
-
-For a full list of topics: A-Z Index
-
-2015 Sexually Transmitted Diseases Treatment Guidelines
-
-Section Navigation
-
-CDC Home
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Syndicate
-
-# Chlamydial Infections
-
-Minus
-
-Related Pages
-
-On This Page
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Chlamydial Infections in Adolescents and Adults
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Chlamydial Infections Among Neonates
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Chlamydial Infections Among Infants and Children
-
-###  Chlamydial Infections in Adolescents and Adults
-
-Chlamydial infection is the most frequently reported infectious disease in the
-United States, and prevalence is highest in persons aged ≤24 years ( _118_ ).
-Several sequelae can result from _C. trachomatis_ infection in women, the most
-serious of which include PID, ectopic pregnancy, and infertility. Some women
-who receive a diagnosis of uncomplicated cervical infection already have
-subclinical upper-reproductive-tract infection.
-
-Asymptomatic infection is common among both men and women. To detect
-chlamydial infections, health-care providers frequently rely on screening
-tests. Annual screening of all sexually active women aged <25 years is
-recommended, as is screening of older women at increased risk for infection
-(e.g., those who have a new sex partner, more than one sex partner, a sex
-partner with concurrent partners, or a sex partner who has a sexually
-transmitted infection ( _108_ ). Although CT incidence might be higher in some
-women aged ≥25 years in some communities, overall the largest burden of
-infection is among women aged <25 years.
-
-Chlamydia screening programs have been demonstrated to reduce the rates of PID
-in women ( _497,498_ ). Although evidence is insufficient to recommend routine
-screening for _C. trachomatis_ in sexually active young men because of several
-factors (e.g., feasibility, efficacy, and cost-effectiveness), the screening
-of sexually active young men should be considered in clinical settings with a
-high prevalence of chlamydia (e.g., adolescent clinics, correctional
-facilities, and STD clinics) or in populations with high burden of infection
-(e.g., MSM) _(108,121)_. Among women, the primary focus of chlamydia screening
-efforts should be to detect chlamydia, prevent complications, and test and
-treat their partners, whereas targeted chlamydia screening in men should only
-be considered when resources permit, prevalence is high, and such screening
-does not hinder chlamydia screening efforts in women ( _499,500_ ). More
-frequent screening for some women (e.g., adolescents) or certain men (e.g.,
-MSM) might be indicated.
-
-####  Diagnostic Considerations
-
-_C. trachomatis_ urogenital infection can be diagnosed in women by testing
-first-catch urine or collecting swab specimens from the endocervix or vagina.
-Diagnosis of _C. trachomatis_ urethral infection in men can be made by testing
-a urethral swab or first-catch urine specimen. NAATs are the most sensitive
-tests for these specimens and therefore are recommended for detecting _C.
-trachomatis_ infection ( _394_ ). NAATs that are FDA-cleared for use with
-vaginal swab specimens can be collected by a provider or self-collected in a
-clinical setting. Self-collected vaginal swab specimens are equivalent in
-sensitivity and specificity to those collected by a clinician using NAATs (
-_501,502_ ), and women find this screening strategy highly acceptable (
-_503,504_ ). Optimal urogenital specimen types for chlamydia screening using
-NAAT include first catch-urine (men) and vaginal swabs (women) ( _394_ ).
-Rectal and oropharyngeal _C. trachomatis_ infection in persons engaging in
-receptive anal or oral intercourse can be diagnosed by testing at the anatomic
-site of exposure. NAATs are not FDA-cleared for use with rectal or
-oropharyngeal swab specimens. However, NAATs have been demonstrated to have
-improved sensitivity and specificity compared with culture for the detection
-of _C. trachomatis_ at rectal sites ( _505-507_ ) and at oropharyngeal sites
-among men ( _505-508_ ). Some laboratories have established CLIA-defined
-performance specifications when evaluating rectal and oropharyngeal swab
-specimens for _C. trachomatis,_ thereby allowing results to be used for
-clinical management. Most persons with _C. trachomatis_ detected at
-oropharyngeal sites do not have oropharyngeal symptoms. However, when
-gonorrhea testing is performed at the oropharyngeal site, chlamydia test
-results might be reported as well because some NAATs detect both bacteria from
-a single specimen. Data indicate that performance of NAATs on self-collected
-rectal swabs is comparable to clinician-collected rectal swabs, and this
-specimen collection strategy for rectal _C. trachomatis_ screening is highly
-acceptable ( _509-511_ ). Self-collected rectal swabs are a reasonable
-alternative to clinician-collected rectal swabs for _C. trachomatis_ screening
-by NAAT, especially when clinicians are not available or when self collection
-is preferred over clinician collection. Previous evidence suggests that the
-liquid-based cytology specimens collected for Pap smears might be acceptable
-specimens for NAAT testing, although test sensitivity using these specimens
-might be lower than that associated with use of cervical or vaginal swab
-specimens ( _512_ ); regardless, certain NAATs have been FDA-cleared for use
-on liquid-based cytology specimens.
-
-####  Treatment
-
-Treating persons infected with _C. trachomatis_ prevents adverse reproductive
-health complications and continued sexual transmission, and treating their sex
-partners can prevent reinfection and infection of other partners. Treating
-pregnant women usually prevents transmission of _C. trachomatis_ to neonates
-during birth. Chlamydia treatment should be provided promptly for all persons
-testing positive for infection; treatment delays have been associated with
-complications (e.g., PID) in a limited proportion of women ( _513_ ).
-
-##### _Recommended Regimens_
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Azithromycin** 1 g orally in a single dose  
-OR
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Doxycycline** 100 mg orally twice a day for 7 days
-
-##### _Alternative Regimens_
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Erythromycin** base 500 mg orally four times a day for 7 days  
-OR
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Erythromycin** ethylsuccinate 800 mg orally four times a day for 7 days  
-OR
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Levofloxacin** 500 mg orally once daily for 7 days  
-OR
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Ofloxacin** 300 mg orally twice a day for 7 days
-
-A meta-analysis of 12 randomized clinical trials of azithromycin versus
-doxycycline for the treatment of urogenital chlamydial infection demonstrated
-that the treatments were equally efficacious, with microbial cure rates of 97%
-and 98%, respectively ( _514_ ). These studies were conducted primarily in
-populations with urethral and cervical infection in which follow-up was
-encouraged, adherence to a 7-day regimen was effective, and culture or EIA
-(rather than the more sensitive NAAT) was used for determining microbiological
-outcome. More recent retrospective studies have raised concern about the
-efficacy of azithromycin for rectal _C. trachomatis_ infection ( _515,516_),
-however, these studies have limitations, and prospective clinical trials
-comparing azithromycin versus doxycycline regimens for rectal _C. trachomatis_
-infection are needed.
-
-Although the clinical significance of oropharyngeal _C. trachomatis_ infection
-is unclear and routine oropharyngeal screening for CT is not recommended,
-available evidence suggests oropharyngeal _C. trachomatis_ can be sexually
-transmitted to genital sites ( _152,517_); therefore, detection of _C.
-trachomatis_ from an oropharyngeal specimen should be treated with
-azithromycin or doxycycline. The efficacy of alternative antimicrobial
-regimens in resolving oropharyngeal chlamydia remains unknown.
-
-In a double-blinded randomized control trial, a doxycycline delayed-release
-200 mg tablet administered daily for 7 days was as effective as generic
-doxycycline 100 mg twice daily for 7 days for treatment of urogenital _C.
-trachomatis_ infection in men and women and had a lower frequency of
-gastrointestinal side effects. However, this regimen is more costly than those
-that involve multiple daily doses ( _518_ ). Delayed-release doxycycline
-(Doryx) 200 mg daily for 7 days might be an alternative regimen to the
-doxycycline 100 mg twice daily for 7 days for treatment of urogenital _C.
-trachomatis_ infection. Erythromycin might be less efficacious than either
-azithromycin or doxycycline, mainly because of the frequent occurrence of
-gastrointestinal side effects that can lead to nonadherence with treatment.
-Levofloxacin and ofloxacin are effective treatment alternatives, but they are
-more expensive and offer no advantage in the dosage regimen. Other quinolones
-either are not reliably effective against chlamydial infection or have not
-been evaluated adequately.
-
-#### Other Management Considerations
-
-To maximize adherence with recommended therapies, onsite, directly observed
-single-dose therapy with azithromycin should always be available for persons
-for whom adherence with multiday dosing is a concern. In addition, for
-multidose regimens, the first dose should be dispensed on site and directly
-observed. To minimize disease transmission to sex partners, persons treated
-for chlamydia should be instructed to abstain from sexual intercourse for 7
-days after single-dose therapy or until completion of a 7-day regimen and
-resolution of symptoms if present. To minimize risk for reinfection, patients
-also should be instructed to abstain from sexual intercourse until all of
-their sex partners are treated. Persons who receive a diagnosis of chlamydia
-should be tested for HIV, GC, and syphilis.
-
-####  Follow-Up
-
-Test-of-cure to detect therapeutic failure (i.e., repeat testing 3-4 weeks
-after completing therapy) is not advised for persons treated with the
-recommended or alterative regimens, unless therapeutic adherence is in
-question, symptoms persist, or reinfection is suspected. Moreover, the use of
-chlamydial NAATs at <3 weeks after completion of therapy is not recommended
-because the continued presence of nonviable organisms ( _394,395,519_) can
-lead to false-positive results.
-
-A high prevalence of _C. trachomatis_ infection has been observed in women and
-men who were treated for chlamydial infection during the preceding several
-months ( _480,481,520-522_). Most post-treatment infections do not result from
-treatment failure, but rather from reinfection caused by failure of sex
-partners to receive treatment or the initiation of sexual activity with a new
-infected partner, indicating a need for improved education and treatment of
-sex partners. Repeat infections confer an elevated risk for PID and other
-complications in women. Men and women who have been treated for chlamydia
-should be retested approximately 3 months after treatment, regardless of
-whether they believe that their sex partners were treated ( _480,481_ ). If
-retesting at 3 months is not possible, clinicians should retest whenever
-persons next present for medical care in the 12-month period following initial
-treatment.
-
-#### Management of Sex Partners
-
-Sex partners should be referred for evaluation, testing, and presumptive
-treatment if they had sexual contact with the partner during the 60 days
-preceding the patient's onset of symptoms or chlamydia diagnosis. Although the
-exposure intervals defined for the identification of at-risk sex partners are
-based on limited data, the most recent sex partner should be evaluated and
-treated, even if the time of the last sexual contact was >60 days before
-symptom onset or diagnosis.
-
-Among heterosexual patients, if health department partner management
-strategies (e.g., disease intervention specialists) are impractical or not
-available for persons with chlamydia and a provider is concerned that sex
-partners are unable to promptly access evaluation and treatment services, EPT
-should be considered as permitted by law (see Partner Services). Compared with
-standard patient referral of partners, this approach to therapy, which
-involves delivering the medication itself or a prescription, has been
-associated with decreased rates of persistent or recurrent chlamydia ( _93-95_
-). Providers should also provide patients with written educational materials
-to give to their partner(s) about chlamydia in general, to include
-notification that partner(s) have been exposed and information about the
-importance of treatment. These materials also should inform partners about
-potential therapy-related allergies and adverse effects, along with symptoms
-suggestive of complications (e.g., testicular pain in men and pelvic or
-abdominal pain in women). EPT is not routinely recommended for MSM with
-chlamydia because of a high risk for coexisting infections (especially
-undiagnosed HIV) among their partners, and because data are limited regarding
-the effectiveness of this approach in reducing persistent or recurrent
-chlamydia among MSM. Having partners accompany patients when they return for
-treatment is another strategy that has been used to ensure partner treatment
-(See Partner Services). To avoid reinfection, sex partners should be
-instructed to abstain from sexual intercourse until they and their sex
-partners have been adequately treated (i.e., for 7 days after a single-dose
-regimen or after completion of a 7-day regimen) and have resolved any
-symptoms.
-
-####  Special Considerations
-
-##### Pregnancy
-
-Doxycycline is contraindicated in the second and third trimesters of
-pregnancy. Human data suggest ofloxacin and levofloxacin present a low risk to
-the fetus during pregnancy, with a potential for toxicity during
-breastfeeding; however, data from animal studies raise concerns about
-cartilage damage to neonates ( _317_ ). Thus, alternative drugs should be used
-to treat chlamydia in pregnancy. Clinical experience and published studies
-suggest that azithromycin is safe and effective ( _523-525_ ). Test-of-cure to
-document chlamydial eradication (preferably by NAAT) 3-4 weeks after
-completion of therapy is recommended because severe sequelae can occur in
-mothers and neonates if the infection persists. In addition, all pregnant
-women who have chlamydial infection diagnosed should be retested 3 months
-after treatment. Detection of _C. trachomatis_ infection at repeat screening
-during the third semester is not uncommon in adolescent and young adult women,
-including in those without _C. trachomatis_ detected at the time of initial
-prenatal screening ( _526,527_ ). Women aged <25 years and those at increased
-risk for chlamydia (e.g., those who have a new sex partner, more than one sex
-partner, a sex partner with concurrent partners, or a sex partner who has a
-sexually transmitted infection) should be rescreened during the third
-trimester to prevent maternal postnatal complications and chlamydial infection
-in the infant ( _108_ ).
-
-##### _Recommended Regimens_
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Azithromycin** 1 g orally in a single dose
-
-##### _Alternative Regimens_
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Amoxicillin** 500 mg orally three times a day for 7 days  
-OR
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Erythromycin** base 500 mg orally four times a day for 7 days  
-OR
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Erythromycin** base 250 mg orally four times a day for 14 days  
-OR
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Erythromycin** ethylsuccinate 800 mg orally four times a day for 7 days  
-OR
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Erythromycin** ethylsuccinate 400 mg orally four times a day for 14 days
-
-Because of concerns about chlamydia persistence following exposure to
-penicillin-class antibiotics that has been demonstrated in animal and in vitro
-studies, amoxicillin is now considered an alternative therapy for _C.
-trachomatis_ in pregnant women ( _528,529_ ). The frequent gastrointestinal
-side effects associated with erythromycin can result in nonadherence with
-these alternative regimens. The lower dose 14-day erythromycin regimens can be
-considered if gastrointestinal tolerance is a concern. Erythromycin estolate
-is contraindicated during pregnancy because of drug-related hepatotoxicity.
-
-##### HIV Infection
-
-Persons who have chlamydia and HIV infection should receive the same treatment
-regimen as those who do not have HIV infection. For more information, see
-Chlamydia, Treatment.
-
- Top of Page
-
-###  Chlamydial Infections Among Neonates
-
-Prenatal screening and treatment of pregnant women is the best method for
-preventing chlamydial infection among neonates. _C. trachomatis_ infection of
-neonates results from perinatal exposure to the mother's infected cervix.
-Although the efficacy of neonatal ocular prophylaxis with erythromycin
-ophthalmic ointments to prevent chlamydia ophthalmia is not clear, ocular
-prophylaxis with these agents prevents gonococcal ophthalmia and therefore
-should be administered (see Ophthalmia Neonatorum Caused by _N.
-gonnorrhoeae)._
-
-Initial _C. trachomatis_ neonatal infection involves the mucous membranes of
-the eye, oropharynx, urogenital tract, and rectum, although infection might be
-asymptomatic in these locations. Instead, _C. trachomatis_ infection in
-neonates is most frequently recognized by conjunctivitis that develops 5-12
-days after birth. _C. trachomatis_ also can cause a subacute, afebrile
-pneumonia with onset at ages 1-3 months. Although _C. trachomatis_ has been
-the most frequent identifiable infectious cause of ophthalmia neonatorum,
-neonatal chlamydial infections (including ophthalmia and pneumonia) have
-occurred less frequently since the institution of widespread prenatal
-screening and treatment of pregnant women.
-
-####  Ophthalmia Neonatorum Caused by _C. trachomatis_  
-
-A chlamydial etiology should be considered for all infants aged ≤30 days that
-have conjunctivitis, especially if the mother has a history of chlamydia
-infection. These infants should receive evaluation and appropriate care and
-treatment.
-
-##### Diagnostic Considerations
-
-Sensitive and specific methods used to diagnose chlamydial ophthalmia in the
-neonate include both tissue culture and nonculture tests (e.g., direct
-fluorescence antibody [DFA] tests and NAAT). DFA is the only nonculture FDA-
-cleared test for the detection of chlamydia from conjunctival swabs; NAATs are
-not FDA-cleared for the detection of chlamydia from conjunctival swabs, and
-clinical laboratories must verify the procedure according to CLIA regulations.
-Specimens for culture isolation and nonculture tests should be obtained from
-the everted eyelid using a dacron-tipped swab or the swab specified by the
-manufacturer's test kit; for culture and DFA, specimens must contain
-conjunctival cells, not exudate alone. Ocular specimens from neonates being
-evaluated for chlamydial conjunctivitis also should be tested for _N.
-gonorrhoeae_ (see Ophthalmia Neonatorum Caused by _N. gonnorrhoeae_ ).
-
-##### _Treatment of Ophthalmia Neonatorum_
-
-##### _Recommended Regimen_
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Erythromycin** base or ethylsuccinate 50 mg/kg/day orally divided into 4 doses daily for 14 days*
-
-##### _Alternative Regimen_
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Azithromycin** suspension, 20 mg/kg/day orally, 1 dose daily for 3 days*
-
-*An association between oral erythromycin and azithromycin and infantile hypertrophic pyloric stenosis (IHPS) has been reported in infants aged <6 weeks. Infants treated with either of these antimicrobials should be followed for signs and symptoms of IHPS.
-
-Although data on the use of azithromycin for the treatment of neonatal
-chlamydia infection are limited, available data suggest a short course of
-therapy might be effective ( _530_ ). Topical antibiotic therapy alone is
-inadequate for treatment for ophthalmia neonatorum caused by chlamydia and is
-unnecessary when systemic treatment is administered.
-
-##### Follow-Up
-
-Because the efficacy of erythromycin treatment for ophthalmia neonatorum is
-approximately 80%, a second course of therapy might be required ( _531_ ).
-Data on the efficacy of azithromycin for ophthalmia neonatorum are limited.
-Therefore, follow-up of infants is recommended to determine whether initial
-treatment was effective. The possibility of concomitant chlamydial pneumonia
-should be considered (see Infant Pneumonia Caused by _C. trachomatis_ ).
-
-##### Management of Mothers and Their Sex Partners
-
-Mothers of infants who have ophthalmia caused by chlamydia and the sex
-partners of these women should be evaluated and presumptively treated for
-chlamydia. For more information, see Chlamydial Infection in Adolescents and
-Adults.
-
-####  Infant Pneumonia Caused by _C. trachomatis_  
-
-Chlamydia pneumonia in infants typically occurs at 1-3 months and is a
-subacute pneumonia. Characteristic signs of chlamydial pneumonia in infants
-include 1) a repetitive staccato cough with tachypnea and 2) hyperinflation
-and bilateral diffuse infiltrates on a chest radiograph. In addition,
-peripheral eosinophilia (≥400 cells/mm3) occurs frequently. Because clinical
-presentations differ, all infants aged 1-3 months suspected of having
-pneumonia (especially those whose mothers have a history of chlamydial
-infection) should be tested for _C. trachomatis_ and treated if infected.
-
-##### Diagnostic Considerations
-
-Specimens for chlamydial testing should be collected from the nasopharynx.
-Tissue culture is the definitive standard diagnostic test for chlamydial
-pneumonia. Nonculture tests (e.g., DFA and NAAT) can be used. DFA is the only
-nonculture FDA-cleared test for the detection of _C. trachomatis_ from
-nasopharyngeal specimens, but DFA of nasopharyngeal specimens has a lower
-sensitivity and specificity than culture. NAATs are not FDA-cleared for the
-detection of chlamydia from nasopharyngeal specimens, and clinical
-laboratories must verify the procedure according to CLIA regulations ( _394_
-). Tracheal aspirates and lung biopsy specimens, if collected, should be
-tested for _C. trachomatis_.
-
-##### Treatment
-
-Because test results for chlamydia often are not available at the time that
-initial treatment decisions must be made, treatment for _C. trachomatis_
-pneumonia must frequently be based on clinical and radiologic findings, age of
-the infant (i.e., 1-3 months), and risk of chlamydia in the mother (i.e., age
-<25, multiple partners, and history of chlamydial infection). The results of
-tests for chlamydial infection assist in the management of an infant's
-illness.
-
-##### _Recommended Regimen_
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Erythromycin** base or ethylsuccinate 50 mg/kg/day orally divided into 4 doses daily for 14 days
-
-##### _Alternative Regimen_
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Azithromycin** 20 mg/kg/day orally, 1 dose daily for 3 days
-
-##### Follow-Up
-
-Because the effectiveness of erythromycin in treating pneumonia caused by _C.
-trachomatis_ is approximately 80%, a second course of therapy might be
-required ( _532_ ). Data on the effectiveness of azithromycin in treating
-chlamydial pneumonia are limited. Follow-up of infants is recommended to
-determine whether the pneumonia has resolved, although some infants with
-chlamydial pneumonia continue to have abnormal pulmonary function tests later
-in childhood.
-
-##### Management of Mothers and Their Sex Partners
-
-Mothers of infants who have chlamydia pneumonia and the sex partners of these
-women should be evaluated, tested, and presumptively treated for chlamydia.
-For more information, see Chlamydial Infection in Adolescents and Adults.
-
-#### Neonates Born to Mothers Who Have Chlamydial Infection
-
-Neonates born to mothers who have untreated chlamydia are at high risk for
-infection; however, prophylactic antibiotic treatment is not indicated, as the
-efficacy of such treatment is unknown. Infants should be monitored to ensure
-appropriate treatment if symptoms develop.
-
- Top of Page
-
-###  Chlamydial Infections Among Infants and Children
-
-Sexual abuse must be considered a cause of chlamydial infection in infants and
-children. However, perinatally transmitted _C. trachomatis_ infection of the
-nasopharynx, urogenital tract, and rectum might persist for 2-3 years (see
-Sexual Assault or Abuse of Children).
-
-#### Diagnostic Considerations
-
-NAAT can be used for vaginal and urine specimens from girls (see Sexual
-Assault or Abuse of Children), although data are insufficient to recommend the
-use of NAAT in boys. Data also are lacking regarding use of NAAT for specimens
-from extragenital sites (rectum and pharynx) in boys and girls ( _394_ );
-other nonculture tests (e.g., DFA) are not recommended because of specificity
-concerns. Culture is still the preferred method for detection of urogenital
-_C. trachomatis_ in boys and at extragenital sites in boys and girls.
-
-##### _Recommended Regimen for Infants and Children Who Weigh <45 kg_
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Erythromycin** base or ethylsuccinate 50 mg/kg/day orally divided into 4 doses daily for 14 days
-
-Data are limited on the effectiveness and optimal dose of azithromycin for the
-treatment of chlamydial infection in infants and children who weigh <45 kg
-
-##### _Recommended Regimen for Children Who Weigh ≥45 kg but Who Are Aged <8
-Years_
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Azithromycin** 1 g orally in a single dose
-
-##### _Recommended Regimens for Children Aged ≥8 years_
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Azithromycin** 1 g orally in a single dose  
-OR
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * **Doxycycline** 100 mg orally twice a day for 7 days
-
-#### Other Management Considerations
-
-See Sexual Assault or Abuse of Children.
-
-#### Follow-Up
-
-A test-of-cure culture (repeat testing after completion of therapy) to detect
-therapeutic failure ensures treatment effectiveness. Therefore, this culture
-with should be obtained at a follow-up visit approximately 2 weeks after
-treatment is completed.
-
- Top of Page
-
-
-
-Next
-
-Page last reviewed: June 4, 2015
-
-Content source: Division of STD Prevention, National Center for HIV/AIDS,
-Viral Hepatitis, STD, and TB Prevention, Centers for Disease Control and
-Prevention
-
-home 2015 STD Treatment Guidelines
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Table of Contents
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Introduction and Methods
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Clinical Prevention Guidance
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Special Populations
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Emerging Issues
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * HIV Infection: Detection,Counseling and Referral
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Diseases Characterized by Genital, Anal, or Perianal Ulcers expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Chancroid
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Genital HSV Infections
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Granuloma Inguinale (Donovanosis)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Lymphogranuloma Venereum (LGV)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Syphilis expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Syphilis During Pregnancy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Congenital Syphilis
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Management of Persons Who Have a History of Penicillin Allergy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Diseases Characterized by Urethritis and Cervicitis
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Chlamydial Infections
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Gonococcal Infections
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Diseases Characterized by Vaginal Discharge expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Bacterial Vaginosis
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Trichomoniasis
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Vulvovaginal Candidiasis
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Pelvic Inflammatory Disease (PID)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Epididymitis
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Human Papillomavirus (HPV) Infection
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Anogenital Warts
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * HPV-Associated Cancers and Precancers
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Viral Hepatitis
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Proctitis, Proctocolitis, and Enteritis
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Ectoparasitic Infections
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Sexual Assault and Abuse and STDs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * References
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Terms and Abbreviations Used in This Report
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Consultants
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Evidence Tables
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Screening Recommendations Referenced in Treatment Guidelines and Original Recommendation Sources
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Questions and Answers expand
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Bacterial Vaginosis (BV)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Chlamydia
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Gonorrhea
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Herpes
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * HPV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * _Mycoplasma genitalium_
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Screening
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Sexual Assault
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Syphilis
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Trichomoniasis
-
-STDs Home Page
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Treatment
-
-Follow STD
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Social_round_twitter twitter STD on Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Social_round_facebook facebook STD on Facebook
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * About CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Jobs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * File Viewers & Players
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Nondiscrimination
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Accessibility
-
-**CONNECT WITH CDC**  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Youtube
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Instagram
-  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Email
-
-U.S. Department of Health & Human Services
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo_primary.png)
+
+Menu
+
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Search
+
+Search MedlinePlus
+
+GO
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+
+EspaÃ±ol
+
+Health Topics Find information on health, wellness, disorders and conditions
+
+Drugs & Supplements Learn about prescription drugs, over-the-counter
+medicines, herbs, and supplements
+
+Videos & Tools Discover tutorials, health and surgery videos, games, and
+quizzes
+
+Medical Tests Learn why your doctor orders medical tests and what the results
+may mean
+
+Medical Encyclopedia Articles and images for diseases, symptoms, tests,
+treatments
+
+Healthy Recipes
+
+Share MedlinePlus
+
+To use the sharing features on this page, please enable JavaScript.
+
+![](https://medlineplus.gov/images/COVID19_SF.jpg)
+![](https://medlineplus.gov/images/DomesticViolenceII_SF.jpg)
+![](https://medlineplus.gov/images/autism_SF2.jpg) ![Lab Test
+Information](https://medlineplus.gov/images/LabtestSF.jpg)
+
+    * Looking for information on COVID-19? 
+    * Check out Coronavirus.gov for the latest information.
+
+    * Domestic Violence can affect people of all ages and walks of life.
+    * Learn how to get help.
+
+    * April is National Autism Awareness Month.
+    * Learn more about  Autism Spectrum Disorder.
+
+    * MedlinePlus has medical test information!
+    * Learn  why your doctor orders medical tests, and what the results may mean.
+
+    * 1
+    * 2
+    * 3
+    * 4
+    * Pause Slideshow
+
+To use this interactive feature, please enable JavaScript.
+
+Tweets by â@MedlinePlus Skip Twitter Feed
+
+@MedlinePlus on Twitter
+
+Stay Connected
+
+Sign up for the My MedlinePlus newsletter What's this?
+
+GO
+
+NIH MedlinePlus Magazine Read the latest issue
+
+All of Us Health Information for All of Us Research Program Participants
+
+Clinical Trials Search ClinicalTrials.gov for drug and treatment studies.
+
+    * Easy-to-Read Materials
+
+    * Organizations and Directories
+
+    * Health Information in Multiple Languages
+
+    * MedlinePlus Connect for EHRs
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health FOIA
 USA.gov
 
-CDC Website Exit Disclaimer external icon
+Page last updated on 8 April 2020 URL for this page: https://medlineplus.gov
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Email
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-#### Exit Notification/Disclaimer Policy
-
-Close
-
-**Links with this icon indicate that you are leaving the CDC website.**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
-  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
-  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
-  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
-  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
-  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
-  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
-  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
-  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
-  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
-  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
-  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
-  *[15 hrs]: Monday, April 6, 2020 at 9:38 AM
-  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
-  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
-  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
-  *[10 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[]: You have unseen notifications
-  *[April 3 at 5:08 AM]: Friday, April 3, 2020 at 5:08 AM
-  *[April 1 at 8:09 AM]: Wednesday, April 1, 2020 at 8:09 AM
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

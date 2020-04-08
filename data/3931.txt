@@ -1,441 +1,267 @@
+Link: https://medlineplus.gov/ency/patientinstructions/000910.htm    
+                                Description: Chemotherapy is the use of medicine to treat cancer. Chemotherapy kills cancer cells. It may be used to cure cancer, help keep it from spreading, or reduce symptoms.     
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search ____
+The navigation menu has been collapsed.
 
-Ã
+Menu
 
-Submit __
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Show Search
 
-For a full list of topics: A-Z Index
+Search MedlinePlus
 
-Vital Signs
+GO
 
-Section Navigation
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-CDC Home
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Syndicate
+EspaÃ±ol
 
-# Life-Saving Naloxone from Pharmacies
+You Are Here:
 
-Minus
+Home ->
 
-Related Pages
+Medical Encyclopedia ->
 
-![A pharmacist talks with a patient about a prescription.
-](/vitalsigns/naloxone/images/naloxone-vs-header-v3.jpg)
+Types of chemotherapy
 
-Life-Saving Naloxone from Pharmacies
+URL of this page: //medlineplus.gov/ency/patientinstructions/000910.htm
 
-More dispensing needed despite progress
+# Types of chemotherapy
 
-![A pharmacist talks with a patient about a prescription.
-](/vitalsigns/naloxone/images/naloxone-vs-header-mobile.jpg)
+To use the sharing features on this page, please enable JavaScript.
 
-Life-Saving Naloxone from Pharmacies
+Chemotherapy is the use of medicine to treat cancer. Chemotherapy kills cancer
+cells. It may be used to cure cancer, help keep it from spreading, or reduce
+symptoms.
 
-More dispensing needed despite progress
+In some cases, people are treated with a single type of chemotherapy. But
+often, people get more than one type of chemotherapy at a time. This helps
+attack the cancer in different ways.
 
-![The number of prescriptions for naloxone doubled from 2017 to
-2018.](/vitalsigns/naloxone/images/vs-naloxone-factoid1.png)
+Targeted therapy and immunotherapy are other cancer treatments that use
+medicine to treat cancer.
 
-![The number of prescriptions for naloxone doubled from 2017 to
-2018.](/vitalsigns/naloxone/images/vs-naloxone-factoid1-center.png)
+Standard chemotherapy works by killing cancer cells and some normal cells.
+Targeted treatment and immunotherapy zero in on specific targets (molecules)
+in or on cancer cells.
 
-The number of prescriptions for naloxone doubled from 2017 to 2018.
+## How Doctors Choose Your Chemotherapy
 
-![Only 1 naloxone prescription is dispensed for every 70 high-dose opioid
-prescriptions.](/vitalsigns/naloxone/images/vs-naloxone-factoid2.png)
+The type and dose of chemotherapy your doctor gives you depends on many
+different things, including:
 
-Only 1 naloxone prescription is dispensed for every 70 high-dose opioid
-prescriptions.
+    * The type of cancer you have
+    * Where the cancer first showed up in your body
+    * What the cancer cells look like under a microscope
+    * Whether the cancer has spread
+    * Your age and general health 
 
-![Rural counties are nearly 3 times more likely to be ranked low dispensing
-than metropolitan counties.](/vitalsigns/naloxone/images/vs-naloxone-
-factoid3.png)
+## How Chemotherapy Works
 
-![Rural counties are nearly 3 times more likely to be ranked low dispensing
-than metropolitan counties.](/vitalsigns/naloxone/images/vs-naloxone-
-factoid3-center.png)
+All cells in the body grow by splitting into two cells, or dividing. Others
+divide to repair damage in the body. Cancer occurs when something causes cells
+to divide and grow out of control. They keep growing to form a mass of cells,
+or tumor.
 
-Rural counties are nearly 3 times more likely to be ranked low dispensing than
-metropolitan counties.
+Chemotherapy attacks dividing cells. This means that it is more likely to kill
+cancer cells than normal cells. Some types of chemotherapy damage the genetic
+material inside the cell that tells it how to copy or repair itself. Others
+types block chemicals the cell needs to divide.
 
-Highlights
+Some normal cells in the body divide often, such as hair and skin cells. These
+cells also may be killed by chemo. That is why it can cause side effects like
+hair loss. But most normal cells can recover after treatment ends.
 
-Emergency Physicians and Opioid Overdoses: A Call to Aidexternal iconexternal
-icon (Annals  _of_  Emergency Medicine) - Commentary by Dr. Debra Houry,
-Director of CDC's National Center for Injury Prevention and Control; and Dr.
-Jerome Adams, US Surgeon General
+## Chemotherapy Drugs
 
-Naloxone Co-prescribing to Patients Receiving Prescription Opioids in the
-Medicare Part D Program, United States, 2016-2017external iconexternal icon
-(JAMA) - Research Letter by Dr. Christopher M. Jones et al. (CDC, NIH, DHHS)
+There are more than 100 different chemotherapy drugs. Below are the seven main
+types of chemotherapy, the types of cancer they treat, and examples. The
+caution includes things that differ from typical chemotherapy side effects.
 
-* * *
+ **ALKYLATING AGENTS**
 
-##### **FREE webinar featuring the U.S. Surgeon General and a CDC opioid
-expert**
+Used to treat:
 
-HHS and CDC Recommendations to Expand the Use of Naloxone--A Life-saving, yet
-Underutilized Drug for Reversing Opioid Overdose
+    * Leukemia
+    * Lymphoma
+    * Hodgkin disease
+    * Multiple myeloma
+    * Sarcoma
+    * Cancers of the lung, breast, and ovary 
 
-**Date** : Tuesday, September 17, 2019
+Examples:
 
-**Time** : 2:00 pm-3:00 pm (Eastern Time)
+    * Busulfan (Myleran)
+    * Cyclophosphamide
+    * Temozolamide (Temodar) 
 
-FREE Continuing Education
+Caution:
 
-More Information on Webinar
+    * May damage bone marrow, which can lead to leukemia. 
 
-![Vice Admiral Jerome M. Adams, MD, MPH \(USPHS\) 20th US Surgeon
-General](/vitalsigns/naloxone/images/jerome-adams.jpg)
+**ANTIMETABOLITES**
 
-Vice Admiral Jerome M. Adams, MD, MPH (USPHS)  
-20th US Surgeon General
+Used to treat:
 
-![CAPT Christopher M. Jones, PharmD, DrPH, MPH \(USPHS\) National Center for
-Injury Prevention and Control, CDC](/vitalsigns/naloxone/images/chris-
-jones.jpg)
+    * Leukemia
+    * Cancer of the breast, ovary, and intestinal tract 
 
-CAPT Christopher M. Jones, PharmD, DrPH, MPH (USPHS)  
-National Center for Injury Prevention and Control, CDC
+Examples:
 
-Increased use of naloxone can help end the opioid overdose epidemic.
+    * 5-fluorouracil (5-FU)
+    * 6-mercaptopurine (6-MP)
+    * Capecitabine (Xeloda)
+    * Gemcitabine
 
-pdf iconView Transcript media iconLow Resolution Video
+Caution: None
 
-## Overview
+ **ANTI-TUMOR ANTIBIOTICS**
 
-About 48,000 US drug overdose deaths involved opioids in 2017. Naloxone is a
-life-saving medication that can reverse the effects of an opioid overdose.
-Pharmacists and other healthcare providers play a critical role in ensuring
-patients receive naloxone. Many states have laws that allow pharmacists to
-dispense naloxone without a prescription (called standing orders), which have
-contributed to lowering deaths. Dispensing has increased in recent years, but
-more work needs to be done, particularly in rural counties.
+Used to treat:
 
-**Improvements could be made by:**
+    * Many types of cancer. 
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Following the _CDC Guideline for Prescribing Opioids for Chronic Pain_ to consider offering naloxone to patients receiving high opioid dosages (greater than or equal to 50 morphine milligram equivalents per day).
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Keeping naloxone in stock in pharmacies.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Educating patients, caregivers, and the community about the benefits of having naloxone readily available to more people.
+Examples:
 
-### Major changes in opioid and naloxone dispensing occurred from 2017 to
-2018.
+    * Dactinomycin (Cosmegen)
+    * Bleomycin
+    * Daunorubicin (Cerubidine, Rubidomycin)
+    * Doxorubicin (Adriamycin PFS, Adriamycin RDF) 
 
-![Major changes in opioid and naloxone dispensing occurred from 2017 to 2018.
-High-dose opioid prescriptions In 2017, there were 48 million high-dose opioid
-prescriptions dispensed. In 2018, there were 38 million high-dose opioid
-prescriptions dispensed, a decrease of 21 percent. Naloxone prescriptions In
-2017, there were 270,000 naloxone prescriptions dispensed. In 2018, there were
-556,000 naloxone prescriptions dispensed. SOURCE: Vital Signs MMWR, August
-2019](/vitalsigns/naloxone/images/naloxone-vs-infographic1.jpg)
+Caution:
 
-resize iconView Larger
+    * High doses can damage the heart. 
 
-Close![Major changes in opioid and naloxone dispensing occurred from 2017 to
-2018. High-dose opioid prescriptions In 2017, there were 48 million high-dose
-opioid prescriptions dispensed. In 2018, there were 38 million high-dose
-opioid prescriptions dispensed, a decrease of 21 percent. Naloxone
-prescriptions In 2017, there were 270,000 naloxone prescriptions dispensed. In
-2018, there were 556,000 naloxone prescriptions dispensed. SOURCE: Vital Signs
-MMWR, August 2019](/vitalsigns/naloxone/images/naloxone-vs-infographic1.jpg)
+**TOPOISOMERASE INHIBITORS**
 
-download iconDownload Imageimage icon[JPG, NAN ]
+Used to treat:
 
-View Text Description
+    * Leukemia
+    * Lung, ovarian, gastrointestinal, and other cancers 
 
-SOURCE: Vital Signs MMWR, August 2019
+Examples:
 
-### Co-prescribing naloxone is recommended for patients at risk for opioid
-overdose.
+    * Etoposide
+    * Irinotecan (Camptosar)
+    * Topotecan (Hycamtin) 
 
-![Co-prescribing naloxone is recommended for patients at risk for opioid
-overdose. 9 MILLION: Drawing of the U.S. showing a diverse group of people. If
-each person with a high-dose opioid prescription were offered naloxone, nearly
-9 million prescriptions for naloxone could have been dispensed in 2018. Risk
-Factors for Overdose. High-dose opioid prescriptions. Opioids taken with
-benzodiazepines. History of substance use disorder. Misusing prescription
-opioids or using illicit drugs \(either opioids or potentially contaminated
-with opioids\)](/vitalsigns/naloxone/images/naloxone-vs-infographic2.jpg)
+Caution:
 
-resize iconView Larger
+    * Some can make a person more likely to get a second cancer, called acute myeloid leukemia, within 2 to 3 years. 
 
-Close![Co-prescribing naloxone is recommended for patients at risk for opioid
-overdose. 9 MILLION: Drawing of the U.S. showing a diverse group of people. If
-each person with a high-dose opioid prescription were offered naloxone, nearly
-9 million prescriptions for naloxone could have been dispensed in 2018. Risk
-Factors for Overdose. High-dose opioid prescriptions. Opioids taken with
-benzodiazepines. History of substance use disorder. Misusing prescription
-opioids or using illicit drugs \(either opioids or potentially contaminated
-with opioids\)](/vitalsigns/naloxone/images/naloxone-vs-infographic2.jpg)
+**MITOTIC INHIBITORS**
 
-download iconDownload Imageimage icon[JPG, NAN ]
+Used to treat:
 
-View Text Description
+    * Myeloma
+    * Lymphomas
+    * Leukemias
+    * Breast or lung cancer 
 
-SOURCE: Vital Signs MMWR, August 2019
+Examples:
 
-Problem
+    * Docetaxel (Taxotere)
+    * Eribulin (Halaven)
+    * Ixabepilone (Ixempra)
+    * Paclitaxel (Taxol)
+    * Vinblastine
 
-##### People who may need naloxone are not all getting it.
+Caution:
 
-There is wide variation in prescribing and dispensing across the US despite
-consistent state laws and recommendations. Dispensing naloxone in areas
-hardest hit by the opioid overdose epidemic can increase the number of
-overdose reversals and the opportunity to link overdose survivors into
-treatment.
+    * More likely than other types of chemotherapy to cause painful nerve damage.
 
-###### Actions needed to improve access locally.
+## References
 
-Examples include:
+American Cancer Society website. Chemotherapy drugs: how chemotherapy drugs
+work. www.cancer.org/treatment/treatments-and-side-effects/treatment-
+types/chemotherapy/how-chemotherapy-drugs-work.html. Updated February 15,
+2016. Accessed December 19, 2017.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Reducing insurance co-pay for patients.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Increasing provider training and education.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Targeting distribution especially in rural areas.
+Collins JM. Cancer pharmacology. In: Niederhuber JE, Armitage JO, Doroshow JH,
+Kastan MB, Tepper JE, eds. _Abeloff's Clinical Oncology_. 5th ed.
+Philadelphia, PA: Elsevier Saunders; 2014:chap 29.
 
-The Way Forward
+National Cancer Institute website. A to Z list of cancer drugs.
+www.cancer.gov/about-cancer/treatment/drugs. Updated December 15, 2017.
+Accessed December 19, 2017.
 
-#####  **Pharmacists and Other Healthcare Providers Can:**
+## Review Date 10/21/2017
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Monitor patients for risk of overdose, prescribe or dispense naloxone when overdose risk factors are present, and counsel patients on how to use it.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Ensure naloxone is always available in pharmacies.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Participate in and offer naloxone training and education.
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists
+& Research Institute, Wellington, FL. Review provided by VeriMed Healthcare
+Network. Also reviewed by David Zieve, MD, MHA, Medical Director, Brenda
+Conaway, Editorial Director, and the A.D.A.M. Editorial team.
 
-##### **Health Insurers Can:**
+## Related MedlinePlus Health Topics
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Reduce patient out-of-pocket costs.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Cover naloxone prescriptions without prior approval.
+    * Cancer Chemotherapy
 
-##### **States and Communities Can:**
+Browse the Encyclopedia
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Work with healthcare providers to expand naloxone access, especially in rural areas.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Promote the benefits of prescribing, dispensing, and carrying naloxone.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Create harm reduction programs and improve access to medication-assisted treatment for opioid use disorder.
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
 
-##### **Everyone Can:**
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Ask your doctor or pharmacist for a naloxone prescription if  you or a loved one are taking  high-dose opioids or have a substance use disorder.
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
 
-Many factors contribute to the problem.
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
 
-![A pharmacist gives a patient a prescription.
-](/vitalsigns/naloxone/images/naloxone-vs-pharmacy.jpg)
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Most (71%) of Medicare prescriptions for naloxone required a copay compared to 42% for commercial insurance.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Primary care providers only prescribed about 2 naloxone prescriptions for every 100 high-dose opioid prescriptions.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Naloxone dispensing is 25 times greater in the highest-dispensing counties than the lowest.
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
 
-Issue Details
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
 
-#####  **Related Pages and Resources**
+Page last updated: 23 March 2020
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Vital Signs: Press Release - Still not enough naloxone where it's most needed [English]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Vital Signs: Press Release - Todavia no hay suficiente naloxona donde mas se necesita [Spanish]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Morbidity and Mortality Weekly Report (MMWR): Vital Signs: Pharmacy-Based Naloxone Dispensing --United States, 2012-2018
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Vital Signs, 2018: Vital Signs: Opioid Overdoses Treated in Emergency Departments: Identify Opportunities for Action
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Vital Signs, 2017: Opioid Prescribing: Where You Live Matters
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Vital Signs, 2015: Today's Heroin Epidemic: More People at Risk, Multiple Drugs Abused
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * CDC Opioid Overdose Website
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Opioid Basics
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Data Overview
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * State Information
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Publications
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * CDC's Rx Awareness Campaign
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * CDC Guideline for Prescribing Opioids for Chronic Pain -- United States, 2016
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Healthcare Provider Resources
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Online Training: Applying CDC's Guideline for Prescribing Opioids
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * CDC Opioid Prescribing Guideline Mobile App 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Pocket Guide: Tapering Opioids for Chronic Pain pdf icon[1.8 MB, 4 pages]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Factsheet: Prescription Drug Monitoring Programs (PDMPs) pdf icon[7.8 MB, 2 pages]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Factsheet: Nonopioid Treatments for Chronic Pain pdf icon[1.5 MB, 2 pages]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Patient Materials
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Resource Center
-
-##### **Other Sites**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * U.S. Department of Health & Human Services Guidance on Naloxone Co-Prescribing pdf icon[683 KB, 2 pages]external icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * U.S. Surgeon General's Advisory on Naloxone and Opioid Overdoseexternal icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * U.S. Department of Health & Human Services Strategy for National Opioid Crisisexternal icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Substance Abuse and Mental Health Services Administration (SAMHSA)external icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Find Help & Treatment external icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Naloxoneexternal icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          *                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             * Buprenorphine Waiver Managementexternal icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * National Institute on Drug Abuseexternal icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * U.S. Food and Drug Administration - Drugs Informationexternal icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Drug Enforcement Administration - Office of Diversion Controlexternal icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Centers for Medicare & Medicaid Servicesexternal icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Opioids: The Crisis Next Doorexternal icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Office of National Drug Control Policyexternal icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Journal of the American Medical Association (JAMA): Naloxone Co-prescribing to Patients Receiving Prescription Opioids in the Medicare Part D Program, United States, 2016-2017external icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Office of the U.S. Surgeon Generalexternal icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Providers' Clinical Support Systemexternal icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * MedlinePlus - Prescription Drug Abuseexternal icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Office of the National Coordinator for Health Information Technology (ONC) - Linking PDMPs to Health ITexternal icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * National Alliance for Model State Drug Lawsexternal icon
-
-##### **Science Behind the Issue**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Morbidity and Mortality Weekly Report (MMWR)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Science Clips
-
-**For More Information**  
-1-800-CDC-INFO (232-4636)  
-TTY: 1-888-232-6348  
-Web: www.cdc.gov
-
-**Centers for Disease Control and Prevention**  
-1600 Clifton Road NE  
-Atlanta, GA 30333  
-Publication date: August 6, 2019
-
-Page last reviewed: August 6, 2019
-
-Content source: Office of the Associate Director for Communication
-
-home Vital Signs
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Topics Covered
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * All CDC Vital Signs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Digital Media Tools
-
-email_03Get Email Updates
-
-To receive email updates about this page, enter your email address:
-
-Email Address
-
-What's this?
-
-Submit
-
-Get Connected
-
-Social_round_rss RSS _MMWR_ RSS
-
-Social_round_rss RSS VitalSigns RSS
-
-Related Links
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Download this Fact Sheet pdf[469 KB, 2 pages]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Read the MMWR
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Science Clips
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * About CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Jobs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * File Viewers & Players
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Nondiscrimination
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Accessibility
-
-**CONNECT WITH CDC**  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Youtube
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Instagram
-  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Email
-
-U.S. Department of Health & Human Services
-
-USA.gov
-
-CDC Website Exit Disclaimer external icon
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Email
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-image PDF file_external
-
-#### Exit Notification/Disclaimer Policy
-
-Close
-
-**Links with this icon indicate that you are leaving the CDC website.**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
-  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
-  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
-  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
-  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
-  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
-  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
-  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
-  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
-  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
-  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
-  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
-  *[15 hrs]: Monday, April 6, 2020 at 9:38 AM
-  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
-  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
-  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

@@ -1,1146 +1,285 @@
+Link: https://medlineplus.gov/sportsinjuries.html    
+                                Description: Get the facts on sports injuries, including the most common types, and read about the treatments available    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link Skip directly to A-Z link Skip directly to A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
-
-Search ____
-
-Ã
-
-Submit __
-
-For a full list of topics: A-Z Index
-
-_Salmonella_
-
-Section Navigation
-
-CDC Home
-
-                    * Facebook
-                    * Twitter
-                    * LinkedIn
-                    * Email
-                    * Syndicate
-
-# Multistate Outbreak of Human _Salmonella_ Infections Linked to Live Poultry
-in Backyard Flocks (Final Update)
-
-Minus
-
-Related Pages
-
-Posted October 21, 2014 12:45 PM ET
-
-This outbreak appears to be over. However, live poultry, including those kept
-in backyard flocks, remain an important cause of human _Salmonella_ infections
-in the United States. More information about _Salmonella_ from live poultry
-and the steps people can take to reduce their risk of infection is available.
-
-Highlights
-
-                    * **Read the Advice to Consumers »**
-                    * This outbreak appears to be over. However, live poultry, including those kept in backyard flocks, remain an important cause of human _Salmonella_ infections in the United States. More information about _Salmonella_ from live poultry and the steps people can take to reduce their risk of infection is available.
-                    * A total of 363 persons infected with the outbreak strains of _Salmonella_ Infantis, _Salmonella_ Newport, or _Salmonella_ Hadar were reported from 43 states and Puerto Rico. 
-                      * 33% of ill persons were hospitalized, and no deaths were reported.
-                    * Epidemiologic, laboratory, and traceback findings linked this outbreak of human _Salmonella_ infections to contact with chicks, ducklings, and other live poultry from Mt. Healthy Hatcheries in Ohio. 
-                      * 73% of ill people reported contact with live poultry in the week before their illness began.
-                    * Findings of multiple traceback investigations of live baby poultry from homes of ill persons identified Mt. Healthy Hatcheries in Ohio as the source of chicks and ducklings. 
-                      * This is the same mail-order hatchery that has been associated with multiple outbreaks of _Salmonella_ infections linked to live poultry in past years, including in 2012 and 2013.
-                    * CDC's National Antimicrobial Resistance Monitoring System (NARMS) laboratory conducted antibiotic resistance testing on _Salmonella_ isolates collected from 11 ill persons infected with the outbreak strains of _Salmonella_ Infantis or Newport. Of the 11 isolates tested: 
-                      * Two (18%) were resistant to tetracycline.
-                      * Nine (82%) were susceptible to all antibiotics on the NARMS panel.
-                    * Mail-order hatcheries, agricultural feed stores, and others that sell or display chicks, ducklings, and other live poultry should provide health-related information to owners and potential purchasers of these birds prior to selling them. This should include information about the risk of acquiring a _Salmonella_ infection from contact with live poultry. 
-                      * Read the advice to mail-order hatcheries and feed stores and others that sell or display live poultry.
-                    * Consumers who own live poultry should take steps to protect themselves: 
-                      * Always wash your hands thoroughly with soap and water right after touching live poultry or anything in the area where these birds live and roam.
-                      * Do not let live poultry inside the house.
-                      * Learn about additional recommendations to protect yourself and your family from _Salmonella_ infections. These recommendations are important and apply to all live poultry, regardless of the age of the birds or where they were purchased.
-
-Outbreak Summary
-
-#### Introduction
-
-CDC collaborated with public health, veterinary, and agriculture officials in
-many states and with the U.S. Department of Agriculture's Animal and Plant
-Health Inspection Service (USDA-APHIS) to investigate an outbreak of human
-_Salmonella_ infections linked to contact with live poultry. Public health
-investigators used the PulseNet system to identify cases of illness that were
-part of this outbreak. PulseNet, the national subtyping network of public
-health and food regulatory agency laboratories coordinated by CDC, obtains DNA
-"fingerprints" of _Salmonella_ bacteria through diagnostic testing with
-pulsed-field gel electrophoresis, or PFGE.
-
-A total of 363 persons infected with the outbreak strains of _Salmonella_
-Infantis, _Salmonella_ Newport, or _Salmonella_ Hadar were reported from 43
-states and Puerto Rico. The total number of ill persons identified in each
-state was as follows: Alabama (9),  Arizona (3), Arkansas (3), California (5),
-Colorado (5), Connecticut (2), Florida (1), Georgia (17), Idaho (5), Illinois
-(6), Iowa (5), Indiana (4), Kansas (2), Kentucky (15), Louisiana (1), Maine
-(9), Maryland (3), Massachusetts (2), Michigan (2), Minnesota (3), Mississippi
-(2), Missouri (2), Montana (3),  Nebraska (5), New Hampshire (3), New Jersey
-(3), New Mexico (2), New York (36), North Carolina (34), Ohio (31),  Oregon
-(2), Pennsylvania (33), Puerto Rico (1), South Carolina (9), South Dakota (6),
-Tennessee (20), Texas (4), Utah (2), Vermont (7), Virginia (25), Washington
-(10), West Virginia (18), Wisconsin (2), and Wyoming (1).
-
-Among persons who reported the date they became ill, illnesses began between
-February 3, 2014 and September 27, 2014. Ill persons ranged in age from
-younger than 1 year to 95 years, and the median age was 32.5 years. Thirty-
-five percent of ill persons were 10 years of age or younger. Fifty-five
-percent of ill persons were female. Among 233 ill persons with available
-information, 76 (33%) were hospitalized. No deaths were reported.
-
-This outbreak appears to be over. However, live poultry, including those kept
-in backyard flocks, remain an important cause of human _Salmonella_ infections
-in the United States. More information about _Salmonella_ from live poultry
-and the steps people can take to reduce their risk of infection is available.
-
-#### Investigation of the Outbreak
-
-Epidemiologic, laboratory, and traceback investigations conducted by officials
-in local, state, and federal public health agencies indicated that contact
-with live poultry sourced from Mt. Healthy Hatcheries in Ohio was the likely
-source of this outbreak of _Salmonella_ infections.
-
-In interviews, ill persons answered questions about contact with animals and
-foods consumed during the week before becoming ill. One hundred seventy-four
-(73%) of 237 ill persons interviewed reported contact with live poultry (e.g.,
-chicks, chickens, ducks, ducklings) in the week before becoming ill.
-
-Mt. Healthy Hatcheries sells birds to many different retailers. One hundred
-twenty-one (92%) of 132 ill persons with available purchase information
-reported purchasing live baby poultry from 16 different feed supply stores in
-multiple states. Ill persons reported purchasing live poultry for backyard
-flocks to produce eggs or meat, or to keep as pets.
-
-Samples from live poultry and the environments where the poultry live and roam
-were collected from ill persons' homes in Vermont and Virginia. Testing of
-these samples yielded two of the outbreak strains of _Salmonella_ Infantis.
-These birds were sourced from Mt. Healthy Hatcheries in Ohio.
-
-The National Antimicrobial Resistance Monitoring SystemExternal (NARMS) is a
-U.S. public health surveillance system that tracks antibiotic resistance in
-foodborne and other enteric bacteria found in people, raw meat and poultry,
-and food-producing animals. NARMS is an interagency partnership among CDC, the
-U.S. Food and Drug Administration (FDA), U.S. Department of Agriculture
-(USDA), and state and local health departments.
-
-The NARMS human surveillance program at CDC monitors antibiotic resistance in
-_Salmonella_ and other bacteria isolated from clinical specimens submitted to
-NARMS by public health laboratories. CDC's NARMS laboratory conducted
-antibiotic resistance testing on a total of 11 isolates collected from ill
-persons infected with the outbreak strains of _Salmonella_ Infantis (8
-isolates) or Newport (3 isolates). Of the 11 isolates tested, 2 (18%)
-_Salmonella_ Infantis isolates were resistant to tetracycline, and the
-remaining 9 (82%) _Salmonella_ Infantis or Newport isolates were susceptible
-to all antibiotics tested on the NARMS panel. Tetracycline is not typically
-used to treat _Salmonella_ infections.
-
-Findings of multiple traceback investigations of live baby poultry from homes
-of ill persons identified Mt. Healthy Hatcheries in Ohio as the source of
-chicks and ducklings. This hatchery uses multiple source flocks to obtain eggs
-and chicks, so it is unclear where the contamination originated. This is the
-same mail-order hatchery that has been associated with multiple outbreaks of
-human _Salmonella_ infections linked to live poultry in the past, including in
-2012 and 2013. Public health, veterinary, and agriculture officials continue
-to work with this hatchery and make recommendations for improvement.
-
-This hatchery is a member of the USDA National Poultry Improvement Plan
-(NPIP), a program that is intended to eliminate certain strains of
-_Salmonella_ that cause illness in poultry breeding flocks and hatcheries. On
-August 8, 2014, amendments Cdc-pdf[PDF - 17 pages]External to the NPIP took
-effect. One of these amendments to the NPIP provisions includes the addition
-of a new certification program for  _Salmonella,_  in which mail-order
-hatcheries have the opportunity to voluntarily participate. Participation in
-this program will certify their flocks are monitored for  _Salmonella_
-organisms that may cause illness in humans. The intent of this program is to
-reduce the incidence of  _Salmonella_  in day-old poultry in the hatchery and
-give the poultry industry a better opportunity to reduce the incidence of
-_Salmonella_  in their products. New NPIP guidelines Cdc-pdf[PDF - 25
-pages]External have been published to help prevent contamination and infection
-of poultry with _Salmonella_ in mail-order hatcheries.
-
-Contact with live poultry can be a source of human _Salmonella_ infections.
-Many ill persons in this outbreak reported bringing live poultry into their
-homes, and others reported kissing or cuddling with live poultry. These
-behaviors increase a person's risk of a _Salmonella_ infection from contact
-with live poultry. People can get sick even if they do not have direct contact
-with live poultry, but touch items and places that have been contaminated in
-the poultry's environment. Always wash hands thoroughly with soap and water
-right after touching live poultry or anything in the area where they live and
-roam. Adults should supervise hand washing for young children. These
-recommendations are important and apply to all live poultry regardless of the
-age of the birds or where they were purchased.
-
-Mail-order hatcheries, agricultural feed stores, and others who sell or
-display chicks, ducklings and other live poultry should provide health-related
-information to owners and potential purchasers of these birds before selling
-them. This should include information about the risk of acquiring a
-_Salmonella_ infection from contact with live poultry.
-
-October 21, 2014
-
-#### Final Case Count Update
-
-A total of 363 persons infected with the outbreak strains of _Salmonella_
-Infantis, _Salmonella_ Newport, or _Salmonella_ Hadar were reported from 43
-states and Puerto Rico. Since the last update on September 25, 2014, a total
-of 19 new ill persons were reported from California (2), Idaho (1), Kentucky
-(1), Louisiana (1), Massachusetts (1), Minnesota (1), Missouri (1), New York
-(2), North Carolina (2), Ohio (1), Oregon (1), South Dakota (2), Tennessee
-(1), Texas (1), and Washington (1).
-
-Among persons who reported the date they became ill, illnesses began between
-February 3, 2014 and September 27, 2014. Ill persons ranged in age from
-younger than 1 year to 95 years, and the median age was 32.5 years. Thirty-
-five percent of ill persons were 10 years of age or younger. Fifty-five
-percent of ill persons were female. Among 233 ill persons with available
-information, 76 (33%) were hospitalized. No deaths were reported.
-
-This outbreak appears to be over. However, live poultry, including those kept
-in backyard flocks, remain an important cause of human _Salmonella_ infections
-in the United States. More information about _Salmonella_ from live poultry
-and the steps people can take to reduce their risk of infection is available.
-
-September 25, 2014
-
-#### Case Count Update
-
-As of September 23, 2014, a total of 344 persons infected with the outbreak
-strains of _Salmonella_ Infantis, _Salmonella_ Newport, or _Salmonella_ Hadar
-have been reported from 42 states and Puerto Rico. Since the last update on
-August 8, 2014, a total of 44 new ill persons have been reported from Alabama
-(1), Arizona (1), Connecticut (1), Georgia (1),  Illinois (1), Iowa (2),
-Kansas (1), Kentucky (3), Michigan (1), Minnesota (1), Nebraska (2), New
-Jersey (1), New York (4), North Carolina (4), Ohio (6),  Pennsylvania (4),
-South Carolina (3), South Dakota (1), Tennessee (2), Texas (1), Utah (1),
-Washington (1), and Wisconsin (1).
-
-Among persons who reported the date they became ill, illnesses began between
-February 3, 2014, and August 23, 2014. Ill persons range in age from younger
-than 1 year to 95 years, and the median age is 32 years. Thirty-three percent
-of ill persons are 10 years of age or younger. Fifty-four percent of ill
-persons are female. Among 224 ill persons with available information, 71 (32%)
-have been hospitalized. No deaths have been reported.
-
-Illnesses that occurred after August 24, 2014, might not yet be reported due
-to the time it takes between when a person becomes ill and when the illness is
-reported. This takes an average of 2 to 4 weeks. Please see the Timeline for
-Reporting Cases of _Salmonella_ Infection for more details.
-
-August 8, 2014
-
-#### Case Count Update
-
-As of August 5, 2014, a total of 300 persons infected with the outbreak
-strains of _Salmonella_ Infantis, _Salmonella_ Newport, or _Salmonella_ Hadar
-have been reported from 42 states and Puerto Rico. Since the last update on
-June 27, 2014, a total of 49 new ill persons have been reported from Alabama
-(2), Arizona (1), Colorado (1), Georgia (3), Idaho (2), Iowa (1),
-Massachusetts (1), Minnesota (1), Missouri (1), Nebraska (3), New Hampshire
-(1), New Jersey (1), New York (3), North Carolina (1), Ohio (3), Oregon (1),
-Pennsylvania (4), Puerto Rico (1), South Carolina (1), Tennessee (3), Vermont
-(1), Virginia (8), Washington (1), and West Virginia (4).
-
-Among persons who reported the date they became ill, illnesses began between
-February 3, 2014, and July 10, 2014. Ill persons range in age from younger
-than 1 year to 95 years, and the median age is 28 years. Thirty-seven percent
-of ill persons are 10 years of age or younger. Fifty-four percent of ill
-persons are female. Among 206 ill persons with available information, 64 (31%)
-have been hospitalized. No deaths have been reported.
-
-Illnesses that occurred after July 8, 2014, might not yet be reported due to
-the time it takes between when a person becomes ill and when the illness is
-reported. This takes an average of 2 to 4 weeks. Please see the Timeline for
-Reporting Cases of _Salmonella_ Infection for more details.
-
-#### Investigation Update
-
-Samples from live poultry and the environments where the poultry live and roam
-were collected from ill persons' homes in Vermont and Virginia. Testing of
-these samples yielded two of the outbreak strains of _Salmonella_ Infantis.
-These birds were sourced from Mt. Healthy Hatcheries in Ohio.
-
-The National Antimicrobial Resistance Monitoring System (NARMS) is a U.S.
-public health surveillance system that tracks antibiotic resistance in
-foodborne and other enteric bacteria found in people, raw meat and poultry,
-and food-producing animals. NARMS is an interagency partnership among CDC, the
-U.S. Food and Drug Administration (FDA), U.S. Department of Agriculture
-(USDA), and state and local health departments.
-
-The NARMS human surveillance program at CDC monitors antibiotic resistance in
-_Salmonella_ and other bacteria isolated from clinical specimens submitted to
-NARMS by public health laboratories. CDC's NARMS laboratory conducted
-antibiotic resistance testing on a total of 11 isolates collected from ill
-persons infected with the outbreak strains of _Salmonella_ Infantis (8
-isolates) or Newport (3 isolates). Of the 11 isolates tested to date, 2 (18%)
-were resistant to tetracycline and 9 (82%) were pansusceptible (susceptible to
-all antibiotics tested). Tetracycline is not typically used to treat
-_Salmonella_ infections. CDC's NARMS laboratory continues to conduct
-antibiotic resistance testing on additional clinical isolates collected from
-ill persons infected with the outbreak strains. Results will be reported when
-they become available.
-
-The NPIP is a voluntary program that was initiated to eliminate certain
-diseases from poultry flocks that cause significant poultry illness and death.
-On August 8, 2014, amendmentsExternal to the National Poultry Improvement
-PlanExternal (NPIP) will take effect.  One of these amendments to the NPIP
-provisions includes the addition of a new certification program for
-_Salmonella,_ in which mail-order hatcheries have the opportunity to
-voluntarily participate. Participation in this program will certify their
-flocks are monitored for _Salmonella_ organisms that may cause illness in
-humans. The intent of this program is to reduce the incidence of _Salmonella_
-in day-old poultry in the hatchery and give the poultry industry a better
-opportunity to reduce incidence of _Salmonella_ in their products. In the
-future, consumers and retailers can choose to purchase their birds from mail-
-order hatcheries that participate in this additional program.
-
-June 27, 2014
-
-#### Case Count Update
-
-Based on ongoing epidemiologic investigations, additional ill persons infected
-with a different serotype of _Salmonella_ , _Salmonella_ Hadar, reported
-contact with chicks, ducklings, and other live baby poultry sourced from Mt.
-Healthy Hatcheries, and this strain has been added to the outbreak
-investigation.
-
-As of June 25, 2014, a total of 251 persons infected with the outbreak strains
-of _Salmonella_ Infantis, _Salmonella_ Newport, or _Salmonella_ Hadar have
-been reported from 37 states. Since the last update on May 30, 2014, a total
-of 125 new ill persons have been reported from 32 states: Alabama (1),
-Arkansas (2), California (2), Colorado (1), Connecticut (1), Florida (1),
-Georgia (6), Iowa (2), Illinois (4), Indiana (2), Kansas (1), Kentucky (3),
-Maine (4), Maryland (1), Michigan (1),  Mississippi (2), Montana (2),  New
-Jersey (1) New York (15), North Carolina (13), Ohio (8), Pennsylvania (10),
-South Carolina (2), South Dakota (3), Tennessee (6), Texas (2), Vermont (3),
-Virginia (9), Washington (6),  West Virginia (9), Wisconsin (1), and Wyoming
-(1).
-
-Among the persons who reported the date they became ill, illnesses began
-between and February 4, 2014 and June 4, 2014. Ill persons range in age from
-younger than one year to 95 years, and the median age is 28 years. Thirty-nine
-percent of ill persons are 10 years of age or younger.  Fifty-one percent of
-ill persons are female. Among 171 ill persons with available information, 54
-(32%) have been hospitalized. No deaths have been reported.
-
-Illnesses that occurred after May 28, 2014 might not yet be reported due to
-the time it takes between when a person becomes ill and when the illness is
-reported. This takes an average of 2 to 4 weeks. Please see the Timeline for
-Reporting Cases of _Salmonella_ Infection for more details.
-
-May 30, 2014
-
-#### Case Count Update
-
-As of May 27, 2014, a total of 126 persons infected with the outbreak strains
-of _Salmonella_ Infantis or _Salmonella_ Newport have been reported from 26
-states. Since the last update on May 8, 2014, a total of 66 new ill persons
-have been reported from 18 states: Alabama (4), Colorado (1), Georgia (5),
-Illinois (1), Indiana (1), Kentucky (2), Maine (4), Montana (1), New Hampshire
-(1), New Mexico (1), New York (6), North Carolina (11), Ohio (7), Pennsylvania
-(7), South Carolina (3), Tennessee (5), Virginia (5), and West Virginia (1).
-
-Among the persons who reported the date they became ill, illnesses began
-between and February 4, 2014 and May 15, 2014. Ill persons range in age from
-younger than one year to 95 years, and the median age is 28 years. Thirty-nine
-percent of ill persons are 10 years of age or younger. Fifty percent of ill
-persons are female. Among 81 ill persons with available information, 28 (35%)
-have been hospitalized. No deaths have been reported.
-
-Illnesses that occurred after May 3, 2014, might not yet be reported due to
-the time it takes between when a person becomes ill and when the illness is
-reported. This takes an average of 2 to 4 weeks. Please see the Timeline for
-Reporting Cases of _Salmonella_ Infection for more details.
-
-#### Investigation Update
-
-Epidemiologic, laboratory, and traceback investigations conducted by officials
-in local, state, and federal public health agencies indicate that contact with
-live poultry sourced from Mt. Healthy Hatcheries in Ohio is the likely source
-of this outbreak of _Salmonella_ infections.
-
-Interviews with newly reported ill persons about their exposures in the week
-before becoming ill continue to be conducted. To date, 72 (82%) of 88 ill
-persons interviewed reported contact with live poultry (e.g., chicks,
-chickens, ducks, ducklings) before becoming ill.  Eight (11%) of 72 reported
-contact with only adult chickens and 5 (7%) of 72 reported contact with only
-ducklings.  The median time from acquiring live poultry and illness onset was
-24 days, with a range of 3 to 468 days. Samples from live poultry and the
-environments where the poultry live and roam were collected from an ill
-person's home in Vermont. Testing of these samples yielded one of the outbreak
-strains of _Salmonella_ Infantis. These birds were sourced from Mt. Healthy
-Hatcheries.
-
-Mt. Healthy Hatcheries sells birds to many different retailers. Fifty-two
-(90%) of 58 ill persons with available purchase information reported
-purchasing live poultry from seven different feed or farm store companies in
-multiple states. Ill persons reported purchasing live poultry for backyard
-flocks to produce eggs or meat, or to keep as pets.
-
-May 8, 2014
-
-#### Initial Announcement
-
-CDC is collaborating with public health, veterinary, and agriculture officials
-in many states and with the U.S. Department of Agriculture's Animal and Plant
-Health Inspection Service (USDA-APHIS) to investigate an outbreak of human
-_Salmonella_ infections linked to contact with live poultry. Public health
-investigators are using the PulseNet system to identify cases of illness that
-may be part of this outbreak. PulseNet, the national subtyping network of
-public health and food regulatory agency laboratories coordinated by CDC,
-obtains DNA "fingerprints" of _Salmonella_ bacteria through diagnostic testing
-with pulsed-field gel electrophoresis, or PFGE.
-
-As of May 7, 2014, a total of 60 persons infected with the outbreak strains of
-_Salmonella_ Infantis or _Salmonella_ Newport have been reported from 23
-states. The number of ill persons identified in each state is as follows:
-Alabama (1), Arizona (1), Arkansas (1), California (1), Colorado (2), Georgia
-(2), Idaho (2), Indiana (1), Kentucky (6), Maine (1), Maryland (2), New
-Hampshire (1), New Mexico (1), New York (6), North Carolina (3), Ohio (6),
-Pennsylvania (8), Tennessee (3), Utah (1), Vermont (3), Virginia (3),
-Washington (1), and West Virginia (4).
-
-Among the persons who reported the date they became ill, illnesses began
-between and February 4, 2014 and April 21, 2014. Ill persons range in age from
-younger than one year to 95 years, and the median age is 29 years. Forty
-percent of ill persons are 10 years of age or younger. Fifty-seven percent of
-ill persons are male. Among 32 ill persons with available information, 10
-(31%) have been hospitalized. No deaths have been reported.
-
-This outbreak can be visually described with a chart showing the number of
-persons who became ill each day. This chart is called an epidemic curve or epi
-curve. Illnesses that occurred after April 11, 2014, might not yet be reported
-due to the time it takes between when a person becomes ill and when the
-illness is reported. This takes an average of 2 to 4 weeks. Please see the
-Timeline for Reporting Cases of _Salmonella_ Infection for more details.
-
-#### Investigation of the Outbreak
-
-Epidemiologic and traceback investigations conducted by officials in local,
-state, and federal public health agencies indicate that contact with live
-poultry sourced from Mt. Healthy Hatcheries in Ohio is the likely source of
-this outbreak of _Salmonella_ infections.
-
-In interviews, ill persons answered questions about contact with animals and
-foods consumed during the week before becoming ill. Thirty-one (82%) of 38 ill
-persons interviewed reported contact with live poultry (e.g., chicks,
-chickens, ducks, ducklings) before becoming ill. Mt. Healthy Hatcheries sells
-birds to many different retailers. Nineteen (90%) of 21 ill persons with
-available purchase information reported purchasing live baby poultry from five
-different feed or farm store companies in multiple states. Ill persons
-reported purchasing live poultry for backyard flocks to produce eggs or meat,
-or to keep as pets.
-
-Findings of multiple traceback investigations of live baby poultry from homes
-of ill persons have identified Mt. Healthy Hatcheries in Ohio as the source of
-chicks and ducklings. This hatchery uses multiple source flocks to obtain eggs
-and chicks, so it is unclear at this time where the contamination originated.
-This is the same mail-order hatchery that has been associated with multiple
-outbreaks of human _Salmonella_ infections linked to live poultry in the past,
-including in 2012 and 2013. Public health, veterinary, and agriculture
-officials continue to work with this hatchery and have made recommendations
-for improvement. This hatchery is a member of the USDA National Poultry
-Improvement Plan, a program that is intended to eliminate certain strains of
-_Salmonella_ that cause illness in poultry breeding flocks and hatcheries, but
-does not certify that these live poultry are free from other strains of
-_Salmonella_ that may cause human illness.
-
-Contact with live poultry can be a source of human _Salmonella_ infections.
-Many ill persons in this outbreak reported bringing the live poultry into
-their homes, and others reported kissing or cuddling with the live poultry.
-These behaviors increase a person's risk of a _Salmonella_ infection from
-contact with live poultry. People can get sick even if they do not have direct
-contact with the live poultry, but touch items and places that have been
-contaminated in the poultry's environment. Always wash hands thoroughly with
-soap and water right after touching live poultry or anything in the area where
-they live and roam. Adults should supervise hand washing for young children.
-These recommendations are important and apply to all live poultry regardless
-of the age of the birds or where they were purchased.
-
-Mail-order hatcheries, agricultural feed stores, and others who sell or
-display chicks, ducklings and other live poultry should provide health-related
-information to owners and potential purchasers of these birds prior to the
-point of purchase. This should include information about the risk of acquiring
-a _Salmonella_ infection from contact with live poultry.
-
-At A Glance
-
-                    * Case Count: 363
-                    * States: 43
-                    * Deaths: 0
-                    * Hospitalizations: 33%
-
-More Information
-
-                    * Advice to Consumers
-                    * Signs & Symptoms
-                    * Key Resources
-
-CLICK TO VIEW CASE COUNT MAPS
-
-![map of: Persons infected with the outbreak strains of Salmonella Infantis,
-Newport, or Hadar, by state](/salmonella/live-poultry-05-14/images/102114-map-
-tn.jpg)
-
-CLICK TO VIEW EPI CURVE GRAPHS
-
-![Final Epi Curve: Persons infected with the outbreak strains of Salmonella
-Infantis, Newport, or Hadar by date of illness onset](/salmonella/live-
-poultry-05-14/images/102114-epi-tn.jpg)
-
-Page last reviewed: October 21, 2014
-
-Content source: Centers for Disease Control and Prevention, National Center
-for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of Foodborne,
-Waterborne, and Environmental Diseases (DFWED)
-
-home _Salmonella_ Homepage
-
-                    * Questions & Answersplus icon
-                      * Additional Information
-                    * Prevention
-                    * Symptoms
-                    * Diagnosis & Treatmentplus icon
-                      * Diagnostic and Public Health Testing
-                    * Current Outbreaksplus icon
-                      * Reporting Timeline
-                      * _Salmonella_ Infections Linked to Small Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tortugas mascota pequeÃ±as
-                      * _Salmonella_ Infections Linked to Cut Fruitplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Ground Beefplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a la carne de res molida
-                      * _Salmonella_ Infections Linked to Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a turtugas mascota
-                      * _Salmonella_ Infections Linked to Pig Ear Dog Treatsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Papayasplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a papayas frescas enteras importadas de MÃ©xico
-                      * _Salmonella_ Infections Linked to Karawan brand Tahiniplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tahini de la marca Karawan
-                      * _Salmonella_ Infections Linked to Backyard Poultryplus icon
-                        * Map of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brotes de infecciones por _Salmonella_ vinculados a aves de corral domÃ©sticas
-                      * _Salmonella_ Infections Linked to Frozen Raw Tunaplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Newport vinculado a atÃºn crudo congelado
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                      * _Salmonella_ Infections Linked to Pre-Cut Melonplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Carrau vinculado a melÃ³n y sandÃ­a precortados
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                      * _Salmonella_ Infections Linked to Butterball Brand Ground Turkeyplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado al pavo molido de marca Butterball
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones de la investigaciÃ³n del brote, por fecha
-                      * _Salmonella_ Infections Linked to Pet Hedgehogsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a los erizos como mascota
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                    * Previous Outbreaksplus icon
-                      * 2018 Outbreaksplus icon
-                        * Multidrug-Resistant _Salmonella_ Infections Linked to Raw Turkey Productsplus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pavo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Tahini from Achdut Ltd., 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a tahini elaborado por Achdut Ltd.
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Raw Chicken Products, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Advice to Clinicians
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pollo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Recomendaciones para los mÃ©dicos
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Ground Beef, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a carne molida de res
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Agbeni Infections, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Gravel Ridge Farms Shell Eggs, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Chicken, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Hy-Vee Spring Pasta Salad, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella vinculado a la ensalada de pasta âHy-Vee Spring Pasta Saladâ
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Kelloggâs Honey Smacks Cereal, 2018plus icon
-                          * Salmonella Infections Linked to Kelloggâs Honey Smacks Cereal en EspaÃ±ol
-                          * Recall and Advice to Consumers, Restaurants and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pre-Cut Melon, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pre-Cut Melon en EspaÃ±ol
-                          * Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks, 2018plus icon
-                          * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Braenderup Infections Linked to Shell Eggs, 2018plus icon
-                          * _Salmonella_ Braenderup Infections Linked to Shell Eggs en EspaÃ±ol
-                          * Recalls and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Dried Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Dried Coconut en EspaÃ±ol
-                          * Recall and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Guinea Pigs, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pet Guinea Pigs en EspaÃ±ol
-                          * Case Count Maps
-                          * Case Count Maps en EspaÃ±ol
-                          * Signs & Symptoms
-                          * Signs & Symptoms en EspaÃ±ol
-                        * _Salmonella_ Infections Linked to Chicken Salad, 2018plus icon
-                          * _Salmonella_ Infections Linked to Chicken Salad en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Kratom, 2018plus icon
-                          * _Salmonella_ Infections Linked to Kratom en EspaÃ±ol
-                          * Recalls and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo Infections Linked to Raw Sprouts, 2018plus icon
-                          * _Salmonella_ Infections Linked to Raw Sprouts en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Shredded Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut en EspaÃ±ol
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut á» Viá»t Nam [PDF â 3 pages]
-                          * Recall and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2017 Outbreaksplus icon
-                        * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Turtles, 2017plus icon
-                          * _Salmonella_ Infections Linked to Small Turtles, 2017 en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Laboratory Exposure, 2017plus icon
-                          * Advice to Students & Employees in Microbiology Laboratories
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry in Backyard Flocksplus icon
-                          * Case Count Maps
-                          * Live Poultry FAQ
-                      * 2016 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Contact with Dairy Calves, 2016plus icon
-                          * Case Count Maps
-                          * Epi Curves
-                        * _Salmonella_ Oranienburg Infections Linked to Shell Eggs, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Reading and _Salmonella_ Abony Infections linked to Alfalfa Sprouts, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps 
-                          * Epi Curves 
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2016plus icon
-                          * Advice to Consumers and Retailers
-                          * Live Poultry FAQs
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo and _Salmonella_ Senftenberg Infections Linked to Wonderful Pistachios, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Alfalfa Sprouts from One Contaminated Seed Lot, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Virchow Infections Linked to Raw Meal Organic Shake and Meal Products, 2016plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2015 Outbreaksplus icon
-                        * _Salmonella_ Paratyphi B variant L(+) tartrate(+) Infections Linked to Sprouted Nut Butter Spreads, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2015plus icon
-                          * Human _Salmonella_ Infections Linked to Small Turtles en EspaÃ±ol
-                          * Advice to Pet Owners
-                          * Advice to Pet Owners en EspaÃ±ol
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * _Salmonella_ Poona Infections Linked to Imported Cucumbers, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Multidrug-Resistant _Salmonella_ I 4,[5],12:i:- and _Salmonella_ Infantis Infections Linked to Pork, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Aspen Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Drug-Resistant _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Barber Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2015plus icon
-                          * Advice to Backyard Flock Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Raw Tuna, 2015plus icon
-                          * Advice to Retailers & Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Crested Geckos, 2015plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2014 Outbreaksplus icon
-                        * Enteritidis Infections Linked to Bean Sprouts, 2014plus icon
-                          * Advice to Consumers & Retailers
-                          * Final Case Count Maps
-                          * Final Epi Curve
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Linked to Nut Butter, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human Typhimurium Infections Linked to Laboratory Exposure, 2014plus icon
-                          * Advice to Students & Employees in Labs
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Chia Powder, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Frozen Feeder Rodents, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Bearded Dragons, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Heidelberg Infections Linked to Tyson Brand Mechanically Separated Chicken, 2014plus icon
-                          * Recall & Advice to Institutions
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Stanley Infections Linked to Raw Cashew Cheese, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2013 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Foster Farms Brand Chicken, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * _Salmonella_ Mbandaka Infections Linked to Tahini Sesame Paste, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Live Poultry in Backyard Flocks, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Saintpaul Infections Linked to Imported Cucumbers, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Heidelberg Infections Linked to Chicken, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Typhimurium Infections Linked to Ground Beef, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2012 Outbreaksplus icon
-                        * Bredeney Infections Linked to Peanut Butter, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Hedgehogs, 2012plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Associated with Mangoes, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Typhimurium and Newport Infections Linked to Cantaloupe, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Enteritidis Infections Linked to Ground Beef, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Hadar Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Montevideo Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infantis Infections Linked to Dry Dog Food, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Information for Pet Owners
-                          * Information for Veterinarians
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Bareilly and Nchanga Infections Associated with a Raw Scraped Ground Tuna Product, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Outbreaks Diagram
-                          * Signs & Symptoms
-                          * Key Resource
-                        * Enteritidis Infections Linked to Restaurant Chain A, 2012
-                      * 2010 through 2011 Outbreaksplus icon
-                        * Typhimurium Infections Linked to Ground Beef
-                        * Heidelberg Infections Linked to Kosher Broiled Chicken Livers
-                        * Enteritidis Infections Linked to Turkish Pine Nuts
-                        * Heidelberg Infections Linked to Ground Turkey
-                        * Agona Infections Linked to Whole, Fresh Imported Papayas
-                        * Enteritidis Infections Linked to Alfalfa Sprouts and Spicy Sprouts
-                        * Altona and Johannesburg Infections Linked to Chicks and Ducklings
-                        * Typhimurium Infections Associated with Lab Exposure
-                        * Typhimurium Infections Linked to African Dwarf Frogs
-                        * Hadar Infections Associated with Turkey Burgers
-                        * Panama Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Alfalfa Sprouts
-                        * Enteritidis Infections Associated with Shell Eggs
-                        * Chester Infections Associated with Cheesy Chicken & Rice Frozen EntrÃ©e
-                        * Typhi (Typhoid Fever) Associated with Frozen Mamey Fruit Pulp
-                        * Hartford and Baildon Infections Associated with Restaurant Chain A
-                        * I 4,[5],12:i:- Linked to Frozen Rodents
-                        * Newport Infections Linked to Alfalfa Sprouts
-                        * Montevideo Infections Linked to Red and Black Pepper/Italian-Style Meats
-                      * 2006 through 2009 Outbreaksplus icon
-                        * Saintpaul Infections Linked to Alfalfa Sprouts
-                        * _Salmonella_ Infections Linked to Pistachio Nuts
-                        * Typhimurium Infections Linked to Peanut Butter
-                        * Saintpaul Infections Linked to Raw Produce
-                        * Agona Infections Linked to Rice & Wheat Puff Cereal
-                        * Litchfield Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Pot Pies
-                        * Human Schwarzengrund Infections Linked to Dry Pet Food
-                        * Wandsworth Infections Linked to Veggie Booty
-                        * Tennessee Infections Linked to Peanut Butter
-                        * Typhimurium Infections Linked to Tomatoes
-                    * For Health Professionals
-                    * Surveillanceplus icon
-                      * _Salmonella_ Atlasplus icon
-                        * 32 Individual Serotypes Reports
-                        * Importance of Serotyping
-                        * Snapshots of Serotypes
-                    * Communication Materials
-                    * Reports & Publicationsplus icon
-                      * MMWR Articles
-                      * References
-
-Related Links
-
-                    * Multistate Foodborne Outbreaks
-                    * Zoonotic Diseases (Diseases from Animals)
-                    * Foodborne Illness A-Z
-                    * Estimates of Foodborne Illness
-                    * Report a Foodborne Illness
-                    * Foodsafety.govExternal file_external 
-                    * U.S. Food and Drug Administration (FDA)External file_external 
-                    * USDA Food Safety and Inspection ServiceExternal file_external 
-
-Follow Salmonella
-
-![Sign up for RSS feed.](/salmonella/images/outbreaks/rss-icon.png)
-
-Sign up for RSS Feed
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-                    * About CDC
-                    * Jobs
-                    * Funding
-                    * Policies
-                    * File Viewers & Players
-
-                    * Privacy
-                    * FOIA
-                    * No Fear Act
-                    * OIG
-                    * Nondiscrimination
-                    * Accessibility
-
-**CONNECT WITH CDC**  
-
-                    * Facebook
-                    * Twitter
-                    * Youtube
-                    * Instagram
-  
-
-                    * Syndicate
-                    * CDC TV
-                    * RSS
-                    * Email
-
-U.S. Department of Health & Human Services
-
-USA.gov
-
-CDC Website Exit Disclaimer external icon
-
-                    * Facebook
-                    * Twitter
-                    * LinkedIn
-                    * Email
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-PDF file_external
-
-#### Exit Notification/Disclaimer Policy
-
-Close
-
-**Links with this icon indicate that you are leaving the CDC website.**
-
-                    * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                    * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                    * You will be subject to the destination website's privacy policy when you follow the link.
-                    * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
+
+Menu
+
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Search
+
+Search MedlinePlus
+
+GO
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+
+EspaÃ±ol
+
+You Are Here:
+
+Home ->
+
+Health Topics ->
+
+Sports Injuries
+
+URL of this page: https://medlineplus.gov/sportsinjuries.html
+
+#  Sports Injuries
+
+On this page
+
+### Basics
+
+    * Summary
+    * Start Here
+    * Prevention and Risk Factors
+
+### Learn More
+
+    * Related Issues
+    * Specifics
+
+### See, Play and Learn
+
+    * Videos and Tutorials
+
+### Research
+
+    * Statistics and Research
+    * Clinical Trials
+    * Journal Articles
+
+### Resources
+
+    * Find an Expert
+
+### For You
+
+    * Children
+    * Teenagers
+    * Men
+    * Patient Handouts
+
+## Summary
+
+Exercising is good for you, but sometimes you can injure yourself when you
+play sports or exercise. Accidents, poor training practices, or improper gear
+can cause them. Some people get hurt because they are not in shape. Not
+warming up or stretching enough can also lead to injuries.
+
+The most common sports injuries are
+
+    * Sprains and strains
+    * Knee injuries
+    * Swollen muscles 
+    * Achilles tendon injuries 
+    * Pain along the shin bone 
+    * Rotator cuff injuries
+    * Fractures (broken bones) 
+    * Dislocations
+
+If you get hurt, stop playing. Continuing to play or exercise can cause more
+harm. Treatment often begins with the RICE (Rest, Ice, Compression, and
+Elevation) method to relieve pain, reduce swelling, and speed healing. Other
+possible treatments include pain relievers, keeping the injured area from
+moving, rehabilitation, and sometimes surgery.
+
+NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+
+## Start Here
+
+    * Common Sports Injuries (American Academy of Family Physicians) Also in Spanish
+    * Dealing with Sports Injuries (Nemours Foundation) Also in Spanish
+    * What Are Sports Injuries? ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) ![Easy-to-Read](https://medlineplus.gov/images/easyreadgreen.gif) (National Institute of Arthritis and Musculoskeletal and Skin Diseases) Also in Spanish
+
+## Prevention and Risk Factors
+
+    * Overuse Injury: How to Prevent Training Injuries (Mayo Foundation for Medical Education and Research) Also in Spanish
+    * Sports Safety: MedlinePlus Health Topic ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Library of Medicine) Also in Spanish
+
+## Related Issues
+
+    * Exercise-Induced Urticaria (American Academy of Family Physicians) Also in Spanish
+    * High-Altitude Illness (American Academy of Family Physicians) Also in Spanish
+    * Knee Bracing: What Works? (American Academy of Family Physicians) Also in Spanish
+    * Venous Thromboembolism and Marathon Athletes (American Heart Association) \- PDF
+
+## Specifics
+
+    * Burners (American Academy of Family Physicians) Also in Spanish
+    * Chronic Exertional Compartment Syndrome (Mayo Foundation for Medical Education and Research) Also in Spanish
+    * Chronic Traumatic Encephalopathy (Mayo Foundation for Medical Education and Research) Also in Spanish
+    * Concussion (American Academy of Family Physicians) Also in Spanish
+    * Eye Injuries in Sports (American Academy of Family Physicians) Also in Spanish
+    * Foot Health Facts for Athletes (American College of Foot and Ankle Surgeons)
+    * Golf Injuries (American Orthopaedic Society for Sports Medicine)
+    * Golf Injuries to the Hand, Wrist, or Elbow (American Society for Surgery of the Hand)
+    * Golfer's Elbow (Mayo Foundation for Medical Education and Research)
+    * Hamstring Injury (Mayo Foundation for Medical Education and Research) Also in Spanish
+    * Patellofemoral Pain Syndrome (American Academy of Family Physicians) Also in Spanish
+    * Shin Splints (Mayo Foundation for Medical Education and Research) Also in Spanish
+    * Shoulder Impingement/Rotator Cuff Tendinitis (American Academy of Orthopaedic Surgeons) Also in Spanish
+    * Shoulder Instability (American Academy of Family Physicians) Also in Spanish
+    * Sports Hernia (Athletic Pubalgia) (American Academy of Orthopaedic Surgeons)
+    * Sports Injuries to the Foot and Ankle (American College of Foot and Ankle Surgeons)
+    * Sprains and Strains (Mayo Foundation for Medical Education and Research) Also in Spanish
+    * Stress Fractures (Mayo Foundation for Medical Education and Research) Also in Spanish
+    * Tennis Elbow (Mayo Foundation for Medical Education and Research)
+    * Tennis Elbow (Lateral Epicondylitis) (American Academy of Orthopaedic Surgeons)
+
+## Videos and Tutorials
+
+    * Concussion ![Video](https://medlineplus.gov/images/videocamera.gif) (Medical Encyclopedia) Also in Spanish
+
+## Statistics and Research
+
+    * Youth Sports Safety Statistics (National Athletic Trainers' Association) \- PDF
+
+## Clinical Trials
+
+    * ClinicalTrials.gov: Athletic Injuries ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institutes of Health)
+
+## Journal Articles References and abstracts from MEDLINE/PubMed (National
+Library of Medicine)
+
+    * Article: Ulnar Abutment Syndrome in the Athlete.
+    * Article: Groin pain in athletes.
+    * Article: Pediatric Injuries in Kids CafÃ©s and Risk Factors for Significant Injuries:...
+    * Sports Injuries -- see more articles
+
+## Find an Expert
+
+    * National Institute of Arthritis and Musculoskeletal and Skin Diseases ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) Also in Spanish
+
+## Children
+
+    * Ana's Story: How She and Her Family Learned about Sports Injuries ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institute of Arthritis and Musculoskeletal and Skin Diseases) \- PDF Also in Spanish
+    * Ear Injuries (For Parents) (Nemours Foundation) Also in Spanish
+    * Leading Cause of Eye Injuries in School-Aged Children are Sports-Related (Prevent Blindness America)
+    * Parents' and Coaches' Guide to Dehydration and Other Heat Illnesses in Children (National Athletic Trainers' Association) \- PDF Also in Spanish
+    * Sever's Disease (Nemours Foundation) Also in Spanish
+    * Treatments of Sports Injuries in the Young Athlete (North American Spine Society)
+    * What Is a Pediatric Sports Medicine Specialist? (American Academy of Pediatrics) Also in Spanish
+
+## Teenagers
+
+    * Ankle Sprains (Nemours Foundation) Also in Spanish
+    * Dealing with Sports Injuries (Nemours Foundation) Also in Spanish
+    * Heads Up to High School Sports (Centers for Disease Control and Prevention)
+    * Jumper's Knee (Patellar Tendonitis) (For Parents) (Nemours Foundation) Also in Spanish
+    * Quadriceps Contusion (Nemours Foundation) Also in Spanish
+    * Runner's Knee (Nemours Foundation) Also in Spanish
+    * Sports and Concussions (Nemours Foundation) Also in Spanish
+
+## Men
+
+    * Testicular Injuries (Nemours Foundation) Also in Spanish
+
+## Patient Handouts
+
+    * Achilles tendon repair (Medical Encyclopedia) Also in Spanish
+    * Back pain and sports (Medical Encyclopedia) Also in Spanish
+    * How to avoid exercise injuries (Medical Encyclopedia) Also in Spanish
+    * Medial epicondylitis - golfer's elbow (Medical Encyclopedia) Also in Spanish
+    * Returning to sports after a back injury (Medical Encyclopedia) Also in Spanish
+
+## Topic Image
+
+![Sports injuries](https://medlineplus.gov/images/SportsInjuries.jpg)
+
+## Stay Connected
+
+Sign up for the My MedlinePlus newsletter What's this?
+
+GO
+
+## MEDICAL ENCYCLOPEDIA
+
+    * Achilles tendon repair
+    * ACL reconstruction
+    * Acute mountain sickness
+    * Back pain and sports
+    * Concussion
+    * How to avoid exercise injuries
+    * Lactic acidosis
+    * Medial epicondylitis - golfer's elbow
+    * Osgood-Schlatter disease
+    * Returning to sports after a back injury
+    * Rotator cuff problems
+    * Shin splints - self-care
+    * Tennis elbow
+
+Show More Show Less
+
+## Related Health Topics
+
+    * Ankle Injuries and Disorders
+    * Concussion
+    * Elbow Injuries and Disorders
+    * Foot Injuries and Disorders
+    * Hand Injuries and Disorders
+    * Knee Injuries and Disorders
+    * Shoulder Injuries and Disorders
+    * Sports Fitness
+    * Sprains and Strains
+
+## National Institutes of Health
+
+The primary NIH organization for research on Sports Injuries is the National
+Institute of Arthritis and Musculoskeletal and Skin Diseases
+
+## Other Languages
+
+Find health information in languages other than English on _Sports Injuries_
+
+## Disclaimers
+
+MedlinePlus links to health information from the National Institutes of Health
+and other federal government agencies. MedlinePlus also links to health
+information from non-government Web sites. See our disclaimer about external
+links and our quality guidelines.
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated on 11 February 2020 Topic last reviewed: 2 January 2017
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

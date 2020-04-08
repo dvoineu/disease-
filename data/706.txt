@@ -1,1162 +1,151 @@
+Link: https://medlineplus.gov/connect/howitworks.html    
+                                Description: Learn how MedlinePlus Connect accepts and responds to requests for information based on diagnoses (problem) codes, medication codes, and laboratory test codes.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link Skip directly to A-Z link Skip directly to A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search ____
+Menu
 
-Ã
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Search
 
-Submit __
+Search MedlinePlus
 
-For a full list of topics: A-Z Index
+GO
 
-_Salmonella_
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-Section Navigation
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-CDC Home
+You Are Here:
 
-                    * Facebook
-                    * Twitter
-                    * LinkedIn
-                    * Email
-                    * Syndicate
+Home ->
 
-# Multistate Outbreak of _Salmonella_ Infections Linked to Imported Maradol
-Papayas (Final Update)
+MedlinePlus Connect ->
 
-EspaÃ±ol (Spanish)
+How it Works
 
-Minus
+URL of this page: https://medlineplus.gov/connect/howitworks.html
 
-Related Pages
+# MedlinePlus Connect: How it Works
 
-Posted November 3, 2017 3:00 PM ET
+To use the sharing features on this page, please enable JavaScript.
 
-This outbreak appears to be over. This outbreak was one of four separate
-multistate outbreaks identified in 2017 linked to imported Maradol papayas
-from four different farms in Mexico. For information on the other outbreaks,
-please visit the Reports of _Salmonella_ Outbreak Investigations from 2017
-webpage.
+MedlinePlus Connect accepts and responds to requests for information based on
+**diagnosis (problem) codes, medication codes** , and **laboratory test
+codes**. When an EHR or patient portal submits a code request, MedlinePlus
+Connect returns a response that includes links to relevant patient
+information. MedlinePlus Connect can accept only one code per request.
 
-Highlights
+MedlinePlus Connect is available as a Web application or a Web service.
+MedlinePlus Connect can respond in English or Spanish.
 
-                    * **Read the Recall and Advice to Consumers, Restaurants, and Retailers** **> >**
-                    * This outbreak appears to be over.
-                    * CDC, public health and regulatory officials in several states, and the U.S. Food and Drug AdministrationExternal investigated a multistate outbreak of _Salmonella_ infections.
-                    * Epidemiologic and laboratory evidence indicated that Maradol papayas from the Carica de Campeche farm in Tenabo, Campeche, Mexico were the likely source of this outbreak.
-                    * This outbreak included five types of _Salmonella_ : Thompson, Kiambu, Agona, Gaminara, and Senftenberg. The same strains of these types of _Salmonella_ were found in samples collected from papayas and from ill people.
-                    * A total of 220 people infected with the outbreak strains of _Salmonella_ Thompson (144), _Salmonella_ Kiambu (54), _Salmonella_ Agona (12), _Salmonella_ Gaminara (7), or _Salmonella_ Senftenberg (3) were reported from 23 states. 
-                      * Illnesses started on dates ranging from May 17, 2017 to October 4, 2017.
-                      * Sixty-eight ill people were hospitalized. One death was reported from New York City.
+Code Types | If you send: | MedlinePlus Connect responds with:  
+---|---|---  
+**Diagnosis (problem) codes:** |
 
-Outbreak Summary
-
-#### Introduction
-
-CDC, public health and regulatory officials in several states, and the U.S.
-Food and Drug Administration (FDA)External investigated a multistate outbreak
-of _Salmonella_ infections linked to imported Maradol papayas from the Carica
-de Campeche farm in Mexico.
-
-Public health investigators used the PulseNet system to identify illnesses
-that may have been part of this outbreak. A total of 220 people infected with
-the outbreak strains of _Salmonella_ Thompson (144), _Salmonella_ Kiambu (54),
-_Salmonella_ Agona (12), _Salmonella_ Gaminara (7), or _Salmonella_
-Senftenberg (3) were reported from 23 states. A list of the states and the
-number of cases in each can be found on the Case Count Map page. Whole genome
-sequencing (WGS) showed that isolates from people infected with _Salmonella_
-were closely related genetically. This close genetic relationship means that
-people in this outbreak are more likely to share a common source of infection.
-
-Illnesses started on dates ranging from May 17, 2017 to October 4, 2017. Ill
-people ranged in age from less than 1 year to 95, with a median age of 40.
-Among ill people, 62% were female. Among 169 people with available
-information, 113 (67%) were of Hispanic ethnicity. Among 170 people with
-available information, 68 (40%) were hospitalized. One death was reported from
-New York City.
-
-WGS did not identify antimicrobial resistance genes among isolates from 139
-ill people; one ill person's isolate, a _Salmonella_ Senftenberg, contained a
-gene known to decrease susceptibility to ciprofloxacin. Standard antibiotic
-susceptibility testing methods were used by CDC's National Antimicrobial
-Resistance Monitoring System (NARMS) laboratory on clinical isolates from 10
-ill people in this outbreak and no resistance was detected.
-
-#### Investigation of the Outbreak
-
-Epidemiologic and laboratory evidence indicated that Maradol papayas imported
-from Mexico were the likely source of this multistate outbreak.
-
-In interviews, ill people answered questions about the foods they ate and
-other exposures in the week before they became ill. Of 145 people interviewed,
-79 (54%) reported eating papayas. This proportion was significantly higher
-than results from a survey Cdc-pdf[PDF - 29 pages] of healthy Hispanic people
-in which 22% reported eating papayas in the summer months in the week before
-they were interviewed.
-
-The Maryland Department of HealthExternal collected papayas from a grocery
-store where several ill people reported eating papayas. One sample yielded
-_Salmonella_ Kiambu and another sample yielded _Salmonella_ Thompson. Both
-samples were from Caribeña brand Maradol papayas imported from Mexico. WGS
-showed that the _Salmonella_ Kiambu papaya isolate was closely related
-genetically to the _Salmonella_ Kiambu isolates from ill people. WGS also
-showed that the _Salmonella_ Thompson papaya isolate was closely related
-genetically to _Salmonella_ Thompson isolates from ill people. On July 26,
-Grande Produce recalledExternal Caribeña brand Maradol papayas that were
-distributed between July 10 and July 19, 2017.
-
-FDAExternal tested other papayas imported from Mexico and isolated several
-types of _Salmonella_ , including _Salmonella_ Agona, _Salmonella_ Kiambu,
-_Salmonella_ Gaminara, _Salmonella_ Thompson, and _Salmonella_ Senftenberg.
-Through this testing, FDA also identified Maradol papayas from the Carica de
-Campeche papaya farm in Campeche, Mexico as a likely source of the outbreak.
-Investigators compared pulsed-field gel electrophoresis (PFGE) and WGS results
-of _Salmonella_ isolates from the papayas to isolates from ill people in the
-CDC PulseNet database. These results showed the _Salmonella_ isolates from
-papayas shared the same DNA fingerprint as the _Salmonella_ isolates from ill
-people. This result provided more evidence that people in this outbreak got
-sick from eating contaminated Maradol papayas.
-
-On August 5, Agroson's LLC recalledExternal certain Cavi brand Maradol papayas
-grown and packed by Carica de Campeche. On August 7, Freshtex Produce, LLC
-recalledExternal Valery brand Maradol papayas grown and packed by Carica de
-Campeche.
-
-This outbreak appears to be over. This outbreak was one of four separate
-multistate outbreaks identified in 2017 linked to imported Maradol papayas
-from Mexico. For information on the other outbreaks, please visit the Reports
-of _Salmonella_ Outbreak Investigations from 2017 webpage.
-
-### Previous Investigation Updates
-
-September 13, 2017
-
-#### Case Count Update
-
-Since the last update on September 1, 2017, ten more ill people from 7 states
-were added to this investigation.
-
-As of September 11, 2017, a total of 210 people infected with the outbreak
-strains of _Salmonella_ Thompson (135), _Salmonella_ Kiambu (59), _Salmonella_
-Agona (10), or _Salmonella_ Gaminara (6) have been reported from 24 states. A
-list of the states and the number of cases in each can be found on the Case
-Count Map page.
-
-Illnesses started on dates ranging from May 17, 2017 to August 27, 2017. Ill
-people range in age from less than 1 year to 95, with a median age of 37. Some
-information is not available for all of the ill people. Among 205 ill people,
-124 (60%) are female. Among 162 people, 109 (67%) are of Hispanic ethnicity.
-Among 168 people, 67 (40%) have been hospitalized. One death was reported from
-New York City.
-
-Illnesses that occurred after August 11, 2017, might not be reported yet due
-to the time it takes between when a person becomes ill and when the illness is
-reported. This takes an average of 2 to 4 weeks.
-
-This investigation is ongoing and CDC will provide updates when more
-information becomes available.
-
-September 1, 2017
-
-#### Case Count Update
-
-Since the last update on August 18, 2017, 28 more ill people from 12 states
-were added to this investigation.
-
-As of August 30, 2017, a total of 201 people infected with the outbreak
-strains of _Salmonella_ Thompson (131), _Salmonella_ Kiambu (57), _Salmonella_
-Agona (8), or _Salmonella_ Gaminara (5) have been reported from 23 states. A
-list of the states and the number of cases in each can be found on the Case
-Count Map page.
-
-Illnesses started on dates ranging from May 17, 2017 to August 20, 2017. Ill
-people range in age from less than 1 year to 95, with a median age of 37. Some
-information is not available for all of the ill people. Among 196 ill people,
-118 (60%) are female. Among 153 people, 101 (66%) are of Hispanic ethnicity.
-Among 158 people, 65 (41%) have been hospitalized. One death was reported from
-New York City.
-
-Illnesses that occurred after August 1, 2017, might not be reported yet due to
-the time it takes between when a person becomes ill and when the illness is
-reported. This takes an average of 2 to 4 weeks.
-
-#### Investigation Update
-
-As a result of this outbreak investigation, FDA has increased testing of
-papayas from Mexico to see if papayas from other farms are contaminated with
-_Salmonella_. Through this increased testing, FDA identified other types of
-_Salmonella_ not linked to this outbreak on papayas from Caraveo Produce in
-Tecoman, Mexico and El Zapotanio in La Huerta, Mexico. FDA reportsExternal
-that the shipments of papayas found to be contaminated were destroyed and were
-not distributed for sale in the United States.  Papayas from these farms were
-distributed in the United States earlier this year, but FDA reports that no
-shipments of papayas from either farm are on the market in the United States
-because they are past their shelf life.
-
-Through a review of the PulseNet database, CDC identified two more outbreaks
-of people infected with _Salmonella_ with the same DNA fingerprints as the
-_Salmonella_ found on papayas from these two other farms. Available
-information indicates that illnesses in these two outbreaks are not linked to
-papayas from the Carica de Campeche farm and are being investigated
-separately. Summaries of the two outbreaks are provided below.
-
-**Outbreak of _Salmonella_ Newport and _Salmonella_ Infantis Infections**
-
-FDA testing identified _Salmonella_ Newport and _Salmonella_ Infantis in an
-imported papaya sample collected from Caraveo Produce in Tecoman, Mexico. CDC
-identified three people in the PulseNet database who were infected with the
-same DNA fingerprint of _Salmonella_ Newport (2 people) or _Salmonella_
-Infantis (1 person). The ill people were reported from three states: Illinois,
-Massachusetts, and Michigan. All three people (100%) reported eating or
-possibly eating papayas in the week before illness started.
-
-**Outbreak of _Salmonella_ Urbana Infections**
-
-FDA testing identified _Salmonella_ Urbana in an imported papaya sample
-collected from El Zapotanio in La Huerta, Mexico. CDC identified six people in
-the PulseNet database who were infected with the same DNA fingerprint of
-_Salmonella_ Urbana. The ill people were reported from three states: New
-Jersey (4), New York (1), and Pennsylvania (1). Of four people with
-information available, three (75%) reported eating or possibly eating papayas
-in the week before illness started.
-
-Because three separate outbreaks linked to papayas from different farms have
-been identified, CDC is concerned that papayas from several other farms in
-Mexico might be contaminated with _Salmonella_ and have made people sick. FDA
-continues testing papayas from Mexico to see if other papayas from other farms
-are contaminated with _Salmonella_. Investigations are ongoing to determine if
-additional consumer warnings are needed beyond the advice not to eat papayas
-from specific farms that is given in this update. Updates will be provided
-when more information is available.
-
-August 18, 2017
-
-#### Introduction
-
-Since the last update on August 11, 2017, 34 more ill people were added to
-this investigation from 11 states.
-
-As of August 16, 2017, 173 people infected with the outbreak strains of
-_Salmonella_ Kiambu (51), _Salmonella_ Thompson (111), _Salmonella_ Agona (7),
-or _Salmonella_ Gaminara (4) have been reported from 21 states. A list of the
-states and the number of cases in each can be found on the Case Count Map
-page.
-
-Illnesses started on dates ranging from May 17, 2017 to July 31, 2017. Ill
-people range in age from less than 1 year to 95, with a median age of 38. Some
-information is not available for all of the ill people. Among 169 ill people,
-101 (60%) are female. Among 135 people, 91 (67%) are of Hispanic ethnicity.
-Among 136 people, 58 (43%) have been hospitalized. One death was reported from
-New York City.
-
-Illnesses that occurred after July 18, 2017, might not be reported yet due to
-the time it takes between when a person becomes ill and when the illness is
-reported. This takes an average of 2 to 4 weeks.
-
-#### Investigation Update
-
-As was reported in the update on August 4, FDAExternal tested other papayas
-imported from Mexico and isolated several types of _Salmonella_ bacteria,
-including _Salmonella_ Agona, _Salmonella_ Kiambu, _Salmonella_ Gaminara,
-_Salmonella_ Thompson, and _Salmonella_ Senftenberg. Investigators compared
-pulsed-field gel electrophoresis and whole genome sequencing results of
-_Salmonella_ isolates from the papayas to isolates from ill people in the CDC
-PulseNet database. CDC has now identified 11 people infected with the same
-strains of either _Salmonella_ Agona (7) or _Salmonella_ Gaminara (4) _._
-These 11 illnesses have been added to the case count for this outbreak. Among
-5 for whom information was available, all 5 (100%) reported eating or possibly
-eating papayas in the week before becoming ill.
-
-This investigation is ongoing. Updates will be provided when more information
-is available.
-
-August 11, 2017
-
-#### Introduction
-
-Since the last update on August 4, 2017, 32 more ill people were added to this
-investigation from 15 states.
-
-As of August 9, 2017, 141 people infected with the outbreak strains of
-_Salmonella_ Kiambu (51) or _Salmonella_ Thompson (90) have been reported from
-19 states. A list of the states and the number of cases in each can be found
-on the Case Count Map page.
-
-Illnesses started on dates ranging from May 17, 2017 to July 27, 2017. Ill
-people range in age from less than 1 year to 95, with a median age of 39.
-Among 136 ill people with available information, 83 (61%) are female. Among 98
-people with available information, 66 (67%) are of Hispanic ethnicity. Among
-103 people with available information, 45 (44%) have been hospitalized. One
-death was reported from New York City.
-
-Illnesses that occurred after July 14, 2017, might not be reported yet due to
-the time it takes between when a person becomes ill and when the illness is
-reported. This takes an average of 2 to 4 weeks.
-
-#### Investigation Update
-
-Based on information collected to date, CDC is now recommending that consumers
-not eat Maradol papayas from the Carica de Campeche farm in Mexico. If
-consumers aren't sure if their Maradol papaya came from the Carica de Campeche
-farm, they should ask the place of purchase. When in doubt, don't eat it; just
-throw it out. Restaurants and retailers should not serve or sell Maradol
-papayas from the Carica de Campeche farm.
-
-As was reported in the last update on August 4, FDAExternal tested other
-papayas imported from Mexico and isolated several types of _Salmonella_
-bacteria, including _Salmonella_ Agona, _Salmonella_ Kiambu, _Salmonella_
-Gaminara, _Salmonella_ Thompson, and _Salmonella_ Senftenberg. CDC is working
-to determine if there are any illnesses with these other types of _Salmonella_
-linked to this outbreak _._
-
-This investigation is ongoing. Updates will be provided when more information
-is available.
-
-August 4, 2017
-
-#### Introduction
-
-Since the last update on July 21, 2017, 64 more ill people were added to this
-investigation from 15 states.
-
-As of August 3, 2017, 109 people infected with the outbreak strains of
-_Salmonella_ Kiambu (48) and _Salmonella_ Thompson (61) have been reported
-from 16 states. A list of the states and the number of cases in each can be
-found on the Case Count Map page.
-
-Illnesses started on dates ranging from May 17, 2017 to July 22, 2017. Ill
-people range in age from less than 1 year to 95, with a median age of 36.
-Among ill people, 63% are female. Among 74 people with available information,
-50 (68%) are of Hispanic ethnicity. Among 76 people with available
-information, 35 (46%) were  hospitalized. One death was reported from New York
-City.
-
-This outbreak can be illustrated with a chart showing the number of people who
-became ill each day. This chart is called an epidemic curve or epi curve.
-Illnesses that occurred after July 10, 2017 might not be reported yet due to
-the time it takes between when a person becomes ill and when the illness is
-reported. This takes an average of 2 to 4 weeks. Please see the Timeline for
-Reporting Cases of _Salmonella_ Infection for more details.
-
-#### Investigation Update
-
-In ongoing interviews, ill people answered questions about the foods they ate
-and other exposures in the week before they became ill. Of the 59 interviewed,
-28 (47%) reported eating papayas. This proportion was significantly higher
-than results from a survey Cdc-pdf[PDF - 29 pages] of healthy Hispanic people
-in which 16% reported eating papayas in the months of May and June in the week
-before they were interviewed.
-
-Investigators used whole genome sequencing (WGS) to learn more about the DNA
-fingerprint of the strains of _Salmonella_ isolated from Maradol papayas that
-Maryland health officials collected from a grocery store in that state.
-Samples from these papayas yielded outbreak strains of _Salmonella_ Kiambu and
-_Salmonella_ Thompson. Both samples were from Caribeña brand Maradol papayas
-imported from Mexico. Investigators compared WGS results of _Salmonella_
-isolates from the papayas to clinical isolates from ill people in the PulseNet
-database.
-
-WGS showed that the _Salmonella_ Kiambu papaya isolate is closely related
-genetically to _Salmonella_ Kiambu isolates from ill people. WGS also showed
-that the _Salmonella_ Thompson papaya isolate is closely related genetically
-to _Salmonella_ Thompson isolates from ill people. This result provides more
-evidence that people in this outbreak got sick from eating contaminated
-Maradol papayas imported from Mexico.
-
-FDAExternal tested other papayas imported from Mexico and isolated several
-types of _Salmonella_ , including _Salmonella_ Agona, _Salmonella_ Kiambu,
-_Salmonella_ Gaminara, _Salmonella_ Thompson, and _Salmonella_ Senftenberg.
-Through this testing, the FDA has also identified Maradol papayas from the
-Carica de Campeche papaya farm in Mexico as a likely source of the outbreak.
-
-On August 5, Agroson's LLC recalledExternal certain Cavi brand Maradol papayas
-grown and packed by Carica de Campeche. The Cavi brand carries a purple, green
-and black sticker with the words "cavi MEXICO 4395" in white. Only certain lot
-codes of Cavi brand Maradol papayas were recalled, because they were known to
-come from Carica de Campeche. Boxes provided to wholesalers are stamped with
-CARICA DE CAMPECHE on the upper left side of the box. Other Cavi papayas,
-sourced from other farms, were not recalled.
-
-FDA is working to identify other brands of papayas that may have originated
-from Carica de Campeche and facilitate recalls. More information is available
-on FDA's website.
-
-CDC and state and local public health partners are continuing laboratory
-surveillance through PulseNet to identify additional ill people and to
-interview them. Further investigation by FDA and regulatory officials is under
-way to determine the point in the supply chain where the papayas were
-contaminated. Updates will be provided when more information is available.
-
-Initial Announcement
-
-#### Introduction
-
-CDC, public health and regulatory officials in several states, and the U.S.
-Food and Drug Administration (FDA)External are investigating a multistate
-outbreak of _Salmonella_ Kiambu infections.
-
-Public health investigators are using the PulseNet system to identify
-illnesses that may be part of this outbreak. PulseNet is the national
-subtyping network of public health and food regulatory agency laboratories
-coordinated by CDC. DNA fingerprinting is performed on _Salmonella_ bacteria
-isolated from ill people by using techniques called pulsed-field gel
-electrophoresis (PFGE) and whole genome sequencing (WGS). CDC PulseNet manages
-a national database of these DNA fingerprints to identify possible outbreaks.
-WGS gives a more detailed DNA fingerprint than PFGE.
-
-As of July 21, 2017, 47 people infected with the outbreak strain of
-_Salmonella_ Kiambu have been reported from 12 states. A list of the states
-and the number of cases in each can be found on the Case Count Map page. WGS
-showed that isolates from people infected with _Salmonella_ Kiambu are closely
-related genetically. This close genetic relationship means that people in this
-outbreak are more likely to share a common source of infection.
-
-Illnesses started on dates ranging from May 17, 2017 to June 28, 2017. Ill
-people range in age from less than 1 year to 95, with a median age of 27.
-Among ill people, 67% are female. Among 31 people with available information,
-18 (58%) are of Hispanic ethnicity. Among 33 people with available
-information, 12 (36%) report being hospitalized. One death was reported from
-New York City.
-
-This outbreak can be illustrated with a chart showing the number of people who
-became ill each day. This chart is called an epidemic curve or epi curve.
-Illnesses that occurred after June 23, 2017 might not be reported yet due to
-the time it takes between when a person becomes ill and when the illness is
-reported. This takes an average of 2 to 4 weeks. Please see the Timeline for
-Reporting Cases of _Salmonella_ Infection for more details.
-
-#### Investigation of the Outbreak
-
-Epidemiologic and laboratory evidence collected to date indicate that Maradol
-papayas imported from Mexico are a likely source of this multistate outbreak.
-This investigation is ongoing.
-
-In interviews, ill people answered questions about the foods they ate and
-other exposures in the week before they became ill. Eleven (44%) of 25 people
-interviewed reported eating papayas. This proportion was significantly higher
-than results from a survey Cdc-pdf[PDF - 29 pages] of healthy Hispanic people
-in which 16% reported eating papayas in the months of May and June in the week
-before they were interviewed.
-
-An illness cluster in Maryland was identified. An illness cluster is defined
-as two or more people who do not live in the same household who report eating
-at the same restaurant location, attending a common event, or shopping at the
-same location of a grocery store in the week before becoming ill. In Maryland,
-several ill people reported eating papayas purchased from the same location of
-a grocery store. _Salmonella_ Kiambu and _Salmonella_ Thompson were isolated
-from samples collected from ill people. Investigating illness clusters
-provides critical clues about the source of an outbreak. If several unrelated
-ill people ate or shopped at the same location of a restaurant or store within
-several days of each other, it suggests that the contaminated food item was
-served or sold there.
-
-The Maryland Department of HealthExternal collected papayas from the grocery
-store associated with the illness cluster to test for _Salmonella_. One sample
-yielded the outbreak strain of _Salmonella_ Kiambu and another sample yielded
-_Salmonella_ Thompson. Both samples were from Caribeña brand Maradol papayas
-imported from Mexico. WGS showed that the _Salmonella_ Kiambu papaya isolate
-is closely related genetically to the _Salmonella_ Kiambu isolates from ill
-people. This result provides more evidence that people in this outbreak got
-sick from eating contaminated Maradol papayas. CDC is working to collect
-additional information to determine whether the recent _Salmonella_ Thompson
-illness in Maryland is part of this multistate outbreak.
-
-On July 26, Grande Produce recalledExternal Caribeña brand Maradol papayas
-that were distributed between July 10 and July 19, 2017. Based on the
-available evidence, CDC recommends that consumers not eat, restaurants not
-serve, and retailers not sell Maradol papayas from Mexico until we learn more
-about other possible brands that might be linked to this outbreak.
-
-CDC and state and local public health partners are continuing laboratory
-surveillance through PulseNet to identify additional ill people and to
-interview them. Further investigation by FDA and regulatory officials is under
-way to determine the point in the supply chain where the papayas were
-contaminated. Updates will be provided when more information is available.
-
-At A Glance
-
-                    * Case Count: 220
-                    * States: 23
-                    * Deaths: 1
-                    * Hospitalizations: 68
-                    * Recall: Yes
-
-More Information
-
-                    * Recall & Advice to Consumers, Restaurants, and Retailers
-                    * Signs & Symptoms
-                    * Key Resources
-
-![Photo of a papaya cut open](/salmonella/kiambu-07-17/images/papaya.jpg)
-
-Maradol Papaya: Maradol papayas are a large, oval fruit that weighs 3 or more
-pounds, with green skins that turn yellow when the fruit is ripe. The flesh
-inside the fruit is salmon-colored.
-
-CLICK TO VIEW EPI CURVE GRAPHS
-
-![People infected with the outbreak strains of Salmonella Kiambu or Salmonella
-Thompson, by date of illness onset*](/salmonella/kiambu-07-17/images/epi-
-curve/small-epi-7-21-17.jpg)
-
-CLICK TO VIEW CASE COUNT MAPS
-
-![People infected with the outbreak strains of Salmonella, by state of
-residence](/salmonella/kiambu-07-17/images/map/small-map-8-3-17.jpg)
-
-Page last reviewed: July 21, 2017
-
-Content source: Centers for Disease Control and Prevention, National Center
-for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of Foodborne,
-Waterborne, and Environmental Diseases (DFWED)
-
-home _Salmonella_ Homepage
-
-                    * Questions & Answersplus icon
-                      * Additional Information
-                    * Prevention
-                    * Symptoms
-                    * Diagnosis & Treatmentplus icon
-                      * Diagnostic and Public Health Testing
-                    * Current Outbreaksplus icon
-                      * Reporting Timeline
-                      * _Salmonella_ Infections Linked to Small Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tortugas mascota pequeÃ±as
-                      * _Salmonella_ Infections Linked to Cut Fruitplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Ground Beefplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a la carne de res molida
-                      * _Salmonella_ Infections Linked to Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a turtugas mascota
-                      * _Salmonella_ Infections Linked to Pig Ear Dog Treatsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Papayasplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a papayas frescas enteras importadas de MÃ©xico
-                      * _Salmonella_ Infections Linked to Karawan brand Tahiniplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tahini de la marca Karawan
-                      * _Salmonella_ Infections Linked to Backyard Poultryplus icon
-                        * Map of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brotes de infecciones por _Salmonella_ vinculados a aves de corral domÃ©sticas
-                      * _Salmonella_ Infections Linked to Frozen Raw Tunaplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Newport vinculado a atÃºn crudo congelado
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                      * _Salmonella_ Infections Linked to Pre-Cut Melonplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Carrau vinculado a melÃ³n y sandÃ­a precortados
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                      * _Salmonella_ Infections Linked to Butterball Brand Ground Turkeyplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado al pavo molido de marca Butterball
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones de la investigaciÃ³n del brote, por fecha
-                      * _Salmonella_ Infections Linked to Pet Hedgehogsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a los erizos como mascota
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                    * Previous Outbreaksplus icon
-                      * 2018 Outbreaksplus icon
-                        * Multidrug-Resistant _Salmonella_ Infections Linked to Raw Turkey Productsplus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pavo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Tahini from Achdut Ltd., 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a tahini elaborado por Achdut Ltd.
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Raw Chicken Products, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Advice to Clinicians
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pollo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Recomendaciones para los mÃ©dicos
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Ground Beef, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a carne molida de res
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Agbeni Infections, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Gravel Ridge Farms Shell Eggs, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Chicken, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Hy-Vee Spring Pasta Salad, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella vinculado a la ensalada de pasta âHy-Vee Spring Pasta Saladâ
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Kelloggâs Honey Smacks Cereal, 2018plus icon
-                          * Salmonella Infections Linked to Kelloggâs Honey Smacks Cereal en EspaÃ±ol
-                          * Recall and Advice to Consumers, Restaurants and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pre-Cut Melon, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pre-Cut Melon en EspaÃ±ol
-                          * Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks, 2018plus icon
-                          * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Braenderup Infections Linked to Shell Eggs, 2018plus icon
-                          * _Salmonella_ Braenderup Infections Linked to Shell Eggs en EspaÃ±ol
-                          * Recalls and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Dried Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Dried Coconut en EspaÃ±ol
-                          * Recall and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Guinea Pigs, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pet Guinea Pigs en EspaÃ±ol
-                          * Case Count Maps
-                          * Case Count Maps en EspaÃ±ol
-                          * Signs & Symptoms
-                          * Signs & Symptoms en EspaÃ±ol
-                        * _Salmonella_ Infections Linked to Chicken Salad, 2018plus icon
-                          * _Salmonella_ Infections Linked to Chicken Salad en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Kratom, 2018plus icon
-                          * _Salmonella_ Infections Linked to Kratom en EspaÃ±ol
-                          * Recalls and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo Infections Linked to Raw Sprouts, 2018plus icon
-                          * _Salmonella_ Infections Linked to Raw Sprouts en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Shredded Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut en EspaÃ±ol
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut á» Viá»t Nam [PDF â 3 pages]
-                          * Recall and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2017 Outbreaksplus icon
-                        * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Turtles, 2017plus icon
-                          * _Salmonella_ Infections Linked to Small Turtles, 2017 en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Laboratory Exposure, 2017plus icon
-                          * Advice to Students & Employees in Microbiology Laboratories
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry in Backyard Flocksplus icon
-                          * Case Count Maps
-                          * Live Poultry FAQ
-                      * 2016 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Contact with Dairy Calves, 2016plus icon
-                          * Case Count Maps
-                          * Epi Curves
-                        * _Salmonella_ Oranienburg Infections Linked to Shell Eggs, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Reading and _Salmonella_ Abony Infections linked to Alfalfa Sprouts, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps 
-                          * Epi Curves 
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2016plus icon
-                          * Advice to Consumers and Retailers
-                          * Live Poultry FAQs
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo and _Salmonella_ Senftenberg Infections Linked to Wonderful Pistachios, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Alfalfa Sprouts from One Contaminated Seed Lot, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Virchow Infections Linked to Raw Meal Organic Shake and Meal Products, 2016plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2015 Outbreaksplus icon
-                        * _Salmonella_ Paratyphi B variant L(+) tartrate(+) Infections Linked to Sprouted Nut Butter Spreads, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2015plus icon
-                          * Human _Salmonella_ Infections Linked to Small Turtles en EspaÃ±ol
-                          * Advice to Pet Owners
-                          * Advice to Pet Owners en EspaÃ±ol
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * _Salmonella_ Poona Infections Linked to Imported Cucumbers, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Multidrug-Resistant _Salmonella_ I 4,[5],12:i:- and _Salmonella_ Infantis Infections Linked to Pork, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Aspen Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Drug-Resistant _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Barber Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2015plus icon
-                          * Advice to Backyard Flock Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Raw Tuna, 2015plus icon
-                          * Advice to Retailers & Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Crested Geckos, 2015plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2014 Outbreaksplus icon
-                        * Enteritidis Infections Linked to Bean Sprouts, 2014plus icon
-                          * Advice to Consumers & Retailers
-                          * Final Case Count Maps
-                          * Final Epi Curve
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Linked to Nut Butter, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human Typhimurium Infections Linked to Laboratory Exposure, 2014plus icon
-                          * Advice to Students & Employees in Labs
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Chia Powder, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Frozen Feeder Rodents, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Bearded Dragons, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Heidelberg Infections Linked to Tyson Brand Mechanically Separated Chicken, 2014plus icon
-                          * Recall & Advice to Institutions
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Stanley Infections Linked to Raw Cashew Cheese, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2013 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Foster Farms Brand Chicken, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * _Salmonella_ Mbandaka Infections Linked to Tahini Sesame Paste, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Live Poultry in Backyard Flocks, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Saintpaul Infections Linked to Imported Cucumbers, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Heidelberg Infections Linked to Chicken, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Typhimurium Infections Linked to Ground Beef, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2012 Outbreaksplus icon
-                        * Bredeney Infections Linked to Peanut Butter, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Hedgehogs, 2012plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Associated with Mangoes, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Typhimurium and Newport Infections Linked to Cantaloupe, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Enteritidis Infections Linked to Ground Beef, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Hadar Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Montevideo Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infantis Infections Linked to Dry Dog Food, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Information for Pet Owners
-                          * Information for Veterinarians
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Bareilly and Nchanga Infections Associated with a Raw Scraped Ground Tuna Product, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Outbreaks Diagram
-                          * Signs & Symptoms
-                          * Key Resource
-                        * Enteritidis Infections Linked to Restaurant Chain A, 2012
-                      * 2010 through 2011 Outbreaksplus icon
-                        * Typhimurium Infections Linked to Ground Beef
-                        * Heidelberg Infections Linked to Kosher Broiled Chicken Livers
-                        * Enteritidis Infections Linked to Turkish Pine Nuts
-                        * Heidelberg Infections Linked to Ground Turkey
-                        * Agona Infections Linked to Whole, Fresh Imported Papayas
-                        * Enteritidis Infections Linked to Alfalfa Sprouts and Spicy Sprouts
-                        * Altona and Johannesburg Infections Linked to Chicks and Ducklings
-                        * Typhimurium Infections Associated with Lab Exposure
-                        * Typhimurium Infections Linked to African Dwarf Frogs
-                        * Hadar Infections Associated with Turkey Burgers
-                        * Panama Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Alfalfa Sprouts
-                        * Enteritidis Infections Associated with Shell Eggs
-                        * Chester Infections Associated with Cheesy Chicken & Rice Frozen EntrÃ©e
-                        * Typhi (Typhoid Fever) Associated with Frozen Mamey Fruit Pulp
-                        * Hartford and Baildon Infections Associated with Restaurant Chain A
-                        * I 4,[5],12:i:- Linked to Frozen Rodents
-                        * Newport Infections Linked to Alfalfa Sprouts
-                        * Montevideo Infections Linked to Red and Black Pepper/Italian-Style Meats
-                      * 2006 through 2009 Outbreaksplus icon
-                        * Saintpaul Infections Linked to Alfalfa Sprouts
-                        * _Salmonella_ Infections Linked to Pistachio Nuts
-                        * Typhimurium Infections Linked to Peanut Butter
-                        * Saintpaul Infections Linked to Raw Produce
-                        * Agona Infections Linked to Rice & Wheat Puff Cereal
-                        * Litchfield Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Pot Pies
-                        * Human Schwarzengrund Infections Linked to Dry Pet Food
-                        * Wandsworth Infections Linked to Veggie Booty
-                        * Tennessee Infections Linked to Peanut Butter
-                        * Typhimurium Infections Linked to Tomatoes
-                    * For Health Professionals
-                    * Surveillanceplus icon
-                      * _Salmonella_ Atlasplus icon
-                        * 32 Individual Serotypes Reports
-                        * Importance of Serotyping
-                        * Snapshots of Serotypes
-                    * Communication Materials
-                    * Reports & Publicationsplus icon
-                      * MMWR Articles
-                      * References
-
-Related Links
-
-                    * Multistate Foodborne Outbreaks
-                    * Zoonotic Diseases (Diseases from Animals)
-                    * Foodborne Illness A-Z
-                    * Estimates of Foodborne Illness
-                    * Report a Foodborne Illness
-                    * Foodsafety.govExternal file_external 
-                    * U.S. Food and Drug Administration (FDA)External file_external 
-                    * USDA Food Safety and Inspection ServiceExternal file_external 
-
-Follow Salmonella
-
-![Sign up for RSS feed.](/salmonella/images/outbreaks/rss-icon.png)
-
-Sign up for RSS Feed
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-                    * About CDC
-                    * Jobs
-                    * Funding
-                    * Policies
-                    * File Viewers & Players
-
-                    * Privacy
-                    * FOIA
-                    * No Fear Act
-                    * OIG
-                    * Nondiscrimination
-                    * Accessibility
-
-**CONNECT WITH CDC**  
-
-                    * Facebook
-                    * Twitter
-                    * Youtube
-                    * Instagram
+    * ICD-9-CM
+    * ICD-10-CM
+    * SNOMED CT® [1]
+|  MedlinePlus Health Topic Information  
   
+Genetics Home Reference Information [2]  
+**Medication Code Requests:** |
 
-                    * Syndicate
-                    * CDC TV
-                    * RSS
-                    * Email
+    * RxCUI (RxNorm Concept Unique Identifier) 
+    * NDC (National Drug Code) 
+|  MedlinePlus Drug Information  
+**Laboratory Test Codes:** |
 
-U.S. Department of Health & Human Services
+    * LOINC® (Logical Observation Identifiers Names and Codes) 
+|  MedlinePlus Lab Test Information  
+  
+[1] MedlinePlus Connect coverage of SNOMED CT focuses on CORE Problem List
+Subset codes (Clinical Observations Recording and Encoding) and their
+descendants.
 
-USA.gov
+[2] For appropriate English SNOMED CT and ICD-10-CM responses
 
-CDC Website Exit Disclaimer external icon
+## What is available to patients or providers within systems using MedlinePlus
+Connect?
 
-                    * Facebook
-                    * Twitter
-                    * LinkedIn
-                    * Email
+The Web application and Web service provide responses in different formats.
+How it looks depends on how it is implemented.
 
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
+### Web Application
 
-PDF file_external
+The Web application returns a formatted response page. (Refer to image.) The
+page is delivered to your EHR or other health system ready to use. The patient
+or provider may select from the links on the MedlinePlus Connect response page
+or go directly to the MedlinePlus website.
 
-#### Exit Notification/Disclaimer Policy
+![A sample MedlinePlus Connect Web application patient response page on Knee
+Replacement that contains links to the relevant MedlinePlus page with
+extensive articles, videos and images and also links to short summaries and
+instructions](https://medlineplus.gov/images/connect_webapp_response.png)View
+image full size **Sample Web Application response for a problem code**  
 
-Close
+Visit the Web Application Demonstration page for more examples of Web
+Application response pages.
 
-**Links with this icon indicate that you are leaving the CDC website.**
+### Web Service
 
-                    * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                    * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                    * You will be subject to the destination website's privacy policy when you follow the link.
-                    * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
+The MedlinePlus Connect REST-based Web service provides access to the same
+information as the Web Application but returns XML, JSON, or JSONP. This gives
+users greater flexibility to tailor the display and delivery of the
+information. Organizations can use the Web service response to incorporate
+MedlinePlus information and links into any health IT interface. An
+organization implementing the MedlinePlus Connect Web service may select which
+MedlinePlus links and information to provide to the user.
 
-Cancel Continue
+Visit the Web Service Demonstration page for more examples of Web Service
+response pages.
 
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+## More Information
+
+    * How MedlinePlus Connect Works
+    * Demonstrations -- Web application and Web service
+    * Technical information for developers 
+    * Frequently Asked Questions (FAQs)
+    * MedlinePlus Connect email list
+    * Contact MedlinePlus Connect 
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated on 5 June 2019
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

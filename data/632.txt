@@ -1,1508 +1,210 @@
+Link: https://medlineplus.gov/athletesfoot.html    
+                                Description: Athlete&#39;s foot (tinea pedis) is a contagious fungal infection that can affect any part of the foot, but usually begins between the toes. Learn more.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link Skip directly to A-Z link Skip directly to A-Z link
-
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
-
-Search ____
-
-Ã
-
-Submit __
-
-For a full list of topics: A-Z Index
-
-_Salmonella_
-
-Section Navigation
-
-CDC Home
-
-                    * Facebook
-                    * Twitter
-                    * LinkedIn
-                    * Email
-                    * Syndicate
-
-# Case Count Map
-
-Eight Multistate Outbreaks of Human Salmonella Infections Linked to Small
-Turtles (Final Update)
-
-Minus
-
-Related Pages
-
-Posted October 18, 2013 3:00 PM ET
-
-These outbreaks appear to be over. However, small turtles continue to be an
-important cause of human _Salmonella_ infections in the United States. More
-information about _Salmonella_ from reptiles and amphibians and the steps
-people can take to reduce their risk of infection is available.
-
-  
-
-## Final Case Count Map
-
-#### Persons infected with turtle-associated outbreak strains of _Salmonella_
-*, by state**
-
-![Final Case Count: Persons infected with turtle-associated outbreak strains
-of Salmonella, by state](/salmonella/small-
-turtles-03-12/images/101813-map.jpg)
-
-### Number of Cases in Each Outbreak, by State
-
-  | Outbreak 1 | Outbreak 2 | Outbreak 3 | Outbreak 4 | Outbreak 5 | Outbreak
-6 | Outbreak 7 | Outbreak 8 | Combined Case Count | Number of Outbreaks, Each
-State  
----|---|---|---|---|---|---|---|---|---|---  
-AK | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 2 | 1  
-AL | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 1 | 4 | 3  
-AR | 2 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 4 | 2  
-AZ | 4 | 0 | 2 | 0 | 7 | 14 | 0 | 0 | 27 | 4  
-CA | 32 | 3 | 4 | 0 | 32 | 35 | 0 | 0 | 106 | 5  
-CO | 0 | 1 | 0 | 3 | 2 | 0 | 0 | 0 | 6 | 3  
-CT | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1  
-DC | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 1 | 3 | 2  
-DE | 1 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 4 | 2  
-FL | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1  
-GA | 2 | 0 | 5 | 0 | 3 | 0 | 0 | 0 | 10 | 3  
-IL | 4 | 0 | 3 | 0 | 2 | 1 | 0 | 0 | 10 | 4  
-IN | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1  
-KS | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 2 | 1  
-KY | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 3 | 3  
-LA | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | 5 | 1  
-MA | 7 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 12 | 3  
-MD | 6 | 1 | 0 | 0 | 1 | 0 | 2 | 7 | 17 | 5  
-ME | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1  
-MI | 0 | 0 | 1 | 0 | 2 | 2 | 0 | 0 | 5 | 3  
-MN | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1  
-MO | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 4 | 4  
-MS | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 1 | 4 | 3  
-NC | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 3 | 3  
-NJ | 10 | 2 | 2 | 0 | 2 | 0 | 0 | 10 | 26 | 5  
-NM | 6 | 1 | 0 | 0 | 6 | 2 | 0 | 0 | 15 | 4  
-NV | 3 | 1 | 0 | 2 | 4 | 1 | 0 | 0 | 11 | 5  
-NY | 23 | 4 | 8 | 0 | 4 | 1 | 4 | 11 | 55 | 7  
-OH | 2 | 0 | 0 | 0 | 2 | 1 | 1 | 0 | 6 | 4  
-OR | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 1  
-PA | 11 | 3 | 2 | 0 | 2 | 5 | 7 | 4 | 34 | 7  
-PR | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1  
-RI | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1  
-SC | 1 | 0 | 2 | 0 | 8 | 0 | 5 | 1 | 17 | 5  
-SD | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1  
-TN | 0 | 0 | 5 | 0 | 1 | 0 | 0 | 1 | 7 | 3  
-TX | 3 | 2 | 6 | 2 | 20 | 12 | 0 | 0 | 45 | 6  
-UT | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 1  
-VA | 1 | 1 | 0 | 0 | 3 | 0 | 0 | 0 | 5 | 3  
-VT | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1  
-WA | 2 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 5 | 3  
-WI | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 2 | 2  
-WV | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 3 | 1  
-Total Number of Cases | 124 | 23 | 58 | 7 | 120 | 78 | 19 | 44 | 473 |  
-Total Number of States | 22 | 14 | 22 | 3 | 29 | 13 | 5 | 13 | 43 |  
-  
-*Outbreak 1: _Salmonella_ Sandiego, Strain A and _Salmonella_ Newport, n=124,  
-Outbreak 2: _Salmonella_ Pomona, Strain A, n=23,  
-Outbreak 3: _Salmonella_ Poona, Strain A and _Salmonella_ Sandiego, Strain C,
-n=58,  
-Outbreak 4: _Salmonella_ Sandiego, Strain B, n=7,  
-Outbreak 5: _Salmonella_ Pomona, Strain B, n=120,  
-Outbreak 6: _Salmonella_ Poona, Strain B, n=78,  
-Outbreak 7: _Salmonella_ I,4,[5],12:i:-, Strain A, n=19,  
-Outbreak 8: _Salmonella_ Typhimurium, Strain A, n=44,  
-**n=473 for whom information was reported as of September 23, 2013
-
-The number of ill persons identified in each state was as follows: Alabama
-(4), Alaska (2), Arizona (27), Arkansas (4), California (106), Colorado (6),
-Connecticut (1), Delaware (4), Florida (1), Georgia (10), Illinois (10),
-Indiana (1), Kansas (2), Kentucky (3), Louisiana (5), Maine (1), Maryland
-(17), Massachusetts (12), Michigan (5), Minnesota (1), Mississippi (4),
-Missouri (4), Nevada (11), New Jersey (26), New Mexico (15), New York (55),
-North Carolina (3), Ohio (6), Oregon (1), Pennsylvania (34), Puerto Rico (1),
-Rhode Island (1), South Carolina (17), South Dakota (1), Tennessee (7), Texas
-(45), Utah (1), Vermont (1), Virginia (5), Washington (5), Washington, D.C.
-(3), Wisconsin (2) and West Virginia (3).
-
-### Previous Case Count Maps
-
-May 24, 2013
-
-#### Persons infected with turtle-associated outbreak strains of Salmonella*,
-by state**
-
-![Case Count Map: May 24, 2013: Persons infected with turtle-associated
-outbreak strains of Salmonella, by state](/salmonella/small-
-turtles-03-12/images/052313-map.jpg)
-
-#### Number of Cases in Each Outbreak, by State
-
-  | Outbreak 1 | Outbreak 2 | Outbreak 3 | Outbreak 4 | Outbreak 5 | Outbreak
-6 | Outbreak 7 | Outbreak 8 | Combined Case Count | Outbreaks Each State  
----|---|---|---|---|---|---|---|---|---|---  
-AK | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | **2** | **1**  
-AL | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 1 | **4** | **3**  
-AR | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | **2** | **1**  
-AZ | 1 | 0 | 2 | 0 | 3 | 3 | 0 | 0 | **9** | **4**  
-CA | 23 | 3 | 4 | 0 | 25 | 21 | 0 | 0 | **76** | **5**  
-CO | 0 | 1 | 0 | 3 | 2 | 0 | 0 | 0 | **6** | **3**  
-CT | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | **1** | **1**  
-DC | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 1 | **3** | **2**  
-DE | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | **3** | **1**  
-FL | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | **1** | **1**  
-GA | 2 | 0 | 5 | 0 | 3 | 0 | 0 | 0 | **10** | **3**  
-IL | 4 | 0 | 3 | 0 | 2 | 0 | 0 | 0 | **9** | **3**  
-IN | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-KS | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | **2** | **1**  
-KY | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | **2** | **2**  
-LA | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | **5** | **1**  
-MA | 5 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | **10** | **3**  
-MD | 6 | 1 | 0 | 0 | 1 | 0 | 2 | 7 | **17** | **5**  
-ME | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-MI | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | **3** | **2**  
-MN | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-MO | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | **3** | **3**  
-MS | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 1 | **4** | **3**  
-NC | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | **3** | **3**  
-NJ | 9 | 2 | 2 | 0 | 2 | 0 | 0 | 10 | **25** | **5**  
-NM | 5 | 0 | 0 | 0 | 6 | 1 | 0 | 0 | **12** | **3**  
-NV | 3 | 1 | 0 | 2 | 4 | 1 | 0 | 0 | **11** | **5**  
-NY | 22 | 4 | 5 | 0 | 3 | 1 | 4 | 11 | **50** | **7**  
-OH | 2 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | **5** | **3**  
-OR | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-PA | 10 | 3 | 2 | 0 | 1 | 5 | 7 | 4 | **32** | **7**  
-RI | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-SC | 1 | 0 | 2 | 0 | 8 | 0 | 5 | 1 | **17** | **5**  
-TN | 0 | 0 | 5 | 0 | 1 | 0 | 0 | 1 | **7** | **3**  
-TX | 3 | 1 | 6 | 2 | 18 | 9 | 0 | 0 | **39** | **6**  
-UT | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | **1** | **1**  
-VA | 1 | 1 | 0 | 0 | 3 | 0 | 0 | 0 | **5** | **3**  
-VT | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-WA | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-WI | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | **2** | **2**  
-WV | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | **3** | **1**  
-Total Number of Cases | **100** | **19** | **55** | **7** | **104** | **43** |
-**19** | **44** | **391** |  
-Total Number of States | **18** | **11** | **22** | **3** | **28** | **9** |
-**5** | **13** | **41** |  
-  
-
-
-*Outbreak 1: Salmonella Sandiego, Strain A and Salmonella Newport, n=93,  
-Outbreak 2: Salmonella Pomona, Strain A, n=19,  
-Outbreak 3: Salmonella Poona, Strain A and Salmonella Sandiego, Strain C,
-n=55,  
-Outbreak 4: Salmonella Sandiego, Strain B, n=7,  
-Outbreak 5: Salmonella Pomona, Strain B, n=96,  
-Outbreak 6: Salmonella Poona, Strain B, n=38,  
-Outbreak 7: Salmonella I,4,[5],12:i:-, Strain A, n=19,  
-Outbreak 8: Salmonella Typhimurium, Strain A, n=44,  
-**n=371 for whom information was reported as of March 28, 2013
-
-The number of ill persons identified in each state is as follows: Alabama (4),
-Alaska (2), Arizona (5), Arkansas (2), California (68), Colorado (6),
-Connecticut (1), Delaware (3), District of Columbia (2), Florida (1), Georgia
-(10), Illinois (8), Indiana (1), Kansas (2), Kentucky (2), Louisiana (5),
-Maine (1), Maryland (17), Massachusetts (9), Michigan (3), Minnesota (1),
-Mississippi (2), Missouri (3), Nevada (11), New Jersey (24), New Mexico (12),
-New York (50), North Carolina (3), Ohio (4), Oregon (1), Pennsylvania (32),
-Rhode Island (1), South Carolina (17), Tennessee (7), Texas (39), Utah (1),
-Vermont (1), Virginia (5), Wisconsin (2) and West Virginia (3).
-
-April 3, 2013
-
-#### Persons infected with turtle-associated outbreak strains of Salmonella*,
-by state**
-
-![Case Count Map: April 3, 2013: Persons infected with turtle-associated
-outbreak strains of Salmonella, by state](/salmonella/small-
-turtles-03-12/images/032913-map.jpg)
-
-#### Number of Cases in Each Outbreak, by State
-
-  | Outbreak 1 | Outbreak 2 | Outbreak 3 | Outbreak 4 | Outbreak 5 | Outbreak
-6 | Outbreak 7 | Outbreak 8 | Combined Case Count | Outbreaks Each State  
----|---|---|---|---|---|---|---|---|---|---  
-AK | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | **2** | **1**  
-AL | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 1 | **4** | **3**  
-AR | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | **2** | **1**  
-AZ | 0 | 0 | 2 | 0 | 2 | 1 | 0 | 0 | **5** | **3**  
-CA | 20 | 3 | 4 | 0 | 23 | 18 | 0 | 0 | **68** | **5**  
-CO | 0 | 1 | 0 | 3 | 2 | 0 | 0 | 0 | **6** | **3**  
-CT | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | **1** | **1**  
-DC | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | **2** | **2**  
-DE | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | **3** | **1**  
-FL | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | **1** | **1**  
-GA | 2 | 0 | 5 | 0 | 3 | 0 | 0 | 0 | **10** | **3**  
-IL | 3 | 0 | 3 | 0 | 2 | 0 | 0 | 0 | **8** | **3**  
-IN | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-KS | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | **2** | **1**  
-KY | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | **2** | **2**  
-LA | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | **5** | **1**  
-MA | 4 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | **9** | **3**  
-MD | 6 | 1 | 0 | 0 | 1 | 0 | 2 | 7 | **17** | **5**  
-ME | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-MI | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | **3** | **2**  
-MN | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-MO | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | **3** | **3**  
-MS | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 1 | **2** | **2**  
-NC | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | **3** | **3**  
-NJ | 9 | 2 | 2 | 0 | 1 | 0 | 0 | 10 | **24** | **5**  
-NM | 5 | 0 | 0 | 0 | 6 | 1 | 0 | 0 | **12** | **3**  
-NV | 3 | 1 | 0 | 2 | 4 | 1 | 0 | 0 | **11** | **5**  
-NY | 22 | 4 | 5 | 0 | 3 | 1 | 4 | 11 | **50** | **7**  
-OH | 1 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | **4** | **3**  
-OR | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-PA | 10 | 3 | 2 | 0 | 1 | 5 | 7 | 4 | **32** | **7**  
-RI | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-SC | 1 | 0 | 2 | 0 | 8 | 0 | 5 | 1 | **17** | **5**  
-TN | 0 | 0 | 5 | 0 | 1 | 0 | 0 | 1 | **7** | **3**  
-TX | 3 | 1 | 6 | 2 | 18 | 9 | 0 | 0 | **39** | **6**  
-UT | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | **1** | **1**  
-VA | 1 | 1 | 0 | 0 | 3 | 0 | 0 | 0 | **5** | **3**  
-VT | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-WI | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | **2** | **2**  
-WV | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | **3** | **1**  
-Total Number of Cases | **93** | **19** | **55** | **7** | **96** | **38** |
-**19** | **44** | **371** |  
-Total Number of States | **17** | **11** | **22** | **3** | **26** | **9** |
-**5** | **13** | **40** |  
-  
-
-
-*Outbreak 1: Salmonella Sandiego, Strain A and Salmonella Newport, n=93,  
-Outbreak 2: Salmonella Pomona, Strain A, n=19,  
-Outbreak 3: Salmonella Poona, Strain A and Salmonella Sandiego, Strain C,
-n=55,  
-Outbreak 4: Salmonella Sandiego, Strain B, n=7,  
-Outbreak 5: Salmonella Pomona, Strain B, n=96,  
-Outbreak 6: Salmonella Poona, Strain B, n=38,  
-Outbreak 7: Salmonella I,4,[5],12:i:-, Strain A, n=19,  
-Outbreak 8: Salmonella Typhimurium, Strain A, n=44,  
-**n=371 for whom information was reported as of March 28, 2013
-
-The number of ill persons identified in each state is as follows: Alabama (4),
-Alaska (2), Arizona (5), Arkansas (2), California (68), Colorado (6),
-Connecticut (1), Delaware (3), District of Columbia (2), Florida (1), Georgia
-(10), Illinois (8), Indiana (1), Kansas (2), Kentucky (2), Louisiana (5),
-Maine (1), Maryland (17), Massachusetts (9), Michigan (3), Minnesota (1),
-Mississippi (2), Missouri (3), Nevada (11), New Jersey (24), New Mexico (12),
-New York (50), North Carolina (3), Ohio (4), Oregon (1), Pennsylvania (32),
-Rhode Island (1), South Carolina (17), Tennessee (7), Texas (39), Utah (1),
-Vermont (1), Virginia (5), Wisconsin (2) and West Virginia (3).
-
-February 11, 2013
-
-#### Persons infected with turtle-associated outbreak strains of Salmonella*,
-by state**
-
-![Case Count Map: February 11, 2013; Persons infected with turtle-associated
-outbreak strains of Salmonella, by state](/salmonella/small-
-turtles-03-12/images/021513-map.jpg)
-
-#### Number of Cases in Each Outbreak, by State
-
-  | Outbreak 1 | Outbreak 2 | Outbreak 3 | Outbreak 4 | Outbreak 5 | Outbreak
-6 | Outbreak 7 | Outbreak 8 | Combined Case Count | Outbreaks Each State  
----|---|---|---|---|---|---|---|---|---|---  
-AK | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | **2** | **1**  
-AL | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | **3** | **3**  
-AR | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | **2** | **1**  
-AZ | 0 | 0 | 2 | 0 | 3 | 1 | 0 | 0 | **6** | **3**  
-CA | 16 | 3 | 4 | 0 | 23 | 16 | 0 | 0 | **62** | **5**  
-CO | 0 | 1 | 0 | 3 | 2 | 0 | 0 | 0 | **6** | **3**  
-CT | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | **1** | **1**  
-DC | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | **2** | **2**  
-DE | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | **3** | **1**  
-FL | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | **1** | **1**  
-GA | 2 | 0 | 4 | 0 | 3 | 0 | 0 | 0 | **9** | **3**  
-IL | 3 | 0 | 3 | 0 | 2 | 0 | 0 | 0 | **8** | **3**  
-IN | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-KS | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | **2** | **1**  
-KY | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | **2** | **2**  
-LA | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 | **3** | **1**  
-MA | 4 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | **9** | **3**  
-MD | 6 | 1 | 0 | 0 | 1 | 0 | 2 | 7 | **17** | **5**  
-ME | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-MI | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | **3** | **2**  
-MN | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-MO | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | **3** | **3**  
-MS | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 1 | **2** | **2**  
-NC | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | **3** | **3**  
-NJ | 9 | 2 | 2 | 0 | 0 | 0 | 0 | 10 | **23** | **5**  
-NM | 5 | 0 | 0 | 0 | 6 | 0 | 0 | 0 | **11** | **2**  
-NV | 3 | 1 | 0 | 2 | 4 | 1 | 0 | 0 | **11** | **5**  
-NY | 22 | 4 | 5 | 0 | 2 | 1 | 4 | 11 | **49** | **7**  
-OH | 0 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | **3** | **2**  
-OR | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-PA | 10 | 3 | 2 | 0 | 1 | 5 | 7 | 4 | **32** | **7**  
-RI | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-SC | 1 | 0 | 2 | 0 | 5 | 0 | 5 | 1 | **14** | **3**  
-TN | 0 | 0 | 5 | 0 | 1 | 0 | 0 | 1 | **7** | **3**  
-TX | 3 | 1 | 6 | 2 | 14 | 7 | 0 | 0 | **33** | **6**  
-VA | 1 | 1 | 0 | 0 | 3 | 0 | 0 | 0 | **5** | **3**  
-VT | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-WI | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | **2** | **2**  
-WV | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | **3** | **1**  
-Total Number of Cases | **88** | **19** | **51** | **7** | **88** | **32** |
-**19** | **43** | **347** |  
-Total Number of States | **16** | **11** | **22** | **3** | **25** | **7** |
-**5** | **12** | **38** |  
-  
-
-
-##### *Outbreak 1: _Salmonella_ Sandiego, Strain A and _Salmonella_ Newport,
-n=88,  
-Outbreak 2: _Salmonella_ Pomona, Strain A, n=19,  
-Outbreak 3: _Salmonella_ Poona, Strain A and _Salmonella_ Sandiego, Strain C,
-n=51,  
-Outbreak 4: _Salmonella_ Sandiego, Strain B, n=7,  
-Outbreak 5: _Salmonella_ Pomona, Strain B, n=88,  
-Outbreak 6: _Salmonella_ Poona, Strain B, n=32,  
-Outbreak 7: _Salmonella_ I,4,[5],12:i:-, Strain A, n=19,  
-Outbreak 8: _Salmonella_ Typhimurium, Strain A, n=43,  
-**n=347 for whom information was reported as of February 11, 2013
-
-The number of ill persons identified in each state is as follows: Alabama (3),
-Alaska (2), Arizona (6), Arkansas (2), California (62), Colorado (6), Delaware
-(3), Florida (1), Georgia (9), Illinois (8), Indiana (1), Kansas (2), Kentucky
-(2), Louisiana (3), Maine (1), Maryland (17), Massachusetts (9), Michigan (3),
-Minnesota (1), Mississippi (2), Missouri (3), Nevada (11), New Jersey (23),
-New Mexico (11), New York (49), North Carolina (3), Ohio (3), Oregon (1),
-Pennsylvania (32), Rhode Island (1), South Carolina (14), Tennessee (7), Texas
-(33), Vermont (1), Virginia (5), Washington, D.C. (2), Wisconsin (2) and West
-Virginia (3).
-
-December 6, 2012
-
-#### Persons infected with turtle-associated outbreak strains of Salmonella*,
-by state**
-
-![Case Count Map: December 6, 2012: Persons infected with turtle-associated
-outbreak strains of Salmonella, by state](/salmonella/small-
-turtles-03-12/images/120612-map.jpg)
-
-#### Number of Cases in Each Outbreak, by State
-
-  | Outbreak 1 | Outbreak 2 | Outbreak 3 | Outbreak 4 | Outbreak 5 | Outbreak
-6 | Combined Case Count | Outbreaks Each State  
----|---|---|---|---|---|---|---|---  
-AK | 0 | 0 | 0 | 0 | 2 | 0 | **2** | **1**  
-AL | 0 | 0 | 1 | 0 | 1 | 0 | **2** | **2**  
-AR | 0 | 0 | 2 | 0 | 0 | 0 | **2** | **1**  
-AZ | 0 | 0 | 2 | 0 | 3 | 1 | **6** | **3**  
-CA | 15 | 3 | 3 | 0 | 23 | 12 | **56** | **5**  
-CO | 0 | 1 | 0 | 3 | 2 | 0 | **6** | **3**  
-DE | 0 | 0 | 0 | 0 | 3 | 0 | **3** | **1**  
-FL | 0 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-GA | 2 | 0 | 2 | 0 | 3 | 0 | **7** | **3**  
-IL | 3 | 0 | 0 | 0 | 2 | 0 | **5** | **2**  
-IN | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-KS | 0 | 0 | 2 | 0 | 0 | 0 | **2** | **1**  
-KY | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-LA | 0 | 0 | 3 | 0 | 0 | 0 | **3** | **1**  
-MA | 4 | 1 | 0 | 0 | 0 | 0 | **5** | **2**  
-MD | 5 | 1 | 0 | 0 | 1 | 0 | **7** | **3**  
-MI | 0 | 0 | 1 | 0 | 2 | 0 | **3** | **2**  
-MN | 1 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-MO | 0 | 0 | 1 | 0 | 1 | 0 | **2** | **2**  
-MS | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-NC | 1 | 0 | 1 | 0 | 1 | 0 | **3** | **3**  
-NJ | 9 | 2 | 0 | 0 | 0 | 0 | **11** | **2**  
-NM | 5 | 0 | 0 | 0 | 5 | 0 | **10** | **2**  
-NV | 2 | 1 | 0 | 2 | 4 | 0 | **9** | **4**  
-NY | 22 | 3 | 3 | 0 | 2 | 0 | **30** | **4**  
-OH | 0 | 0 | 0 | 0 | 2 | 0 | **2** | **1**  
-OR | 0 | 0 | 0 | 0 | 1 | 0 | **1** | **1**  
-PA | 10 | 3 | 1 | 0 | 1 | 5 | **20** | **5**  
-SC | 1 | 0 | 0 | 0 | 5 | 0 | **6** | **2**  
-TN | 0 | 0 | 4 | 0 | 1 | 0 | **5** | **2**  
-TX | 3 | 1 | 4 | 1 | 14 | 2 | **26** | **6**  
-VA | 1 | 1 | 0 | 0 | 3 | 0 | **5** | **3**  
-VT | 0 | 1 | 0 | 0 | 0 | 0 | **1** | **1**  
-WI | 0 | 0 | 0 | 0 | 0 | 1 | **1** | **1**  
-WV | 0 | 0 | 0 | 0 | 3 | 0 | **3** | **1**  
-Total Number of Cases | **84** | **18** | **33** | **7** | **85** | **21** |
-**248** |  
-Total Number of States | **15** | **11** | **17** | **3** | **23** | **5** |
-**34** |  
-  
-##### *Outbreak 1: _Salmonella_ Sandiego, Strain A and _Salmonella_ Newport,
-n=84,  
-Outbreak 2: _Salmonella_ Pomona, Strain A, n=18,  
-Outbreak 3: _Salmonella_ Poona, Strain A, n=33,  
-Outbreak 4: _Salmonella_ Sandiego, Strain B, n=7,  
-Outbreak 5: _Salmonella_ Pomona, Strain B, n=85,  
-Outbreak 6: _Salmonella_ Poona, Strain B, n=21  
-**n=248 for whom information was reported as of December 3, 2012
-
-The number of ill persons identified in each state is as follows: Alabama (2),
-Alaska (2), Arizona (6), Arkansas (2), California (56), Colorado (6), Delaware
-(3), Georgia (7), Illinois (5), Indiana (1), Kansas (2), Kentucky (1),
-Louisiana (3), Maryland (7), Massachusetts (5), Michigan (3), Minnesota (1),
-Mississippi (1), Missouri (2), Nevada (9), New Jersey (11), New Mexico (10),
-New York (30), North Carolina (3), Ohio (2), Oregon (1), Pennsylvania (20),
-South Carolina (6), Tennessee (5), Texas (26), Vermont (1), Virginia (5),
-Wisconsin (1), and West Virginia (3).
-
-October 19, 2012
-
-#### Persons infected with turtle-associated outbreak strains of Salmonella*,
-by state**
-
-![Case Count Map: October 19, 2012: Persons infected with turtle-associated
-outbreak strains of Salmonella, by state](/salmonella/small-
-turtles-03-12/images/101512-map.jpg)
-
-#### Number of Cases in Each Outbreak, by State
-
-  | Outbreak 1 | Outbreak 2 | Outbreak 3 | Outbreak 4 | Outbreak 5 | Outbreak
-6 | Combined Case Count | Outbreaks Each State  
----|---|---|---|---|---|---|---|---  
-AK | 0 | 0 | 0 | 0 | 2 | 0 | **2** | **1**  
-AL | 0 | 0 | 1 | 0 | 1 | 0 | **2** | **2**  
-AR | 0 | 0 | 2 | 0 | 0 | 0 | **2** | **1**  
-AZ | 0 | 0 | 2 | 0 | 3 | 1 | **6** | **3**  
-CA | 15 | 3 | 3 | 0 | 22 | 6 | **49** | **5**  
-CO | 0 | 0 | 0 | 3 | 2 | 0 | **5** | **2**  
-DE | 0 | 0 | 0 | 0 | 3 | 0 | **3** | **1**  
-GA | 2 | 0 | 1 | 0 | 2 | 0 | **5** | **3**  
-IL | 2 | 0 | 0 | 0 | 2 | 0 | **4** | **2**  
-IN | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-KS | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-KY | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-LA | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-MA | 4 | 1 | 0 | 0 | 0 | 0 | **5** | **2**  
-MD | 5 | 1 | 0 | 0 | 0 | 0 | **6** | **2**  
-MI | 0 | 0 | 1 | 0 | 2 | 0 | **3** | **2**  
-MN | 1 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-MO | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-MS | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-NC | 1 | 0 | 1 | 0 | 1 | 0 | **3** | **3**  
-NJ | 8 | 2 | 0 | 0 | 0 | 0 | **10** | **2**  
-NM | 5 | 0 | 0 | 0 | 1 | 0 | **6** | **2**  
-NV | 2 | 1 | 0 | 2 | 4 | 0 | **9** | **4**  
-NY | 22 | 2 | 3 | 0 | 2 | 0 | **29** | **4**  
-OH | 0 | 0 | 0 | 0 | 2 | 0 | **2** | **1**  
-OR | 0 | 0 | 0 | 0 | 1 | 0 | **1** | **1**  
-PA | 10 | 3 | 0 | 0 | 1 | 4 | **18** | **5**  
-SC | 1 | 0 | 0 | 0 | 5 | 0 | **6** | **2**  
-TN | 0 | 0 | 4 | 0 | 1 | 0 | **5** | **2**  
-TX | 3 | 1 | 4 | 1 | 11 | 2 | **22** | **6**  
-VA | 1 | 1 | 0 | 0 | 3 | 0 | **5** | **3**  
-VT | 0 | 1 | 0 | 0 | 0 | 0 | **1** | **1**  
-WI | 0 | 0 | 0 | 0 | 0 | 1 | **1** | **1**  
-WV | 0 | 0 | 0 | 0 | 2 | 0 | **2** | **1**  
-Total Number of Cases | **82** | **16** | **28** | **6** | **73** | **14** |
-**219** |  
-Total Number of States | **15** | **10** | **15** | **3** | **21** | **5** |
-**34** |  
-  
-*Outbreak 1: _Salmonella_ Sandiego, Strain A and _Salmonella_ Newport, n=82,  
-Outbreak 2: _Salmonella_ Pomona, Strain A, n=16,  
-Outbreak 3: _Salmonella_ Poona, Strain A, n=28,  
-Outbreak 4: _Salmonella_ Sandiego, Strain B, n=6,  
-Outbreak 5: _Salmonella_ Pomona, Strain B, n=73,  
-Outbreak 6: _Salmonella_ Poona, Strain B, n=14  
-**n=219 for whom information was reported as of October 15, 2012
-
-The number of ill persons identified in each state is as follows: Alabama (2),
-Alaska (2), Arizona (6), Arkansas (2), California (49), Colorado (5), Delaware
-(3), Georgia (5), Illinois (4), Indiana (1), Kansas (1), Kentucky (1),
-Louisiana (1), Maryland (6), Massachusetts (5), Michigan (3), Minnesota (1),
-Mississippi (1), Missouri (1), Nevada (9), New Jersey (10), New Mexico (6),
-New York (29), North Carolina (3), Ohio (2), Oregon (1), Pennsylvania (18),
-South Carolina (6), Tennessee (5), Texas (22), Vermont (1), Virginia (5),
-Wisconsin (1), and West Virginia (2).
-
-September 20, 2012
-
-#### Persons infected with turtle-associated outbreak strains of Salmonella*,
-by state**
-
-![Case Count Map: September 20, 2012: Persons infected with turtle-associated
-outbreak strains of Salmonella, by state](/salmonella/small-
-turtles-03-12/images/092012-map.jpg)
-
-#### Number of Cases in Each Outbreak, by State
-
-  | Outbreak 1 | Outbreak 2 | Outbreak 3 | Outbreak 4 | Outbreak 5 | Outbreak
-6 | Combined Case Count | Outbreaks Each State  
----|---|---|---|---|---|---|---|---  
-AK | 0 | 0 | 0 | 0 | 2 | 0 | **2** | **1**  
-AL | 0 | 0 | 1 | 0 | 1 | 0 | **2** | **2**  
-AZ | 0 | 0 | 2 | 0 | 3 | 1 | **6** | **3**  
-CA | 11 | 3 | 3 | 0 | 11 | 0 | **38** | **4**  
-CO | 0 | 0 | 0 | 3 | 2 | 0 | **5** | **2**  
-DE | 0 | 0 | 0 | 0 | 3 | 0 | **3** | **1**  
-GA | 1 | 0 | 0 | 0 | 2 | 0 | **4** | **3**  
-IL | 2 | 0 | 0 | 0 | 2 | 0 | **4** | **2**  
-IN | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-KS | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-KY | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-LA | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-MA | 4 | 1 | 0 | 0 | 0 | 0 | **5** | **2**  
-MD | 5 | 1 | 0 | 0 | 0 | 0 | **6** | **2**  
-MI | 0 | 0 | 1 | 0 | 1 | 0 | **2** | **2**  
-MN | 1 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-MO | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-MS | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-NC | 1 | 0 | 1 | 0 | 1 | 0 | **3** | **3**  
-NJ | 8 | 2 | 0 | 0 | 0 | 0 | **10** | **2**  
-NM | 5 | 0 | 0 | 0 | 1 | 0 | **6** | **2**  
-NV | 2 | 1 | 0 | 2 | 4 | 0 | **9** | **4**  
-NY | 19 | 2 | 3 | 0 | 1 | 0 | **26** | **4**  
-OH | 0 | 0 | 0 | 0 | 2 | 0 | **2** | **1**  
-OR | 0 | 0 | 0 | 0 | 1 | 0 | **1** | **1**  
-PA | 8 | 3 | 0 | 0 | 1 | 4 | **18** | **4**  
-SC | 1 | 0 | 0 | 0 | 3 | 0 | **5** | **2**  
-TN | 0 | 0 | 4 | 0 | 1 | 0 | **5** | **2**  
-TX | 3 | 1 | 4 | 1 | 9 | 1 | **20** | **6**  
-VA | 1 | 1 | 0 | 0 | 3 | 0 | **5** | **3**  
-VT | 0 | 1 | 0 | 0 | 0 | 0 | **1** | **1**  
-WI | 0 | 0 | 0 | 0 | 0 | 1 | **1** | **1**  
-WV | 0 | 0 | 0 | 0 | 2 | 0 | **2** | **1**  
-Total Number of Cases | **76** | **16** | **25** | **6** | **67** | **6** |
-**196** |  
-Total Number of States | **15** | **10** | **14** | **3** | **21** | **5** |
-**31** |  
-  
-*OB #1 Sandiego 1201PAJLX-1, n=76,  
-OB #2 Pomona 1202MLPOM-1, n=16,  
-OB #3 Poona 1203MLJL6-1, n=25,  
-OB #4 Sandiego 1204COJL6-1, n=6,  
-OB #5 Pomona 1205MLPOM-1, n=67,  
-OB #6 Poona 1206PAJL6-1, n=6  
-**n=196 for whom information was reported as of September 10, 2012
-
-The number of ill persons identified in each state is as follows: Alabama (2),
-Alaska (2), Arizona (6), California (38), Colorado (5), Delaware (3), Georgia
-(4), Illinois (4), Indiana (1), Kansas (1), Kentucky (1), Louisiana (1),
-Maryland (6), Massachusetts (5), Michigan (2), Minnesota (1), Mississippi (1),
-Nevada (9), New Jersey (10), New Mexico (6), New York (26), North Carolina
-(3), Ohio (2), Oregon (1), Pennsylvania (18), South Carolina (5), Tennessee
-(5), Texas (20), Vermont (1), Virginia (5), and West Virginia (2).
-
-August 8, 2012
-
-#### Persons infected with turtle-associated outbreak strains of Salmonella*,
-by state**
-
-![Case Count Map: August 8, 2012; Persons infected with turtle-associated
-outbreak strains of Salmonella, by state](/salmonella/small-
-turtles-03-12/images/080812-map.jpg)
-
-#### Number of Cases in Each Outbreak, by State
-
-  | Outbreak 1 | Outbreak 2 | Outbreak 3 | Outbreak 4 | Outbreak 5 | Outbreak
-6 | Combined Case Count | Outbreaks Each State  
----|---|---|---|---|---|---|---|---  
-AK | 0 | 0 | 0 | 0 | 2 | 0 | **2** | **1**  
-AL | 0 | 0 | 1 | 0 | 1 | 0 | **2** | **2**  
-AZ | 0 | 0 | 2 | 0 | 2 | 1 | **5** | **3**  
-CA | 11 | 3 | 3 | 0 | 11 | 0 | **28** | **4**  
-CO | 0 | 0 | 0 | 3 | 2 | 0 | **5** | **2**  
-DE | 0 | 0 | 0 | 0 | 3 | 0 | **3** | **1**  
-GA | 1 | 0 | 0 | 0 | 2 | 0 | **3** | **2**  
-IL | 2 | 0 | 0 | 0 | 1 | 0 | **3** | **2**  
-IN | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-KY | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-LA | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-MA | 4 | 1 | 0 | 0 | 0 | 0 | **5** | **2**  
-MD | 5 | 1 | 0 | 0 | 0 | 0 | **6** | **2**  
-MI | 0 | 0 | 1 | 0 | 1 | 0 | **2** | **2**  
-MN | 1 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-MO | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-MS | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-NC | 1 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-NJ | 6 | 1 | 0 | 0 | 0 | 0 | **7** | **2**  
-NM | 5 | 0 | 0 | 0 | 1 | 0 | **6** | **2**  
-NV | 2 | 1 | 0 | 2 | 3 | 0 | **8** | **4**  
-NY | 19 | 2 | 3 | 0 | 1 | 0 | **25** | **4**  
-OH | 0 | 0 | 0 | 0 | 2 | 0 | **2** | **1**  
-OR | 0 | 0 | 0 | 0 | 1 | 0 | **1** | **1**  
-PA | 8 | 3 | 0 | 0 | 1 | 4 | **16** | **4**  
-SC | 1 | 0 | 0 | 0 | 3 | 0 | **4** | **2**  
-TN | 0 | 0 | 3 | 0 | 1 | 0 | **4** | **2**  
-TX | 3 | 1 | 4 | 1 | 9 | 1 | **19** | **6**  
-VA | 1 | 1 | 0 | 0 | 2 | 0 | **4** | **3**  
-VT | 0 | 1 | 0 | 0 | 0 | 0 | **1** | **1**  
-WV | 0 | 0 | 0 | 0 | 2 | 0 | **2** | **1**  
-Total Number of Cases | **70** | **15** | **21** | **6** | **50** | **6** |
-**168** |  
-Total Number of States | **15** | **10** | **11** | **3** | **20** | **3** |
-**30** |  
-  
-*OB #1 Sandiego 1201PAJLX-1, n=70,  
-OB #2 Pomona 1202MLPOM-1, n=15,  
-OB #3 Poona 1203MLJL6-1, n=21,  
-OB #4 Sandiego 1204COJL6-1, n=6,  
-OB #5 Pomona 1205MLPOM-1, n=50,  
-OB #6 Poona 1206PAJL6-1, n=6  
-**n=168 for whom information was reported as of August 2, 2012
-
-The number of ill persons identified in each state is as follows: Alabama (2),
-Alaska (2), Arizona (5), California (28), Colorado (5), Delaware (3), Georgia
-(3), Illinois (3), Indiana (1), Kentucky (1), Louisiana (1), Maryland (6),
-Massachusetts (5), Michigan (2), Minnesota (1), Mississippi (1), New Jersey
-(7), North Carolina (1), New Mexico (6), Nevada (8), New York (25), Ohio (2),
-Oregon (1), Pennsylvania (16), South Carolina (4), Tennessee (4), Texas (19),
-Vermont (1), Virginia (4), and West Virginia (1).
-
-June 25, 2012
-
-#### Persons infected with turtle-associated outbreak strains of Salmonella*,
-by state**
-
-![Case Count Map: June 25, 2012: Persons infected with turtle-associated
-outbreak strains of Salmonella, by state](/salmonella/small-
-turtles-03-12/images/062812-map.jpg)
-
-#### Number of Cases in Each Outbreak, by State
-
-  | Outbreak 1 | Outbreak 2 | Outbreak 3 | Outbreak 4 | Outbreak 5 | Outbreak
-6 | Combined Case Count | Outbreaks Each State  
----|---|---|---|---|---|---|---|---  
-AK | 0 | 0 | 0 | 0 | 2 | 0 | **2** | **1**  
-AL | 0 | 0 | 1 | 0 | 1 | 0 | **2** | **2**  
-AZ | 0 | 0 | 2 | 0 | 2 | 1 | **5** | **3**  
-CA | 10 | 2 | 3 | 0 | 11 | 0 | **26** | **4**  
-CO | 0 | 0 | 0 | 3 | 2 | 0 | **5** | **2**  
-DE | 0 | 0 | 0 | 0 | 3 | 0 | **3** | **1**  
-GA | 1 | 0 | 0 | 0 | 2 | 0 | **3** | **2**  
-IL | 1 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-IN | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-KY | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-MA | 2 | 1 | 0 | 0 | 0 | 0 | **3** | **2**  
-MD | 5 | 1 | 0 | 0 | 0 | 0 | **6** | **2**  
-MI | 0 | 0 | 1 | 0 | 1 | 0 | **2** | **2**  
-MN | 1 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-MO | 0 | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-NC | 1 | 0 | 0 | 0 | 0 | 0 | **1** | **1**  
-NJ | 6 | 1 | 0 | 0 | 0 | 0 | **7** | **2**  
-NM | 4 | 0 | 0 | 0 | 0 | 0 | **4** | **1**  
-NV | 1 | 0 | 0 | 2 | 3 | 0 | **6** | **3**  
-NY | 19 | 2 | 3 | 0 | 1 | 0 | **25** | **4**  
-OH | 0 | 0 | 0 | 0 | 2 | 0 | **2** | **1**  
-OR | 0 | 0 | 0 | 0 | 1 | 0 | **1** | **1**  
-PA | 7 | 2 | 0 | 0 | 1 | 4 | **14** | **4**  
-SC | 1 | 0 | 0 | 0 | 3 | 0 | **4** | **2**  
-TN | 0 | 0 | 1 | 0 | 1 | 0 | **2** | **2**  
-TX | 2 | 1 | 4 | 1 | 8 | 1 | **17** | **6**  
-VA | 1 | 0 | 0 | 0 | 2 | 0 | **3** | **2**  
-VT | 0 | 1 | 0 | 0 | 0 | 0 | **1** | **1**  
-WV | 0 | 0 | 0 | 0 | 1 | 0 | **2** | **1**  
-Total Number of Cases | **62** | **11** | **17** | **6** | **47** | **6** |
-**149** |  
-Total Number of States | **15** | **8** | **9** | **3** | **18** | **3** |
-**28** |  
-  
-*Outbreak 1: Salmonella Sandiego, Strain A and Salmonella Newport, n=62,  
-Outbreak 2: Salmonella Pomona, Strain A n=11,  
-Outbreak 3: Salmonella Poona, Strain A n=17,  
-Outbreak 4: Salmonella Sandiego, Strain B n=6,  
-Outbreak 5: Salmonella Pomona, Strain B n=47  
-Outbreak 6: Salmonella Poona, Strain B n=6  
-**for whom information was reported as of June 25, 2012
-
-The number of ill persons identified in each state is as follows: Alabama (2),
-Alaska (2), Arizona (5), California (26), Colorado (5), Delaware (3), Georgia
-(3), Illinois (1), Indiana (1), Kentucky (1), Massachusetts (3), Maryland (6),
-Michigan (2), Minnesota (1), New Jersey (7), New Mexico (4), New York (25),
-Nevada (6), North Carolina (1), Ohio (2), Oregon (1), Pennsylvania (14), South
-Carolina (4), Tennessee (2), Texas (17), Vermont (1), Virginia (3), and West
-Virginia (1).
-
-May 8, 2012
-
-#### Persons infected with turtle-associated outbreak strains of Salmonella*,
-by state**
-
-![Case Count Map: May 8, 2012: Persons infected with turtle-associated
-outbreak strains of Salmonella, by state](/salmonella/small-
-turtles-03-12/images/051012-map.jpg)
-
-#### Number of Cases in Each Outbreak, by State
-
-  | Outbreak 1 | Outbreak 2 | Outbreak 3 | Outbreak 4 | Outbreak 5 | Combined
-Case Count | Outbreaks Each State  
----|---|---|---|---|---|---|---  
-AK | 0 | 0 | 0 | 0 | 2 | **2** | **1**  
-AL | 0 | 0 | 1 | 0 | 0 | **1** | **1**  
-AZ | 0 | 0 | 2 | 0 | 1 | **3** | **2**  
-CA | 7 | 2 | 3 | 0 | 9 | **21** | **4**  
-CO | 0 | 0 | 0 | 3 | 2 | **5** | **2**  
-DE | 0 | 0 | 0 | 0 | 3 | **3** | **1**  
-GA | 1 | 0 | 0 | 0 | 2 | **3** | **2**  
-IL | 1 | 0 | 0 | 0 | 0 | **1** | **1**  
-IN | 0 | 0 | 1 | 0 | 0 | **1** | **1**  
-KY | 0 | 0 | 1 | 0 | 0 | **1** | **1**  
-MA | 2 | 1 | 0 | 0 | 0 | **3** | **2**  
-MD | 5 | 1 | 0 | 0 | 0 | **6** | **2**  
-MI | 0 | 0 | 1 | 0 | 1 | **2** | **2**  
-MN | 1 | 0 | 0 | 0 | 0 | **1** | **1**  
-NC | 1 | 0 | 0 | 0 | 0 | **1** | **1**  
-NJ | 6 | 1 | 0 | 0 | 0 | **7** | **2**  
-NM |   | 0 | 0 | 0 | 0 | **3** | **1**  
-NV | 0 | 0 | 0 | 2 | 2 | **4** | **2**  
-NY | 19 | 1 | 3 | 0 | 1 | **24** | **4**  
-OH | 0 | 0 | 0 | 0 | 2 | **2** | **1**  
-OR | 0 | 0 | 0 | 0 | 1 | **1** | **1**  
-PA | 7 | 1 | 0 | 0 | 1 | **9** | **3**  
-SC | 1 | 0 | 0 | 0 | 2 | **3** | **2**  
-TX | 0 | 1 | 3 | 1 | 7 | **12** | **4**  
-VA | 1 | 0 | 0 | 0 | 2 | **3** | **2**  
-VT | 0 | 1 | 0 | 0 | 0 | **1** | **1**  
-WV | 0 | 0 | 0 | 0 | 1 | **1** | **1**  
-Total Number of Cases | **55** | **9** | **15** | **6** | **39** | **124** |  
-Total Number of States | **13** | **8** | **8** | **3** | **16** | **27** |  
-  
-*Outbreak 1: Salmonella Sandiego, Strain A n=55,  
-Outbreak 2: Salmonella Pomona, Strain A n=9,  
-Outbreak 3: Salmonella Poona n=15,  
-Outbreak 4: Salmonella Sandiego, Strain B n=6,  
-Outbreak 5: Salmonella Pomona, Strain B n=39  
-**for whom information was reported as of May 8, 2012
-
-The number of ill persons identified in each state is as follows: Alaska (2),
-Alabama (1), Arizona (3), California (21), Colorado (5), Delaware (3), Georgia
-(3), Illinois (1), Indiana (1), Kentucky (1), Massachusetts (3), Maryland (6),
-Michigan (2), Minnesota (1), Nevada (4), New Jersey (7), New Mexico (3), New
-York (24), North Carolina (1), Ohio (2), Oregon (1), Pennsylvania (9), South
-Carolina (3), Texas (12), Virginia (3), Vermont (1), and West Virginia (1).
-
-April 4, 2012
-
-#### Persons infected with turtle-associated outbreak strains of Salmonella*,
-by state**
-
-![Case Count Map: April 4, 2012: Persons infected with turtle-associated
-outbreak strains of Salmonella, by state](/salmonella/small-
-turtles-03-12/images/040512-map.jpg)
-
-#### Number of Cases in Each Outbreak, by State
-
-Source state |  _Salmonella_ Sandiego |  _Salmonella_ Pomona | Salmonella
-Poona  
----|---|---|---  
-AZ | 0 | 0 | 2  
-CA | 7 | 2 | 3  
-GA | 1 | 0 | 0  
-IN | 0 | 0 | 1  
-KY | 0 | 0 | 1  
-MA | 2 | 1 | 0  
-MD | 5 | 1 | 0  
-MI | 0 | 0 | 1  
-MN | 1 | 0 | 0  
-NC | 1 | 0 | 0  
-NJ | 5 | 1 | 0  
-NM | 3 | 0 | 0  
-NY | 18 | 1 | 2  
-PA | 6 | 1 | 0  
-TX | 0 | 1 | 3  
-VA | 1 | 0 | 0  
-VT | 0 | 1 | 0  
-Grand Total | **50** | **9** | **13**  
-  
-*n=72 for whom information was reported as of April 4, 2012
-
-The number of ill persons identified in each state is as follows: Arizona (2),
-California (12), Georgia (1), Indiana (1), Kentucky (1), Massachusetts (3),
-Maryland (6), Michigan (1), Minnesota (1), North Carolina (1), New Jersey (6),
-New Mexico (3), New York (21), Pennsylvania (7), Texas (4), Virginia (1), and
-Vermont (1).
-
-March 26, 2012
-
-#### Persons infected with turtle-associated outbreak strains of Salmonella*,
-by state**
-
-![Case Count Map: March 26, 2012: Persons infected with turtle-associated
-outbreak strains of Salmonella*, by state](/salmonella/small-
-turtles-03-12/images/033012-map.jpg)
-
-#### Number of Cases in Each Outbreak, by State
-
-Source state |  _Salmonella_ Sandiego |  _Salmonella_ Pomona | Salmonella
-Poona  
----|---|---|---  
-AZ | 0 | 0 | 2  
-CA | 3 | 2 | 3  
-GA | 1 | 0 | 0  
-IN | 0 | 0 | 1  
-KY | 0 | 0 | 1  
-MA | 2 | 1 | 0  
-MD | 5 | 1 | 0  
-MI | 0 | 0 | 1  
-NC | 1 | 0 | 0  
-NJ | 5 | 1 | 0  
-NM | 3 | 0 | 0  
-NY | 18 | 1 | 2  
-PA | 6 | 1 | 0  
-TX | 0 | 1 | 2  
-VA | 1 | 0 | 0  
-VT | 0 | 1 | 0  
-Grand Total | **45** | **9** | **12**  
-  
-*n=66 for whom information was reported as of March 26, 2012
-
-The number of ill persons identified in each state is as follows: Arizona (2),
-California (8), Georgia (1), Indiana (1), Kentucky (1), Massachusetts (3),
-Maryland (6), Michigan (1), North Carolina (1), New Jersey (6), New Mexico
-(3), New York (21), Pennsylvania (7), Texas (3), Virginia (1), and Vermont
-(1).
-
-Read the full Outbreak Investigation
-
-Page last reviewed: October 18, 2015
-
-Content source: Centers for Disease Control and Prevention, National Center
-for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of Foodborne,
-Waterborne, and Environmental Diseases (DFWED)
-
-home _Salmonella_ Homepage
-
-                    * Questions & Answersplus icon
-                      * Additional Information
-                    * Prevention
-                    * Symptoms
-                    * Diagnosis & Treatmentplus icon
-                      * Diagnostic and Public Health Testing
-                    * Current Outbreaksplus icon
-                      * Reporting Timeline
-                      * _Salmonella_ Infections Linked to Small Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tortugas mascota pequeÃ±as
-                      * _Salmonella_ Infections Linked to Cut Fruitplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Ground Beefplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a la carne de res molida
-                      * _Salmonella_ Infections Linked to Pet Turtlesplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a turtugas mascota
-                      * _Salmonella_ Infections Linked to Pig Ear Dog Treatsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                      * _Salmonella_ Infections Linked to Papayasplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a papayas frescas enteras importadas de MÃ©xico
-                      * _Salmonella_ Infections Linked to Karawan brand Tahiniplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a tahini de la marca Karawan
-                      * _Salmonella_ Infections Linked to Backyard Poultryplus icon
-                        * Map of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brotes de infecciones por _Salmonella_ vinculados a aves de corral domÃ©sticas
-                      * _Salmonella_ Infections Linked to Frozen Raw Tunaplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Newport vinculado a atÃºn crudo congelado
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                      * _Salmonella_ Infections Linked to Pre-Cut Melonplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ Carrau vinculado a melÃ³n y sandÃ­a precortados
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                      * _Salmonella_ Infections Linked to Butterball Brand Ground Turkeyplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado al pavo molido de marca Butterball
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones de la investigaciÃ³n del brote, por fecha
-                      * _Salmonella_ Infections Linked to Pet Hedgehogsplus icon
-                        * Map of Reported Cases
-                        * Timeline of Reported Cases
-                        * Previous Outbreak Investigation Updates
-                        * Brote de infecciones por _Salmonella_ vinculado a los erizos como mascota
-                        * Mapa de casos reportados
-                        * Cronograma de los casos reportados
-                        * Actualizaciones anteriores de la investigaciÃ³n del brote
-                    * Previous Outbreaksplus icon
-                      * 2018 Outbreaksplus icon
-                        * Multidrug-Resistant _Salmonella_ Infections Linked to Raw Turkey Productsplus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pavo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Tahini from Achdut Ltd., 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a tahini elaborado por Achdut Ltd.
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Raw Chicken Products, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Advice to Clinicians
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella multirresistente vinculado a productos de pollo crudo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Recomendaciones para los mÃ©dicos
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Ground Beef, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado a carne molida de res
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Agbeni Infections, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Gravel Ridge Farms Shell Eggs, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Chicken, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por _Salmonella_ vinculado al pollo
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Hy-Vee Spring Pasta Salad, 2018plus icon
-                          * Map of Reported Cases
-                          * Timeline of Reported Cases
-                          * Previous Outbreak Investigation Updates
-                          * Brote de infecciones por Salmonella vinculado a la ensalada de pasta âHy-Vee Spring Pasta Saladâ
-                          * Mapa de casos reportados
-                          * Cronograma de los casos reportados
-                          * Actualizaciones anteriores de la investigaciÃ³n del brote
-                        * _Salmonella_ Infections Linked to Kelloggâs Honey Smacks Cereal, 2018plus icon
-                          * Salmonella Infections Linked to Kelloggâs Honey Smacks Cereal en EspaÃ±ol
-                          * Recall and Advice to Consumers, Restaurants and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pre-Cut Melon, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pre-Cut Melon en EspaÃ±ol
-                          * Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks, 2018plus icon
-                          * _Salmonella_ Infections Linked to Contact with Live Poultry in Backyard Flocks en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Braenderup Infections Linked to Shell Eggs, 2018plus icon
-                          * _Salmonella_ Braenderup Infections Linked to Shell Eggs en EspaÃ±ol
-                          * Recalls and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Dried Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Dried Coconut en EspaÃ±ol
-                          * Recall and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Guinea Pigs, 2018plus icon
-                          * _Salmonella_ Infections Linked to Pet Guinea Pigs en EspaÃ±ol
-                          * Case Count Maps
-                          * Case Count Maps en EspaÃ±ol
-                          * Signs & Symptoms
-                          * Signs & Symptoms en EspaÃ±ol
-                        * _Salmonella_ Infections Linked to Chicken Salad, 2018plus icon
-                          * _Salmonella_ Infections Linked to Chicken Salad en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Kratom, 2018plus icon
-                          * _Salmonella_ Infections Linked to Kratom en EspaÃ±ol
-                          * Recalls and Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo Infections Linked to Raw Sprouts, 2018plus icon
-                          * _Salmonella_ Infections Linked to Raw Sprouts en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Shredded Coconut, 2018plus icon
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut en EspaÃ±ol
-                          * _Salmonella_ Infections Linked to Frozen Shredded Coconut á» Viá»t Nam [PDF â 3 pages]
-                          * Recall and Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2017 Outbreaksplus icon
-                        * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Urbana Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Newport & Infantis Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Anatum Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Pet Turtles, 2017plus icon
-                          * _Salmonella_ Infections Linked to Small Turtles, 2017 en EspaÃ±ol
-                          * Case Count Maps
-                        * _Salmonella_ Infections Linked to Imported Maradol Papayas, 2017plus icon
-                          * _Salmonella_ Infections Linked to Imported Maradol Papayas en EspaÃ±ol
-                          * Recall & Advice to Consumers, Restaurants, and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Laboratory Exposure, 2017plus icon
-                          * Advice to Students & Employees in Microbiology Laboratories
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry in Backyard Flocksplus icon
-                          * Case Count Maps
-                          * Live Poultry FAQ
-                      * 2016 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Contact with Dairy Calves, 2016plus icon
-                          * Case Count Maps
-                          * Epi Curves
-                        * _Salmonella_ Oranienburg Infections Linked to Shell Eggs, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Reading and _Salmonella_ Abony Infections linked to Alfalfa Sprouts, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps 
-                          * Epi Curves 
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2016plus icon
-                          * Advice to Consumers and Retailers
-                          * Live Poultry FAQs
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Montevideo and _Salmonella_ Senftenberg Infections Linked to Wonderful Pistachios, 2016plus icon
-                          * Recall & Advice to Consumers and Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Alfalfa Sprouts from One Contaminated Seed Lot, 2016plus icon
-                          * Advice to Consumers & Retailers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Virchow Infections Linked to Raw Meal Organic Shake and Meal Products, 2016plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2015 Outbreaksplus icon
-                        * _Salmonella_ Paratyphi B variant L(+) tartrate(+) Infections Linked to Sprouted Nut Butter Spreads, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2015plus icon
-                          * Human _Salmonella_ Infections Linked to Small Turtles en EspaÃ±ol
-                          * Advice to Pet Owners
-                          * Advice to Pet Owners en EspaÃ±ol
-                          * Signs & Symptoms 
-                          * Key Resources
-                        * _Salmonella_ Poona Infections Linked to Imported Cucumbers, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Multidrug-Resistant _Salmonella_ I 4,[5],12:i:- and _Salmonella_ Infantis Infections Linked to Pork, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Aspen Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Drug-Resistant _Salmonella_ Enteritidis Infections Linked to Raw, Frozen, Stuffed Chicken Entrees Produced by Barber Foods, 2015plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2015plus icon
-                          * Advice to Backyard Flock Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Frozen Raw Tuna, 2015plus icon
-                          * Advice to Retailers & Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Crested Geckos, 2015plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2014 Outbreaksplus icon
-                        * Enteritidis Infections Linked to Bean Sprouts, 2014plus icon
-                          * Advice to Consumers & Retailers
-                          * Final Case Count Maps
-                          * Final Epi Curve
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Linked to Nut Butter, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human Typhimurium Infections Linked to Laboratory Exposure, 2014plus icon
-                          * Advice to Students & Employees in Labs
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Infections Linked to Chia Powder, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Frozen Feeder Rodents, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Pet Bearded Dragons, 2014plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Heidelberg Infections Linked to Tyson Brand Mechanically Separated Chicken, 2014plus icon
-                          * Recall & Advice to Institutions
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Stanley Infections Linked to Raw Cashew Cheese, 2014plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2013 Outbreaksplus icon
-                        * _Salmonella_ Heidelberg Infections Linked to Foster Farms Brand Chicken, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * _Salmonella_ Mbandaka Infections Linked to Tahini Sesame Paste, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Live Poultry in Backyard Flocks, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Saintpaul Infections Linked to Imported Cucumbers, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Heidelberg Infections Linked to Chicken, 2013plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * _Salmonella_ Typhimurium Infections Linked to Ground Beef, 2013plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                      * 2012 Outbreaksplus icon
-                        * Bredeney Infections Linked to Peanut Butter, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Typhimurium Infections Linked to Hedgehogs, 2012plus icon
-                          * Advice to Pet Owners
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Braenderup Infections Associated with Mangoes, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Typhimurium and Newport Infections Linked to Cantaloupe, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Enteritidis Infections Linked to Ground Beef, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Hadar Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Montevideo Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infections Linked to Live Poultry, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Human _Salmonella_ Infantis Infections Linked to Dry Dog Food, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Information for Pet Owners
-                          * Information for Veterinarians
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                        * Bareilly and Nchanga Infections Associated with a Raw Scraped Ground Tuna Product, 2012plus icon
-                          * Recall & Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Signs & Symptoms
-                          * Key Resources
-                          * Timeline of Events
-                        * Human _Salmonella_ Infections Linked to Small Turtles, 2012plus icon
-                          * Advice to Consumers
-                          * Case Count Maps
-                          * Epi Curves
-                          * Outbreaks Diagram
-                          * Signs & Symptoms
-                          * Key Resource
-                        * Enteritidis Infections Linked to Restaurant Chain A, 2012
-                      * 2010 through 2011 Outbreaksplus icon
-                        * Typhimurium Infections Linked to Ground Beef
-                        * Heidelberg Infections Linked to Kosher Broiled Chicken Livers
-                        * Enteritidis Infections Linked to Turkish Pine Nuts
-                        * Heidelberg Infections Linked to Ground Turkey
-                        * Agona Infections Linked to Whole, Fresh Imported Papayas
-                        * Enteritidis Infections Linked to Alfalfa Sprouts and Spicy Sprouts
-                        * Altona and Johannesburg Infections Linked to Chicks and Ducklings
-                        * Typhimurium Infections Associated with Lab Exposure
-                        * Typhimurium Infections Linked to African Dwarf Frogs
-                        * Hadar Infections Associated with Turkey Burgers
-                        * Panama Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Alfalfa Sprouts
-                        * Enteritidis Infections Associated with Shell Eggs
-                        * Chester Infections Associated with Cheesy Chicken & Rice Frozen EntrÃ©e
-                        * Typhi (Typhoid Fever) Associated with Frozen Mamey Fruit Pulp
-                        * Hartford and Baildon Infections Associated with Restaurant Chain A
-                        * I 4,[5],12:i:- Linked to Frozen Rodents
-                        * Newport Infections Linked to Alfalfa Sprouts
-                        * Montevideo Infections Linked to Red and Black Pepper/Italian-Style Meats
-                      * 2006 through 2009 Outbreaksplus icon
-                        * Saintpaul Infections Linked to Alfalfa Sprouts
-                        * _Salmonella_ Infections Linked to Pistachio Nuts
-                        * Typhimurium Infections Linked to Peanut Butter
-                        * Saintpaul Infections Linked to Raw Produce
-                        * Agona Infections Linked to Rice & Wheat Puff Cereal
-                        * Litchfield Infections Linked to Cantaloupe
-                        * I 4,[5],12:i:- Infections Linked to Pot Pies
-                        * Human Schwarzengrund Infections Linked to Dry Pet Food
-                        * Wandsworth Infections Linked to Veggie Booty
-                        * Tennessee Infections Linked to Peanut Butter
-                        * Typhimurium Infections Linked to Tomatoes
-                    * For Health Professionals
-                    * Surveillanceplus icon
-                      * _Salmonella_ Atlasplus icon
-                        * 32 Individual Serotypes Reports
-                        * Importance of Serotyping
-                        * Snapshots of Serotypes
-                    * Communication Materials
-                    * Reports & Publicationsplus icon
-                      * MMWR Articles
-                      * References
-
-Related Links
-
-                    * Multistate Foodborne Outbreaks
-                    * Zoonotic Diseases (Diseases from Animals)
-                    * Foodborne Illness A-Z
-                    * Estimates of Foodborne Illness
-                    * Report a Foodborne Illness
-                    * Foodsafety.govExternal file_external 
-                    * U.S. Food and Drug Administration (FDA)External file_external 
-                    * USDA Food Safety and Inspection ServiceExternal file_external 
-
-Follow Salmonella
-
-![Sign up for RSS feed.](/salmonella/images/outbreaks/rss-icon.png)
-
-Sign up for RSS Feed
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-                    * About CDC
-                    * Jobs
-                    * Funding
-                    * Policies
-                    * File Viewers & Players
-
-                    * Privacy
-                    * FOIA
-                    * No Fear Act
-                    * OIG
-                    * Nondiscrimination
-                    * Accessibility
-
-**CONNECT WITH CDC**  
-
-                    * Facebook
-                    * Twitter
-                    * Youtube
-                    * Instagram
-  
-
-                    * Syndicate
-                    * CDC TV
-                    * RSS
-                    * Email
-
-U.S. Department of Health & Human Services
-
-USA.gov
-
-CDC Website Exit Disclaimer external icon
-
-                    * Facebook
-                    * Twitter
-                    * LinkedIn
-                    * Email
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-#### Exit Notification/Disclaimer Policy
-
-Close
-
-**Links with this icon indicate that you are leaving the CDC website.**
-
-                    * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                    * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                    * You will be subject to the destination website's privacy policy when you follow the link.
-                    * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
+
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
+
+Menu
+
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Search
+
+Search MedlinePlus
+
+GO
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+
+EspaÃ±ol
+
+You Are Here:
+
+Home ->
+
+Health Topics ->
+
+Athlete's Foot
+
+URL of this page: https://medlineplus.gov/athletesfoot.html
+
+#  Athlete's Foot
+
+Also called: Tinea pedis
+
+On this page
+
+### Basics
+
+    * Summary
+    * Start Here
+    * Diagnosis and Tests
+    * Prevention and Risk Factors
+
+### Learn More
+
+    * No links available
+
+### See, Play and Learn
+
+    * Images
+
+### Research
+
+    * Clinical Trials
+    * Journal Articles
+
+### Resources
+
+    * Find an Expert
+
+### For You
+
+    * Children
+    * Teenagers
+    * Patient Handouts
+
+## Summary
+
+Athlete's foot is a common infection caused by a fungus. It most often affects
+the space between the toes. Symptoms include itching, burning, and cracked,
+scaly skin between your toes.
+
+You can get athlete's foot from damp surfaces, such as showers, swimming
+pools, and locker room floors. To prevent it
+
+    * Keep your feet clean, dry, and cool
+    * Wear clean socks
+    * Don't walk barefoot in public areas
+    * Wear flip-flops in locker room showers
+    * Keep your toenails clean and clipped short
+
+Treatments include over-the-counter antifungal creams for most cases and
+prescription medicines for more serious infections. These usually clear up the
+infection, but it can come back.
+
+Centers for Disease Control and Prevention
+
+## Start Here
+
+    * Athlete's Foot (American Podiatric Medical Association)
+    * Athlete's Foot (American College of Foot and Ankle Surgeons) Also in Spanish
+    * Athlete's Foot (Mayo Foundation for Medical Education and Research) Also in Spanish
+
+## Diagnosis and Tests
+
+    * Fungal Culture Test ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Library of Medicine) Also in Spanish
+
+## Prevention and Risk Factors
+
+    * Fungus Infections: Preventing Recurrence (American Osteopathic College of Dermatology)
+    * How to Prevent Athlete's Foot (American Academy of Dermatology)
+    * Hygiene-Related Diseases: Athlete's Foot (Tinea Pedis) (Centers for Disease Control and Prevention)
+
+## Images
+
+    * Athlete's Foot (Tinea Pedis) (Logical Images)
+
+## Clinical Trials
+
+    * ClinicalTrials.gov: Tinea Pedis ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png) (National Institutes of Health)
+
+## Journal Articles References and abstracts from MEDLINE/PubMed (National
+Library of Medicine)
+
+    * Article: Skin Infections and Outpatient Burn Management: Fungal and Viral Skin Infections.
+    * Article: Detection of Trichophyton spp. from footwear of patients with tinea pedis.
+    * Article: Interdigital Erythrasma.
+    * Athlete's Foot -- see more articles
+
+## Find an Expert
+
+    * American Podiatric Medical Association
+    * Find a Dermatologist (American Academy of Dermatology)
+    * National Institute of Allergy and Infectious Diseases ![From the National Institutes of Health](https://medlineplus.gov/images/nih.png)
+
+## Children
+
+    * Athlete's Foot (Nemours Foundation) Also in Spanish
+
+## Teenagers
+
+    * Athlete's Foot (Nemours Foundation)
+
+## Patient Handouts
+
+    * Athlete's foot (Medical Encyclopedia) Also in Spanish
+    * Skin lesion KOH exam (Medical Encyclopedia) Also in Spanish
+
+## Topic Image
+
+![Athlete's Foot](https://medlineplus.gov/images/Athlete'sFoot.jpg)
+
+## Stay Connected
+
+Sign up for the My MedlinePlus newsletter What's this?
+
+GO
+
+## MEDICAL ENCYCLOPEDIA
+
+    * Athlete's foot
+    * Skin lesion KOH exam
+
+## Related Health Topics
+
+    * Foot Health
+    * Tinea Infections
+
+## National Institutes of Health
+
+The primary NIH organization for research on Athlete's Foot is the National
+Institute of Allergy and Infectious Diseases
+
+## Disclaimers
+
+MedlinePlus links to health information from the National Institutes of Health
+and other federal government agencies. MedlinePlus also links to health
+information from non-government Web sites. See our disclaimer about external
+links and our quality guidelines.
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated on 30 March 2020 Topic last reviewed: 4 April 2016
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

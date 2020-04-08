@@ -1,223 +1,235 @@
+Link: https://medlineplus.gov/ency/article/003356.htm    
+                                Description: C-reactive protein (CRP) is produced by the liver. The level of CRP rises when there is inflammation throughout the body. It is one of a group of proteins called acute phase reactants that go up in response    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search ____
+The navigation menu has been collapsed.
 
-Ã
+Menu
 
-Submit __
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Show Search
 
-For a full list of topics: A-Z Index
+Search MedlinePlus
 
-Viral Hepatitis
+GO
 
-Section Navigation
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-CDC Home
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-# Viral Hepatitis
+EspaÃ±ol
 
-Minus
+You Are Here:
 
-Related Pages
+Home ->
 
-![What is Viral Hepatitis? Hepatitis means inflammation of the liver.
-Hepatitis is often caused by a virus. The most common types of viral
-heapatitis are HepatitisA, Hepatitis B, and Hepatitis
-C.](/hepatitis/images/Banner-HmPg-WhatIsViralHepatitis.jpg)
+Medical Encyclopedia ->
 
-Hepatitis A Outbreak
+C-reactive protein
 
-Widespread outbreaks of hepatitis A across the United States
+URL of this page: //medlineplus.gov/ency/article/003356.htm
 
-Global Viral Hepatitis
+# C-reactive protein
 
-Millions of People are Affected
+To use the sharing features on this page, please enable JavaScript.
 
-Hepatitis A
+C-reactive protein (CRP) is produced by the liver. The level of CRP rises when
+there is inflammation throughout the body. It is one of a group of proteins
+called acute phase reactants that go up in response to inflammation. The
+levels of acute phase reactants increase in response to certain inflammatory
+proteins called cytokines. These proteins are produced by white blood cells
+during inflammation.
 
-Hepatitis B
+This article discusses the blood test done to measure the amount of CRP in
+your blood.
 
-Hepatitis C
+## How the Test is Performed
 
-Hepatitis D
+A blood sample is needed. This is most often taken from a vein. The procedure
+is called a venipuncture.
 
-Hepatitis E
+## How to Prepare for the Test
 
-chart icon
+No special steps are needed to prepare for this test.
 
-Statistics and Surveillance
+## How the Test will Feel
 
-book icon
+When the needle is inserted to draw blood, some people feel moderate pain.
+Others may feel only a prick or stinging sensation. Afterward, there may be
+some throbbing.
 
-Resource Center
+## Why the Test is Performed
 
-globe icon
+The CRP test is a general test to check for inflammation in the body. It is
+not a specific test. That means it can reveal that you have inflammation
+somewhere in your body, but it cannot pinpoint the exact location. The CRP
+test is often done with the ESR or sedimentation rate test which also looks
+for inflammation.
 
-Viral Hepatitis Outbreaks
+You may have this test to:
 
-pin icon
+    * Check for flare-ups of inflammatory diseases such as rheumatoid arthritis, lupus, or vasculitis.
+    * Determine if anti-inflammatory medicine is working to treat a disease or condition.
 
-Policy and Programs
+However, a low CRP level does not always mean that there is no inflammation
+present. Levels of CRP may not be increased in people with rheumatoid
+arthritis and lupus. The reason for this is unknown.
 
-badge icon
+A more sensitive CRP test, called a high-sensitivity C-reactive protein (hs-
+CRP) assay, is available to determine a person's risk for heart disease.
 
-Populations and Settings
+## Normal Results
 
-globe icon
+Normal CRP values vary from lab to lab. Generally, there are low levels of CRP
+detectable in the blood. The levels often increase slightly with age, female
+gender and in African Americans.
 
-Global
+Increased serum CRP is related to traditional cardiovascular risk factors and
+may reflect the role of these risk factors in causing vascular inflammation.
 
-Know More Hepatitis
+According to the American Heart Association, results of the hs-CRP in
+determining the risk for heart disease can be interpreted as follows:
 
-![Matrix of people born 1945-1965](/hepatitis/images/pictures/KMH-Faces.jpg)
+    * You are at low risk of developing cardiovascular disease if your hs-CRP level is lower than 1.0 mg/L.
+    * You are at average risk of developing cardiovascular disease if your levels are between 1.0 mg/L and 3.0 mg/L.
+    * You are at high risk for cardiovascular disease if your hs-CRP level is higher than 3.0 mg/L. 
 
-Hepatitis C Campaign
+Note: Normal value ranges may vary slightly among different laboratories. Talk
+to your health care provider about the meaning of your specific test results.
 
-Know Hepatitis B
+The examples above show the common measurements for results for these tests.
+Some laboratories use different measurements or may test different specimens.
 
-![image matrix of Asians and Pacific
-Islanders](/hepatitis/images/pictures/KHB-AAPI.jpg)
+## What Abnormal Results Mean
 
-Hepatitis B Campaign for Asian Americans
+A positive test means you have inflammation in the body. This may be due to a
+variety of conditions, including:
 
-About DVH
+    * Cancer
+    * Connective tissue disease
+    * Heart attack
+    * Infection
+    * Inflammatory bowel disease (IBD)
+    * Lupus
+    * Pneumonia
+    * Rheumatoid arthritis
+    * Rheumatic fever
+    * Tuberculosis
 
-![Division of Viral Hepatitis](/hepatitis/images/illustrations/DVH.jpg)
+This list is not all inclusive.
 
-About the Division of Viral Hepatitis
+Note: Positive CRP results also occur during the last half of pregnancy or
+with the use of birth control pills (oral contraceptives).
 
-Stay Connected
+## Risks
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * chat icon
+Risks associated with having blood drawn are slight, but may include:
 
-Get hepatitis email updates
+    * Excessive bleeding
+    * Fainting or feeling lightheaded
+    * Hematoma (blood accumulating under the skin)
+    * Infection (a slight risk any time the skin is broken) 
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * chat icon
+## Alternative Names
 
-Follow on Twitter (@cdchep)
+CRP; High-sensitivity C-reactive protein; hs-CRP
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * email icon
+## Images
 
-Contact Us
+    * ![Blood test](//medlineplus.gov/ency/images/ency/tnails/10026t.jpg)Blood test
 
-State & Local Partners
+## References
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * badge icon
+Chernecky CC, Berger BJ. C. In: Chernecky CC, Berger BJ, eds. _Laboratory
+Tests and Diagnostic Procedures_. 6th ed. St Louis, MO: Elsevier Saunders;
+2013:266-432.
 
-Viral Hepatitis Prevention Point of Contact List
+Dietzen DJ. Amino acids, peptides, and proteins. In: Rifai N, ed. _Tietz
+Textbook of Clinical Chemistry and Molecular Diagnostics_. 6th ed. St Louis,
+MO: Elsevier; 2018:chap 28.
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * people icon
+Ridker PM, Libby P, Buring JE. Risk markers and the primary prevention of
+cardiovascular disease. In: Zipes DP, Libby P, Bonow RO, Mann DL, Tomaselli
+GF, Braunwald E, eds. _Braunwald's Heart Disease: A Textbook of Cardiovascular
+Medicine_. 11th ed. Philadelphia, PA: Elsevier; 2019:chap 45.
 
-Perinatal Hepatitis B Coordinator List
+## Review Date 1/10/2019
 
-Feedback
+Updated by: Gordon A. Starkebaum, MD, MACR, ABIM Board Certified in
+Rheumatology, Seattle, WA. Also reviewed by David Zieve, MD, MHA, Medical
+Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
 
-![We want your feedback!](/hepatitis/images/illustrations/Feedback-medium.jpg)
+![Arthritis](https://medlineplus.gov/images/ArthritisII_thumb.jpg)Arthritis
+_Read more_
 
-Page last reviewed: March 25, 2020
+![Autoimmune
+Diseases](https://medlineplus.gov/images/AutoimmuneDiseases_thumb.jpg)Autoimmune
+Diseases _Read more_
 
-Content source: Division of Viral Hepatitis, National Center for HIV/AIDS,
-Viral Hepatitis, STD, and TB Prevention
+![Heart Diseases](https://medlineplus.gov/images/HeartDiseases_thumb.jpg)Heart
+Diseases _Read more_
 
-home Viral Hepatitis
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * National Academiesâ Reports
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Sources for IG & HBIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Globalplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * Georgiaâs Hepatitis C Elimination Program
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * About the Division of Viral Hepatitis
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Contact Us
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Anonymous Feedback
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
 
-**HAVE QUESTIONS?**
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
 
-Visit CDC-INFO
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
 
-Call 800-232-4636
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
 
-Email CDC-INFO
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
 
-Open 24/7
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
 
-**CDC INFORMATION**
+Page last updated: 23 March 2020
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * About CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Jobs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * File Viewers & Players
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Nondiscrimination
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Accessibility
-
-**CONNECT WITH CDC**  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Youtube
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Instagram
-  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
-
-U.S. Department of Health & Human Services
-
-USA.gov
-
-CDC Website Exit Disclaimer external icon
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Email
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-SAS stats
-
-#### Exit Notification/Disclaimer Policy
-
-Close
-
-**Links with this icon indicate that you are leaving the CDC website.**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
+![Return to top](https://medlineplus.gov/images/return-top.png)
 

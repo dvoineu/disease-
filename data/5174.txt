@@ -1,331 +1,359 @@
+Link: https://medlineplus.gov/ency/article/000990.htm    
+                                Description: Asthma is a disease that causes the airways to swell and get narrow. It leads to wheezing, shortness of breath, chest tightness, and coughing.    
+                                Keywords: None    
+                                            
 
+Skip navigation
 
-Skip directly to site content Skip directly to page options Skip directly to
-A-Z link
+![National Institutes of Health](https://medlineplus.gov/images/nihlogo.png)
+U.S. National Library of Medicine
 
-Centers for Disease Control and Prevention. CDC twenty four seven. Saving
-Lives, Protecting People Centers for Disease Control and Prevention. CDC
-twenty four seven. Saving Lives, Protecting People
+![MedlinePlus Trusted Health Information for
+You](https://medlineplus.gov/images/m_logo.png)
 
-Search ____
+The navigation menu has been collapsed.
 
-Ã
+Menu
 
-Submit __
-
-For a full list of topics: A-Z Index
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
+    * About MedlinePlus
+Show Search
 
-Zika Virus
+Search MedlinePlus
 
-Section Navigation
+GO
 
-CDC Home
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Email
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Syndicate
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
 
-# Insecticide Resistance
-
-EspaÃ±ol (Spanish)
+    * Health Topics
+    * Drugs & Supplements
+    * Videos & Tools
 
-Minus
+EspaÃ±ol
 
-Related Pages
+You Are Here:
 
-![Person in lab holding a glass bottle.](/zika/images/insect-resistance.png)
-
-The use of insecticides to kill mosquitoes that spread Zika, dengue, and
-chikungunya viruses, is one part of an integrated mosquito management program.
-Insecticides may be used by professionals and by homeowners. Insecticides can
-be applied by hand (indoor and outdoor sprays and foggers), by truck, or by
-aerial (airplane) spraying.
-
-Over time and repeated use, insecticide resistance can occur in mosquito
-populations. Insecticide resistance is an overall reduction in the ability of
-an insecticide to kill mosquitoes. This means that, when used as directed, a
-product no longer works, or only partially works. Insecticide resistance can
-be product specific, or it can develop to a certain class(es) of product.
-
-In order to delay or prevent the development of insecticide resistance in
-vector populations, integrated vector management programs should include a
-resistance management component (Florida Coordinating Council on Mosquito
-Control 1998). Ideally, this should include annual monitoring of the status of
-resistance in target populations to:
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Provide baseline data for program planning and pesticide selection before the start of control operations.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Detect resistance at an early stage so that timely management can be implemented.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Continuously monitor the effect of control strategies on insecticide resistance.
-
-## How Insecticide Resistance is Measured
-
-Monitoring for resistance in the vector population is essential and is useful
-in determining the potential causes for control failures, should they occur.
-CDC has developed an assay to determine if a particular insecticide active
-ingredient is able to kill mosquito vectors. The technique, referred to as the
-CDC bottle bioassay, is simple, rapid, and economical compared with
-alternatives. The results can help guide the choice of insecticide used for
-spraying.
-
-Programs in the **continental United States and its territories** can order
-free Insecticide Resistance Kits by sending an email to
-USBottleAssayKit@cdc.gov and requesting an order form. Kits include bottles,
-insecticide, and manual.
-
-### How the Bottle Bioassay Works
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * A bottle is coated with a known amount of insecticide (diagnostic dose). Mosquitoes are then put into the bottle and observed for 2 hours.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Resistance is determined by the percentage of mosquitoes that die (mortality rate) at the pre-determined threshold time during those 2 hours. The test should be run for the entire 2 hours unless all mosquitoes have died earlier than the 2 hours.
-
-#### Bottle Bioassay Threshold Times and Amounts
-
-CDC has determined bottle bioassay threshold times and diagnostic doses for
-several species of mosquitoes. Using the suggested bottle diagnostic dosages,
-the threshold times for various susceptible colonies are provided below. The
-CDC entomology laboratory uses these threshold times and amounts for their
-bottle bioassays. The concentrations and cut-off times can be used as a
-starting point for determining diagnostic doses and threshold times for
-additional species if susceptible colonies or populations are available. Once
-developed, the test can be routinely used for insecticide resistance testing.
-
-Bottle Bioassay Threshold Times and Amounts Chemical | Final
-Concentration/Bottle µg/bottle | _Ae. aegypti_ REX colony | _Ae. albopictus_
-LC colony | _Cx. molestus_ colony | _Cx. pipiens_ NY/Chicago colony | _Cx.
-tarsalis_ BFS/KNWR colony | _Cx. quinque_ SEABRING colony  
----|---|---|---|---|---|---|---  
-100% Mortality Expected (minutes)  
-Chlorpyrifos | 20 | 45 | 45 | 45 | 90 | 60 | 45  
-Deltamethrin | 0.75 | 30 | 30 | 120+ | 45 | TBD | 60  
-Etofenprox | 12.5 | 15 | 30 | 105 | 15 | 60 | 30  
-Fenthion | 800 | TBD | TBD | 30 | 75 | 45 | 45  
-Malathion | 400 | 15 | 30 | 30 | 45 | 45 | 45  
-Naled | 2.25 | 30 | 30 | 30 | 45 | 45 | 45  
-Permethrin | 43 | 10 | 10 | 30 | 30 | 30 | 30  
-Prallethrin | 0.05 | 120+ | 120+ | 120+ | 60 | 120+ | 60  
-Pyrethrum | 15 | 15 | 30 | 120+ | 45 | 30 | 45  
-Resmethrin | 30 | 5 | 10 | 30 | 15 | 10 | 30  
-Sumethrin | 20 | 10 | 45 | 120 | 30 | 30 | 45  
-  
-Information for _Aedes aegypti_ , _Ae. albopictus_ , and four _Culex_ species
-mosquitoes are provided for areas where these species may be co-circulating.
-_Culex_ species mosquitoes are important vectors of other arboviruses such as
-West Nile virus, St. Louis encephalitis virus, and Western equine encephalitis
-virus, which are endemic in the United States.
-
-## Resources
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * CONUS Manual for Evaluating Insecticide Resistance in Mosquitoes Using the CDC Bottle Bioassay Kit pdf icon[PDF - 19 pages] [PDF - 19 pages]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Collection of videos on the following topics: 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Testing for resistance in larval mosquitoes - an overview (supplemental materialexternal icon)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Sphaericus test and results
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Methoprene test and results
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Bti testing and results
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Spinosad testing and results
-
-Page last reviewed: February 24, 2020
-
-Content source: Centers for Disease Control and Prevention, National Center
-for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of Vector-
-Borne Diseases (DVBD)
-
-home Zika Virus Home
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * About Zikaplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Overview
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * What You Need to Know
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Questions About Zika
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Prevention & Transmissionplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Zika Transmission
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Protect Yourself & Othersplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Build a Zika Prevention Kit
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Prevent Mosquito Bitesplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Controlling Mosquitoes at Home
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Sexual Transmission & Prevention
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Plan for Travel
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Zika & Blood Transfusion
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Zika & Animals
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Men & Zika
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Symptoms, Testing, & Treatmentplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Symptoms
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Testing for Zika
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Treatment
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Zika in the USplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Blood & Tissue Collection Community
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Statistics & Mapsplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * 2020 Case Counts
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * 2019 Case Counts
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * 2018 Case Counts
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * 2017 Case Counts
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * 2016 Case Counts
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * 2015 Case Counts
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Mosquito Controlplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Integrated Mosquito Management
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Zika Vector Control in the Continental US
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Potential Range in US
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * For Professionalsplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Surveillance & Control
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Information on Aerial Spraying
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Insecticide Resistanceplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Testing in Puerto Rico
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Mosquitoes & Hurricanes
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Resources
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Health Effects & Risksplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Microcephaly & Other Birth Defects
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Guillain-BarrÃ© Syndrome
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Pregnancy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Information for Specific Groupsplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Blood & Tissue Collection Centers
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * For Healthcare Providersplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Clinical Evaluation & Disease
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Sexual Transmission
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Testing for Zikaplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Testing Guidance
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Diagnostic Tests
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Test Specimens â At Time of Birth 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Infection Controlplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Healthcare Exposure to Zika & Infection Control
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            * Interim Guidance for Managing Occupational Exposures to Zika Virus for Healthcare Personnel
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Training
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * For Laboratoriesplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Lab Safety
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Testing for Zika Virus Infections
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Test Specimens â Body Fluids
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Test Specimens â Tissues
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Training
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Resources & Publicationsplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Epidemiologic Investigation Toolkit
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Communication Resourcesplus icon
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Zika Communication Toolkits
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Video Resources
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Print Resources
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Infographics
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          * Zika Widgets
-
-![Zika and Pregnancy button.  ](/zika/images/pregnancy-button.jpg)
-
-![CDC MMWR Zika button](/zika/images/Zika_MMWR_button.jpg)
-
-![Zika microsite button](/zika/images/highlights-zikamicrosite-purple.jpg)
-
-Get Email Updates
-
-To receive email updates about this page, enter your email address:
-
-Email Address
-
-What's this?
-
-Submit
-
-**HAVE QUESTIONS?**
-
-Visit CDC-INFO
-
-Call 800-232-4636
-
-Email CDC-INFO
-
-Open 24/7
-
-**CDC INFORMATION**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * About CDC
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Jobs
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Funding
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Policies
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * File Viewers & Players
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Privacy
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * FOIA
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * No Fear Act
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * OIG
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Nondiscrimination
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Accessibility
-
-**CONNECT WITH CDC**  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Youtube
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Instagram
-  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Syndicate
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * CDC TV
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * RSS
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Email
-
-U.S. Department of Health & Human Services
-
-USA.gov
-
-CDC Website Exit Disclaimer external icon
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Facebook
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Twitter
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * LinkedIn
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Email
-
-![Web Analytics](https://cdc.112.2o7.net/b/ss/cdcgov/1/H.21--NS/01/H.21--NS/0)
-
-SAS stats
-
-#### Exit Notification/Disclaimer Policy
-
-Close
-
-**Links with this icon indicate that you are leaving the CDC website.**
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * You will be subject to the destination website's privacy policy when you follow the link.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        * CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
-For more information on CDC's web notification policies, see Website
-Disclaimers.
-
-Cancel Continue
-
-  *[ April 1 at 2:32 PM]: Wednesday, April 1, 2020 at 2:32 PM
-  *[8 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[9 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[February 2, 2017]: Thursday, February 2, 2017 at 11:10 AM
-  *[ January 26, 2015]: Monday, January 26, 2015 at 5:31 PM
-  *[October 31, 2015]: Saturday, October 31, 2015 at 8:00 PM
-  *[PDF]: Portable Document Format
-  *[PDF-2.96 MB]]: Portable Document Format
-  *[PDF-2.25 MB]]: Portable Document Format
-  *[PDF-6.14 MB]]: Portable Document Format
-  *[PDF-2.65MB]]: Portable Document Format
-  *[GTSS]: Global Tobacco Surveillance System
-  *[GATS]: Global Adult Tobacco Survey
-  *[CDC]: Centers for Disease Control and Prevention
-  *[NTCP]: National Tobacco Control Program
-  *[OSH]: Office on Smoking and Health
-  *[17 hrs]: Monday, April 6, 2020 at 7:00 AM
-  *[19 hrs]: Monday, April 6, 2020 at 5:00 AM
-  *[ February 21]: Friday, February 21, 2020 at 11:22 AM
-  *[April 1]: Wednesday, April 1, 2020 at 2:29 PM
-  *[June 16, 2016]: Thursday, June 16, 2016 at 1:00 PM
-  *[11 hrs]: Monday, April 6, 2020 at 1:37 PM
-  *[March 24]: Tuesday, March 24, 2020 at 11:07 AM
-  *[February 15]: Saturday, February 15, 2020 at 3:57 PM
-  *[ May 1, 2018]: Tuesday, May 1, 2018 at 7:29 AM
-  *[13 hrs]: Monday, April 6, 2020 at 11:01 AM
-  *[ March 1, 2019]: Friday, March 1, 2019 at 5:19 AM
-  *[February 21, 2019]: Thursday, February 21, 2019 at 6:58 AM
-  *[ March 19]: Thursday, March 19, 2020 at 6:08 AM
-  *[ March 17]: Tuesday, March 17, 2020 at 2:14 PM
-  *[ June 26, 2016]: Sunday, June 26, 2016 at 5:35 PM
-  *[April 3 at 10:52 AM]: Friday, April 3, 2020 at 10:52 AM
-  *[April 2 at 6:03 AM]: Thursday, April 2, 2020 at 6:03 AM
-  *[15 hrs]: Monday, April 6, 2020 at 9:38 AM
-  *[April 5 at 11:36 AM]: Sunday, April 5, 2020 at 11:36 AM
-  *[April 3 at 1:33 PM]: Friday, April 3, 2020 at 1:33 PM
-  *[March 26 at 12:39 PM]: Thursday, March 26, 2020 at 12:39 PM
-  *[10 hrs]: Monday, April 6, 2020 at 3:13 PM
-  *[]: You have unseen notifications
-  *[April 3 at 5:08 AM]: Friday, April 3, 2020 at 5:08 AM
-  *[April 1 at 8:09 AM]: Wednesday, April 1, 2020 at 8:09 AM
+Home ->
+
+Medical Encyclopedia ->
+
+Asthma in children
+
+URL of this page: //medlineplus.gov/ency/article/000990.htm
+
+# Asthma in children
+
+To use the sharing features on this page, please enable JavaScript.
+
+Asthma is a disease that causes the airways to swell and get narrow. It leads
+to wheezing, shortness of breath, chest tightness, and coughing.
+
+## Causes
+
+Asthma is caused by swelling (inflammation) in the airways. During an asthma
+attack, the muscles surrounding the airways tighten. The lining of the air
+passages swells. As a result, less air is able to pass through.
+
+Asthma is often seen in children. It is a leading cause of missed school days
+and hospital visits for children. An allergic reaction is a key part of asthma
+in children. Asthma and allergies often occur together.
+
+![Normal versus asthmatic
+bronchiole](//medlineplus.gov/ency/images/ency/fullsize/19346.jpg)
+
+In children who have sensitive airways, asthma symptoms can be triggered by
+breathing in substances called allergens, or triggers.
+
+Common asthma triggers include:
+
+    * Animals (hair or dander)
+    * Dust, mold, and pollen
+    * Aspirin and other medicines
+    * Changes in weather (most often cold weather)
+    * Chemicals in the air or in food
+    * Tobacco smoke
+    * Exercise
+    * Strong emotions
+    * Viral infections, such as the common cold 
+
+## Symptoms
+
+Breathing problems are common. They can include:
+
+    * Shortness of breath
+    * Feeling out of breath
+    * Gasping for air
+    * Trouble breathing out (exhaling)
+    * Breathing faster than normal 
+
+When the child is having a hard time breathing, the skin of the chest and neck
+may suck inward.
+
+Other symptoms of asthma in children include:
+
+    * Coughing that sometimes wakes the child up at night (it may be the only symptom).
+    * Dark bags under the eyes.
+    * Feeling tired.
+    * Irritability.
+    * Tightness in the chest.
+    * A whistling sound made when breathing (wheezing). You may notice it more when the child breathes out. 
+
+Your child's asthma symptoms may vary. Symptoms may appear often or develop
+only when triggers are present. Some children are more likely to have asthma
+symptoms at night.
+
+## Exams and Tests
+
+The health care provider will use a stethoscope to listen to the child's
+lungs. The provider may be able to hear asthma sounds. However, lung sounds
+are often normal when the child is not having an asthma attack.
+
+![Peak flow meter](//medlineplus.gov/ency/images/ency/fullsize/19367.jpg)
+
+The provider will have the child breathe into a device called a peak flow
+meter. Peak flow meters can tell how well the child can blow air out of the
+lungs. If the airways are narrow due to asthma, peak flow values drop.
+
+You and your child will learn to measure peak flow at home.
+
+Your child's provider may order the following tests:
+
+    * Allergy testing on the skin, or a blood test to see if your child is allergic to certain substances
+    * Chest x-ray
+    * Lung function tests
+
+## Treatment
+
+You and your child's providers should work together as a team to create and
+carry out an asthma action plan.
+
+This plan will tell you how to:
+
+    * Avoid asthma triggers
+    * Monitor symptoms
+    * Measure peak flow
+    * Take medicines 
+
+The plan should also tell you when to call the provider. It is important to
+know what questions to ask your child's provider.
+
+Children with asthma need a lot of support at school.
+
+    * Give the school staff your asthma action plan so they know how to take care of your child's asthma.
+    * Find out how to let your child take medicine during school hours. (You may need to sign a consent form.)
+    * Having asthma does not mean your child cannot exercise. Coaches, gym teachers, and your child should know what to do if your child has asthma symptoms caused by exercise. 
+
+ASTHMA MEDICINES
+
+There are two basic kinds of medicine used to treat asthma.
+
+Long-term control drugs are taken every day to prevent asthma symptoms. Your
+child should take these medicines even if no symptoms are present. Some
+children may need more than one long-term control medicine.
+
+Types of long-term control medicines include:
+
+    * Inhaled steroids (these are usually the first choice of treatment)
+    * Long-acting bronchodilators (these are almost always used with inhaled steroids)
+    * Leukotriene inhibitors
+    * Cromolyn sodium 
+
+Quick relief or rescue asthma drugs work fast to control asthma symptoms.
+Children take them when they are coughing, wheezing, having trouble breathing,
+or having an asthma attack.
+
+Some of your child's asthma medicines can be taken using an inhaler.
+
+    * Children who use an inhaler should use a spacer device. This helps them get the medicine into the lungs properly.
+    * If your child uses the inhaler the wrong way, less medicine gets into the lungs. Have your provider show your child how to correctly use an inhaler.
+    * Younger children can use a nebulizer instead of an inhaler to take their medicine. A nebulizer turns asthma medicine into a mist. 
+
+GETTING RID OF TRIGGERS
+
+It is important to know your child's asthma triggers. Avoiding them is the
+first step toward helping your child feel better.
+
+Keep pets outdoors, or at least away from the child's bedroom.
+
+![Common asthma
+triggers](//medlineplus.gov/ency/images/ency/fullsize/19381.jpg)
+
+No one should smoke in a house or around a child with asthma.
+
+    * Getting rid of tobacco smoke in the home is the single most important thing a family can do to help a child with asthma.
+    * Smoking outside the house is not enough. Family members and visitors who smoke carry the smoke inside on their clothes and hair. This can trigger asthma symptoms.
+    * DO NOT use indoor fireplaces. 
+
+Keep the house clean. Keep food in containers and out of bedrooms. This helps
+reduce the possibility of cockroaches, which can trigger asthma attacks.
+Cleaning products in the home should be unscented.
+
+MONITOR YOUR CHILD'S ASTHMA
+
+Checking peak flow is one of the best ways to control asthma. It can help you
+keep your child's asthma from getting worse. Asthma attacks usually DO NOT
+happen without warning.
+
+Children under age 5 may not be able to use a peak flow meter well enough for
+it to be helpful. However, a child should start using the peak flow meter at a
+young age to get used to it. An adult should always watch for a child's asthma
+symptoms.
+
+## Outlook (Prognosis)
+
+With proper treatment, most children with asthma can live a normal life. When
+asthma is not well controlled, it can lead to missed school, problems playing
+sports, missed work for parents, and many visits to the provider's office and
+emergency room.
+
+Asthma symptoms often lessen or go away completely as the child gets older.
+Asthma that is not well controlled can lead to lasting lung problems.
+
+In rare cases, asthma is a life-threatening disease. Families need to work
+closely with their providers to develop a plan to care for a child with
+asthma.
+
+## When to Contact a Medical Professional
+
+Call your child's provider if you think your child has new symptoms of asthma.
+If your child has been diagnosed with asthma, call the provider:
+
+    * After an emergency room visit
+    * When peak flow numbers have been getting lower
+    * When symptoms get more frequent and more severe, even though your child is following the asthma action plan 
+
+If your child is having trouble breathing or having an asthma attack, get
+medical help right away.
+
+Emergency symptoms include:
+
+    * Difficulty breathing
+    * Bluish color to the lips and face
+    * Severe anxiety due to shortness of breath
+    * Rapid pulse
+    * Sweating
+    * Decreased level of alertness, such as severe drowsiness or confusion 
+
+A child who is having a severe asthma attack may need to stay in the hospital
+and get oxygen and medicines through a vein (intravenous line or IV).
+
+## Alternative Names
+
+Pediatric asthma; Asthma - pediatric; Wheezing - asthma - children
+
+## Patient Instructions
+
+    * Asthma and school
+    * Asthma - control drugs
+    * Asthma in children - what to ask your doctor
+    * Asthma - quick-relief drugs 
+    * Exercise-induced asthma
+    * Exercising and asthma at school 
+    * How to use a nebulizer
+    * How to use an inhaler - no spacer
+    * How to use an inhaler - with spacer
+    * How to use your peak flow meter
+    * Make peak flow a habit
+    * Signs of an asthma attack
+    * Stay away from asthma triggers
+
+## Images
+
+    * ![Normal versus asthmatic bronchiole](//medlineplus.gov/ency/images/ency/tnails/19346t.jpg)Normal versus asthmatic bronchiole
+    * ![Peak flow meter](//medlineplus.gov/ency/images/ency/tnails/19367t.jpg)Peak flow meter
+    * ![Lungs](//medlineplus.gov/ency/images/ency/tnails/1103t.jpg)Lungs
+    * ![Common asthma triggers](//medlineplus.gov/ency/images/ency/tnails/19381t.jpg)Common asthma triggers
+
+## References
+
+Dunn NA, Neff LA, Maurer DM. A stepwise approach to pediatric asthma. _J Fam
+Pract_. 2017;66(5):280-286. PMID: 28459888
+www.ncbi.nlm.nih.gov/pubmed/28459888.
+
+Jackson DJ, Lemanske RF, Guilbert TW. Management of asthma in infants and
+children. In: Adkinson NF, Bochner BS, Burks AW, et al, eds. _Middleton's
+Allergy: Principles and Practice_. 8th ed. Philadelphia, PA: Elsevier
+Saunders; 2014:chap 53.
+
+Lugogo N, Que LG, Gilstrap DL, Kraft M. Asthma: clinical diagnosis and
+management. In: Broaddus VC, Mason RJ, Ernst JD, et al, eds. _Murray and
+Nadel's Textbook of Respiratory Medicine_. 6th ed. Philadelphia, PA: Elsevier
+Saunders; 2016:chap 42.
+
+US Department of Health and Human Services; National Heart, Lung, and Blood
+Institute website. Asthma care quick reference: diagnosing and managing
+asthma; guidelines from the National Asthma Education and Prevention Program,
+expert panel report 3. www.nhlbi.nih.gov/files/docs/guidelines/asthma_qrg.pdf.
+Updated September 2012. Accessed April 15, 2019.
+
+## Review Date 5/20/2018
+
+Updated by: Neil K. Kaneshiro, MD, MHA, Clinical Professor of Pediatrics,
+University of Washington School of Medicine, Seattle, WA. Internal review and
+update on 04/15/2019 by David Zieve, MD, MHA, Medical Director, Brenda
+Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+
+![Asthma in
+Children](https://medlineplus.gov/images/AsthmainChildren_thumb.jpg)Asthma in
+Children _Read more_
+
+![NIH MedlinePlus
+Magazine](https://medlineplus.gov/images/ency_mag_card.jpg)NIH MedlinePlus
+Magazine _Read more_
+
+![Health Topics
+A-Z](https://medlineplus.gov/images/ency_healthtopics_card.jpg)Health Topics
+A-Z _Read more_
+
+![A.D.A.M Quality
+Logo](https://ssl.adam.com/urac/AccreditationSeal_2018_2020.jpg)
+
+A.D.A.M., Inc. is accredited by URAC, for Health Content Provider
+(www.urac.org). URAC's accreditation program is an independent audit to verify
+that A.D.A.M. follows rigorous standards of quality and accountability.
+A.D.A.M. is among the first to achieve this important distinction for online
+health information and services. Learn more about A.D.A.M.'s editorial policy
+editorial process and privacy policy. A.D.A.M. is also a founding member of
+Hi-Ethics. This site complies with the HONcode standard for trustworthy health
+information: verify here.
+
+The information provided herein should not be used during any medical
+emergency or for the diagnosis or treatment of any medical condition. A
+licensed physician should be consulted for diagnosis and treatment of any and
+all medical conditions. Call 911 for all medical emergencies. Links to other
+sites are provided for information only -- they do not constitute endorsements
+of those other sites. Copyright 1997-2020, A.D.A.M., Inc. Duplication for
+commercial use must be authorized in writing by ADAM Health Solutions.
+
+![A.D.A.M
+Logo](https://medlineplus.gov/spanish/ency/images/ency/ftrAdamlogo.gif)
+
+    * About MedlinePlus
+    * What's New
+    * Site Map
+    * Customer Support
+    * Get updates
+    * Subscribe to RSS
+    * Follow us ![Twitter](https://medlineplus.gov/images/i_share_twitter.png) ![Facebook](https://medlineplus.gov/images/i_share_fb.png)
+
+    * Disclaimers
+    * Copyright
+    * Privacy
+    * Accessibility
+    * Guidelines for Links
+    * Viewers & Players
+    * MedlinePlus Connect for EHRs
+    * For Developers
+
+U.S. National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S.
+Department of Health and Human Services National Institutes of Health
+
+Page last updated: 23 March 2020
+
+![Return to top](https://medlineplus.gov/images/return-top.png)
 
