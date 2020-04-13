@@ -21,17 +21,14 @@ class Crawler:
     text_converter = None
     count = 0
     q = deque()
-    semaphore = threading.Semaphore(1)
-    threads = []
-
+    # semaphore = threading.Semaphore(1)
+    # threads = []
 
     def __init__(self, seed):
         self.seed = seed
         self.visited = set()
         self.text_converter = html2text.HTML2Text()
         self.text_converter.ignore_links = True
-        self.index_to_html = {}
-        self.index_to_summary = {}
         self.q.append((seed, 0))
 
         '''
@@ -115,8 +112,6 @@ class Crawler:
                 self.visited.add(link)
 
                 print("doc count:" + str(self.count))
-                self.index_to_html[self.count] = link
-                self.index_to_summary[self.count] = info
                 self.count += 1
                 # add code to save all info into local storage
 
@@ -216,16 +211,16 @@ class Crawler:
 
 
 if __name__ == "__main__":
-    crawler = Crawler("https://medlineplus.gov/healthtopics.html")
-    crawler.start()
-    # search_engine = Query.Query("./small_data", True)
-    #
-    # # results = search_engine.query('fever weakness pain fatigue bleeding')
-    # # results = search_engine.query('trouble paying attention overly active')
-    # # for result in results:
-    # #     print(result)
-    #
-    # subprocess.run(['open', './small_data/1.txt'], check=True)
+    # crawler = Crawler("https://medlineplus.gov/healthtopics.html")
+    # crawler.start()
+    search_engine = Query.Query("./data")
+
+    results = search_engine.query('fever weakness pain fatigue bleeding')
+    # results = search_engine.query('trouble paying attention overly active')
+    for result in results:
+        print(result)
+
+
 
 
 

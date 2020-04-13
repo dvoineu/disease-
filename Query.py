@@ -75,6 +75,10 @@ class Query:
             res.append(dd[1])
         return res
 
+if __name__ == "__main__":
+    query = Query('./data', True)
+    query.query('coronavirus' )
+
 
 
 

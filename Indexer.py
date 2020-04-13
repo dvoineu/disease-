@@ -108,7 +108,7 @@ class Indexer:
     # String is the file_name. list is a list of all term.
     def file_parser(self, file):
 
-        doc_id = self.file_count
+        doc_id = int(file.split("/")[-1].split(".")[0])
 
         pattern = re.compile(self.match_pattern_letters_only)         #[\w]+ before
         data = open(file, 'r').read().lower()
@@ -136,8 +136,7 @@ class Indexer:
         for doc_id in self.file_term.keys():
             for word in self.file_term[doc_id]:
                 if word in total_idx.keys():
-                    if doc_id not in total_idx[word]:
-                        total_idx[word].add(doc_id)
+                    total_idx[word].add(doc_id)
                 else:
                     total_idx[word] = {doc_id}
         self.inverted_idx = total_idx
